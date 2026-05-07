@@ -1,6 +1,29 @@
 [
   {
     "questionNumber": "1",
+    "questionText": "Điểm khác nhau giữa chỉ số giá tiêu dùng (CPI) và chỉ số điều chỉnh GDP (DGDP) là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hai chỉ tiêu này không có điểm khác nhau."
+      },
+      {
+        "label": "B",
+        "text": "Rổ hàng hóa tính CPI bao gồm hàng hóa tiêu dùng được nhập khẩu, trong khi rổ hàng hóa tính DGDP không bao gồm hàng hóa tiêu dùng được nhập khẩu."
+      },
+      {
+        "label": "C",
+        "text": "CPI phản ánh giá của hàng hóa mà doanh nghiệp mua, DGDP phản ánh giá hàng hóa mà người tiêu dùng mua."
+      },
+      {
+        "label": "D",
+        "text": "CPI phản ánh giá của hàng hóa mà chính phủ mua, DGDP phản ánh giá của hàng hóa mà doanh nghiệp mua."
+      }
+    ],
+    "correctAnswerText": "Rổ hàng hóa tính CPI bao gồm hàng hóa tiêu dùng được nhập khẩu, trong khi rổ hàng hóa tính DGDP không bao gồm hàng hóa tiêu dùng được nhập khẩu."
+  },
+  {
+    "questionNumber": "1",
     "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
     "options": [
       {
@@ -21,6 +44,29 @@
       }
     ],
     "correctAnswerText": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Chỉ tiêu nào phản ánh mức thu nhập mà hộ gia đình có thể sử dụng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tổng sản phẩm quốc dân."
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm quốc dân ròng."
+      },
+      {
+        "label": "C",
+        "text": "Thu nhập quốc dân."
+      },
+      {
+        "label": "D",
+        "text": "Thu nhập khả dụng."
+      }
+    ],
+    "correctAnswerText": "Thu nhập khả dụng."
   },
   {
     "questionNumber": "2",
@@ -69,6 +115,52 @@
     "correctAnswerText": "Mức giá chung."
   },
   {
+    "questionNumber": "3",
+    "questionText": "Tất cả các khoản sau đây đều là thuộc GDP của Việt Nam, TRỪ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiền lương của những người làm trong các cơ quan nhà nước."
+      },
+      {
+        "label": "B",
+        "text": "Lợi tức cổ phần."
+      },
+      {
+        "label": "C",
+        "text": "Thu nhập của người nước ngoài ở Việt Nam."
+      },
+      {
+        "label": "D",
+        "text": "Thu nhập từ trợ cấp ốm đau."
+      }
+    ],
+    "correctAnswerText": "Thu nhập từ trợ cấp ốm đau."
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Hoạt động nào sau đây KHÔNG được coi là đầu tư trong hạch toán vào GDP của nền kinh tế?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp mua cổ phiếu trên thị trường chứng khoán."
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp mua nguyên liệu dự trữ để sản xuất trong kì tới."
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp mua máy móc trang thiết bị mới phục vụ sản xuất."
+      },
+      {
+        "label": "D",
+        "text": "Người dân mua nhà ở mới."
+      }
+    ],
+    "correctAnswerText": "Doanh nghiệp mua cổ phiếu trên thị trường chứng khoán."
+  },
+  {
     "questionNumber": "4",
     "questionText": "Khi thực hiện chính sách tài khoá, Chính phủ có thể dùng các công cụ nào?",
     "options": [
@@ -90,6 +182,29 @@
       }
     ],
     "correctAnswerText": "Thuế và chi tiêu của Chính phủ."
+  },
+  {
+    "questionNumber": "5",
+    "questionText": "Giá trị GDP thực của một nền kinh tế tăng phản ánh mức tăng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Của tổng cầu tiêu dùng về hàng hóa và dịch vụ trong nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Của mức giá chung trong nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Đồng thời của tổng sản lượng và mức giá chung của nền kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Của tổng sản lượng của nền kinh tế."
+      }
+    ],
+    "correctAnswerText": "Của tổng sản lượng của nền kinh tế."
   },
   {
     "questionNumber": "5",
@@ -138,6 +253,52 @@
     "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
   },
   {
+    "questionNumber": "6",
+    "questionText": "Nếu Việt Nam có GDP lớn hơn GNP, thì:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GDP thực của Việt Nam nhỏ hơn GNP danh nghĩa"
+      },
+      {
+        "label": "B",
+        "text": "Giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài nhiều hơn so với giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam."
+      },
+      {
+        "label": "C",
+        "text": "GDP thực của Việt Nam lớn hơn GDP danh nghĩa"
+      },
+      {
+        "label": "D",
+        "text": "Giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam nhiều hơn so với giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài."
+      }
+    ],
+    "correctAnswerText": "Giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam nhiều hơn so với giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài."
+  },
+  {
+    "questionNumber": "7",
+    "questionText": "Biết rằng chỉ số giá tiêu dùng của một nề kinh tế năm 2019 là 125%. Phát biểu nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 125% so với năm gốc."
+      },
+      {
+        "label": "B",
+        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 125% so với năm 2018."
+      },
+      {
+        "label": "C",
+        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm 2018."
+      },
+      {
+        "label": "D",
+        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm gốc."
+      }
+    ],
+    "correctAnswerText": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm gốc."
+  },
+  {
     "questionNumber": "7",
     "questionText": "Nếu chính phủ đồng thời tăng thuế đánh vào hàng tiêu dùng, hàng hoá đầu tư và nguyên liệu nhập khẩu thì",
     "options": [
@@ -184,6 +345,52 @@
     "correctAnswerText": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
   },
   {
+    "questionNumber": "8",
+    "questionText": "Trong nền kinh tế mở, biểu thức nào dưới đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "GNP = GDP + De"
+      },
+      {
+        "label": "B",
+        "text": "GDP = GNP + De"
+      },
+      {
+        "label": "C",
+        "text": "GNP = GDP + NIA"
+      },
+      {
+        "label": "D",
+        "text": "GNP = GDP - NIA"
+      }
+    ],
+    "correctAnswerText": "GNP = GDP + NIA"
+  },
+  {
+    "questionNumber": "9",
+    "questionText": "Giả sử có số liệu của một nền kinh tế như sau (Đơn vị: tỷ USD): GDP = 40.000, C = 28.100, G = 4.500, NX = 1.900. Mức đầu tư (I)của nền kinh tế này là bao nhiêu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5.500 tỷ USD"
+      },
+      {
+        "label": "B",
+        "text": "5.050 tỷ USD"
+      },
+      {
+        "label": "C",
+        "text": "9.300 tỷ USD"
+      },
+      {
+        "label": "D",
+        "text": "5.000 tỷ USD"
+      }
+    ],
+    "correctAnswerText": "5.500 tỷ USD"
+  },
+  {
     "questionNumber": "9",
     "questionText": "Theo định luật OKun, để giảm tỷ lệ thất nghiệp 1%/năm thì tốc độ tăng trưởng GDP (%/năm) là khoảng:",
     "options": [
@@ -205,6 +412,29 @@
       }
     ],
     "correctAnswerText": "2,5 %"
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "Giá trị nào nhỏ nhất trong những giá trị được đo lường sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thu nhập khả dụng (YD)."
+      },
+      {
+        "label": "B",
+        "text": "Thu nhập quốc dân (Y)."
+      },
+      {
+        "label": "C",
+        "text": "Tổng sản phẩm quốc dân (GNP)."
+      },
+      {
+        "label": "D",
+        "text": "Sản phẩm quốc dân ròng (NNP)."
+      }
+    ],
+    "correctAnswerText": "Thu nhập khả dụng (YD)."
   },
   {
     "questionNumber": "10",
@@ -231,6 +461,29 @@
   },
   {
     "questionNumber": "11",
+    "questionText": "GDP danh nghĩa tăng phản ánh mức tăng của:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tổng sản lượng trong nền kinh tế"
+      },
+      {
+        "label": "B",
+        "text": "Mức giá chung."
+      },
+      {
+        "label": "C",
+        "text": "Tổng sản lượng và mức giá chung của nền kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Tổng cầu về đầu tư."
+      }
+    ],
+    "correctAnswerText": "Tổng sản lượng và mức giá chung của nền kinh tế."
+  },
+  {
+    "questionNumber": "11",
     "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
     "options": [
       {
@@ -251,6 +504,29 @@
       }
     ],
     "correctAnswerText": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+  },
+  {
+    "questionNumber": "12",
+    "questionText": "Giá trị của hoạt động nào sau đây được tính vào GDP của nền kinh tế?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp mua máy móc, trang thiết bị, nhà xưởng."
+      },
+      {
+        "label": "B",
+        "text": "Người dân gửi tiền vào ngân hàng."
+      },
+      {
+        "label": "C",
+        "text": "Hộ gia đình tự sản xuất ra sản phẩm để phục vụ cho tiêu dùng hiện tại."
+      },
+      {
+        "label": "D",
+        "text": "Ngân hàng mua cổ phiếu của một công ty mới thành lập."
+      }
+    ],
+    "correctAnswerText": "Doanh nghiệp mua máy móc, trang thiết bị, nhà xưởng."
   },
   {
     "questionNumber": "12",
@@ -299,6 +575,29 @@
     "correctAnswerText": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
   },
   {
+    "questionNumber": "13",
+    "questionText": "Tổng sản phẩm trong nước (GDP) là tổng giá trị hàng hoá và dịch vụ cuối cùng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Do người dân của quốc gia sản xuất ra trong một thời kỳ nhất định."
+      },
+      {
+        "label": "B",
+        "text": "Do người dân của quốc gia tạo ra ở trong nước và ở nước ngoài."
+      },
+      {
+        "label": "C",
+        "text": "Do người dân sản xuất ra tại một thời điểm nhất định, ví dụ ngày 31 tháng 12 năm 2020."
+      },
+      {
+        "label": "D",
+        "text": "Được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một thời kỳ nhất định."
+      }
+    ],
+    "correctAnswerText": "Được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một thời kỳ nhất định."
+  },
+  {
     "questionNumber": "14",
     "questionText": "Đường tổng cung dài hạn là một đường thẳng đứng hàm ý rằng:",
     "options": [
@@ -320,6 +619,29 @@
       }
     ],
     "correctAnswerText": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+  },
+  {
+    "questionNumber": "14",
+    "questionText": "Giá trị gia tăng của một doanh nghiệp là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi khấu hao máy móc thiết bị."
+      },
+      {
+        "label": "B",
+        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi toàn bộ chi phí sản xuất để sản xuất ra mức sản lượng đó."
+      },
+      {
+        "label": "C",
+        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí tiền lương để sản xuất ra mức sản lượng đó."
+      },
+      {
+        "label": "D",
+        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
+      }
+    ],
+    "correctAnswerText": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
   },
   {
     "questionNumber": "15",
@@ -345,6 +667,52 @@
     "correctAnswerText": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
   },
   {
+    "questionNumber": "15",
+    "questionText": "Nếu tính theo phương pháp giá trị gia tăng, GDP bằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tổng giá trị hàng hóa và dịch vụ trừ khấu hao."
+      },
+      {
+        "label": "B",
+        "text": "Tổng thu nhập gia tăng của các nhân tố sản xuất trong nước."
+      },
+      {
+        "label": "C",
+        "text": "Tổng chi phí tăng thêm phát sinh từ việc sử dụng các nhân tố sản xuất như lao động, vốn, đất đai và năng lực kinh doanh."
+      },
+      {
+        "label": "D",
+        "text": "Tổng giá trị gia tăng của tất cả các doanh nghiệp trong nền kinh tế."
+      }
+    ],
+    "correctAnswerText": "Tổng giá trị gia tăng của tất cả các doanh nghiệp trong nền kinh tế."
+  },
+  {
+    "questionNumber": "16",
+    "questionText": "Khi chiếc tivi sản xuất tại Hàn Quốc và được bán trên thị trường Việt Nam tăng giá, giá trị của chiếc tivi này được tính vào chỉ tiêu nào dưới đây của Việt Nam",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chỉ số giá sản xuất (PPI)"
+      },
+      {
+        "label": "B",
+        "text": "Chỉ số giá tiêu dùng (CPI)"
+      },
+      {
+        "label": "C",
+        "text": "Chỉ số điều chỉnh GDP (DGDP)"
+      },
+      {
+        "label": "D",
+        "text": "Xuất khẩu ròng (NX)"
+      }
+    ],
+    "correctAnswerText": "Chỉ số giá tiêu dùng (CPI)"
+  },
+  {
     "questionNumber": "16",
     "questionText": "Nội dung nào sau đây KHÔNG phải là mục tiêu của kinh tế vĩ mô:",
     "options": [
@@ -366,6 +734,29 @@
       }
     ],
     "correctAnswerText": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Giả sử có số liệu của một nền kinh tế như sau: GNP là 5000, tổng đầu tư là 1.000, đầu tư ròng là 500, thuế gián thu là 400. Mức thu nhập quốc dân (Y) của nền kinh tế này là bao nhiêu? (Đơn vị: tỷ USD)",
+    "options": [
+      {
+        "label": "A",
+        "text": "4.900 tỷ USD"
+      },
+      {
+        "label": "B",
+        "text": "3.100 tỷ USD"
+      },
+      {
+        "label": "C",
+        "text": "4.500 tỷ USD"
+      },
+      {
+        "label": "D",
+        "text": "4.100 tỷ USD"
+      }
+    ],
+    "correctAnswerText": "4.100 tỷ USD"
   },
   {
     "questionNumber": "17",
@@ -414,6 +805,52 @@
     "correctAnswerText": "Đường tổng cung dịch chuyển sang phải."
   },
   {
+    "questionNumber": "18",
+    "questionText": "Trong nền kinh tế mở, công thức xác định GDP theo phương pháp chi tiêu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GDP = C + I + G + Te + De"
+      },
+      {
+        "label": "B",
+        "text": "GDP = C + I + G + De"
+      },
+      {
+        "label": "C",
+        "text": "GDP = C + I + G + X – IM"
+      },
+      {
+        "label": "D",
+        "text": "GDP = C + I + G + X + IM"
+      }
+    ],
+    "correctAnswerText": "GDP = C + I + G + X – IM"
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "Nếu chỉ số giá tiêu dùng (CPI) năm 2020 là 120% và năm 2021 là 126%, thì tỷ lệ lạm phát (tính bằng mức tăng của CPI) năm 2021 so với năm 2020 bằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "8%"
+      },
+      {
+        "label": "B",
+        "text": "4%"
+      },
+      {
+        "label": "C",
+        "text": "5%"
+      },
+      {
+        "label": "D",
+        "text": "6%"
+      }
+    ],
+    "correctAnswerText": "5%"
+  },
+  {
     "questionNumber": "19",
     "questionText": "Trong mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, giá cả các yếu tố đầu vào tăng sẽ dẫn đến điều gì?",
     "options": [
@@ -460,6 +897,52 @@
     "correctAnswerText": "Giá dầu thế giới tăng"
   },
   {
+    "questionNumber": "20",
+    "questionText": "Trong một nền kinh tế mở:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GDP có thể lớn hơn, nhỏ hơn hoặc bằng GNP."
+      },
+      {
+        "label": "B",
+        "text": "GDP luôn lớn hơn GNP."
+      },
+      {
+        "label": "C",
+        "text": "GDP luôn nhỏ hơn GNP"
+      },
+      {
+        "label": "D",
+        "text": "GDP luôn bằng GNP."
+      }
+    ],
+    "correctAnswerText": "GDP có thể lớn hơn, nhỏ hơn hoặc bằng GNP."
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Chỉ số giá tiêu dùng là một chỉ tiêu phản ánh:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá cả nói chung."
+      },
+      {
+        "label": "B",
+        "text": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+      },
+      {
+        "label": "C",
+        "text": "Mức phúc lợi bình quân trong tiêu dùng của hộ gia đình."
+      },
+      {
+        "label": "D",
+        "text": "Chi phí sinh hoạt hiện tại của người tiêu dùng."
+      }
+    ],
+    "correctAnswerText": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+  },
+  {
     "questionNumber": "21",
     "questionText": "Trong mô hình AD-AS, sự dịch chuyển sang phải của đường AD sẽ dẫn đến sự thay đổi nào (giả sử tổng cung không đổi)?",
     "options": [
@@ -484,6 +967,29 @@
   },
   {
     "questionNumber": "22",
+    "questionText": "Có số liệu của một nền kinh tế của một nền kinh tế được cho trong Bảng dưới đây (Đơn vị: tỷ USD):  Năm GDPN DGDP     2018 20 100     2019 25 115  Khi đó, tốc độ tăng trưởng của nền kinh tế vào năm 2019 là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "6,3%"
+      },
+      {
+        "label": "B",
+        "text": "5,5%"
+      },
+      {
+        "label": "C",
+        "text": "8,5%"
+      },
+      {
+        "label": "D",
+        "text": "7,5%"
+      }
+    ],
+    "correctAnswerText": "8,5%"
+  },
+  {
+    "questionNumber": "22",
     "questionText": "Đường tổng cung ngắn hạn có độ dốc dương hàm ý:",
     "options": [
       {
@@ -504,5 +1010,143 @@
       }
     ],
     "correctAnswerText": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+  },
+  {
+    "questionNumber": "23",
+    "questionText": "Nếu một công dân Việt Nam làm cho một công ty của Việt Nam đặt tại Mỹ, thì thu nhập của anh ta được tính vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GDP của Việt Nam và GDP của Mỹ."
+      },
+      {
+        "label": "B",
+        "text": "GNP của Việt Nam và GDP của Mỹ."
+      },
+      {
+        "label": "C",
+        "text": "GNP của Việt Nam và GNP của Mỹ."
+      },
+      {
+        "label": "D",
+        "text": "GDP của Việt Nam và GNP của Mỹ."
+      }
+    ],
+    "correctAnswerText": "GNP của Việt Nam và GDP của Mỹ."
+  },
+  {
+    "questionNumber": "24",
+    "questionText": "Tăng trưởng sản lượng của một quốc gia được thể hiện bằng tăng trưởng của:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá trị các sản phẩm trung gian."
+      },
+      {
+        "label": "B",
+        "text": "GDP danh nghĩa."
+      },
+      {
+        "label": "C",
+        "text": "GDP thực."
+      },
+      {
+        "label": "D",
+        "text": "Chỉ số giá tiêu dùng."
+      }
+    ],
+    "correctAnswerText": "GDP thực."
+  },
+  {
+    "questionNumber": "25",
+    "questionText": "Tổng sản phẩm quốc dân (GNP) của Việt Nam đo lường tổng giá trị của hàng hóa và dịch vụ cuối cùng do:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người nước ngoài tạo ra trên lãnh thổ Việt Nam."
+      },
+      {
+        "label": "B",
+        "text": "Người Việt Nam tạo ra ở trong nước và nước ngoài."
+      },
+      {
+        "label": "C",
+        "text": "Người nước ngoài tạo ra trên lãnh thổ Việt Nam."
+      },
+      {
+        "label": "D",
+        "text": "Người Việt Nam và nước ngoài tạo ra trên lãnh thổ Việt Nam."
+      }
+    ],
+    "correctAnswerText": "Người Việt Nam tạo ra ở trong nước và nước ngoài."
+  },
+  {
+    "questionNumber": "26",
+    "questionText": "Nhóm người nào sau đây không thuộc lực lượng lao động(giả sử họ đều trong độ tuổi lao động và có khả năng lao động)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người nghỉ hưu trước tuổi."
+      },
+      {
+        "label": "B",
+        "text": "Người đang thất nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Người đang có việc làm."
+      },
+      {
+        "label": "D",
+        "text": "Sinh viên mới ra trường đang tìm việc làm."
+      }
+    ],
+    "correctAnswerText": "Người nghỉ hưu trước tuổi."
+  },
+  {
+    "questionNumber": "27",
+    "questionText": "Sản phẩm cuối cùng KHÔNG bao gồm nhóm hàng hóa nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xe đạp mà hộ gia đình mua."
+      },
+      {
+        "label": "B",
+        "text": "Sữa bán cho người tiêu dùng."
+      },
+      {
+        "label": "C",
+        "text": "Quần áo người tiêu dùng mua."
+      },
+      {
+        "label": "D",
+        "text": "Bột mỳ doanh nghiệp mua để sản xuất bánh."
+      }
+    ],
+    "correctAnswerText": "Bột mỳ doanh nghiệp mua để sản xuất bánh."
+  },
+  {
+    "questionNumber": "28",
+    "questionText": "Chỉ số điều chỉnh GDP được tính bằng cách lấy:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GDP thực trừ GDP danh nghĩa."
+      },
+      {
+        "label": "B",
+        "text": "GDP danh nghĩa chia cho GDP thực."
+      },
+      {
+        "label": "C",
+        "text": "GDP danh nghĩa trừ GDP thực."
+      },
+      {
+        "label": "D",
+        "text": "GDP thực chia cho GDP danh nghĩa."
+      }
+    ],
+    "correctAnswerText": "GDP danh nghĩa chia cho GDP thực."
   }
 ]
