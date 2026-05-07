@@ -1,375 +1,467 @@
 [
   {
     "questionNumber": "1",
-    "questionText": "Cấp độ 3 - “Triết lý logistics” theo quan điểm về quản trị logistics tại khu vực Châu Âu được dựa trên nguyên lý nào sau đây?",
+    "questionText": "Äiá»m khÃ¡c nhau giá»¯a chá» sá» giÃ¡ tiÃªu dÃ¹ng (CPI) vÃ  chá» sá» Äiá»u chá»nh GDP (DGDP) lÃ  giÌ?",
     "options": [
       {
         "label": "A",
-        "text": "Định hướng khách hàng và dịch vụ"
+        "text": "Hai chá» tiÃªu nÃ y khÃ´ng cÃ³ Äiá»m khÃ¡c nhau."
       },
       {
         "label": "B",
-        "text": "Tiếp cận toàn diện và tổng chi phí"
+        "text": "Rá» hÃ ng hÃ³a tÃ­nh CPI bao gá»m hÃ ng hÃ³a tiÃªu dÃ¹ng ÄÆ°á»£c nháº­p kháº©u, trong khi rá» hÃ ng hÃ³a tÃ­nh DGDP khÃ´ng bao gá»m hÃ ng hÃ³a tiÃªu dÃ¹ng ÄÆ°á»£c nháº­p kháº©u."
       },
       {
         "label": "C",
-        "text": "Định hướng dòng cung ứng hàng hoá"
+        "text": "CPI pháº£n Ã¡nh giÃ¡ cá»§a hÃ ng hÃ³a mÃ  doanh nghiá»p mua, DGDP pháº£n Ã¡nh giÃ¡ hÃ ng hÃ³a mÃ  ngÆ°á»i tiÃªu dÃ¹ng mua."
       },
       {
         "label": "D",
-        "text": "Cả ba đáp án còn lại đều đúng"
+        "text": "CPI pháº£n Ã¡nh giÃ¡ cá»§a hÃ ng hÃ³a mÃ  chÃ­nh phá»§ mua, DGDP pháº£n Ã¡nh giÃ¡ cá»§a hÃ ng hÃ³a mÃ  doanh nghiá»p mua."
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+    "correctAnswerText": "Rá» hÃ ng hÃ³a tÃ­nh CPI bao gá»m hÃ ng hÃ³a tiÃªu dÃ¹ng ÄÆ°á»£c nháº­p kháº©u, trong khi rá» hÃ ng hÃ³a tÃ­nh DGDP khÃ´ng bao gá»m hÃ ng hÃ³a tiÃªu dÃ¹ng ÄÆ°á»£c nháº­p kháº©u."
   },
   {
     "questionNumber": "1",
-    "questionText": "Điểm khác nhau giữa chỉ số giá tiêu dùng (CPI) và chỉ số điều chỉnh GDP (DGDP) là gì?",
+    "questionText": "Cáº¥p Äá» 3 - âTriáº¿t lÃ½ logisticsâ theo quan Äiá»m vá» quáº£n trá» logistics táº¡i khu vá»±c ChÃ¢u Ãu ÄÆ°á»£c dá»±a trÃªn nguyÃªn lÃ½ nÃ o sau ÄÃ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "Hai chỉ tiêu này không có điểm khác nhau."
+        "text": "Äá»nh hÆ°á»ng khÃ¡ch hÃ ng vÃ  dá»ch vá»¥"
       },
       {
         "label": "B",
-        "text": "Rổ hàng hóa tính CPI bao gồm hàng hóa tiêu dùng được nhập khẩu, trong khi rổ hàng hóa tính DGDP không bao gồm hàng hóa tiêu dùng được nhập khẩu."
+        "text": "Tiáº¿p cáº­n toÃ n diá»n vÃ  tá»ng chi phÃ­"
       },
       {
         "label": "C",
-        "text": "CPI phản ánh giá của hàng hóa mà doanh nghiệp mua, DGDP phản ánh giá hàng hóa mà người tiêu dùng mua."
+        "text": "Äá»nh hÆ°á»ng dÃ²ng cung á»©ng hÃ ng hoÃ¡"
       },
       {
         "label": "D",
-        "text": "CPI phản ánh giá của hàng hóa mà chính phủ mua, DGDP phản ánh giá của hàng hóa mà doanh nghiệp mua."
+        "text": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
       }
     ],
-    "correctAnswerText": "Rổ hàng hóa tính CPI bao gồm hàng hóa tiêu dùng được nhập khẩu, trong khi rổ hàng hóa tính DGDP không bao gồm hàng hóa tiêu dùng được nhập khẩu."
+    "correctAnswerText": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   },
   {
     "questionNumber": "1",
-    "questionText": "Số nhân chi tiêu trong nền kinh tế đóng được tính bằng công thức:",
+    "questionText": "Mức độ sẵn sàng đáp ứng kỳ vọng thay đổi của khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
     "options": [
       {
         "label": "A",
-        "text": "m’ = 1/MPC"
+        "text": "Linh hoạt đối với khách hàng"
       },
       {
         "label": "B",
-        "text": "m’ = 1/[1 - MPC (1-t)]"
+        "text": "Dễ tiếp cận đối với khách hàng"
       },
       {
         "label": "C",
-        "text": "m’ = 1/(MPC + t)"
+        "text": "Thuận tiện đối với khách hàng"
       },
       {
         "label": "D",
-        "text": "m’ = 1/(1-MPC).t"
+        "text": "Gần gũi đối với khách hàng"
       }
     ],
-    "correctAnswerText": "m’ = 1/[1 - MPC (1-t)]"
+    "correctAnswerText": "Linh hoạt đối với khách hàng"
   },
   {
     "questionNumber": "1",
-    "questionText": "Theo địa điểm lập chứng từ, chứng từ kế toán có các loại:",
+    "questionText": "Sá» nhÃ¢n chi tiÃªu trong ná»n kinh táº¿ ÄÃ³ng ÄÆ°á»£c tÃ­nh báº±ng cÃ´ng thá»©c:",
     "options": [
       {
         "label": "A",
-        "text": "Chứng từ bên trong và chứng từ ban đầu."
+        "text": "mâ = 1/MPC"
       },
       {
         "label": "B",
-        "text": "Chứng từ bên ngoài và chứng từ ban đầu."
+        "text": "mâ = 1/[1 - MPC (1-t)]"
       },
       {
         "label": "C",
-        "text": "Chứng từ bên trong và chứng từ bên ngoài."
+        "text": "mâ = 1/(MPC + t)"
       },
       {
         "label": "D",
-        "text": "Chứng từ bên ngoài và chứng từ tổng hợp."
+        "text": "mâ = 1/(1-MPC).t"
       }
     ],
-    "correctAnswerText": "Chứng từ bên trong và chứng từ bên ngoài."
+    "correctAnswerText": "mâ = 1/[1 - MPC (1-t)]"
   },
   {
     "questionNumber": "1",
-    "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
+    "questionText": "Theo Äá»a Äiá»m láº­p chá»©ng tá»«, chá»©ng tá»« káº¿ toÃ¡n cÃ³ cÃ¡c loáº¡i:",
     "options": [
       {
         "label": "A",
-        "text": "Đường tổng cầu dịch chuyển sang trái, sản lượng giảm."
+        "text": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« ban Äáº§u."
       },
       {
         "label": "B",
-        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, sản lượng tăng."
+        "text": "Chá»©ng tá»« bÃªn ngoÃ i vÃ  chá»©ng tá»« ban Äáº§u."
       },
       {
         "label": "C",
-        "text": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+        "text": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« bÃªn ngoÃ i."
       },
       {
         "label": "D",
-        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, sản lượng giảm."
+        "text": "Chá»©ng tá»« bÃªn ngoÃ i vÃ  chá»©ng tá»« tá»ng há»£p."
       }
     ],
-    "correctAnswerText": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+    "correctAnswerText": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« bÃªn ngoÃ i."
+  },
+  {
+    "questionNumber": "1",
+    "questionText": "Trong mÃ´ hÃ¬nh AD-AS, khi chi tiÃªu cá»§a chÃ­nh phá»§ Äá» mua hÃ ng hoÃ¡, dá»ch vá»¥ cá»§a ná»n kinh táº¿ tÄng sáº½ dáº«n Äáº¿n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang trÃ¡i, sáº£n lÆ°á»£ng giáº£m."
+      },
+      {
+        "label": "B",
+        "text": "ÄÆ°á»ng tá»ng cung ngáº¯n háº¡n dá»ch chuyá»n sang pháº£i, sáº£n lÆ°á»£ng tÄng."
+      },
+      {
+        "label": "C",
+        "text": "ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang pháº£i, sáº£n lÆ°á»£ng tÄng."
+      },
+      {
+        "label": "D",
+        "text": "ÄÆ°á»ng tá»ng cung ngáº¯n háº¡n dá»ch chuyá»n sang trÃ¡i, sáº£n lÆ°á»£ng giáº£m."
+      }
+    ],
+    "correctAnswerText": "ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang pháº£i, sáº£n lÆ°á»£ng tÄng."
   },
   {
     "questionNumber": "2",
-    "questionText": "Chỉ tiêu nào phản ánh mức thu nhập mà hộ gia đình có thể sử dụng?",
+    "questionText": "Chá» tiÃªu nÃ o pháº£n Ã¡nh má»©c thu nháº­p mÃ  há» gia ÄÃ¬nh cÃ³ thá» sá»­ dá»¥ng?",
     "options": [
       {
         "label": "A",
-        "text": "Tổng sản phẩm quốc dân."
+        "text": "Tá»ng sáº£n pháº©m quá»c dÃ¢n."
       },
       {
         "label": "B",
-        "text": "Sản phẩm quốc dân ròng."
+        "text": "Sáº£n pháº©m quá»c dÃ¢n rÃ²ng."
       },
       {
         "label": "C",
-        "text": "Thu nhập quốc dân."
+        "text": "Thu nháº­p quá»c dÃ¢n."
       },
       {
         "label": "D",
-        "text": "Thu nhập khả dụng."
+        "text": "Thu nháº­p kháº£ dá»¥ng."
       }
     ],
-    "correctAnswerText": "Thu nhập khả dụng."
+    "correctAnswerText": "Thu nháº­p kháº£ dá»¥ng."
   },
   {
     "questionNumber": "2",
-    "questionText": "Chính phủ thực hiện chính sách tài khoá mở rộng thường hướng đến mục tiêu:",
+    "questionText": "ChÃ­nh phá»§ thá»±c hiá»n chÃ­nh sÃ¡ch tÃ i khoÃ¡ mÆ¡Ì rÃ´Ì£ng thÆ°á»ng hÆ°á»ng Äáº¿n má»¥c tiÃªu:",
     "options": [
       {
         "label": "A",
-        "text": "Kiểm soát lạm phát"
+        "text": "Kiá»m soÃ¡t láº¡m phÃ¡t"
       },
       {
         "label": "B",
-        "text": "Thúc đẩy tăng trưởng kinh tế và giảm thất nghiệp."
+        "text": "ThÃºc Äáº©y tÄng trÆ°á»ng kinh táº¿ vÃ  giáº£m tháº¥t nghiá»p."
       },
       {
         "label": "C",
-        "text": "Gia tăng đầu tư công."
+        "text": "Gia tÄng Äáº§u tÆ° cÃ´ng."
       },
       {
         "label": "D",
-        "text": "Kiềm chế tăng trưởng nóng."
+        "text": "Kiá»m cháº¿ tÄng trÆ°á»ng nÃ³ng."
       }
     ],
-    "correctAnswerText": "Thúc đẩy tăng trưởng kinh tế và giảm thất nghiệp."
+    "correctAnswerText": "ThÃºc Äáº©y tÄng trÆ°á»ng kinh táº¿ vÃ  giáº£m tháº¥t nghiá»p."
   },
   {
     "questionNumber": "2",
-    "questionText": "Loại chứng từ KHÔNG phải là Hóa đơn bán hàng và cung cấp dịch vụ là:",
+    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “Hệ thống logistics quốc gia được hiểu là một mạng lưới các tổ chức, con người, hoạt động, thông tin và nguồn lực liên quan đến việc … các dịch vụ logistics thương mại cho các ngành kinh tế của một quốc gia”?",
     "options": [
       {
         "label": "A",
-        "text": "Hóa đơn điện tử."
+        "text": "phân chia"
       },
       {
         "label": "B",
-        "text": "Tem in sẵn giá thanh toán."
+        "text": "quản lý và giám sát"
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho."
+        "text": "phân phối"
       },
       {
         "label": "D",
-        "text": "Vé in sẵn giá thanh toán."
+        "text": "tổ chức và cung cấp"
       }
     ],
-    "correctAnswerText": "Phiếu nhập kho."
+    "correctAnswerText": "tổ chức và cung cấp"
   },
   {
     "questionNumber": "2",
-    "questionText": "Nhận định nào sau đây là đúng?",
+    "questionText": "Loáº¡i chá»©ng tá»« KHÃNG pháº£i lÃ  HÃ³a ÄÆ¡n bÃ¡n hÃ ng vÃ  cung cáº¥p dá»ch vá»¥ lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
+        "text": "HÃ³a ÄÆ¡n Äiá»n tá»­."
       },
       {
         "label": "B",
-        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ tăng."
+        "text": "Tem in sáºµn giÃ¡ thanh toÃ¡n."
       },
       {
         "label": "C",
-        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ giảm."
+        "text": "Phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "Nền kinh tế tăng trưởng sẽ luôn đi kèm với lạm phát."
+        "text": "VÃ© in sáºµn giÃ¡ thanh toÃ¡n."
       }
     ],
-    "correctAnswerText": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
+    "correctAnswerText": "Phiáº¿u nháº­p kho."
   },
   {
     "questionNumber": "2",
-    "questionText": "Quan điểm nào coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức.",
+    "questionText": "Nháº­n Äá»nh nÃ o sau ÄÃ¢y lÃ  ÄÃºng?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm giao thoa"
+        "text": "Giáº£ sá»­ cÃ´ng nghá» sáº£n xuáº¥t khÃ´ng Äá»i, khi ná»n kinh táº¿ tÄng trÆ°á»ng thÃ¬ tháº¥t nghiá»p sáº½ giáº£m."
       },
       {
         "label": "B",
-        "text": "Quan điểm liên ngành"
+        "text": "Trong ná»n kinh táº¿ khi láº¡m phÃ¡t tÄng thÃ¬ tháº¥t nghiá»p cháº¯c cháº¯n sáº½ tÄng."
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Trong ná»n kinh táº¿ khi láº¡m phÃ¡t tÄng thÃ¬ tháº¥t nghiá»p cháº¯c cháº¯n sáº½ giáº£m."
       },
       {
         "label": "D",
-        "text": "Quan điểm đồng nhất"
+        "text": "Ná»n kinh táº¿ tÄng trÆ°á»ng sáº½ luÃ´n Äi kÃ¨m vá»i láº¡m phÃ¡t."
       }
     ],
-    "correctAnswerText": "Quan điểm truyền thống"
+    "correctAnswerText": "Giáº£ sá»­ cÃ´ng nghá» sáº£n xuáº¥t khÃ´ng Äá»i, khi ná»n kinh táº¿ tÄng trÆ°á»ng thÃ¬ tháº¥t nghiá»p sáº½ giáº£m."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Quan Äiá»m nÃ o coi quáº£n trá» chuá»i cung á»©ng lÃ  má»t loáº¡i logistics Äáº·c biá»t, lÃ  hoáº¡t Äá»ng logistics bÃªn ngoÃ i hoáº·c liÃªn tá» chá»©c.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan Äiá»m giao thoa"
+      },
+      {
+        "label": "B",
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
+      },
+      {
+        "label": "C",
+        "text": "Quan Äiá»m truyá»n thá»ng"
+      },
+      {
+        "label": "D",
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
+      }
+    ],
+    "correctAnswerText": "Quan Äiá»m truyá»n thá»ng"
   },
   {
     "questionNumber": "3",
-    "questionText": "Nhân tố nào sau đây thay đổi sẽ gây ra hiện tượng trượt dọc trên đường tổng cung ngắn hạn ASs?",
+    "questionText": "Khía cạnh “Linh hoạt đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
     "options": [
       {
         "label": "A",
-        "text": "Chất lượng nguồn lực."
+        "text": "Khả năng cung cấp sản phẩm với giá rẻ"
       },
       {
         "label": "B",
-        "text": "Năng suất lao động."
+        "text": "Khả năng dự báo nhu cầu khách hàng"
       },
       {
         "label": "C",
-        "text": "Chi phí sản xuất."
+        "text": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
       },
       {
         "label": "D",
-        "text": "Mức giá chung."
+        "text": "Khả năng tăng trưởng doanh thu nhanh chóng"
       }
     ],
-    "correctAnswerText": "Mức giá chung."
+    "correctAnswerText": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
   },
   {
     "questionNumber": "3",
-    "questionText": "Tại Việt Nam, dấu mốc nào đã tạo hành lang quan trọng cho sự hình thành ngành logistics?",
+    "questionText": "NhÃ¢n tá» nÃ o sau ÄÃ¢y thay Äá»i sáº½ gÃ¢y ra hiá»n tÆ°á»£ng trÆ°á»£t dá»c trÃªn ÄÆ°á»ng tÃ´Ìng cung ngÄÌn haÌ£n ASs?",
     "options": [
       {
         "label": "A",
-        "text": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
+        "text": "Cháº¥t lÆ°á»£ng nguá»n lá»±c."
       },
       {
         "label": "B",
-        "text": "Sự kiện Việt Nam chính thức gia nhập WTO năm 2007"
+        "text": "NÄng suáº¥t lao Äá»ng."
       },
       {
         "label": "C",
-        "text": "Sự kiện Việt Nam ký kết các Hiệp định thương mại tự do thế hệ mới."
+        "text": "Chi phÃ­ sáº£n xuáº¥t."
       },
       {
         "label": "D",
-        "text": "Không có sự kiện nào trong số các sự kiện đã nêu"
+        "text": "Má»©c giÃ¡ chung."
       }
     ],
-    "correctAnswerText": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
+    "correctAnswerText": "Má»©c giÃ¡ chung."
   },
   {
     "questionNumber": "3",
-    "questionText": "Tất cả các khoản sau đây đều là thuộc GDP của Việt Nam, TRỪ:",
+    "questionText": "Táº¡i Viá»t Nam, dáº¥u má»c nÃ o ÄÃ£ táº¡o hÃ nh lang quan trá»ng cho sá»± hÃ¬nh thÃ nh ngÃ nh logistics?",
     "options": [
       {
         "label": "A",
-        "text": "Tiền lương của những người làm trong các cơ quan nhà nước."
+        "text": "Sá»± kiá»n Luáº­t ThÆ°Æ¡ng máº¡i 2005 ban hÃ nh cÃ¡c quy Äá»nh vá» dá»ch vá»¥ logistics vÃ  kinh doanh dá»ch vá»¥ logistics"
       },
       {
         "label": "B",
-        "text": "Lợi tức cổ phần."
+        "text": "Sá»± kiá»n Viá»t Nam chÃ­nh thá»©c gia nháº­p WTO nÄm 2007"
       },
       {
         "label": "C",
-        "text": "Thu nhập của người nước ngoài ở Việt Nam."
+        "text": "Sá»± kiá»n Viá»t Nam kÃ½ káº¿t cÃ¡c Hiá»p Äá»nh thÆ°Æ¡ng máº¡i tá»± do tháº¿ há» má»i."
       },
       {
         "label": "D",
-        "text": "Thu nhập từ trợ cấp ốm đau."
+        "text": "KhÃ´ng cÃ³ sá»± kiá»n nÃ o trong sá» cÃ¡c sá»± kiá»n ÄÃ£ nÃªu"
       }
     ],
-    "correctAnswerText": "Thu nhập từ trợ cấp ốm đau."
+    "correctAnswerText": "Sá»± kiá»n Luáº­t ThÆ°Æ¡ng máº¡i 2005 ban hÃ nh cÃ¡c quy Äá»nh vá» dá»ch vá»¥ logistics vÃ  kinh doanh dá»ch vá»¥ logistics"
   },
   {
     "questionNumber": "3",
-    "questionText": "Trong nền kinh tế mở, khi xu hướng nhập khẩu cận biên tăng thì điều gì xảy ra?",
+    "questionText": "Táº¥t cáº£ cÃ¡c khoáº£n sau ÄÃ¢y Äá»u lÃ  thuá»c GDP cá»§a Viá»t Nam, TRá»ª:",
     "options": [
       {
         "label": "A",
-        "text": "Nhập khẩu và sản lượng cân bằng giảm."
+        "text": "Tiá»n lÆ°Æ¡ng cá»§a nhá»¯ng ngÆ°á»i lÃ m trong cÃ¡c cÆ¡ quan nhÃ  nÆ°á»c."
       },
       {
         "label": "B",
-        "text": "Nhập khẩu giảm, sản lượng cân bằng giảm."
+        "text": "Lá»£i tá»©c cá» pháº§n."
       },
       {
         "label": "C",
-        "text": "Nhập khẩu tăng, sản lượng cân bằng giảm."
+        "text": "Thu nháº­p cá»§a ngÆ°á»i nÆ°á»c ngoÃ i á» Viá»t Nam."
       },
       {
         "label": "D",
-        "text": "Nhập khẩu và sản lượng cân bằng tăng"
+        "text": "Thu nháº­p tá»« trá»£ cáº¥p á»m Äau."
       }
     ],
-    "correctAnswerText": "Nhập khẩu tăng, sản lượng cân bằng giảm."
+    "correctAnswerText": "Thu nháº­p tá»« trá»£ cáº¥p á»m Äau."
   },
   {
     "questionNumber": "3",
-    "questionText": "Xuất kho nguyên vật liệu để sản xuất sản phẩm. Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Trong ná»n kinh táº¿ má», khi xu hÆ°á»ng nháº­p kháº©u cáº­n biÃªn tÄng thiÌ ÄiÃªÌu giÌ xaÌy ra?",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, hóa đơn gtgt."
+        "text": "Nháº­p kháº©u vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
       },
       {
         "label": "B",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "Nháº­p kháº©u giáº£m, sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
       },
       {
         "label": "C",
-        "text": "Phiếu xuất kho."
+        "text": "Nháº­p kháº©u tÄng, sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
       },
       {
         "label": "D",
-        "text": "Phiếu nhập kho."
+        "text": "Nháº­p kháº©u vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng"
       }
     ],
-    "correctAnswerText": "Phiếu xuất kho."
+    "correctAnswerText": "Nháº­p kháº©u tÄng, sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Xuáº¥t kho nguyÃªn váº­t liá»u Äá» sáº£n xuáº¥t saÌn phÃ¢Ìm. Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n gtgt."
+      },
+      {
+        "label": "B",
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+      },
+      {
+        "label": "C",
+        "text": "Phiáº¿u xuáº¥t kho."
+      },
+      {
+        "label": "D",
+        "text": "Phiáº¿u nháº­p kho."
+      }
+    ],
+    "correctAnswerText": "Phiáº¿u xuáº¥t kho."
   },
   {
     "questionNumber": "4",
-    "questionText": "Chứng từ nào sau đây KHÔNG phải là chứng từ gốc:",
+    "questionText": "Các mục tiêu của tiếp cận quản trị mục tiêu (MBO) trong  logistics và chuỗi cung ứng của doanh nghiệp được chia làm 3 loại, bao gồm những loại mục tiêu nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Phiếu thu"
+        "text": "Mục tiêu sáng tạo, mục tiêu giảm chi phí, mục tiêu mở rộng thị trường"
       },
       {
         "label": "B",
-        "text": "Phiếu xuất kho"
+        "text": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
       },
       {
         "label": "C",
-        "text": "Hoá đơn bán hàng"
+        "text": "Mục tiêu giải quyết vấn đề, mục tiêu công việc hàng ngày, mục tiêu giảm chi phí"
       },
       {
         "label": "D",
-        "text": "Bảng kê chi tiền"
+        "text": "Mục tiêu dài hạn, mục tiêu công việc hàng  ngày, mục tiêu mở rộng thị trường"
       }
     ],
-    "correctAnswerText": "Bảng kê chi tiền"
+    "correctAnswerText": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
   },
   {
     "questionNumber": "4",
-    "questionText": "Giả định rằng, trong một nền kinh tế giản đơn có chi tiêu cho tiêu dùng  C = 150, đầu tư I = 50 và tổng sản lượng Y = 190, khi đó mức thiếu hụt (hoặc tồn kho) ngoài dự kiến là:",
+    "questionText": "Chá»©ng tá»« nÃ o sau ÄÃ¢y KHÃNG pháº£i lÃ  chá»©ng tá»« gá»c:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phiáº¿u thu"
+      },
+      {
+        "label": "B",
+        "text": "Phiáº¿u xuáº¥t kho"
+      },
+      {
+        "label": "C",
+        "text": "HoÃ¡ ÄÆ¡n bÃ¡n hÃ ng"
+      },
+      {
+        "label": "D",
+        "text": "Báº£ng kÃª chi tiá»n"
+      }
+    ],
+    "correctAnswerText": "Báº£ng kÃª chi tiá»n"
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Giáº£ Äá»nh ráº±ng, trong má»t ná»n kinh táº¿ giáº£n ÄÆ¡n cÃ³ chi tiÃªu cho tiÃªu dÃ¹ngÂ  C = 150, Äáº§u tÆ° I = 50 vÃ  tá»ng sáº£n lÆ°á»£ng Y = 190, khi ÄÃ³ má»©c thiÃªÌu huÌ£t (hoáº·c tá»n kho) ngoaÌi dÆ°Ì£ kiÃªÌn laÌ:",
     "options": [
       {
         "label": "A",
@@ -392,421 +484,513 @@
   },
   {
     "questionNumber": "4",
-    "questionText": "Hoạt động nào sau đây KHÔNG được coi là đầu tư trong hạch toán vào GDP của nền kinh tế?",
+    "questionText": "Hoáº¡t Äá»ng nÃ o sau ÄÃ¢y KHÃNG ÄÆ°á»£c coi lÃ  Äáº§u tÆ° trong háº¡ch toÃ¡n vÃ o GDP cá»§a ná»n kinh táº¿?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp mua cổ phiếu trên thị trường chứng khoán."
+        "text": "Doanh nghiá»p mua cá» phiáº¿u trÃªn thá» trÆ°á»ng chá»©ng khoÃ¡n."
       },
       {
         "label": "B",
-        "text": "Doanh nghiệp mua nguyên liệu dự trữ để sản xuất trong kì tới."
+        "text": "Doanh nghiá»p mua nguyÃªn liá»u dá»± trá»¯ Äá» sáº£n xuáº¥t trong kÃ¬ tá»i."
       },
       {
         "label": "C",
-        "text": "Doanh nghiệp mua máy móc trang thiết bị mới phục vụ sản xuất."
+        "text": "Doanh nghiá»p mua mÃ¡y mÃ³c trang thiáº¿t bá» má»i phá»¥c vá»¥ sáº£n xuáº¥t."
       },
       {
         "label": "D",
-        "text": "Người dân mua nhà ở mới."
+        "text": "NgÆ°á»i dÃ¢n mua nhÃ  á» má»i."
       }
     ],
-    "correctAnswerText": "Doanh nghiệp mua cổ phiếu trên thị trường chứng khoán."
+    "correctAnswerText": "Doanh nghiá»p mua cá» phiáº¿u trÃªn thá» trÆ°á»ng chá»©ng khoÃ¡n."
   },
   {
     "questionNumber": "4",
-    "questionText": "Khi thực hiện chính sách tài khoá, Chính phủ có thể dùng các công cụ nào?",
+    "questionText": "Khi thá»±c hiá»n chÃ­nh sÃ¡ch tÃ i khoÃ¡, ChÃ­nh phá»§ cÃ³ thá» dÃ¹ng cÃ¡c cÃ´ng cá»¥ nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Giá cả và tiền lương."
+        "text": "GiÃ¡ cáº£ vÃ  tiá»n lÆ°Æ¡ng."
       },
       {
         "label": "B",
-        "text": "Thuế quan và hạn ngạch."
+        "text": "Thuáº¿ quan vÃ  háº¡n ngáº¡ch."
       },
       {
         "label": "C",
-        "text": "Thuế và chi tiêu của Chính phủ."
+        "text": "Thuáº¿ vÃ  chi tiÃªu cá»§a ChÃ­nh phá»§."
       },
       {
         "label": "D",
-        "text": "Tỷ giá hối đoái."
+        "text": "Tá»· giÃ¡ há»i ÄoÃ¡i."
       }
     ],
-    "correctAnswerText": "Thuế và chi tiêu của Chính phủ."
+    "correctAnswerText": "Thuáº¿ vÃ  chi tiÃªu cá»§a ChÃ­nh phá»§."
   },
   {
     "questionNumber": "4",
-    "questionText": "Nguyên nhân của sự rời rạc, phân mảnh của logistics trong giai đoạn trước những năm 1960 là gì?",
+    "questionText": "NguyÃªn nhÃ¢n cá»§a sá»± rá»i ráº¡c, phÃ¢n máº£nh cá»§a logistics trong giai Äoáº¡n trÆ°á»c nhá»¯ng nÄm 1960 lÃ  gÃ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Thiếu hiểu biết về tầm quan trọng của chi phí đánh đổi giữa nỗ lực logistics và các chức năng khác."
+        "text": "Thiáº¿u hiá»u biáº¿t vá» táº§m quan trá»ng cá»§a chi phÃ­ ÄÃ¡nh Äá»i giá»¯a ná» lá»±c logistics vÃ  cÃ¡c chá»©c nÄng khÃ¡c."
       },
       {
         "label": "B",
-        "text": "Không có yêu cầu lớn về hoạt động logistics"
+        "text": "KhÃ´ng cÃ³ yÃªu cáº§u lá»n vá» hoáº¡t Äá»ng logistics"
       },
       {
         "label": "C",
-        "text": "Cả ba đáp án còn lại đều đúng"
+        "text": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
       },
       {
         "label": "D",
-        "text": "Thị trường hàng hoá thuộc về người bán, cầu vượt quá cung"
+        "text": "Thá» trÆ°á»ng hÃ ng hoÃ¡ thuá»c vá» ngÆ°á»i bÃ¡n, cáº§u vÆ°á»£t quÃ¡ cung"
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+    "correctAnswerText": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   },
   {
     "questionNumber": "5",
-    "questionText": "Bước sang thế kỷ XXI, yếu tố nào giúp định hình các chuỗi cung ứng toàn cầu?",
+    "questionText": "BÆ°á»c sang tháº¿ ká»· XXI, yáº¿u tá» nÃ o giÃºp Äá»nh hÃ¬nh cÃ¡c chuá»i cung á»©ng toÃ n cáº§u?",
     "options": [
       {
         "label": "A",
-        "text": "Sự phát triển của công nghệ thông tin, máy tính"
+        "text": "Sá»± phÃ¡t triá»n cá»§a cÃ´ng nghá» thÃ´ng tin, mÃ¡y tÃ­nh"
       },
       {
         "label": "B",
-        "text": "Sự bùng nổ của Internet"
+        "text": "Sá»± bÃ¹ng ná» cá»§a Internet"
       },
       {
         "label": "C",
-        "text": "Gia tăng các liên kết quốc tế"
+        "text": "Gia tÄng cÃ¡c liÃªn káº¿t quá»c táº¿"
       },
       {
         "label": "D",
-        "text": "Cả 3 đáp án còn lại đều đúng"
+        "text": "Cáº£ 3 ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
       }
     ],
-    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
+    "correctAnswerText": "Cáº£ 3 ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   },
   {
     "questionNumber": "5",
-    "questionText": "Giá trị GDP thực của một nền kinh tế tăng phản ánh mức tăng:",
+    "questionText": "GiÃ¡ trá» GDP thá»±c cá»§a má»t ná»n kinh táº¿ tÄng pháº£n Ã¡nh mÆ°Ìc tÄng:",
     "options": [
       {
         "label": "A",
-        "text": "Của tổng cầu tiêu dùng về hàng hóa và dịch vụ trong nền kinh tế."
+        "text": "Cá»§a tá»ng cáº§u tiÃªu dÃ¹ng vá» hÃ ng hÃ³a vÃ  dá»ch vá»¥ trong ná»n kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Của mức giá chung trong nền kinh tế."
+        "text": "Cá»§a má»©c giÃ¡ chung trong ná»n kinh táº¿."
       },
       {
         "label": "C",
-        "text": "Đồng thời của tổng sản lượng và mức giá chung của nền kinh tế."
+        "text": "Äá»ng thá»i cá»§a tá»ng sáº£n lÆ°á»£ng vÃ  má»©c giÃ¡ chung cá»§a ná»n kinh táº¿."
       },
       {
         "label": "D",
-        "text": "Của tổng sản lượng của nền kinh tế."
+        "text": "Cá»§a tá»ng sáº£n lÆ°á»£ng cá»§a ná»n kinh táº¿."
       }
     ],
-    "correctAnswerText": "Của tổng sản lượng của nền kinh tế."
+    "correctAnswerText": "Cá»§a tá»ng sáº£n lÆ°á»£ng cá»§a ná»n kinh táº¿."
   },
   {
     "questionNumber": "5",
-    "questionText": "Mức sản lượng cân bằng trong dài hạn của nền kinh tế:",
+    "questionText": "Má»©c sáº£n lÆ°á»£ng cÃ¢n báº±ng trong dÃ i háº¡n cá»§a nÃªÌn kinh tÃªÌ:",
     "options": [
       {
         "label": "A",
-        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "LuÃ´n lá»n hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
+        "text": "LuÃ´n báº±ng má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "C",
-        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "CÃ³ thá» nhá» hÆ¡n hoáº·c lá»n hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "D",
-        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "LuÃ´n nhá» hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       }
     ],
-    "correctAnswerText": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
+    "correctAnswerText": "LuÃ´n báº±ng má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
   },
   {
     "questionNumber": "5",
-    "questionText": "Nếu xu hướng nhập khẩu cận biên MPM > 0 thì số nhân chi tiêu của nền kinh tế đóng so với số nhân chi tiêu của nền kinh tế mở:",
+    "questionText": "Mức độ sẵn sàng liên lạc, giao tiếp và thấu hiểu nhu cầu khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
     "options": [
       {
         "label": "A",
-        "text": "Có thể lớn hơn hoặc nhỏ hơn."
+        "text": "Linh hoạt đối với khách hàng"
       },
       {
         "label": "B",
-        "text": "Lớn hơn."
+        "text": "Tùy chỉnh đối với khách hàng"
       },
       {
         "label": "C",
-        "text": "Nhỏ hơn."
+        "text": "Gần gũi đối với khách hàng"
       },
       {
         "label": "D",
-        "text": "Bằng nhau."
+        "text": "Dễ tiếp cận đối với khách hàng"
       }
     ],
-    "correctAnswerText": "Lớn hơn."
+    "correctAnswerText": "Gần gũi đối với khách hàng"
   },
   {
     "questionNumber": "5",
-    "questionText": "Yếu tố nào sau đây là yếu tố cơ bản của chứng từ kế toán:",
+    "questionText": "Náº¿u xu hÆ°á»ng nháº­p kháº©u cáº­n biÃªn MPM > 0 thÃ¬ sá» nhÃ¢n chi tiÃªu cá»§a ná»n kinh táº¿ ÄÃ³ng so vá»i sá» nhÃ¢n chi tiÃªu cá»§a ná»n kinh táº¿ má»:",
     "options": [
       {
         "label": "A",
-        "text": "Hình thức thanh toán"
+        "text": "CÃ³ thá» lá»n hÆ¡n hoáº·c nhá» hÆ¡n."
       },
       {
         "label": "B",
-        "text": "Mã số thuế của doanh nghiệp"
+        "text": "Lá»n hÆ¡n."
       },
       {
         "label": "C",
-        "text": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+        "text": "Nhá» hÆ¡n."
       },
       {
         "label": "D",
-        "text": "Thuế suất thuế GTGT"
+        "text": "BÄÌng nhau."
       }
     ],
-    "correctAnswerText": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+    "correctAnswerText": "Lá»n hÆ¡n."
+  },
+  {
+    "questionNumber": "5",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y lÃ  yáº¿u tá» cÆ¡ báº£n cá»§a chá»©ng tá»« káº¿ toÃ¡n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "HÃ¬nh thá»©c thanh toÃ¡n"
+      },
+      {
+        "label": "B",
+        "text": "MÃ£ sá» thuáº¿ cá»§a doanh nghiá»p"
+      },
+      {
+        "label": "C",
+        "text": "TÃªn, Äá»a chá» cá»§a ÄÆ¡n vá», cÃ¡ nhÃ¢n láº­p vÃ  nháº­n chá»©ng tá»« káº¿ toÃ¡n"
+      },
+      {
+        "label": "D",
+        "text": "Thuáº¿ suáº¥t thuáº¿ GTGT"
+      }
+    ],
+    "correctAnswerText": "TÃªn, Äá»a chá» cá»§a ÄÆ¡n vá», cÃ¡ nhÃ¢n láº­p vÃ  nháº­n chá»©ng tá»« káº¿ toÃ¡n"
   },
   {
     "questionNumber": "6",
-    "questionText": "Điều nào dưới đây sẽ có xu hướng làm tăng tổng cầu (AD):",
+    "questionText": "Äiá»u nÃ o dÆ°á»i ÄÃ¢y sáº½ cÃ³ xu hÆ°á»ng lÃ m tÄng tá»ng cáº§u (AD):",
     "options": [
       {
         "label": "A",
-        "text": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+        "text": "Há» gia ÄÃ¬nh tÄng chi tiÃªu cho tiÃªu dÃ¹ng."
       },
       {
         "label": "B",
-        "text": "Nhập khẩu của quốc gia tăng."
+        "text": "Nháº­p kháº©u cá»§a quá»c gia tÄng."
       },
       {
         "label": "C",
-        "text": "Chính phủ giảm chi tiêu đầu tư công."
+        "text": "ChÃ­nh phá»§ giáº£m chi tiÃªu Äáº§u tÆ° cÃ´ng."
       },
       {
         "label": "D",
-        "text": "Chính phủ tăng thuế."
+        "text": "ChÃ­nh phá»§ tÄng thuáº¿."
       }
     ],
-    "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+    "correctAnswerText": "Há» gia ÄÃ¬nh tÄng chi tiÃªu cho tiÃªu dÃ¹ng."
   },
   {
     "questionNumber": "6",
-    "questionText": "Khi bán sản phẩm hàng hóa, giá ghi trên hóa đơn GTGT là:",
+    "questionText": "Khi bÃ¡n sáº£n pháº©m hÃ ng hÃ³a, giÃ¡ ghi trÃªn hÃ³a ÄÆ¡n GTGT lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giá thỏa thuận giữa bên mua và bên bán"
+        "text": "GiÃ¡ thá»a thuáº­n giá»¯a bÃªn mua vÃ  bÃªn bÃ¡n"
       },
       {
         "label": "B",
-        "text": "Giá gốc của sản phẩm hàng hoá"
+        "text": "GiÃ¡ gá»c cá»§a sáº£n pháº©m hÃ ng hoÃ¡"
       },
       {
         "label": "C",
-        "text": "Giá vốn"
+        "text": "GiÃ¡ vá»n"
       },
       {
         "label": "D",
-        "text": "Giá thị trường"
+        "text": "GiÃ¡ thá» trÆ°á»ng"
       }
     ],
-    "correctAnswerText": "Giá thỏa thuận giữa bên mua và bên bán"
+    "correctAnswerText": "GiÃ¡ thá»a thuáº­n giá»¯a bÃªn mua vÃ  bÃªn bÃ¡n"
   },
   {
     "questionNumber": "6",
-    "questionText": "Khi chính phủ tăng tỷ suất thuế (t) sẽ làm cho giá trị của số nhân chi tiêu trong nền kinh tế mở:",
+    "questionText": "Khi chÃ­nh phá»§ tÄng tá»· suáº¥t thuáº¿ (t) sáº½ lÃ m cho giÃ¡ trá» cá»§a sá» nhÃ¢n chi tiÃªu trong ná»n kinh táº¿ má»:",
     "options": [
       {
         "label": "A",
-        "text": "Giảm"
+        "text": "Giáº£m"
       },
       {
         "label": "B",
-        "text": "Không đổi"
+        "text": "KhÃ´ng Äá»i"
       },
       {
         "label": "C",
-        "text": "Âm"
+        "text": "Ãm"
       },
       {
         "label": "D",
-        "text": "Tăng"
+        "text": "TÄng"
       }
     ],
-    "correctAnswerText": "Giảm"
+    "correctAnswerText": "Giáº£m"
   },
   {
     "questionNumber": "6",
-    "questionText": "Nếu Việt Nam có GDP lớn hơn GNP, thì:",
+    "questionText": "Náº¿u Viá»t Nam cÃ³ GDP lá»n hÆ¡n GNP, thÃ¬:",
     "options": [
       {
         "label": "A",
-        "text": "GDP thực của Việt Nam nhỏ hơn GNP danh nghĩa"
+        "text": "GDP thá»±c cá»§a Viá»t Nam nhá» hÆ¡n GNP danh nghÄ©a"
       },
       {
         "label": "B",
-        "text": "Giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài nhiều hơn so với giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam."
+        "text": "GiÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i Viá»t Nam táº¡o ra á» nÆ°á»c ngoÃ i nhiá»u hÆ¡n so vá»i giÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i nÆ°á»c ngoÃ i táº¡o ra á» Viá»t Nam."
       },
       {
         "label": "C",
-        "text": "GDP thực của Việt Nam lớn hơn GDP danh nghĩa"
+        "text": "GDP thá»±c cá»§a Viá»t Nam lá»n hÆ¡n GDP danh nghÄ©a"
       },
       {
         "label": "D",
-        "text": "Giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam nhiều hơn so với giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài."
+        "text": "GiÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i nÆ°á»c ngoÃ i táº¡o ra á» Viá»t Nam nhiá»u hÆ¡n so vá»i giÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i Viá»t Nam táº¡o ra á» nÆ°á»c ngoÃ i."
       }
     ],
-    "correctAnswerText": "Giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam nhiều hơn so với giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài."
+    "correctAnswerText": "GiÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i nÆ°á»c ngoÃ i táº¡o ra á» Viá»t Nam nhiá»u hÆ¡n so vá»i giÃ¡ trá» sáº£n xuáº¥t mÃ  ngÆ°á»i Viá»t Nam táº¡o ra á» nÆ°á»c ngoÃ i."
   },
   {
     "questionNumber": "6",
-    "questionText": "Quan điểm nào coi logistics và quản lý chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên của logistics?",
+    "questionText": "Quan Äiá»m nÃ o coi logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng lÃ  má»t, chá» ÄÆ¡n giáº£n lÃ  sá»± Äá»i tÃªn cá»§a logistics?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm giao thoa"
+        "text": "Quan Äiá»m giao thoa"
       },
       {
         "label": "B",
-        "text": "Quan điểm đồng nhất"
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Quan Äiá»m truyá»n thá»ng"
       },
       {
         "label": "D",
-        "text": "Quan điểm liên ngành"
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
       }
     ],
-    "correctAnswerText": "Quan điểm đồng nhất"
+    "correctAnswerText": "Quan Äiá»m Äá»ng nháº¥t"
+  },
+  {
+    "questionNumber": "6",
+    "questionText": "Quản trị mục tiêu (MBO) trong logistics và chuỗi cung ứng của doanh nghiệp là một phong cách quản lý dân chủ, phong cách quản lý này có đặc điểm gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lãnh đạo luôn quyết định tất cả các mục tiêu và phương pháp"
+      },
+      {
+        "label": "B",
+        "text": "Mọi quyết định đều do lãnh đạo cấp cao đưa ra mà không có sự tham gia của cấp dưới"
+      },
+      {
+        "label": "C",
+        "text": "Cấp dưới không tham gia vào quá trình thiết lập mục tiêu"
+      },
+      {
+        "label": "D",
+        "text": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
+      }
+    ],
+    "correctAnswerText": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
   },
   {
     "questionNumber": "7",
-    "questionText": "“Với SCM, dòng liên kết thông tin giữa các thành viên khác nhau của chuỗi đóng vai trò quan trọng đối với hiệu quả tổng thể của chuỗi đó.” là phát biểu về trường phái nào trong quản lý chuỗi cung ứng?",
+    "questionText": "âVá»i SCM, dÃ²ng liÃªn káº¿t thÃ´ng tin giá»¯a cÃ¡c thÃ nh viÃªn khÃ¡c nhau cá»§a chuá»i ÄÃ³ng vai trÃ² quan trá»ng Äá»i vá»i hiá»u quáº£ tá»ng thá» cá»§a chuá»i ÄÃ³.â lÃ  phÃ¡t biá»u vá» trÆ°á»ng phÃ¡i nÃ o trong quáº£n lÃ½ chuá»i cung á»©ng?",
     "options": [
       {
         "label": "A",
-        "text": "Trường phái liên kết"
+        "text": "TrÆ°á»ng phÃ¡i liÃªn káº¿t"
       },
       {
         "label": "B",
-        "text": "Trường phái tích hợp"
+        "text": "TrÆ°á»ng phÃ¡i tÃ­ch há»£p"
       },
       {
         "label": "C",
-        "text": "Trường phái chuỗi chức năng"
+        "text": "TrÆ°á»ng phÃ¡i chuá»i chá»©c nÄng"
       },
       {
         "label": "D",
-        "text": "Trường phái thông tin"
+        "text": "TrÆ°á»ng phÃ¡i thÃ´ng tin"
       }
     ],
-    "correctAnswerText": "Trường phái thông tin"
+    "correctAnswerText": "TrÆ°á»ng phÃ¡i thÃ´ng tin"
   },
   {
     "questionNumber": "7",
-    "questionText": "Biết rằng chỉ số giá tiêu dùng của một nề kinh tế năm 2019 là 125%. Phát biểu nào sau đây là đúng?",
+    "questionText": "Biáº¿t ráº±ng chá» sá» giÃ¡ tiÃªu dÃ¹ng cá»§a má»t ná» kinh táº¿ nÄm 2019 lÃ  125%. PhÃ¡t biá»u nÃ o sau ÄÃ¢y lÃ  ÄÃºng?",
     "options": [
       {
         "label": "A",
-        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 125% so với năm gốc."
+        "text": "GiÃ¡ hÃ ng hÃ³a vÃ  dá»ch vá»¥ tiÃªu dÃ¹ng nÄm 2019 tÄng 125% so vá»i nÄm gá»c."
       },
       {
         "label": "B",
-        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 125% so với năm 2018."
+        "text": "GiÃ¡ hÃ ng hÃ³a vÃ  dá»ch vá»¥ tiÃªu dÃ¹ng nÄm 2019 tÄng 125% so vá»i nÄm 2018."
       },
       {
         "label": "C",
-        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm 2018."
+        "text": "GiÃ¡ hÃ ng hÃ³a vÃ  dá»ch vá»¥ tiÃªu dÃ¹ng nÄm 2019 tÄng 25% so vá»i nÄm 2018."
       },
       {
         "label": "D",
-        "text": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm gốc."
+        "text": "GiÃ¡ hÃ ng hÃ³a vÃ  dá»ch vá»¥ tiÃªu dÃ¹ng nÄm 2019 tÄng 25% so vá»i nÄm gá»c."
       }
     ],
-    "correctAnswerText": "Giá hàng hóa và dịch vụ tiêu dùng năm 2019 tăng 25% so với năm gốc."
+    "correctAnswerText": "GiÃ¡ hÃ ng hÃ³a vÃ  dá»ch vá»¥ tiÃªu dÃ¹ng nÄm 2019 tÄng 25% so vá»i nÄm gá»c."
   },
   {
     "questionNumber": "7",
-    "questionText": "Chứng từ kế toán phát sinh ngoài lãnh thổ Việt Nam ghi bằng tiếng nước ngoài, khi sử dụng để ghi sổ kế toán Việt Nam phải được dịch ra tiếng Việt, bản dịch ra tiếng Việt phải đính kèm với bản chính bằng tiếng nước ngoài, là một trong những:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n phÃ¡t sinh ngoÃ i lÃ£nh thá» Viá»t Nam ghi báº±ng tiáº¿ng nÆ°á»c ngoÃ i, khi sá»­ dá»¥ng Äá» ghi sá» káº¿ toÃ¡n Viá»t Nam pháº£i ÄÆ°á»£c dá»ch ra tiáº¿ng Viá»t, báº£n dá»ch ra tiáº¿ng Viá»t pháº£i ÄÃ­nh kÃ¨m vá»i báº£n chÃ­nh báº±ng tiáº¿ng nÆ°á»c ngoÃ i, lÃ  má»t trong nhá»¯ng:",
     "options": [
       {
         "label": "A",
-        "text": "Nội dung của chứng từ kế toán."
+        "text": "Ná»i dung cá»§a chá»©ng tá»« káº¿ toÃ¡n."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc lập chứng từ."
+        "text": "NguyÃªn táº¯c láº­p chá»©ng tá»«."
       },
       {
         "label": "C",
-        "text": "Yêu cầu của chứng từ kế toán."
+        "text": "YÃªu cáº§u cá»§a chá»©ng tá»« káº¿ toÃ¡n."
       },
       {
         "label": "D",
-        "text": "Yếu tố bổ sung của bản chứng từ."
+        "text": "Yáº¿u tá» bá» sung cá»§a báº£n chá»©ng tá»«."
       }
     ],
-    "correctAnswerText": "Yêu cầu của chứng từ kế toán."
+    "correctAnswerText": "YÃªu cáº§u cá»§a chá»©ng tá»« káº¿ toÃ¡n."
   },
   {
     "questionNumber": "7",
-    "questionText": "Giả sử một nền kinh tế mở có số liệu sau: MPC = 0,8; t = 0,1 và MPM = 0,22. Nếu đầu tư tăng thêm 100 (tỷ đồng) thì xuất khẩu ròng (NX) sẽ thay đổi như thế nào?",
+    "questionText": "Giáº£ sá»­ mÃ´Ì£t ná»n kinh táº¿ má» cÃ³ sá» liá»u sau: MPC = 0,8; t = 0,1 vÃ  MPM = 0,22. Náº¿u Äáº§u tÆ° tÄng thÃªm 100 (tá»· Äá»ng) thÃ¬ xuáº¥t kháº©u rÃ²ng (NX) sáº½ thay Äá»i nhÆ° tháº¿ nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Giảm 11"
+        "text": "Giáº£m 11"
       },
       {
         "label": "B",
-        "text": "Giảm 22"
+        "text": "Giáº£m 22"
       },
       {
         "label": "C",
-        "text": "Giảm 88"
+        "text": "Giáº£m 88"
       },
       {
         "label": "D",
-        "text": "Giảm 44"
+        "text": "Giáº£m 44"
       }
     ],
-    "correctAnswerText": "Giảm 44"
+    "correctAnswerText": "Giáº£m 44"
   },
   {
     "questionNumber": "7",
-    "questionText": "Nếu chính phủ đồng thời tăng thuế đánh vào hàng tiêu dùng, hàng hoá đầu tư và nguyên liệu nhập khẩu thì",
+    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp tiếp cận quản trị quá trình (MBP), trưởng mỗi bộ phận không chỉ chịu trách nhiệm về công việc của bộ phận mình mà còn về công việc của bộ phận nào trong doanh nghiệp?",
     "options": [
       {
         "label": "A",
-        "text": "Cả đường tổng cung ngắn hạn và tổng cầu đều dịch chuyển sang phải."
+        "text": "Bộ phận marketing"
       },
       {
         "label": "B",
-        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, đường tổng cầu dịch chuyển sang trái"
+        "text": "Bộ phận nhân sự"
       },
       {
         "label": "C",
-        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, đường tổng cầu dịch chuyển sang phải."
+        "text": "Bộ phận sản xuất"
       },
       {
         "label": "D",
-        "text": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+        "text": "Bộ phận phía sau mình trong quy trình"
       }
     ],
-    "correctAnswerText": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+    "correctAnswerText": "Bộ phận phía sau mình trong quy trình"
+  },
+  {
+    "questionNumber": "7",
+    "questionText": "Náº¿u chÃ­nh phá»§ Äá»ng thá»i tÄng thuáº¿ ÄÃ¡nh vÃ o hÃ ng tiÃªu dÃ¹ng, hÃ ng hoÃ¡ Äáº§u tÆ° vÃ  nguyÃªn liá»u nháº­p kháº©u thÃ¬",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cáº£ ÄÆ°Æ¡Ìng tá»ng cung ngÄÌn haÌ£n vÃ  tá»ng cáº§u Äá»u diÌ£ch chuyÃªÌn sang phaÌi."
+      },
+      {
+        "label": "B",
+        "text": "ÄÆ°á»ng tá»ng cung ngáº¯n háº¡n dá»ch chuyá»n sang pháº£i, ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang trÃ¡i"
+      },
+      {
+        "label": "C",
+        "text": "ÄÆ°á»ng tá»ng cung ngáº¯n háº¡n dá»ch chuyá»n sang trÃ¡i, ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang pháº£i."
+      },
+      {
+        "label": "D",
+        "text": "Cáº£ ÄÆ°á»ng tá»ng cáº§u vÃ  ÄÆ°á»ng tá»ng cung ngÄÌn haÌ£n dá»ch chuyá»n sang trÃ¡i"
+      }
+    ],
+    "correctAnswerText": "Cáº£ ÄÆ°á»ng tá»ng cáº§u vÃ  ÄÆ°á»ng tá»ng cung ngÄÌn haÌ£n dá»ch chuyá»n sang trÃ¡i"
   },
   {
     "questionNumber": "8",
-    "questionText": "Giả sử có số liệu về xuất nhập khẩu của một nền kinh tế như sau: X = 150 và IM = 50 + 0,1Y. Khi đó, tại mức sản lượng Y bằng bao nhiêu thì cán cân thương mại (NX) sẽ cân bằng?",
+    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Định hướng khách hàng; (2) Định hướng nguồn hàng; (3) Định hướng giá trị; (4) Tối ưu hóa",
+    "options": [
+      {
+        "label": "A",
+        "text": "1, 2, 3"
+      },
+      {
+        "label": "B",
+        "text": "2, 3, 4"
+      },
+      {
+        "label": "C",
+        "text": "1, 3, 4"
+      },
+      {
+        "label": "D",
+        "text": "1, 2, 4"
+      }
+    ],
+    "correctAnswerText": "1, 3, 4"
+  },
+  {
+    "questionNumber": "8",
+    "questionText": "Giáº£ sá»­ cÃ³ sá» liá»u vá» xuáº¥t nháº­p kháº©u cá»§a má»t ná»n kinh táº¿ nhÆ° sau: X = 150 vaÌ IM = 50 + 0,1Y. Khi ÄÃ³, táº¡i má»©c sáº£n lÆ°á»£ng Y báº±ng bao nhiÃªu thÃ¬ cÃ¡n cÃ¢n thÆ°Æ¡ng máº¡i (NX) sáº½ cÃ¢n báº±ng?",
     "options": [
       {
         "label": "A",
@@ -829,76 +1013,76 @@
   },
   {
     "questionNumber": "8",
-    "questionText": "Khi kiểm tra chứng từ, nếu phát hiện hành vi gian lận, vi phạm pháp luật, kế toán:",
+    "questionText": "Khi kiá»m tra chá»©ng tá»«, náº¿u phÃ¡t hiá»n hÃ nh vi gian láº­n, vi pháº¡m phÃ¡p luáº­t, káº¿ toÃ¡n:",
     "options": [
       {
         "label": "A",
-        "text": "Không cần báo cáo kế toán trưởng và lãnh đạo đơn vị."
+        "text": "KhÃ´ng cáº§n bÃ¡o cÃ¡o káº¿ toÃ¡n trÆ°á»ng vÃ  lÃ£nh Äáº¡o ÄÆ¡n vá»."
       },
       {
         "label": "B",
-        "text": "Vẫn dùng để ghi sổ kế toán."
+        "text": "Váº«n dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
       },
       {
         "label": "C",
-        "text": "Sửa chữa lại những nội dung bị sai lệch."
+        "text": "Sá»­a chá»¯a láº¡i nhá»¯ng ná»i dung bá» sai lá»ch."
       },
       {
         "label": "D",
-        "text": "Không dùng để ghi sổ kế toán."
+        "text": "KhÃ´ng dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
       }
     ],
-    "correctAnswerText": "Không dùng để ghi sổ kế toán."
+    "correctAnswerText": "KhÃ´ng dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
   },
   {
     "questionNumber": "8",
-    "questionText": "Quan điểm nào đặt quản lý chuỗi cung ứng ở vị trí chiến lược nhiều hơn và ít chú trọng ở tầm chiến thuật?",
+    "questionText": "Quan Äiá»m nÃ o Äáº·t quáº£n lÃ½ chuá»i cung á»©ng á» vá» trÃ­ chiáº¿n lÆ°á»£c nhiá»u hÆ¡n vÃ  Ã­t chÃº trá»ng á» táº§m chiáº¿n thuáº­t?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Quan Äiá»m giao thoa"
       },
       {
         "label": "C",
-        "text": "Quan điểm liên ngành"
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
       },
       {
         "label": "D",
-        "text": "Quan điểm truyền thống"
+        "text": "Quan Äiá»m truyá»n thá»ng"
       }
     ],
-    "correctAnswerText": "Quan điểm giao thoa"
+    "correctAnswerText": "Quan Äiá»m giao thoa"
   },
   {
     "questionNumber": "8",
-    "questionText": "Sự thay đổi nào sau đây sẽ gây ra hiện tượng dịch chuyển sang phải của đường tổng cầu (AD)?",
+    "questionText": "Sá»± thay Äá»i nÃ o sau ÄÃ¢y sáº½ gÃ¢y ra hiá»n tÆ°á»£ng dá»ch chuyá»n sang pháº£i cá»§a ÄÆ°á»ng tÃ´Ìng cáº§u (AD)?",
     "options": [
       {
         "label": "A",
-        "text": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
+        "text": "ChÃ­nh phá»§ tÄng chi tiÃªu Äá» mua hÃ ng hÃ³a vÃ  dá»ch vá»¥ trong ná»n kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Mức giá chung tăng"
+        "text": "Má»©c giÃ¡ chung tÄng"
       },
       {
         "label": "C",
-        "text": "Mức giá chung giảm"
+        "text": "Má»©c giÃ¡ chung giáº£m"
       },
       {
         "label": "D",
-        "text": "Nhu cầu nhập khẩu của quốc gia tăng."
+        "text": "Nhu cáº§u nháº­p kháº©u cá»§a quá»c gia tÄng."
       }
     ],
-    "correctAnswerText": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
+    "correctAnswerText": "ChÃ­nh phá»§ tÄng chi tiÃªu Äá» mua hÃ ng hÃ³a vÃ  dá»ch vá»¥ trong ná»n kinh táº¿."
   },
   {
     "questionNumber": "8",
-    "questionText": "Trong nền kinh tế mở, biểu thức nào dưới đây là đúng?",
+    "questionText": "Trong ná»n kinh táº¿ má», biá»u thá»©c nÃ o dÆ°á»i ÄÃ¢y lÃ  ÄÃºng?",
     "options": [
       {
         "label": "A",
@@ -921,76 +1105,99 @@
   },
   {
     "questionNumber": "9",
-    "questionText": "Chứng từ kế toán có tính sử liệu, có ý nghĩa quan trọng về kinh tế, an ninh, quốc phòng phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n cÃ³ tÃ­nh sá»­ liá»u, cÃ³ Ã½ nghÄ©a quan trá»ng vá» kinh táº¿, an ninh, quá»c phÃ²ng pháº£i ÄÆ°á»£c lÆ°u trá»¯ Ã­t nháº¥t theo thá»i háº¡n nÃ o sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "Lưu trữ vĩnh viễn"
+        "text": "LÆ°u trá»¯ vÄ©nh viá»n"
       },
       {
         "label": "B",
-        "text": "15 năm"
+        "text": "15 nÄm"
       },
       {
         "label": "C",
-        "text": "5 năm"
+        "text": "5 nÄm"
       },
       {
         "label": "D",
-        "text": "10 năm"
+        "text": "10 nÄm"
       }
     ],
-    "correctAnswerText": "Lưu trữ vĩnh viễn"
+    "correctAnswerText": "LÆ°u trá»¯ vÄ©nh viá»n"
   },
   {
     "questionNumber": "9",
-    "questionText": "Giả sử có số liệu của một nền kinh tế như sau (Đơn vị: tỷ USD): GDP = 40.000, C = 28.100, G = 4.500, NX = 1.900. Mức đầu tư (I)của nền kinh tế này là bao nhiêu?",
+    "questionText": "Định hướng khách hàng trong quản trị logistics và chuỗi cung ứng được hiểu như thế nào?",
     "options": [
       {
         "label": "A",
-        "text": "5.500 tỷ USD"
+        "text": "Khả năng dự đoán trước nhu cầu khách hàng"
       },
       {
         "label": "B",
-        "text": "5.050 tỷ USD"
+        "text": "Giảm giá sản phẩm để thu hút khách hàng"
       },
       {
         "label": "C",
-        "text": "9.300 tỷ USD"
+        "text": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
       },
       {
         "label": "D",
-        "text": "5.000 tỷ USD"
+        "text": "Lợi nhuận mà doanh nghiệp thu được từ khách hàng"
       }
     ],
-    "correctAnswerText": "5.500 tỷ USD"
+    "correctAnswerText": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
   },
   {
     "questionNumber": "9",
-    "questionText": "Những khoản nào sau đây được tính vào đầu tư của nền kinh tế?",
+    "questionText": "Giáº£ sá»­ cÃ³ sá» liá»u cá»§a má»t ná»n kinh táº¿ nhÆ° sau (ÄÆ¡n vá»: tá»· USD): GDP = 40.000, C = 28.100, G = 4.500, NX = 1.900. Má»©c Äáº§u tÆ° (I)cá»§a ná»n kinh táº¿ nÃ y lÃ  bao nhiÃªu?",
     "options": [
       {
         "label": "A",
-        "text": "Đầu tư mua chứng khoán công ty"
+        "text": "5.500 tá»· USD"
       },
       {
         "label": "B",
-        "text": "Đầu tư xây dựng văn phòng mới của công ty"
+        "text": "5.050 tá»· USD"
       },
       {
         "label": "C",
-        "text": "Đầu tư mua lại nhà xưởng cũ"
+        "text": "9.300 tá»· USD"
       },
       {
         "label": "D",
-        "text": "Đầu tư mua trái phiếu chính phủ"
+        "text": "5.000 tá»· USD"
       }
     ],
-    "correctAnswerText": "Đầu tư xây dựng văn phòng mới của công ty"
+    "correctAnswerText": "5.500 tá»· USD"
   },
   {
     "questionNumber": "9",
-    "questionText": "Theo định luật OKun, để giảm tỷ lệ thất nghiệp 1%/năm thì tốc độ tăng trưởng GDP (%/năm) là khoảng:",
+    "questionText": "Nhá»¯ng khoáº£n nÃ o sau ÄÃ¢y ÄÆ°á»£c tÃ­nh vÃ o Äáº§u tÆ° cá»§a ná»n kinh táº¿?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Äáº§u tÆ° mua chá»©ng khoÃ¡n cÃ´ng ty"
+      },
+      {
+        "label": "B",
+        "text": "Äáº§u tÆ° xÃ¢y dá»±ng vÄn phÃ²ng má»i cá»§a cÃ´ng ty"
+      },
+      {
+        "label": "C",
+        "text": "Äáº§u tÆ° mua láº¡i nhÃ  xÆ°á»ng cÅ©"
+      },
+      {
+        "label": "D",
+        "text": "Äáº§u tÆ° mua trÃ¡i phiáº¿u chÃ­nh phá»§"
+      }
+    ],
+    "correctAnswerText": "Äáº§u tÆ° xÃ¢y dá»±ng vÄn phÃ²ng má»i cá»§a cÃ´ng ty"
+  },
+  {
+    "questionNumber": "9",
+    "questionText": "Theo Äá»nh luáº­t OKun, Äá» giáº£m tá»· lá» tháº¥t nghiá»p 1%/nÄm thÃ¬ tá»c Äá» tÄng trÆ°á»ng GDP (%/nÄm) lÃ  khoaÌng:",
     "options": [
       {
         "label": "A",
@@ -1013,7 +1220,7 @@
   },
   {
     "questionNumber": "9",
-    "questionText": "Vào năm 1956, phát kiến nào trong lĩnh vực vận tải và logistics đã tạo ra cuộc cách mạng trong tái cấu trúc và hiện đại hoá thương mại thế giới?",
+    "questionText": "VÃ o nÄm 1956, phÃ¡t kiáº¿n nÃ o trong lÄ©nh vá»±c váº­n táº£i vÃ  logistics ÄÃ£ táº¡o ra cuá»c cÃ¡ch máº¡ng trong tÃ¡i cáº¥u trÃºc vÃ  hiá»n Äáº¡i hoÃ¡ thÆ°Æ¡ng máº¡i tháº¿ giá»i?",
     "options": [
       {
         "label": "A",
@@ -1025,593 +1232,708 @@
       },
       {
         "label": "C",
-        "text": "Kênh đào Panama"
+        "text": "KÃªnh ÄÃ o Panama"
       },
       {
         "label": "D",
-        "text": "Các siêu tàu biển"
+        "text": "CÃ¡c siÃªu tÃ u biá»n"
       }
     ],
     "correctAnswerText": "Container"
   },
   {
     "questionNumber": "10",
-    "questionText": "Điểm khác nhau giữa số nhân thuế và số nhân chi tiêu là:",
+    "questionText": "Äá»i tÆ°á»£ng nÃ o sau ÄÃ¢y KHÃNG pháº£i chá»u trÃ¡ch nhiá»m vá» ná»i dung cá»§a chá»©ng tá»«:",
     "options": [
       {
         "label": "A",
-        "text": "Số nhân thuế thì âm, số nhân chi tiêu thì dương"
+        "text": "NgÆ°á»i chuyá»n giao chá»©ng tá»«"
       },
       {
         "label": "B",
-        "text": "Số nhân chi tiêu luôn lớn hơn 1, số nhân thuế nhỏ hơn 1."
+        "text": "Nhá»¯ng ngÆ°á»i kÃ½ tÃªn trÃªn chá»©ng tá»«"
       },
       {
         "label": "C",
-        "text": "Số nhân thuế luôn luôn lớn hơn số nhân chi tiêu"
+        "text": "NgÆ°á»i láº­p"
       },
       {
         "label": "D",
-        "text": "Số nhân thuế luôn luôn bằng số nhân chi tiêu"
+        "text": "NgÆ°á»i duyá»t chá»©ng tá»«"
       }
     ],
-    "correctAnswerText": "Số nhân thuế thì âm, số nhân chi tiêu thì dương"
+    "correctAnswerText": "NgÆ°á»i chuyá»n giao chá»©ng tá»«"
   },
   {
     "questionNumber": "10",
-    "questionText": "Đối tượng nào sau đây KHÔNG phải chịu trách nhiệm về nội dung của chứng từ:",
+    "questionText": "Äiá»m khÃ¡c nhau giá»¯a sá» nhÃ¢n thuáº¿ vÃ  sá» nhÃ¢n chi tiÃªu lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Người chuyển giao chứng từ"
+        "text": "Sá» nhÃ¢n thuáº¿ thÃ¬ Ã¢m, sá» nhÃ¢n chi tiÃªu thÃ¬ dÆ°Æ¡ng"
       },
       {
         "label": "B",
-        "text": "Những người ký tên trên chứng từ"
+        "text": "Sá» nhÃ¢n chi tiÃªu luÃ´n lá»n hÆ¡n 1, sá» nhÃ¢n thuáº¿ nhá» hÆ¡n 1."
       },
       {
         "label": "C",
-        "text": "Người lập"
+        "text": "Sá» nhÃ¢n thuáº¿ luÃ´n luÃ´n lá»n hÆ¡n sá» nhÃ¢n chi tiÃªu"
       },
       {
         "label": "D",
-        "text": "Người duyệt chứng từ"
+        "text": "Sá» nhÃ¢n thuáº¿ luÃ´n luÃ´n báº±ng sá» nhÃ¢n chi tiÃªu"
       }
     ],
-    "correctAnswerText": "Người chuyển giao chứng từ"
+    "correctAnswerText": "Sá» nhÃ¢n thuáº¿ thÃ¬ Ã¢m, sá» nhÃ¢n chi tiÃªu thÃ¬ dÆ°Æ¡ng"
   },
   {
     "questionNumber": "10",
-    "questionText": "Giá trị nào nhỏ nhất trong những giá trị được đo lường sau đây:",
+    "questionText": "Cho biết vai trò của Chính phủ đối với ngành logistics thương mại?",
     "options": [
       {
         "label": "A",
-        "text": "Thu nhập khả dụng (YD)."
+        "text": "Cung cấp các dịch vụ logistics giá rẻ cho doanh nghiệp"
       },
       {
         "label": "B",
-        "text": "Thu nhập quốc dân (Y)."
+        "text": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
       },
       {
         "label": "C",
-        "text": "Tổng sản phẩm quốc dân (GNP)."
+        "text": "Ổn định thị trường xuất khẩu"
       },
       {
         "label": "D",
-        "text": "Sản phẩm quốc dân ròng (NNP)."
+        "text": "Thúc đẩy sự cạnh tranh giữa các công ty logistics"
       }
     ],
-    "correctAnswerText": "Thu nhập khả dụng (YD)."
+    "correctAnswerText": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
   },
   {
     "questionNumber": "10",
-    "questionText": "Mục tiêu của kinh tế vĩ mô bao gồm:",
+    "questionText": "GiÃ¡ trá» nÃ o nhá» nháº¥t trong nhá»¯ng giÃ¡ trá» ÄÆ°á»£c Äo lÆ°á»ng sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+        "text": "Thu nháº­p kháº£ dá»¥ng (YD)."
       },
       {
         "label": "B",
-        "text": "Cắt giảm chi phí sản xuất."
+        "text": "Thu nháº­p quá»c dÃ¢n (Y)."
       },
       {
         "label": "C",
-        "text": "Tối đa hóa lợi nhuận của doanh nghiệp."
+        "text": "Tá»ng sáº£n pháº©m quá»c dÃ¢n (GNP)."
       },
       {
         "label": "D",
-        "text": "Tăng thị phần bán hàng."
+        "text": "Sáº£n pháº©m quá»c dÃ¢n rÃ²ng (NNP)."
       }
     ],
-    "correctAnswerText": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+    "correctAnswerText": "Thu nháº­p kháº£ dá»¥ng (YD)."
   },
   {
     "questionNumber": "10",
-    "questionText": "Trường phái chuỗi chức năng nhấn mạnh vào yếu tố nào sau đây?",
+    "questionText": "Má»¥c tiÃªu cá»§a kinh táº¿ vÄ© mÃ´ bao gá»m:",
     "options": [
       {
         "label": "A",
-        "text": "Quá trình gia tăng giá trị cho sản phẩm"
+        "text": "TÄng trÆ°á»ng kinh táº¿, giáº£m tá»· lá» tháº¥t nghiá»p vÃ  á»n Äá»nh giÃ¡ cáº£."
       },
       {
         "label": "B",
-        "text": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+        "text": "Cáº¯t giáº£m chi phÃ­ sáº£n xuáº¥t."
       },
       {
         "label": "C",
-        "text": "Liên kết giữa các chức năng trong chuỗi cung ứng"
+        "text": "Tá»i Äa hÃ³a lá»£i nhuáº­n cá»§a doanh nghiá»p."
       },
       {
         "label": "D",
-        "text": "Dòng vận động nguyên vật liệu và hàng hoá"
+        "text": "TÄng thá» pháº§n bÃ¡n hÃ ng."
       }
     ],
-    "correctAnswerText": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+    "correctAnswerText": "TÄng trÆ°á»ng kinh táº¿, giáº£m tá»· lá» tháº¥t nghiá»p vÃ  á»n Äá»nh giÃ¡ cáº£."
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "TrÆ°á»ng phÃ¡i chuá»i chá»©c nÄng nháº¥n máº¡nh vÃ o yáº¿u tá» nÃ o sau ÄÃ¢y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "QuÃ¡ trÃ¬nh gia tÄng giÃ¡ trá» cho sáº£n pháº©m"
+      },
+      {
+        "label": "B",
+        "text": "DÃ²ng váº­n Äá»ng nguyÃªn váº­t liá»u, hÃ ng hoÃ¡ vÃ  quÃ¡ trÃ¬nh gia tÄng giÃ¡ trá» cho sáº£n pháº©m"
+      },
+      {
+        "label": "C",
+        "text": "LiÃªn káº¿t giá»¯a cÃ¡c chá»©c nÄng trong chuá»i cung á»©ng"
+      },
+      {
+        "label": "D",
+        "text": "DÃ²ng váº­n Äá»ng nguyÃªn váº­t liá»u vÃ  hÃ ng hoÃ¡"
+      }
+    ],
+    "correctAnswerText": "DÃ²ng váº­n Äá»ng nguyÃªn váº­t liá»u, hÃ ng hoÃ¡ vÃ  quÃ¡ trÃ¬nh gia tÄng giÃ¡ trá» cho sáº£n pháº©m"
   },
   {
     "questionNumber": "11",
-    "questionText": "Công thức “Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối” là thể hiện quan điểm nào khi phân định phạm vi quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "CÃ´ng thá»©c âQuáº£n lÃ½ chuá»i cung á»©ng = Quáº£n lÃ½ cung á»©ng + Logistics + Quáº£n lÃ½ phÃ¢n phá»iâ lÃ  thá» hiá»n quan Äiá»m nÃ o khi phÃ¢n Äá»nh pháº¡m vi quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Quan Äiá»m giao thoa"
       },
       {
         "label": "C",
-        "text": "Quan điểm liên ngành"
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
       },
       {
         "label": "D",
-        "text": "Quan điểm truyền thống"
+        "text": "Quan Äiá»m truyá»n thá»ng"
       }
     ],
-    "correctAnswerText": "Quan điểm liên ngành"
+    "correctAnswerText": "Quan Äiá»m liÃªn ngÃ nh"
   },
   {
     "questionNumber": "11",
-    "questionText": "GDP danh nghĩa tăng phản ánh mức tăng của:",
+    "questionText": "GDP danh nghÄ©a tÄng pháº£n Ã¡nh mÆ°Ìc tÄng cuÌa:",
     "options": [
       {
         "label": "A",
-        "text": "Tổng sản lượng trong nền kinh tế"
+        "text": "Tá»ng sáº£n lÆ°á»£ng trong ná»n kinh táº¿"
       },
       {
         "label": "B",
-        "text": "Mức giá chung."
+        "text": "Má»©c giÃ¡ chung."
       },
       {
         "label": "C",
-        "text": "Tổng sản lượng và mức giá chung của nền kinh tế."
+        "text": "Tá»ng sáº£n lÆ°á»£ng vÃ  má»©c giÃ¡ chung cá»§a ná»n kinh táº¿."
       },
       {
         "label": "D",
-        "text": "Tổng cầu về đầu tư."
+        "text": "Tá»ng cáº§u vá» Äáº§u tÆ°."
       }
     ],
-    "correctAnswerText": "Tổng sản lượng và mức giá chung của nền kinh tế."
+    "correctAnswerText": "Tá»ng sáº£n lÆ°á»£ng vÃ  má»©c giÃ¡ chung cá»§a ná»n kinh táº¿."
   },
   {
     "questionNumber": "11",
-    "questionText": "Khi thu nhập bao nhiêu cũng tiêu dùng hết thì đường tiêu dùng sẽ trùng với:",
+    "questionText": "Khi thu nháº­p bao nhiÃªu cÅ©ng tiÃªu dÃ¹ng háº¿t thÃ¬ ÄÆ°á»ng tiÃªu dÃ¹ng seÌ trÃ¹ng vá»i:",
     "options": [
       {
         "label": "A",
-        "text": "Trục tung và đường tiết kiệm trùng với đường 45 độ"
+        "text": "Trá»¥c tung vÃ  ÄÆ°á»ng tiáº¿t kiá»m trÃ¹ng vá»i ÄÆ°á»ng 45 Äá»"
       },
       {
         "label": "B",
-        "text": "Đường 45 độ và đường tiết kiệm trùng với trục hoành."
+        "text": "ÄÆ°á»ng 45 Äá» vÃ  ÄÆ°á»ng tiáº¿t kiá»m trÃ¹ng vá»i trá»¥c hoÃ nh."
       },
       {
         "label": "C",
-        "text": "Đường tiết kiệm và đường 45 độ trùng với trục tung."
+        "text": "ÄÆ°á»ng tiáº¿t kiá»m vÃ  ÄÆ°á»ng 45 Äá» trÃ¹ng vá»i trá»¥c tung."
       },
       {
         "label": "D",
-        "text": "Đường 45 độ và đường tiết kiệm."
+        "text": "ÄÆ°á»ng 45 Äá» vÃ  ÄÆ°á»ng tiáº¿t kiá»m."
       }
     ],
-    "correctAnswerText": "Đường 45 độ và đường tiết kiệm trùng với trục hoành."
+    "correctAnswerText": "ÄÆ°á»ng 45 Äá» vÃ  ÄÆ°á»ng tiáº¿t kiá»m trÃ¹ng vá»i trá»¥c hoÃ nh."
   },
   {
     "questionNumber": "11",
-    "questionText": "Mua công cụ dụng cụ nhập kho, đã thanh toán bằng tiền mặt. Các chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Khía cạnh “Gần gũi với khách hàng” trong định hướng khách hàng đòi hỏi doanh nghiệp phải làm gì?",
     "options": [
       {
         "label": "A",
-        "text": "phiếu xuất kho."
+        "text": "Cải thiện chiến lược phân phối sản phẩm"
       },
       {
         "label": "B",
-        "text": "hóa đơn GTGT, phiếu nhập kho."
+        "text": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
       },
       {
         "label": "C",
-        "text": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+        "text": "Giảm giá sản phẩm để thu hút khách hàng"
       },
       {
         "label": "D",
-        "text": "giấy báo nợ, hóa đơn GTGT."
+        "text": "Tăng cường quảng cáo sản phẩm"
       }
     ],
-    "correctAnswerText": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+    "correctAnswerText": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
   },
   {
     "questionNumber": "11",
-    "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
+    "questionText": "Mua cÃ´ng cá»¥ dá»¥ng cá»¥ nháº­p kho, ÄÃ£ thanh toÃ¡n báº±ng tiá»n mÄÌ£t. CÃ¡c chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Chính sách định giá đối với sản phẩm."
+        "text": "phiáº¿u xuáº¥t kho."
       },
       {
         "label": "B",
-        "text": "Chính sách phát triển thị trường của doanh nghiệp."
+        "text": "hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "C",
-        "text": "Chính sách bảo hành sản phẩm."
+        "text": "phiáº¿u chi, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+        "text": "giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT."
       }
     ],
-    "correctAnswerText": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+    "correctAnswerText": "phiáº¿u chi, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+  },
+  {
+    "questionNumber": "11",
+    "questionText": "Nhá»¯ng chÃ­nh sÃ¡ch nÃ o dÆ°á»i ÄÃ¢y thuá»c chÃ­nh sÃ¡ch kinh táº¿ vÄ© mÃ´?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ChÃ­nh sÃ¡ch Äá»nh giÃ¡ Äá»i vá»i sáº£n pháº©m."
+      },
+      {
+        "label": "B",
+        "text": "ChÃ­nh sÃ¡ch phÃ¡t triá»n thá» trÆ°á»ng cá»§a doanh nghiá»p."
+      },
+      {
+        "label": "C",
+        "text": "ChÃ­nh sÃ¡ch báº£o hÃ nh sáº£n pháº©m."
+      },
+      {
+        "label": "D",
+        "text": "ChÃ­nh sÃ¡ch tÃ i khÃ³a, chÃ­nh sÃ¡ch tiá»n tá», chÃ­nh sÃ¡ch kinh táº¿ Äá»i ngoáº¡i."
+      }
+    ],
+    "correctAnswerText": "ChÃ­nh sÃ¡ch tÃ i khÃ³a, chÃ­nh sÃ¡ch tiá»n tá», chÃ­nh sÃ¡ch kinh táº¿ Äá»i ngoáº¡i."
   },
   {
     "questionNumber": "12",
-    "questionText": "Chứng từ kế toán sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n sá»­ dá»¥ng trá»±c tiáº¿p Äá» ghi sá» káº¿ toÃ¡n vÃ  láº­p bÃ¡o cÃ¡o tÃ i chÃ­nh pháº£i ÄÆ°á»£c lÆ°u trá»¯ Ã­t nháº¥t theo thá»i háº¡n nÃ o sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "10 năm"
+        "text": "10 nÄm"
       },
       {
         "label": "B",
-        "text": "15 năm"
+        "text": "15 nÄm"
       },
       {
         "label": "C",
-        "text": "5 năm"
+        "text": "5 nÄm"
       },
       {
         "label": "D",
-        "text": "Lưu trữ vĩnh viễn"
+        "text": "LÆ°u trá»¯ vÄ©nh viá»n"
       }
     ],
-    "correctAnswerText": "10 năm"
+    "correctAnswerText": "10 nÄm"
   },
   {
     "questionNumber": "12",
-    "questionText": "Giá trị của hoạt động nào sau đây được tính vào GDP của nền kinh tế?",
+    "questionText": "GiÃ¡ trá» cá»§a hoáº¡t Äá»ng nÃ o sau ÄÃ¢y ÄÆ°á»£c tÃ­nh vÃ o GDP cá»§a ná»n kinh táº¿?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp mua máy móc, trang thiết bị, nhà xưởng."
+        "text": "Doanh nghiá»p mua mÃ¡y mÃ³c, trang thiáº¿t bá», nhÃ  xÆ°á»ng."
       },
       {
         "label": "B",
-        "text": "Người dân gửi tiền vào ngân hàng."
+        "text": "NgÆ°á»i dÃ¢n gá»­i tiá»n vÃ o ngÃ¢n hÃ ng."
       },
       {
         "label": "C",
-        "text": "Hộ gia đình tự sản xuất ra sản phẩm để phục vụ cho tiêu dùng hiện tại."
+        "text": "Há» gia ÄÃ¬nh tá»± sáº£n xuáº¥t ra sáº£n pháº©m Äá» phá»¥c vá»¥ cho tiÃªu dÃ¹ng hiá»n táº¡i."
       },
       {
         "label": "D",
-        "text": "Ngân hàng mua cổ phiếu của một công ty mới thành lập."
+        "text": "NgÃ¢n hÃ ng mua cá» phiáº¿u cá»§a má»t cÃ´ng ty má»i thÃ nh láº­p."
       }
     ],
-    "correctAnswerText": "Doanh nghiệp mua máy móc, trang thiết bị, nhà xưởng."
+    "correctAnswerText": "Doanh nghiá»p mua mÃ¡y mÃ³c, trang thiáº¿t bá», nhÃ  xÆ°á»ng."
   },
   {
     "questionNumber": "12",
-    "questionText": "Sự thay đổi nào sau đây gây ra thâm hụt ngân sách nhà nước?",
+    "questionText": "Sá»± thay Äá»i naÌo sau ÄÃ¢y gÃ¢y ra thÃ¢m há»¥t ngÃ¢n sÃ¡ch nhÃ  nÆ°á»c?",
     "options": [
       {
         "label": "A",
-        "text": "Xuất khẩu của quốc gia tăng."
+        "text": "Xuáº¥t kháº©u cá»§a quá»c gia tÄng."
       },
       {
         "label": "B",
-        "text": "Doanh nghiệp tăng đầu tư."
+        "text": "Doanh nghiá»p tÄng Äáº§u tÆ°."
       },
       {
         "label": "C",
-        "text": "Người dân tăng chi tiêu."
+        "text": "NgÆ°á»i dÃ¢n tÄng chi tiÃªu."
       },
       {
         "label": "D",
-        "text": "Chính phủ tăng chi tiêu."
+        "text": "ChÃ­nh phá»§ tÄng chi tiÃªu."
       }
     ],
-    "correctAnswerText": "Chính phủ tăng chi tiêu."
+    "correctAnswerText": "ChÃ­nh phá»§ tÄng chi tiÃªu."
   },
   {
     "questionNumber": "12",
-    "questionText": "Trong điều kiện các yếu tố khác không đổi, khi xuất khẩu của một quốc gia tăng sẽ có thể dẫn đến:",
+    "questionText": "Theo quan điểm truyền thống, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
     "options": [
       {
         "label": "A",
-        "text": "Không làm thay đổi mức giá chung"
+        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
       },
       {
         "label": "B",
-        "text": "Sản lượng cân bằng của nền kinh tế giảm."
+        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
       },
       {
         "label": "C",
-        "text": "Giảm giá của tất cả các hàng hóa và dịch vụ trong nền kinh tế"
+        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
       },
       {
         "label": "D",
-        "text": "Sản lượng cân bằng của nền kinh tế tăng."
+        "text": "Hạ tầng giao thông; Hạ tầng thương mại"
       }
     ],
-    "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
+    "correctAnswerText": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
   },
   {
     "questionNumber": "12",
-    "questionText": "Việc tách logistics ra khỏi chức năng marketing và sản xuất, trở thành một chức năng độc lập là thể hiện đặc điểm gì trong quá trình phát triển logistics và chuỗi cung ứng?",
+    "questionText": "Trong Äiá»u kiá»n cÃ¡c yáº¿u tá» khÃ¡c khÃ´ng Äá»i, khi xuáº¥t kháº©u cá»§a má»t quá»c gia tÄng sáº½ cÃ³ thá» dáº«n Äáº¿n:",
     "options": [
       {
         "label": "A",
-        "text": "Sự phân mảnh"
+        "text": "KhÃ´ng lÃ m thay Äá»i má»©c giÃ¡ chung"
       },
       {
         "label": "B",
-        "text": "Tích hợp toàn chuỗi cung ứng"
+        "text": "Sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ giáº£m."
       },
       {
         "label": "C",
-        "text": "Tích hợp từng phần"
+        "text": "Giáº£m giÃ¡ cá»§a táº¥t cáº£ cÃ¡c hÃ ng hÃ³a vÃ  dá»ch vá»¥ trong ná»n kinh táº¿"
       },
       {
         "label": "D",
-        "text": "Tích hợp toàn doanh nghiệp"
+        "text": "Sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ tÄng."
       }
     ],
-    "correctAnswerText": "Tích hợp toàn doanh nghiệp"
+    "correctAnswerText": "Sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ tÄng."
+  },
+  {
+    "questionNumber": "12",
+    "questionText": "Viá»c tÃ¡ch logistics ra khá»i chá»©c nÄng marketing vÃ  sáº£n xuáº¥t, trá» thÃ nh má»t chá»©c nÄng Äá»c láº­p lÃ  thá» hiá»n Äáº·c Äiá»m gÃ¬ trong quÃ¡ trÃ¬nh phÃ¡t triá»n logistics vÃ  chuá»i cung á»©ng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sá»± phÃ¢n máº£nh"
+      },
+      {
+        "label": "B",
+        "text": "TÃ­ch há»£p toÃ n chuá»i cung á»©ng"
+      },
+      {
+        "label": "C",
+        "text": "TÃ­ch há»£p tá»«ng pháº§n"
+      },
+      {
+        "label": "D",
+        "text": "TÃ­ch há»£p toÃ n doanh nghiá»p"
+      }
+    ],
+    "correctAnswerText": "TÃ­ch há»£p toÃ n doanh nghiá»p"
   },
   {
     "questionNumber": "13",
-    "questionText": "Chứng từ kế toán phản ánh sự vận động của Tiền gửi ngân hàng là:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n pháº£n Ã¡nh sá»± váº­n Äá»ng cá»§a Tiá»n gá»­i ngÃ¢n hÃ ng lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       },
       {
         "label": "B",
-        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+        "text": "HÃ³a ÄÆ¡n GTGT, HÃ³a ÄÆ¡n bÃ¡n hÃ ng"
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       },
       {
         "label": "D",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
   },
   {
     "questionNumber": "13",
-    "questionText": "Khi xu hướng tiêu dùng cận biên tăng, thì:",
+    "questionText": "Khi xu hÆ°á»ng tiÃªu dÃ¹ng cáº­n biÃªn tÄng, thiÌ:",
     "options": [
       {
         "label": "A",
-        "text": "Đường tiết kiệm dịch chuyển song song xuống dưới."
+        "text": "ÄÆ°á»ng tiáº¿t kiá»m dá»ch chuyá»n song song xuá»ng dÆ°á»i."
       },
       {
         "label": "B",
-        "text": "Đường tiêu dùng dịch chuyển song song lên trên."
+        "text": "ÄÆ°á»ng tiÃªu dÃ¹ng dá»ch chuyá»n song song lÃªn trÃªn."
       },
       {
         "label": "C",
-        "text": "Đường tiêu dùng dốc hơn."
+        "text": "ÄÆ°á»ng tiÃªu dÃ¹ng dá»c hÆ¡n."
       },
       {
         "label": "D",
-        "text": "Đường tiêu dùng thoải hơn."
+        "text": "ÄÆ°á»ng tiÃªu dÃ¹ng thoáº£i hÆ¡n."
       }
     ],
-    "correctAnswerText": "Đường tiêu dùng dốc hơn."
+    "correctAnswerText": "ÄÆ°á»ng tiÃªu dÃ¹ng dá»c hÆ¡n."
   },
   {
     "questionNumber": "13",
-    "questionText": "Mức sản lượng cân bằng của nền kinh tế trong ngắn hạn:",
+    "questionText": "Má»©c sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a nÃªÌn kinh tÃªÌ trong ngáº¯n háº¡n:",
     "options": [
       {
         "label": "A",
-        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "LuÃ´n lá»n hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "LuÃ´n nhá» hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "C",
-        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+        "text": "CÃ³ thá» nhá» hÆ¡n hoáº·c lá»n hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       },
       {
         "label": "D",
-        "text": "Bằng mức sản lượng tiềm năng của nền kinh tế."
+        "text": "Báº±ng má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
       }
     ],
-    "correctAnswerText": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+    "correctAnswerText": "CÃ³ thá» nhá» hÆ¡n hoáº·c lá»n hÆ¡n má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿."
   },
   {
     "questionNumber": "13",
-    "questionText": "Tổng sản phẩm trong nước (GDP) là tổng giá trị hàng hoá và dịch vụ cuối cùng:",
+    "questionText": "Tá»ng sáº£n pháº©m trong nÆ°á»c (GDP) lÃ  tá»ng giÃ¡ trá» hÃ ng hoÃ¡ vÃ  dá»ch vá»¥ cuá»i cÃ¹ng:",
     "options": [
       {
         "label": "A",
-        "text": "Do người dân của quốc gia sản xuất ra trong một thời kỳ nhất định."
+        "text": "Do ngÆ°á»i dÃ¢n cá»§a quá»c gia sáº£n xuáº¥t ra trong má»t thá»i ká»³ nháº¥t Äá»nh."
       },
       {
         "label": "B",
-        "text": "Do người dân của quốc gia tạo ra ở trong nước và ở nước ngoài."
+        "text": "Do ngÆ°á»i dÃ¢n cá»§a quá»c gia táº¡o ra á» trong nÆ°á»c vÃ  á» nÆ°á»c ngoÃ i."
       },
       {
         "label": "C",
-        "text": "Do người dân sản xuất ra tại một thời điểm nhất định, ví dụ ngày 31 tháng 12 năm 2020."
+        "text": "Do ngÆ°á»i dÃ¢n sáº£n xuáº¥t ra táº¡i má»t thá»i Äiá»m nháº¥t Äá»nh, vÃ­ dá»¥ ngÃ y 31 thÃ¡ng 12 nÄm 2020."
       },
       {
         "label": "D",
-        "text": "Được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một thời kỳ nhất định."
+        "text": "ÄÆ°á»£c sáº£n xuáº¥t ra trong pháº¡m vi lÃ£nh thá» má»t quá»c gia trong má»t thá»i ká»³ nháº¥t Äá»nh."
       }
     ],
-    "correctAnswerText": "Được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một thời kỳ nhất định."
+    "correctAnswerText": "ÄÆ°á»£c sáº£n xuáº¥t ra trong pháº¡m vi lÃ£nh thá» má»t quá»c gia trong má»t thá»i ká»³ nháº¥t Äá»nh."
   },
   {
     "questionNumber": "13",
-    "questionText": "Trong giai đoạn từ năm 1980 - 1990, yếu tố nào sau đây tác động lớn tới sự phát triển của logistics?",
+    "questionText": "Tập trung vào các khâu lập kế hoạch, tổ chức thực hiện và kiểm soát sự di chuyển và dự trữ sản phẩm, dịch vụ và thông tin trong các chuỗi cung ứng hàng hóa là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
     "options": [
       {
         "label": "A",
-        "text": "Toàn cầu hoá"
+        "text": "Tiếp cận quản trị theo mục tiêu"
       },
       {
         "label": "B",
-        "text": "Ứng dụng rộng rãi của máy tính cá nhân"
+        "text": "Tiếp cận quản trị theo chức năng"
       },
       {
         "label": "C",
-        "text": "Cả 3 đáp án còn lại đều đúng"
+        "text": "Tiếp cận quản trị theo quá trình"
       },
       {
         "label": "D",
-        "text": "Triết lý quản lý chất lượng toàn diện"
+        "text": "Tiếp cận chiến lược"
       }
     ],
-    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
+    "correctAnswerText": "Tiếp cận quản trị theo chức năng"
+  },
+  {
+    "questionNumber": "13",
+    "questionText": "Trong giai Äoáº¡n tá»« nÄm 1980 - 1990, yáº¿u tá» nÃ o sau ÄÃ¢y tÃ¡c Äá»ng lá»n tá»i sá»± phÃ¡t triá»n cá»§a logistics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ToÃ n cáº§u hoÃ¡"
+      },
+      {
+        "label": "B",
+        "text": "á»¨ng dá»¥ng rá»ng rÃ£i cá»§a mÃ¡y tÃ­nh cÃ¡ nhÃ¢n"
+      },
+      {
+        "label": "C",
+        "text": "Cáº£ 3 ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
+      },
+      {
+        "label": "D",
+        "text": "Triáº¿t lÃ½ quáº£n lÃ½ cháº¥t lÆ°á»£ng toÃ n diá»n"
+      }
+    ],
+    "correctAnswerText": "Cáº£ 3 ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   },
   {
     "questionNumber": "14",
-    "questionText": "Đường tổng cung dài hạn là một đường thẳng đứng hàm ý rằng:",
+    "questionText": "ÄÆ°á»ng tá»ng cung dÃ i háº¡n lÃ  má»t ÄÆ°á»ng tháº³ng Äá»©ng hÃ m Ã½ ráº±ng:",
     "options": [
       {
         "label": "A",
-        "text": "Mức giá chung tăng sẽ khuyến khích đổi mới công nghệ và thúc đẩy tăng trưởng kinh tế."
+        "text": "Má»©c giÃ¡ chung tÄng sáº½ khuyáº¿n khÃ­ch Äá»i má»i cÃ´ng nghá» vÃ  thÃºc Äáº©y tÄng trÆ°á»ng kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Đường tổng cung dài hạn sẽ không bao giờ thay đổi vị trí."
+        "text": "ÄÆ°á»ng tá»ng cung dÃ i háº¡n sáº½ khÃ´ng bao giá» thay Äá»i vá» trÃ­."
       },
       {
         "label": "C",
-        "text": "Mức giá chung tăng sẽ cho phép nền kinh tế đạt được mức sản lượng cao hơn."
+        "text": "Má»©c giÃ¡ chung tÄng sáº½ cho phÃ©p ná»n kinh táº¿ Äáº¡t ÄÆ°á»£c má»©c sáº£n lÆ°á»£ng cao hÆ¡n."
       },
       {
         "label": "D",
-        "text": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+        "text": "Sá»± thay Äá»i cá»§a má»©c giÃ¡ chung sáº½ khÃ´ng áº£nh hÆ°á»ng Äáº¿n má»©c sáº£n lÆ°á»£ng trong dÃ i háº¡n."
       }
     ],
-    "correctAnswerText": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+    "correctAnswerText": "Sá»± thay Äá»i cá»§a má»©c giÃ¡ chung sáº½ khÃ´ng áº£nh hÆ°á»ng Äáº¿n má»©c sáº£n lÆ°á»£ng trong dÃ i háº¡n."
   },
   {
     "questionNumber": "14",
-    "questionText": "Giả sử trong nền kinh tế giản đơn có hàm tiêu dùng: C = 120 + 0,75Y. Nếu đầu tư tăng thêm 20 tỷ USD thì sản lượng cân bằng của nền kinh tế tăng thêm bao nhiêu tỷ USD?",
+    "questionText": "Chỉ ra các cách tiếp cận cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp sản xuất - kinh doanh hàng hóa: (1) Tiếp cận quản trị theo mục tiêu; (2) Tiếp cận quản trị theo nhóm khách hàng; (3) Tiếp cận quản trị theo quá trình; (4) Tiếp cận quản trị theo chức năng",
     "options": [
       {
         "label": "A",
-        "text": "△Y = 140"
+        "text": "1, 2, 4"
       },
       {
         "label": "B",
-        "text": "△Y = 80"
+        "text": "2, 3, 4"
       },
       {
         "label": "C",
-        "text": "△Y = 120"
+        "text": "1, 2, 3"
       },
       {
         "label": "D",
-        "text": "△Y = 100"
+        "text": "1, 3, 4"
       }
     ],
-    "correctAnswerText": "△Y = 80"
+    "correctAnswerText": "1, 3, 4"
   },
   {
     "questionNumber": "14",
-    "questionText": "Giá trị gia tăng của một doanh nghiệp là:",
+    "questionText": "GiÃ¡ trá» gia tÄng cá»§a má»t doanh nghiá»p lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi khấu hao máy móc thiết bị."
+        "text": "Pháº§n cÃ²n láº¡i cá»§a giÃ¡ trá» sáº£n lÆ°á»£ng sau khi trá»« Äi kháº¥u hao mÃ¡y mÃ³c thiáº¿t bá»."
       },
       {
         "label": "B",
-        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi toàn bộ chi phí sản xuất để sản xuất ra mức sản lượng đó."
+        "text": "Pháº§n cÃ²n láº¡i cá»§a giÃ¡ trá» sáº£n lÆ°á»£ng sau khi trá»« Äi toÃ n bá» chi phÃ­ sáº£n xuáº¥t Äá» sáº£n xuáº¥t ra má»©c sáº£n lÆ°á»£ng ÄÃ³."
       },
       {
         "label": "C",
-        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí tiền lương để sản xuất ra mức sản lượng đó."
+        "text": "Pháº§n cÃ²n láº¡i cá»§a giÃ¡ trá» sáº£n lÆ°á»£ng sau khi trá»« Äi chi phÃ­ tiá»n lÆ°Æ¡ng Äá» sáº£n xuáº¥t ra má»©c sáº£n lÆ°á»£ng ÄÃ³."
       },
       {
         "label": "D",
-        "text": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
+        "text": "Pháº§n cÃ²n láº¡i cá»§a giÃ¡ trá» sáº£n lÆ°á»£ng sau khi trá»« Äi chi phÃ­ vá» cÃ¡c sáº£n pháº©m trung gian Äá» sáº£n xuáº¥t ra má»©c sáº£n lÆ°á»£ng ÄÃ³."
       }
     ],
-    "correctAnswerText": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
+    "correctAnswerText": "Pháº§n cÃ²n láº¡i cá»§a giÃ¡ trá» sáº£n lÆ°á»£ng sau khi trá»« Äi chi phÃ­ vá» cÃ¡c sáº£n pháº©m trung gian Äá» sáº£n xuáº¥t ra má»©c sáº£n lÆ°á»£ng ÄÃ³."
   },
   {
     "questionNumber": "14",
-    "questionText": "Thuật ngữ “Logistics thông minh” hay “Logistics 4.0” được đề cập trong giai đoạn nào của quá trình phát triển logistics?",
+    "questionText": "Giáº£ sá»­ trong ná»n kinh táº¿ giáº£n ÄÆ¡n cÃ³ hÃ m tiÃªu dÃ¹ng: C = 120 + 0,75Y. Náº¿u Äáº§u tÆ° tÄng thÃªm 20 tá»· USD thÃ¬ sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ tÄng thÃªm bao nhiÃªu tá»· USD?",
     "options": [
       {
         "label": "A",
-        "text": "Từ năm 1970 đến 1990"
+        "text": "â³Y = 140"
       },
       {
         "label": "B",
-        "text": "Từ năm 1960 đến 1970"
+        "text": "â³Y = 80"
       },
       {
         "label": "C",
-        "text": "Từ 2010 đến nay"
+        "text": "â³Y = 120"
       },
       {
         "label": "D",
-        "text": "Từ năm 1990 đến 2010"
+        "text": "â³Y = 100"
       }
     ],
-    "correctAnswerText": "Từ 2010 đến nay"
+    "correctAnswerText": "â³Y = 80"
   },
   {
     "questionNumber": "14",
-    "questionText": "Yếu tố nào sau đây dẫn tới chứng từ kế toán không đảm bảo về hình thức khi kiểm tra:",
+    "questionText": "Thuáº­t ngá»¯ âLogistics thÃ´ng minhâ hay âLogistics 4.0â ÄÆ°á»£c Äá» cáº­p trong giai Äoáº¡n nÃ o cá»§a quÃ¡ trÃ¬nh phÃ¡t triá»n logistics?",
     "options": [
       {
         "label": "A",
-        "text": "Ghi thêm Thuế suất thuế GTGT"
+        "text": "Tá»« nÄm 1970 Äáº¿n 1990"
       },
       {
         "label": "B",
-        "text": "Bổ sung thêm Thời hạn bảo hành sản phẩm"
+        "text": "Tá»« nÄm 1960 Äáº¿n 1970"
       },
       {
         "label": "C",
-        "text": "Không ghi ngày tháng"
+        "text": "Tá»« 2010 Äáº¿n nay"
       },
       {
         "label": "D",
-        "text": "Bổ sung thêm Mã số thuế của doanh nghiệp"
+        "text": "Tá»« nÄm 1990 Äáº¿n 2010"
       }
     ],
-    "correctAnswerText": "Không ghi ngày tháng"
+    "correctAnswerText": "Tá»« 2010 Äáº¿n nay"
+  },
+  {
+    "questionNumber": "14",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y dáº«n tá»i chá»©ng tá»« káº¿ toÃ¡n khÃ´ng Äáº£m báº£o vá» hÃ¬nh thá»©c khi kiá»m tra:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ghi thÃªm Thuáº¿ suáº¥t thuáº¿ GTGT"
+      },
+      {
+        "label": "B",
+        "text": "Bá» sung thÃªm Thá»i háº¡n báº£o hÃ nh sáº£n pháº©m"
+      },
+      {
+        "label": "C",
+        "text": "KhÃ´ng ghi ngÃ y thÃ¡ng"
+      },
+      {
+        "label": "D",
+        "text": "Bá» sung thÃªm MÃ£ sá» thuáº¿ cá»§a doanh nghiá»p"
+      }
+    ],
+    "correctAnswerText": "KhÃ´ng ghi ngÃ y thÃ¡ng"
   },
   {
     "questionNumber": "15",
-    "questionText": "Giả sử có số liệu của một nền kinh tế đóng như sau: C = 0,8YD; T = 0,1Y. Giả sử sản lượng cân bằng của nền kinh tế là Y0 = 2.500, khi đó chi tiêu cho tiêu dùng bằng:",
+    "questionText": "Giáº£ sá»­ cÃ³ sá» liá»u cá»§a má»t ná»n kinh táº¿ ÄÃ³ng nhÆ° sau: C = 0,8YD; T = 0,1Y. Giáº£ sá»­ sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ lÃ  Y0 = 2.500, khi ÄÃ³ chi tiÃªu cho tiÃªu dÃ¹ng báº±ng:",
     "options": [
       {
         "label": "A",
@@ -1634,260 +1956,329 @@
   },
   {
     "questionNumber": "15",
-    "questionText": "Khi phân tích trên mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, sự gia tăng chi tiêu chính phủ (trong ngắn hạn) sẽ dẫn đến điều gì xảy ra?",
+    "questionText": "Khi phÃ¢n tÃ­ch trÃªn mÃ´ hÃ¬nh AD-AS, khi ná»n kinh táº¿ Äang cÃ¢n báº±ng táº¡i má»©c sáº£n lÆ°á»£ng tiá»m nÄng, sá»± gia tÄng chi tiÃªu chÃ­nh phá»§ (trong ngáº¯n háº¡n) sáº½ dáº«n Äáº¿n ÄiÃªÌu giÌ xaÌy ra?",
     "options": [
       {
         "label": "A",
-        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
+        "text": "Ná»n kinh táº¿ khÃ´ng tÄng trÆ°á»ng vÃ¬ sáº£n lÆ°á»£ng ÄÃ£ Äáº¡t má»©c tiá»m nÄng."
       },
       {
         "label": "B",
-        "text": "Nền kinh tế tăng trưởng nóng nhưng không gây ra lạm phát."
+        "text": "Ná»n kinh táº¿ tÄng trÆ°á»ng nÃ³ng nhÆ°ng khÃ´ng gÃ¢y ra láº¡m phÃ¡t."
       },
       {
         "label": "C",
-        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+        "text": "Ná»n kinh táº¿ tÄng trÆ°á»ng nÃ³ng vÃ  láº¡m phÃ¡t tÄng"
       },
       {
         "label": "D",
-        "text": "Nền kinh tế tăng trưởng bền vững."
+        "text": "Ná»n kinh táº¿ tÄng trÆ°á»ng bá»n vá»¯ng."
       }
     ],
-    "correctAnswerText": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+    "correctAnswerText": "Ná»n kinh táº¿ tÄng trÆ°á»ng nÃ³ng vÃ  láº¡m phÃ¡t tÄng"
   },
   {
     "questionNumber": "15",
-    "questionText": "Khi viết sai chứng từ bằng giấy, kế toán phải:",
+    "questionText": "Khi viáº¿t sai chá»©ng tá»« báº±ng giáº¥y, káº¿ toÃ¡n pháº£i:",
     "options": [
       {
         "label": "A",
-        "text": "Sửa lại số liệu ghi sai bằng mực thường"
+        "text": "Sá»­a láº¡i sá» liá»u ghi sai báº±ng má»±c thÆ°á»ng"
       },
       {
         "label": "B",
-        "text": "Xé bỏ chứng từ viết sai, lập lại chứng từ mới"
+        "text": "XÃ© bá» chá»©ng tá»« viáº¿t sai, láº­p láº¡i chá»©ng tá»« má»i"
       },
       {
         "label": "C",
-        "text": "Xóa số liệu đã ghi sai và ghi lại số liệu đúng bằng mực đỏ"
+        "text": "XÃ³a sá» liá»u ÄÃ£ ghi sai vÃ  ghi láº¡i sá» liá»u ÄÃºng báº±ng má»±c Äá»"
       },
       {
         "label": "D",
-        "text": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
+        "text": "Há»§y bá» chá»©ng tá»« báº±ng cÃ¡ch gáº¡ch chÃ©o vÃ o chá»©ng tá»« ÄÃ£ ghi sai, khÃ´ng xÃ© rá»i chá»©ng tá»« ÄÃ£ ghi sai khá»i cuá»ng."
       }
     ],
-    "correctAnswerText": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
+    "correctAnswerText": "Há»§y bá» chá»©ng tá»« báº±ng cÃ¡ch gáº¡ch chÃ©o vÃ o chá»©ng tá»« ÄÃ£ ghi sai, khÃ´ng xÃ© rá»i chá»©ng tá»« ÄÃ£ ghi sai khá»i cuá»ng."
   },
   {
     "questionNumber": "15",
-    "questionText": "Nếu tính theo phương pháp giá trị gia tăng, GDP bằng:",
+    "questionText": "Năng lực cung cấp dịch vụ của doanh nghiệp logistics 2PL có đặc điểm nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Tổng giá trị hàng hóa và dịch vụ trừ khấu hao."
+        "text": "Cung cấp đồng thời dịch vụ vận chuyển và kho bãi"
       },
       {
         "label": "B",
-        "text": "Tổng thu nhập gia tăng của các nhân tố sản xuất trong nước."
+        "text": "Cung cấp dịch vụ logistics trọn gói"
       },
       {
         "label": "C",
-        "text": "Tổng chi phí tăng thêm phát sinh từ việc sử dụng các nhân tố sản xuất như lao động, vốn, đất đai và năng lực kinh doanh."
+        "text": "Cung cấp dịch vụ quản lý chuỗi cung ứng toàn cầu"
       },
       {
         "label": "D",
-        "text": "Tổng giá trị gia tăng của tất cả các doanh nghiệp trong nền kinh tế."
+        "text": "Cung cấp dịch vụ logistics đơn lẻ"
       }
     ],
-    "correctAnswerText": "Tổng giá trị gia tăng của tất cả các doanh nghiệp trong nền kinh tế."
+    "correctAnswerText": "Cung cấp dịch vụ logistics đơn lẻ"
   },
   {
     "questionNumber": "15",
-    "questionText": "Thuật ngữ “Logistics” xuất hiện lần đầu tiên là trong lĩnh vực nào?",
+    "questionText": "Náº¿u tÃ­nh theo phÆ°Æ¡ng phÃ¡p giÃ¡ trá» gia tÄng, GDP báº±ng:",
     "options": [
       {
         "label": "A",
-        "text": "Thương mại"
+        "text": "Tá»ng giÃ¡ trá» hÃ ng hÃ³a vÃ  dá»ch vá»¥ trá»« kháº¥u hao."
       },
       {
         "label": "B",
-        "text": "Kinh tế"
+        "text": "Tá»ng thu nháº­p gia tÄng cá»§a cÃ¡c nhÃ¢n tá» sáº£n xuáº¥t trong nÆ°á»c."
       },
       {
         "label": "C",
-        "text": "Vận tải biển"
+        "text": "Tá»ng chi phÃ­ tÄng thÃªm phÃ¡t sinh tá»« viá»c sá»­ dá»¥ng cÃ¡c nhÃ¢n tá» sáº£n xuáº¥t nhÆ° lao Äá»ng, vá»n, Äáº¥t Äai vÃ  nÄng lá»±c kinh doanh."
       },
       {
         "label": "D",
-        "text": "Quân sự"
+        "text": "Tá»ng giÃ¡ trá» gia tÄng cá»§a táº¥t cáº£ cÃ¡c doanh nghiá»p trong ná»n kinh táº¿."
       }
     ],
-    "correctAnswerText": "Quân sự"
+    "correctAnswerText": "Tá»ng giÃ¡ trá» gia tÄng cá»§a táº¥t cáº£ cÃ¡c doanh nghiá»p trong ná»n kinh táº¿."
+  },
+  {
+    "questionNumber": "15",
+    "questionText": "Thuáº­t ngá»¯ âLogisticsâ xuáº¥t hiá»n láº§n Äáº§u tiÃªn lÃ  trong lÄ©nh vá»±c nÃ o?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ThÆ°Æ¡ng máº¡i"
+      },
+      {
+        "label": "B",
+        "text": "Kinh táº¿"
+      },
+      {
+        "label": "C",
+        "text": "Váº­n táº£i biá»n"
+      },
+      {
+        "label": "D",
+        "text": "QuÃ¢n sá»±"
+      }
+    ],
+    "correctAnswerText": "QuÃ¢n sá»±"
   },
   {
     "questionNumber": "16",
-    "questionText": "Khi chiếc tivi sản xuất tại Hàn Quốc và được bán trên thị trường Việt Nam tăng giá, giá trị của chiếc tivi này được tính vào chỉ tiêu nào dưới đây của Việt Nam",
+    "questionText": "06 nhóm yếu tố cơ bản của hệ thống logistics quốc gia bao gồm: Khung thể chế pháp luật logistics, cơ sở hạ tầng logistics, doanh nghiệp logistics, doanh nghiệp sử dụng dịch vụ logistics, dịch vụ logistics đầu ra và yếu tố nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Chỉ số giá sản xuất (PPI)"
+        "text": "Công nghệ logistics"
       },
       {
         "label": "B",
-        "text": "Chỉ số giá tiêu dùng (CPI)"
+        "text": "Phương tiện vận tải"
       },
       {
         "label": "C",
-        "text": "Chỉ số điều chỉnh GDP (DGDP)"
+        "text": "Cơ sở đào tạo logistics"
       },
       {
         "label": "D",
-        "text": "Xuất khẩu ròng (NX)"
+        "text": "Nguồn nhân lực logistics"
       }
     ],
-    "correctAnswerText": "Chỉ số giá tiêu dùng (CPI)"
+    "correctAnswerText": "Nguồn nhân lực logistics"
   },
   {
     "questionNumber": "16",
-    "questionText": "Khi chính phủ tăng thuế, chi tiêu cho tiêu dùng của hộ gia đình có xu hướng thay đổi như thế nào?",
+    "questionText": "Khi chÃ­nh phá»§ tÄng thuáº¿, chi tiÃªu cho tiÃªu dÃ¹ng cá»§a há» gia ÄÃ¬nh cÃ³ xu hÆ°á»ng thay Äá»i nhÆ° tháº¿ nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Tăng."
+        "text": "TÄng."
       },
       {
         "label": "B",
-        "text": "Giảm."
+        "text": "Giáº£m."
       },
       {
         "label": "C",
-        "text": "Có thể tăng hoặc giảm."
+        "text": "CÃ³ thá» tÄng hoáº·c giáº£m."
       },
       {
         "label": "D",
-        "text": "Không thay đổi."
+        "text": "KhÃ´ng thay Äá»i."
       }
     ],
-    "correctAnswerText": "Giảm."
+    "correctAnswerText": "Giáº£m."
   },
   {
     "questionNumber": "16",
-    "questionText": "Nội dung nào sau đây KHÔNG phải là mục tiêu của kinh tế vĩ mô:",
+    "questionText": "Khi chiáº¿c tivi sáº£n xuáº¥t táº¡i HÃ n Quá»c vÃ  ÄÆ°á»£c bÃ¡n trÃªn thá» trÆ°á»ng Viá»t Nam tÄng giÃ¡, giÃ¡ trá» cá»§a chiáº¿c tivi nÃ y ÄÆ°á»£c tÃ­nh vÃ o chá» tiÃªu nÃ o dÆ°á»i ÄÃ¢y cá»§a Viá»t Nam",
     "options": [
       {
         "label": "A",
-        "text": "Thúc đẩy tăng trưởng kinh tế."
+        "text": "Chá» sá» giÃ¡ sáº£n xuáº¥t (PPI)"
       },
       {
         "label": "B",
-        "text": "Ổn định giá cả."
+        "text": "Chá» sá» giÃ¡ tiÃªu dÃ¹ng (CPI)"
       },
       {
         "label": "C",
-        "text": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+        "text": "Chá» sá» Äiá»u chá»nh GDP (DGDP)"
       },
       {
         "label": "D",
-        "text": "Giảm thất nghiệp."
+        "text": "Xuáº¥t kháº©u rÃ²ng (NX)"
       }
     ],
-    "correctAnswerText": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+    "correctAnswerText": "Chá» sá» giÃ¡ tiÃªu dÃ¹ng (CPI)"
   },
   {
     "questionNumber": "16",
-    "questionText": "Theo mức độ phản ánh của chứng từ, chứng từ kế toán gồm:",
+    "questionText": "Ná»i dung nÃ o sau ÄÃ¢y KHÃNG pháº£i lÃ  má»¥c tiÃªu cá»§a kinh táº¿ vÄ© mÃ´:",
     "options": [
       {
         "label": "A",
-        "text": "Chứng từ bên trong, Chứng từ bên ngoài"
+        "text": "ThuÌc ÄÃ¢Ìy tÄng trÆ°á»ng kinh táº¿."
       },
       {
         "label": "B",
-        "text": "Chứng từ gốc, Chứng từ tổng hợp"
+        "text": "á»n Äá»nh giÃ¡ cáº£."
       },
       {
         "label": "C",
-        "text": "Chứng từ thông thường (chứng từ bằng giấy), chứng từ điện tử"
+        "text": "Tá»i Äa hoÃ¡ lá»£i nhuáº­n cá»§a cÃ¡c doanh nghiá»p."
       },
       {
         "label": "D",
-        "text": "Chứng từ điện tử và chứng từ tự lập"
+        "text": "Giáº£m tháº¥t nghiá»p."
       }
     ],
-    "correctAnswerText": "Chứng từ gốc, Chứng từ tổng hợp"
+    "correctAnswerText": "Tá»i Äa hoÃ¡ lá»£i nhuáº­n cá»§a cÃ¡c doanh nghiá»p."
   },
   {
     "questionNumber": "16",
-    "questionText": "Trong các trường phái quản lý chuỗi cung ứng, trường phái nào nhấn mạnh vào sự liên kết giữa các chức năng khác nhau của chuỗi chung ứng để khai thác lợi thế cạnh tranh?",
+    "questionText": "Theo má»©c Äá» pháº£n Ã¡nh cá»§a chá»©ng tá»«, chá»©ng tá»« káº¿ toÃ¡n gá»m:",
     "options": [
       {
         "label": "A",
-        "text": "Trường phái chuỗi chức năng"
+        "text": "Chá»©ng tá»« bÃªn trong, Chá»©ng tá»« bÃªn ngoÃ i"
       },
       {
         "label": "B",
-        "text": "Trường phái tích hợp"
+        "text": "Chá»©ng tá»« gá»c, Chá»©ng tá»« tá»ng há»£p"
       },
       {
         "label": "C",
-        "text": "Trường phái liên kết"
+        "text": "Chá»©ng tá»« thÃ´ng thÆ°á»ng (chá»©ng tá»« báº±ng giáº¥y), chá»©ng tá»« Äiá»n tá»­"
       },
       {
         "label": "D",
-        "text": "Trường phái thông tin"
+        "text": "Chá»©ng tá»« Äiá»n tá»­ vÃ  chá»©ng tá»« tá»± láº­p"
       }
     ],
-    "correctAnswerText": "Trường phái liên kết"
+    "correctAnswerText": "Chá»©ng tá»« gá»c, Chá»©ng tá»« tá»ng há»£p"
+  },
+  {
+    "questionNumber": "16",
+    "questionText": "Trong cÃ¡c trÆ°á»ng phÃ¡i quáº£n lÃ½ chuá»i cung á»©ng, trÆ°á»ng phÃ¡i nÃ o nháº¥n máº¡nh vÃ o sá»± liÃªn káº¿t giá»¯a cÃ¡c chá»©c nÄng khÃ¡c nhau cá»§a chuá»i chung á»©ng Äá» khai thÃ¡c lá»£i tháº¿ cáº¡nh tranh?",
+    "options": [
+      {
+        "label": "A",
+        "text": "TrÆ°á»ng phÃ¡i chuá»i chá»©c nÄng"
+      },
+      {
+        "label": "B",
+        "text": "TrÆ°á»ng phÃ¡i tÃ­ch há»£p"
+      },
+      {
+        "label": "C",
+        "text": "TrÆ°á»ng phÃ¡i liÃªn káº¿t"
+      },
+      {
+        "label": "D",
+        "text": "TrÆ°á»ng phÃ¡i thÃ´ng tin"
+      }
+    ],
+    "correctAnswerText": "TrÆ°á»ng phÃ¡i liÃªn káº¿t"
   },
   {
     "questionNumber": "17",
-    "questionText": "Chứng từ kế toán:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n:",
     "options": [
       {
         "label": "A",
-        "text": "Có thể được lập lại nếu bị mất hoặc thất lạc."
+        "text": "CÃ³ thá» ÄÆ°á»£c láº­p láº¡i náº¿u bá» máº¥t hoáº·c tháº¥t láº¡c."
       },
       {
         "label": "B",
-        "text": "Được lập khi có yêu cầu của các bên có liên quan trong nghiệp vụ kinh tế phát sinh."
+        "text": "ÄÆ°á»£c láº­p khi cÃ³ yÃªu cáº§u cá»§a cÃ¡c bÃªn cÃ³ liÃªn quan trong nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
       },
       {
         "label": "C",
-        "text": "Được lập khi cần thiết."
+        "text": "ÄÆ°á»£c láº­p khi cáº§n thiáº¿t."
       },
       {
         "label": "D",
-        "text": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+        "text": "Chá» ÄÆ°á»£c láº­p má»t láº§n cho má»i nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
       }
     ],
-    "correctAnswerText": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+    "correctAnswerText": "Chá» ÄÆ°á»£c láº­p má»t láº§n cho má»i nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
   },
   {
     "questionNumber": "17",
-    "questionText": "Giả sử có số liệu của một nền kinh tế như sau: GNP là 5000, tổng đầu tư là 1.000, đầu tư ròng là 500, thuế gián thu là 400. Mức thu nhập quốc dân (Y) của nền kinh tế này là bao nhiêu? (Đơn vị: tỷ USD)",
+    "questionText": "Cho phép doanh nghiệp xác định rõ mục tiêu, phương hướng phát triển logistics và chuỗi cung ứng, đồng thời khai thác và sử dụng tối đa nguồn lực logistics, lợi thế, cơ hội để giành ưu thế trong dài hạn là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
     "options": [
       {
         "label": "A",
-        "text": "4.900 tỷ USD"
+        "text": "Tiếp cận quản trị theo chức năng"
       },
       {
         "label": "B",
-        "text": "3.100 tỷ USD"
+        "text": "Tiếp cận quản trị theo quá trình"
       },
       {
         "label": "C",
-        "text": "4.500 tỷ USD"
+        "text": "Tiếp cận quản trị theo mục tiêu"
       },
       {
         "label": "D",
-        "text": "4.100 tỷ USD"
+        "text": "Tiếp cận chiến lược"
       }
     ],
-    "correctAnswerText": "4.100 tỷ USD"
+    "correctAnswerText": "Tiếp cận chiến lược"
   },
   {
     "questionNumber": "17",
-    "questionText": "Giả sử trong một nền kinh tế giản đơn có chi tiêu cho tiêu dùng C = 150, đầu tư I = 50 và tổng  sản lượng là Y = 210, khi đó mức tiết kiệm của nền kinh tế sẽ bằng:",
+    "questionText": "Giáº£ sá»­ cÃ³ sá» liá»u cá»§a má»t ná»n kinh táº¿ nhÆ° sau: GNP lÃ  5000, tá»ng Äáº§u tÆ° lÃ  1.000, Äáº§u tÆ° rÃ²ng lÃ  500, thuáº¿ giÃ¡n thu lÃ  400. Má»©c thu nháº­p quá»c dÃ¢n (Y) cá»§a ná»n kinh táº¿ nÃ y lÃ  bao nhiÃªu? (ÄÆ¡n vá»: tá»· USD)",
+    "options": [
+      {
+        "label": "A",
+        "text": "4.900 tá»· USD"
+      },
+      {
+        "label": "B",
+        "text": "3.100 tá»· USD"
+      },
+      {
+        "label": "C",
+        "text": "4.500 tá»· USD"
+      },
+      {
+        "label": "D",
+        "text": "4.100 tá»· USD"
+      }
+    ],
+    "correctAnswerText": "4.100 tá»· USD"
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Giáº£ sá»­ trong má»t ná»n kinh táº¿ giáº£n ÄÆ¡n cÃ³ chi tiÃªu cho tiÃªu dÃ¹ng C = 150, Äáº§u tÆ° I = 50 vÃ  tá»ngÂ  sáº£n lÆ°á»£ng lÃ  Y = 210, khi ÄÃ³ má»©c tiáº¿t kiá»m cá»§a ná»n kinh táº¿ sáº½ báº±ng:",
     "options": [
       {
         "label": "A",
@@ -1910,122 +2301,145 @@
   },
   {
     "questionNumber": "17",
-    "questionText": "Sự thay đổi của yếu tố nào sau đây làm thay đổi mức sản lượng tiềm năng của nền kinh tế trong dài hạn?",
+    "questionText": "Sá»± thay Äá»i cá»§a yáº¿u tá» nÃ o sau ÄÃ¢y lÃ m thay Äá»i má»©c sáº£n lÆ°á»£ng tiá»m nÄng cá»§a ná»n kinh táº¿ trong dÃ i háº¡n?",
     "options": [
       {
         "label": "A",
-        "text": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
+        "text": "CÃ´ng nghá» sáº£n xuáº¥t, lÆ°á»£ng lao Äá»ng, vá»n cá»§a ná»n kinh táº¿ vÃ  tÃ i nguyÃªn thiÃªn nhiÃªn."
       },
       {
         "label": "B",
-        "text": "Mức giá chung của nền kinh tế."
+        "text": "Má»©c giÃ¡ chung cá»§a ná»n kinh táº¿."
       },
       {
         "label": "C",
-        "text": "Chi tiêu mua hàng của chính phủ tăng."
+        "text": "Chi tiÃªu mua hÃ ng cá»§a chÃ­nh phá»§ tÄng."
       },
       {
         "label": "D",
-        "text": "Nhu cầu tiêu dùng tăng."
+        "text": "Nhu cáº§u tiÃªu dÃ¹ng tÄng."
       }
     ],
-    "correctAnswerText": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
+    "correctAnswerText": "CÃ´ng nghá» sáº£n xuáº¥t, lÆ°á»£ng lao Äá»ng, vá»n cá»§a ná»n kinh táº¿ vÃ  tÃ i nguyÃªn thiÃªn nhiÃªn."
   },
   {
     "questionNumber": "17",
-    "questionText": "Theo quan điểm liên ngành, công thức nào sau đây thể hiện phạm vi của quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Theo quan Äiá»m liÃªn ngÃ nh, cÃ´ng thá»©c nÃ o sau ÄÃ¢y thá» hiá»n pháº¡m vi cá»§a quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng?",
     "options": [
       {
         "label": "A",
-        "text": "Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối"
+        "text": "Quáº£n lÃ½ chuá»i cung á»©ng = Quáº£n lÃ½ cung á»©ng + Logistics + Quáº£n lÃ½ phÃ¢n phá»i"
       },
       {
         "label": "B",
-        "text": "Quản trị Logistics = Quản lý nguyên vật liệu + Phân phối hàng hoá"
+        "text": "Quáº£n trá» Logistics = Quáº£n lÃ½ nguyÃªn váº­t liá»u + PhÃ¢n phá»i hÃ ng hoÃ¡"
       },
       {
         "label": "C",
-        "text": "Cả 2 công thức đều sai"
+        "text": "Cáº£ 2 cÃ´ng thá»©c Äá»u sai"
       },
       {
         "label": "D",
-        "text": "Cả 2 công thức đều đúng"
+        "text": "Cáº£ 2 cÃ´ng thá»©c Äá»u ÄÃºng"
       }
     ],
-    "correctAnswerText": "Cả 2 công thức đều đúng"
+    "correctAnswerText": "Cáº£ 2 cÃ´ng thá»©c Äá»u ÄÃºng"
   },
   {
     "questionNumber": "18",
-    "questionText": "Mua công cụ dụng cụ về nhập kho, đã trả bằng chuyển khoản (đã có báo Nợ). Các chứng từ sử dụng cho nghiệp vụ trên là:",
+    "questionText": "Mua cÃ´ng cuÌ£ dá»¥ng cá»¥ vá» nháº­p kho, ÄÃ£ tráº£ báº±ng chuyá»n khoáº£n (ÄÃ£ cÃ³ bÃ¡o Ná»£). CÃ¡c chá»©ng tá»« sá»­ dá»¥ng cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho."
+        "text": "Phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "Phiếu chi, hóa đơn GTGT."
+        "text": "Phiáº¿u chi, hÃ³a ÄÆ¡n GTGT."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
   },
   {
     "questionNumber": "18",
-    "questionText": "Theo cách hiểu về logistics từ quan điểm của Châu Âu, trong phạm vi doanh nghiệp logistics kinh doanh có những cấp độ nào?",
+    "questionText": "Quan điểm về hệ thống logistics quốc gia của các nền kinh tế chậm phát triển thường có đặc điểm nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Cả ba đáp án còn lại"
+        "text": "Hệ thống logistics có tầm nhìn chiến lược rõ ràng"
       },
       {
         "label": "B",
-        "text": "Triết lý logistics"
+        "text": "Chỉ chú trọng vào các dịch vụ logistics trong nước"
       },
       {
         "label": "C",
-        "text": "Hệ thống logistics"
+        "text": "Các công ty logistics hoạt động độc lập mà không cần sự hỗ trợ của Chính phủ"
       },
       {
         "label": "D",
-        "text": "Quản trị logistics"
+        "text": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại"
+    "correctAnswerText": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
   },
   {
     "questionNumber": "18",
-    "questionText": "Trong điều kiện các yếu tố khác không đổi, cải tiến công nghệ trong sản xuất sẽ dẫn đến:",
+    "questionText": "Theo cÃ¡ch hiá»u vá» logistics tá»« quan Äiá»m cá»§a ChÃ¢u Ãu, trong pháº¡m vi doanh nghiá»p logistics kinh doanh cÃ³ nhá»¯ng cáº¥p Äá» nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Đường tổng cầu dịch chuyển sang trái."
+        "text": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i"
       },
       {
         "label": "B",
-        "text": "Đường tổng cung dịch chuyển sang trái."
+        "text": "Triáº¿t lÃ½ logistics"
       },
       {
         "label": "C",
-        "text": "Đường tổng cung dịch chuyển sang phải."
+        "text": "Há» thá»ng logistics"
       },
       {
         "label": "D",
-        "text": "Đường tổng cầu dịch chuyển sang phải."
+        "text": "Quáº£n trá» logistics"
       }
     ],
-    "correctAnswerText": "Đường tổng cung dịch chuyển sang phải."
+    "correctAnswerText": "Cáº£ ba ÄÃ¡p Ã¡n cÃ²n láº¡i"
   },
   {
     "questionNumber": "18",
-    "questionText": "Trong nền kinh tế mở, công thức xác định GDP theo phương pháp chi tiêu là:",
+    "questionText": "Trong Äiá»u kiá»n cÃ¡c yáº¿u tá» khÃ¡c khÃ´ng Äá»i, cáº£i tiáº¿n cÃ´ng nghá» trong sáº£n xuáº¥t sáº½ dáº«n Äáº¿n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang trÃ¡i."
+      },
+      {
+        "label": "B",
+        "text": "ÄÆ°á»ng tá»ng cung dá»ch chuyá»n sang trÃ¡i."
+      },
+      {
+        "label": "C",
+        "text": "ÄÆ°á»ng tá»ng cung dá»ch chuyá»n sang pháº£i."
+      },
+      {
+        "label": "D",
+        "text": "ÄÆ°á»ng tá»ng cáº§u dá»ch chuyá»n sang pháº£i."
+      }
+    ],
+    "correctAnswerText": "ÄÆ°á»ng tá»ng cung dá»ch chuyá»n sang pháº£i."
+  },
+  {
+    "questionNumber": "18",
+    "questionText": "Trong ná»n kinh táº¿ má», cÃ´ng thá»©c xÃ¡c Äá»nh GDP theo phÆ°Æ¡ng phÃ¡p chi tiÃªu lÃ :",
     "options": [
       {
         "label": "A",
@@ -2037,18 +2451,18 @@
       },
       {
         "label": "C",
-        "text": "GDP = C + I + G + X – IM"
+        "text": "GDP = C + I + G + X â IM"
       },
       {
         "label": "D",
         "text": "GDP = C + I + G + X + IM"
       }
     ],
-    "correctAnswerText": "GDP = C + I + G + X – IM"
+    "correctAnswerText": "GDP = C + I + G + X â IM"
   },
   {
     "questionNumber": "18",
-    "questionText": "Trong nền kinh tế mở, tổng chi tiêu dự kiến được xác định bằng công thức nào dưới đây?",
+    "questionText": "Trong ná»n kinh táº¿ má», tá»ng chi tiÃªu dá»± kiáº¿n ÄÆ°á»£c xÃ¡c Äá»nh báº±ng cÃ´ng thá»©c nÃ o dÆ°á»i ÄÃ¢y?",
     "options": [
       {
         "label": "A",
@@ -2071,30 +2485,30 @@
   },
   {
     "questionNumber": "19",
-    "questionText": "Kiểm tra chứng từ kế toán KHÔNG bao gồm:",
+    "questionText": "Kiá»m tra chá»©ng tá»« káº¿ toÃ¡n KHÃNG bao gÃ´Ìm:",
     "options": [
       {
         "label": "A",
-        "text": "Kiểm tra việc tính toán trên chứng từ."
+        "text": "Kiá»m tra viá»c tÃ­nh toÃ¡n trÃªn chá»©ng tá»«."
       },
       {
         "label": "B",
-        "text": "Kiểm tra tính hợp pháp, hợp lệ của nghiệp vụ kinh tế ghi trên chứng từ."
+        "text": "Kiá»m tra tÃ­nh há»£p phÃ¡p, há»£p lá» cá»§a nghiá»p vá»¥ kinh táº¿ ghi trÃªn chá»©ng tá»«."
       },
       {
         "label": "C",
-        "text": "Kiểm tra tính rõ ràng, trung thực, đầy đủ của các chỉ tiêu các yếu tố ghi chép trên chứng từ."
+        "text": "Kiá»m tra tÃ­nh rÃµ rÃ ng, trung thá»±c, Äáº§y Äá»§ cá»§a cÃ¡c chá» tiÃªu cÃ¡c yáº¿u tá» ghi chÃ©p trÃªn chá»©ng tá»«."
       },
       {
         "label": "D",
-        "text": "Kiểm tra bút toán định khoản trên chứng từ."
+        "text": "Kiá»m tra bÃºt toÃ¡n Äá»nh khoáº£n trÃªn chá»©ng tá»«."
       }
     ],
-    "correctAnswerText": "Kiểm tra bút toán định khoản trên chứng từ."
+    "correctAnswerText": "Kiá»m tra bÃºt toÃ¡n Äá»nh khoáº£n trÃªn chá»©ng tá»«."
   },
   {
     "questionNumber": "19",
-    "questionText": "Nếu chỉ số giá tiêu dùng (CPI) năm 2020 là 120% và năm 2021 là 126%, thì tỷ lệ lạm phát (tính bằng mức tăng của CPI) năm 2021 so với năm 2020 bằng:",
+    "questionText": "Náº¿u chá» sá» giÃ¡ tiÃªu dÃ¹ng (CPI) nÄm 2020 lÃ  120% vÃ  nÄm 2021 lÃ  126%, thÃ¬ tyÌ lÃªÌ£ láº¡m phÃ¡t (tÃ­nh báº±ng má»©c tÄng cá»§a CPI) nÄm 2021 so vá»i nÄm 2020 báº±ng:",
     "options": [
       {
         "label": "A",
@@ -2117,7 +2531,7 @@
   },
   {
     "questionNumber": "19",
-    "questionText": "Số nhân chi tiêu trong nền kinh tế giản đơn được tính bằng công thức:",
+    "questionText": "Sá» nhÃ¢n chi tiÃªu trong ná»n kinh táº¿ giáº£n ÄÆ¡n ÄÆ°á»£c tÃ­nh báº±ng cÃ´ng thá»©c:",
     "options": [
       {
         "label": "A",
@@ -2140,283 +2554,375 @@
   },
   {
     "questionNumber": "19",
-    "questionText": "Trong mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, giá cả các yếu tố đầu vào tăng sẽ dẫn đến điều gì?",
+    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào tạo ra giá trị cao nhất?",
     "options": [
       {
         "label": "A",
-        "text": "Nền kinh tế suy thoái nhưng không gây ra lạm phát."
+        "text": "Cấp độ quy tình"
       },
       {
         "label": "B",
-        "text": "Nền kinh tế suy thoái và lạm phát tăng."
+        "text": "Cấp độ ngành"
       },
       {
         "label": "C",
-        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng."
+        "text": "Cấp độ doanh nghiệp"
       },
       {
         "label": "D",
-        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
+        "text": "Cấp độ sản phẩm"
       }
     ],
-    "correctAnswerText": "Nền kinh tế suy thoái và lạm phát tăng."
+    "correctAnswerText": "Cấp độ ngành"
   },
   {
     "questionNumber": "19",
-    "questionText": "Vì sao những nhà quản trị ủng hộ quá mức trường phái tích hợp trong quản lý chuỗi cung ứng thường mắc phải bẫy toàn năng?",
+    "questionText": "Trong mÃ´ hÃ¬nh AD-AS, khi ná»n kinh táº¿ Äang cÃ¢n báº±ng táº¡i má»©c sáº£n lÆ°á»£ng tiá»m nÄng, giÃ¡ cáº£ cÃ¡c yáº¿u tá» Äáº§u vÃ o tÄng sáº½ dáº«n Äáº¿n ÄiÃªÌu giÌ?",
     "options": [
       {
         "label": "A",
-        "text": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+        "text": "Ná»n kinh táº¿ suy thoÃ¡i nhÆ°ng khÃ´ng gÃ¢y ra láº¡m phÃ¡t."
       },
       {
         "label": "B",
-        "text": "Vì không tích hợp được các thành viên trong chuỗi cung ứng"
+        "text": "Ná»n kinh táº¿ suy thoÃ¡i vÃ  láº¡m phÃ¡t tÄng."
       },
       {
         "label": "C",
-        "text": "Vì không tích hợp được các dòng vận động hàng hoá và thông tin"
+        "text": "Ná»n kinh táº¿ tÄng trÆ°á»ng nÃ³ng vÃ  láº¡m phÃ¡t tÄng."
       },
       {
         "label": "D",
-        "text": "Vì không tích hợp được các quá trình kinh doanh xuyên suốt chuỗi cung ứng"
+        "text": "Ná»n kinh táº¿ khÃ´ng tÄng trÆ°á»ng vÃ¬ sáº£n lÆ°á»£ng ÄÃ£ Äáº¡t má»©c tiá»m nÄng."
       }
     ],
-    "correctAnswerText": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+    "correctAnswerText": "Ná»n kinh táº¿ suy thoÃ¡i vÃ  láº¡m phÃ¡t tÄng."
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "VÃ¬ sao nhá»¯ng nhÃ  quáº£n trá» á»§ng há» quÃ¡ má»©c trÆ°á»ng phÃ¡i tÃ­ch há»£p trong quáº£n lÃ½ chuá»i cung á»©ng thÆ°á»ng máº¯c pháº£i báº«y toÃ n nÄng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "VÃ¬ coi quáº£n lÃ½ chuá»i cung á»©ng lÃ  quáº£n trá» má»i quÃ¡ trÃ¬nh kinh doanh cá»§a doanh nghiá»p"
+      },
+      {
+        "label": "B",
+        "text": "VÃ¬ khÃ´ng tÃ­ch há»£p ÄÆ°á»£c cÃ¡c thÃ nh viÃªn trong chuá»i cung á»©ng"
+      },
+      {
+        "label": "C",
+        "text": "VÃ¬ khÃ´ng tÃ­ch há»£p ÄÆ°á»£c cÃ¡c dÃ²ng váº­n Äá»ng hÃ ng hoÃ¡ vÃ  thÃ´ng tin"
+      },
+      {
+        "label": "D",
+        "text": "VÃ¬ khÃ´ng tÃ­ch há»£p ÄÆ°á»£c cÃ¡c quÃ¡ trÃ¬nh kinh doanh xuyÃªn suá»t chuá»i cung á»©ng"
+      }
+    ],
+    "correctAnswerText": "VÃ¬ coi quáº£n lÃ½ chuá»i cung á»©ng lÃ  quáº£n trá» má»i quÃ¡ trÃ¬nh kinh doanh cá»§a doanh nghiá»p"
   },
   {
     "questionNumber": "20",
-    "questionText": "Giả sử ban đầu nền kinh tế của Việt Nam đang ở trạng thái cân bằng dài hạn. Nền kinh tế sẽ chuyển sang trạng thái lạm phát đi kèm với suy thoái nếu:",
+    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Tích hợp và cộng tác; (2) Tăng trưởng ổn định; (3) Thích nghi công nghệ; (4) Tối ưu hóa",
     "options": [
       {
         "label": "A",
-        "text": "Người dân thắt chặt chi tiêu do những lo ngại về suy thoái kinh tế toàn cầu."
+        "text": "2, 3, 4"
       },
       {
         "label": "B",
-        "text": "Môi trường đầu tư được cải thiện và các doanh nghiệp tăng cầu đầu tư."
+        "text": "1, 2, 4"
       },
       {
         "label": "C",
-        "text": "Giá dầu thế giới tăng"
+        "text": "1, 2, 3"
       },
       {
         "label": "D",
-        "text": "Chính phủ tăng chi tiêu cho đầu tư công."
+        "text": "1, 3, 4"
       }
     ],
-    "correctAnswerText": "Giá dầu thế giới tăng"
+    "correctAnswerText": "1, 3, 4"
   },
   {
     "questionNumber": "20",
-    "questionText": "Khi chính phủ giảm tỷ suất thuế sẽ làm cho:",
+    "questionText": "Giáº£ sá»­ ban Äáº§u ná»n kinh táº¿ cá»§a Viá»t Nam Äang á» tráº¡ng thÃ¡i cÃ¢n báº±ng dÃ i háº¡n. Ná»n kinh táº¿ sáº½ chuyá»n sang tráº¡ng thÃ¡i láº¡m phÃ¡t Äi kÃ¨m vá»i suy thoÃ¡i náº¿u:",
     "options": [
       {
         "label": "A",
-        "text": "Tổng chi tiêu và sản lượng cân bằng tăng."
+        "text": "NgÆ°á»i dÃ¢n tháº¯t cháº·t chi tiÃªu do nhá»¯ng lo ngáº¡i vá» suy thoÃ¡i kinh táº¿ toÃ n cáº§u."
       },
       {
         "label": "B",
-        "text": "Tổng chi tiêu giảm, sản lượng cân bằng tăng."
+        "text": "MÃ´i trÆ°á»ng Äáº§u tÆ° ÄÆ°á»£c cáº£i thiá»n vÃ  cÃ¡c doanh nghiá»p tÄng cáº§u Äáº§u tÆ°."
       },
       {
         "label": "C",
-        "text": "Tổng chi tiêu và sản lượng cân bằng giảm."
+        "text": "GiÃ¡ dáº§u tháº¿ giá»i tÄng"
       },
       {
         "label": "D",
-        "text": "Tổng chi tiêu tăng, sản lượng cân bằng giảm."
+        "text": "ChÃ­nh phá»§ tÄng chi tiÃªu cho Äáº§u tÆ° cÃ´ng."
       }
     ],
-    "correctAnswerText": "Tổng chi tiêu và sản lượng cân bằng tăng."
+    "correctAnswerText": "GiÃ¡ dáº§u tháº¿ giá»i tÄng"
   },
   {
     "questionNumber": "20",
-    "questionText": "Nhận định nào sau đây khi nói về phạm vi giữa quản trị logistics và quản lý chuỗi cung ứng KHÔNG đúng theo quan điểm liên ngành?",
+    "questionText": "Khi chÃ­nh phá»§ giáº£m tá»· suáº¥t thuáº¿ sáº½ lÃ m cho:",
     "options": [
       {
         "label": "A",
-        "text": "Ngoài logistics, mô hình quản lý chuỗi cung ứng còn bao gồm cả các chức năng marketing, R&D, sản xuất, dự báo…"
+        "text": "Tá»ng chi tiÃªu vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng."
       },
       {
         "label": "B",
-        "text": "Logistics là một phần của quản lý chuỗi cung ứng."
+        "text": "Tá»ng chi tiÃªu giáº£m, sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng."
       },
       {
         "label": "C",
-        "text": "Quản lý chuỗi cung ứng bao trùm lên logistics"
+        "text": "Tá»ng chi tiÃªu vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
       },
       {
         "label": "D",
-        "text": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
+        "text": "Tá»ng chi tiÃªu tÄng, sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m."
       }
     ],
-    "correctAnswerText": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
+    "correctAnswerText": "Tá»ng chi tiÃªu vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng."
   },
   {
     "questionNumber": "20",
-    "questionText": "Trong một nền kinh tế mở:",
+    "questionText": "Nháº­n Äá»nh nÃ o sau ÄÃ¢y khi nÃ³i vá» pháº¡m vi giá»¯a quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng KHÃNG ÄÃºng theo quan Äiá»m liÃªn ngÃ nh?",
     "options": [
       {
         "label": "A",
-        "text": "GDP có thể lớn hơn, nhỏ hơn hoặc bằng GNP."
+        "text": "NgoÃ i logistics, mÃ´ hÃ¬nh quáº£n lÃ½ chuá»i cung á»©ng cÃ²n bao gá»m cáº£ cÃ¡c chá»©c nÄng marketing, R&D, sáº£n xuáº¥t, dá»± bÃ¡oâ¦"
       },
       {
         "label": "B",
-        "text": "GDP luôn lớn hơn GNP."
+        "text": "Logistics lÃ  má»t pháº§n cá»§a quáº£n lÃ½ chuá»i cung á»©ng."
       },
       {
         "label": "C",
-        "text": "GDP luôn nhỏ hơn GNP"
+        "text": "Quáº£n lÃ½ chuá»i cung á»©ng bao trÃ¹m lÃªn logistics"
       },
       {
         "label": "D",
-        "text": "GDP luôn bằng GNP."
+        "text": "Quáº£n lÃ½ chuá»i cung á»©ng lÃ  logistics liÃªn tá» chá»©c"
       }
     ],
-    "correctAnswerText": "GDP có thể lớn hơn, nhỏ hơn hoặc bằng GNP."
+    "correctAnswerText": "Quáº£n lÃ½ chuá»i cung á»©ng lÃ  logistics liÃªn tá» chá»©c"
   },
   {
     "questionNumber": "20",
-    "questionText": "Yếu tố nào sau đây là yếu tố bổ sung của chứng từ kế toán:",
+    "questionText": "Trong má»t ná»n kinh táº¿ má»:",
     "options": [
       {
         "label": "A",
-        "text": "Nội dung tóm tắt của nghiệp vụ kinh tế phát sinh"
+        "text": "GDP cÃ³ thá» lá»n hÆ¡n, nhá» hÆ¡n hoáº·c báº±ng GNP."
       },
       {
         "label": "B",
-        "text": "Ngày tháng năm lập chứng từ"
+        "text": "GDP luÃ´n lá»n hÆ¡n GNP."
       },
       {
         "label": "C",
-        "text": "Chữ ký của người lập chứng từ"
+        "text": "GDP luÃ´n nhá» hÆ¡n GNP"
       },
       {
         "label": "D",
-        "text": "Thời gian bảo hành sản phẩm"
+        "text": "GDP luÃ´n báº±ng GNP."
       }
     ],
-    "correctAnswerText": "Thời gian bảo hành sản phẩm"
+    "correctAnswerText": "GDP cÃ³ thá» lá»n hÆ¡n, nhá» hÆ¡n hoáº·c báº±ng GNP."
+  },
+  {
+    "questionNumber": "20",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y lÃ  yáº¿u tá» bá» sung cá»§a chá»©ng tá»« káº¿ toÃ¡n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ná»i dung tÃ³m táº¯t cá»§a nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh"
+      },
+      {
+        "label": "B",
+        "text": "NgÃ y thÃ¡ng nÄm láº­p chá»©ng tá»«"
+      },
+      {
+        "label": "C",
+        "text": "Chá»¯ kÃ½ cá»§a ngÆ°á»i láº­p chá»©ng tá»«"
+      },
+      {
+        "label": "D",
+        "text": "Thá»i gian báº£o hÃ nh sáº£n pháº©m"
+      }
+    ],
+    "correctAnswerText": "Thá»i gian báº£o hÃ nh sáº£n pháº©m"
   },
   {
     "questionNumber": "21",
-    "questionText": "Chỉ số giá tiêu dùng là một chỉ tiêu phản ánh:",
+    "questionText": "CÃ³ 4 quan niá»m cÆ¡ báº£n vá» pháº¡m vi quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng, bao gá»m: quan Äiá»m truyá»n thá»ng, quan Äiá»m Äá»ng nháº¥t, quan Äiá»m liÃªn ngÃ nh vÃ  quan Äiá»m gÃ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Giá cả nói chung."
+        "text": "Quan Äiá»m há»£p nháº¥t"
       },
       {
         "label": "B",
-        "text": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+        "text": "Quan Äiá»m thá»ng nháº¥t"
       },
       {
         "label": "C",
-        "text": "Mức phúc lợi bình quân trong tiêu dùng của hộ gia đình."
+        "text": "Quan Äiá»m giao thoa"
       },
       {
         "label": "D",
-        "text": "Chi phí sinh hoạt hiện tại của người tiêu dùng."
+        "text": "Quan Äiá»m tÃ­ch há»£p"
       }
     ],
-    "correctAnswerText": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+    "correctAnswerText": "Quan Äiá»m giao thoa"
   },
   {
     "questionNumber": "21",
-    "questionText": "Chứng từ kế toán phản ánh sự vận động của Hàng tồn kho là:",
+    "questionText": "Chá» sá» giÃ¡ tiÃªu dÃ¹ng lÃ  má»t chá» tiÃªu pháº£n Ã¡nh:",
     "options": [
       {
         "label": "A",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "GiÃ¡ cáº£ nÃ³i chung."
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "GiÃ¡ cáº£ cá»§a má»t rá» (giá») hÃ ng hÃ³a tiÃªu dÃ¹ng á» ká»³ hiá»n hÃ nh so vá»i ká»³ gá»c."
       },
       {
         "label": "C",
-        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+        "text": "Má»©c phÃºc lá»£i bÃ¬nh quÃ¢n trong tiÃªu dÃ¹ng cá»§a há» gia ÄÃ¬nh."
       },
       {
         "label": "D",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Chi phÃ­ sinh hoáº¡t hiá»n táº¡i cá»§a ngÆ°á»i tiÃªu duÌng."
       }
     ],
-    "correctAnswerText": "Phiếu nhập kho, Phiếu xuất kho"
+    "correctAnswerText": "GiÃ¡ cáº£ cá»§a má»t rá» (giá») hÃ ng hÃ³a tiÃªu dÃ¹ng á» ká»³ hiá»n hÃ nh so vá»i ká»³ gá»c."
   },
   {
     "questionNumber": "21",
-    "questionText": "Có 4 quan niệm cơ bản về phạm vi quản trị logistics và quản lý chuỗi cung ứng, bao gồm: quan điểm truyền thống, quan điểm đồng nhất, quan điểm liên ngành và quan điểm gì?",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n pháº£n Ã¡nh sá»± váº­n Äá»ng cá»§a HÃ ng tá»n kho lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm hợp nhất"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       },
       {
         "label": "B",
-        "text": "Quan điểm thống nhất"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       },
       {
         "label": "C",
-        "text": "Quan điểm giao thoa"
+        "text": "HÃ³a ÄÆ¡n GTGT, HÃ³a ÄÆ¡n bÃ¡n hÃ ng"
       },
       {
         "label": "D",
-        "text": "Quan điểm tích hợp"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       }
     ],
-    "correctAnswerText": "Quan điểm giao thoa"
+    "correctAnswerText": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
   },
   {
     "questionNumber": "21",
-    "questionText": "Khi xu hướng tiết kiệm cận biên tăng thì:",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây có khả năng cung cấp các dịch vụ logistics tích hợp/trọn gói?",
     "options": [
       {
         "label": "A",
-        "text": "Xu hướng nhập khẩu cận biên tăng."
+        "text": "2PL"
       },
       {
         "label": "B",
-        "text": "Xu hướng tiêu dùng cận biên giảm."
+        "text": "1PL"
       },
       {
         "label": "C",
-        "text": "Xu hướng nhập khẩu cận biên giảm."
+        "text": "4PL"
       },
       {
         "label": "D",
-        "text": "Xu hướng tiêu dùng cận biên tăng."
+        "text": "3PL"
       }
     ],
-    "correctAnswerText": "Xu hướng tiêu dùng cận biên giảm."
+    "correctAnswerText": "3PL"
   },
   {
     "questionNumber": "21",
-    "questionText": "Trong mô hình AD-AS, sự dịch chuyển sang phải của đường AD sẽ dẫn đến sự thay đổi nào (giả sử tổng cung không đổi)?",
+    "questionText": "Khi xu hÆ°á»ng tiáº¿t kiá»m cáº­n biÃªn tÄng thiÌ:",
     "options": [
       {
         "label": "A",
-        "text": "Sản lượng tăng và mức giá chung giảm."
+        "text": "Xu hÆ°á»ng nháº­p kháº©u cáº­n biÃªn tÄng."
       },
       {
         "label": "B",
-        "text": "Sản lượng giảm và mức giá chung giảm."
+        "text": "Xu hÆ°á»ng tiÃªu dÃ¹ng cáº­n biÃªn giáº£m."
       },
       {
         "label": "C",
-        "text": "Sản lượng giảm và mức giá chung tăng."
+        "text": "Xu hÆ°á»ng nháº­p kháº©u cáº­n biÃªn giáº£m."
       },
       {
         "label": "D",
-        "text": "Sản lượng tăng và mức giá chung tăng."
+        "text": "Xu hÆ°á»ng tiÃªu dÃ¹ng cáº­n biÃªn tÄng."
       }
     ],
-    "correctAnswerText": "Sản lượng tăng và mức giá chung tăng."
+    "correctAnswerText": "Xu hÆ°á»ng tiÃªu dÃ¹ng cáº­n biÃªn giáº£m."
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Trong mÃ´ hÃ¬nh AD-AS, sá»± dá»ch chuyá»n sang pháº£i cá»§a ÄÆ°á»ng AD sáº½ dáº«n Äáº¿n sá»± thay Äá»i nÃ o (giáº£ sá»­ tá»ng cung khÃ´ng Äá»i)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sáº£n lÆ°á»£ng tÄng vÃ  mÆ°Ìc giÃ¡ chung giáº£m."
+      },
+      {
+        "label": "B",
+        "text": "Sáº£n lÆ°á»£ng giáº£m vÃ  mÆ°Ìc giÃ¡ chung giáº£m."
+      },
+      {
+        "label": "C",
+        "text": "Sáº£n lÆ°á»£ng giáº£m vÃ  mÆ°Ìc giÃ¡ chung tÄng."
+      },
+      {
+        "label": "D",
+        "text": "Sáº£n lÆ°á»£ng tÄng vÃ  mÆ°Ìc giÃ¡ chung tÄng."
+      }
+    ],
+    "correctAnswerText": "Sáº£n lÆ°á»£ng tÄng vÃ  mÆ°Ìc giÃ¡ chung tÄng."
   },
   {
     "questionNumber": "22",
-    "questionText": "Có số liệu của một nền kinh tế của một nền kinh tế được cho trong Bảng dưới đây (Đơn vị: tỷ USD):  Năm GDPN DGDP     2018 20 100     2019 25 115  Khi đó, tốc độ tăng trưởng của nền kinh tế vào năm 2019 là:",
+    "questionText": "ÄÆ°á»ng tá»ng cung ngáº¯n háº¡n cÃ³ Äá» dá»c dÆ°Æ¡ng hÃ m Ã½:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Má»©c giÃ¡ chung tÄng sáº½ khuyáº¿n khÃ­ch cÃ¡c doanh nghiá»p sáº£n xuáº¥t vÃ  cung á»©ng nhiá»u sáº£n pháº©m hÆ¡n"
+      },
+      {
+        "label": "B",
+        "text": "Cáº£i tiáº¿n cÃ´ng nghá» sáº½ lÃ m tÄng tá»ng cáº§u vá» hÃ ng hoÃ¡ vÃ  dá»ch vá»¥"
+      },
+      {
+        "label": "C",
+        "text": "NgÆ°á»i tiÃªu dÃ¹ng thÃ­ch mua cÃ¡c sáº£n pháº©m cao cáº¥p"
+      },
+      {
+        "label": "D",
+        "text": "Má»©c giÃ¡ chung tÄng sáº½ dáº«n Äáº¿n sá»± dá»ch chuyá»n sang pháº£i cá»§a ÄÆ°á»ng tá»ng cung."
+      }
+    ],
+    "correctAnswerText": "Má»©c giÃ¡ chung tÄng sáº½ khuyáº¿n khÃ­ch cÃ¡c doanh nghiá»p sáº£n xuáº¥t vÃ  cung á»©ng nhiá»u sáº£n pháº©m hÆ¡n"
+  },
+  {
+    "questionNumber": "22",
+    "questionText": "CÃ³ sá» liá»u cá»§a má»t ná»n kinh táº¿ cá»§a má»t ná»n kinh táº¿ ÄÆ°á»£c cho trong Báº£ng dÆ°á»i ÄÃ¢y (ÄÆ¡n viÌ£: tyÌ USD):  NÄm GDPN DGDPÂ     2018 20 100Â     2019 25 115  Khi ÄÃ³, tá»c Äá» tÄng trÆ°á»ng cá»§a ná»n kinh táº¿ vÃ o nÄm 2019 lÃ :",
     "options": [
       {
         "label": "A",
@@ -2439,490 +2945,605 @@
   },
   {
     "questionNumber": "22",
-    "questionText": "Đường tổng cung ngắn hạn có độ dốc dương hàm ý:",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây cung cấp các dịch vụ logistics đơn lẻ?",
     "options": [
       {
         "label": "A",
-        "text": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+        "text": "1PL"
       },
       {
         "label": "B",
-        "text": "Cải tiến công nghệ sẽ làm tăng tổng cầu về hàng hoá và dịch vụ"
+        "text": "4PL"
       },
       {
         "label": "C",
-        "text": "Người tiêu dùng thích mua các sản phẩm cao cấp"
+        "text": "3PL"
       },
       {
         "label": "D",
-        "text": "Mức giá chung tăng sẽ dẫn đến sự dịch chuyển sang phải của đường tổng cung."
+        "text": "2PL"
       }
     ],
-    "correctAnswerText": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+    "correctAnswerText": "2PL"
   },
   {
     "questionNumber": "22",
-    "questionText": "Thâm hụt ngân sách nhà nước có xu hướng tăng trong thời kỳ nền kinh tế suy thoái chủ yếu do:",
+    "questionText": "TÃ­ch há»£p tá»«ng pháº§n theo hÆ°á»ng quáº£n lÃ½ nguyÃªn váº­t liá»u Äáº§u vÃ o (inbound logistics) bao gá»m hoáº¡t Äá»ng nÃ o sau ÄÃ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "Cán cân thương mại thặng dư."
+        "text": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
       },
       {
         "label": "B",
-        "text": "Chính phủ tăng thuế nhiều hơn tăng chi tiêu."
+        "text": "Cung á»©ng, mua vÃ  quáº£n lÃ½ nguyÃªn nhiÃªn liá»u vÃ  váº­t tÆ° sáº£n xuáº¥t."
       },
       {
         "label": "C",
-        "text": "Nguồn thu từ thuế gián thu tăng vì giá cả và sản lượng tăng."
+        "text": "Váº­n chuyá»n vá»i tá»c Äá» nhanh cho khÃ¡ch hÃ ng"
       },
       {
         "label": "D",
-        "text": "Thu ngân sách giảm trong khi nhu cầu chi ngân sách tăng."
+        "text": "Cung á»©ng sáº£n pháº©m hoÃ n chá»nh ra thá» trÆ°á»ng"
       }
     ],
-    "correctAnswerText": "Thu ngân sách giảm trong khi nhu cầu chi ngân sách tăng."
+    "correctAnswerText": "Cung á»©ng, mua vÃ  quáº£n lÃ½ nguyÃªn nhiÃªn liá»u vÃ  váº­t tÆ° sáº£n xuáº¥t."
   },
   {
     "questionNumber": "22",
-    "questionText": "Thanh toán tiền hàng cho người bán bằng TGNH (đã có báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "ThÃ¢m há»¥t ngÃ¢n sÃ¡ch nhÃ  nÆ°á»c cÃ³ xu hÆ°á»ng tÄng trong thá»i ká»³ ná»n kinh táº¿ suy thoÃ¡i chá»§ yáº¿u do:",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, hóa đơn GTGT."
+        "text": "CÃ¡n cÃ¢n thÆ°Æ¡ng máº¡i tháº·ng dÆ°."
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ."
+        "text": "ChÃ­nh phá»§ tÄng thuáº¿ nhiá»u hÆ¡n tÄng chi tiÃªu."
       },
       {
         "label": "C",
-        "text": "Phiếu chi, hóa đơn GTGT."
+        "text": "Nguá»n thu tá»« thuáº¿ giÃ¡n thu tÄng vÃ¬ giÃ¡ cáº£ vÃ  sáº£n lÆ°á»£ng tÄng."
       },
       {
         "label": "D",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "Thu ngÃ¢n sÃ¡ch giáº£m trong khi nhu cáº§u chi ngÃ¢n sÃ¡ch tÄng."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ."
+    "correctAnswerText": "Thu ngÃ¢n sÃ¡ch giáº£m trong khi nhu cáº§u chi ngÃ¢n sÃ¡ch tÄng."
   },
   {
     "questionNumber": "22",
-    "questionText": "Tích hợp từng phần theo hướng quản lý nguyên vật liệu đầu vào (inbound logistics) bao gồm hoạt động nào sau đây?",
+    "questionText": "Thanh toÃ¡n tiá»n hÃ ng cho ngÆ°á»i bÃ¡n báº±ng TGNH (ÄÃ£ cÃ³ bÃ¡o Ná»£). Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT."
       },
       {
         "label": "B",
-        "text": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+        "text": "Giáº¥y bÃ¡o ná»£."
       },
       {
         "label": "C",
-        "text": "Vận chuyển với tốc độ nhanh cho khách hàng"
+        "text": "Phiáº¿u chi, hÃ³a ÄÆ¡n GTGT."
       },
       {
         "label": "D",
-        "text": "Cung ứng sản phẩm hoàn chỉnh ra thị trường"
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       }
     ],
-    "correctAnswerText": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£."
   },
   {
     "questionNumber": "23",
-    "questionText": "Giả sử có hàm tổng chi tiêu trong nền kinh tế giản đơn như sau: AE = 600 + 0,75Y. Nếu sản lượng thực tế là Y = 2.000 thì có hiện tượng ngoài dự kiến nào sẽ xảy ra?",
+    "questionText": "á» thá»i ká»³ Ai Cáº­p cá» Äáº¡i, quÃ¡ trÃ¬nh xÃ¢y dá»±ng kim tá»± thÃ¡p ÄÆ°á»£c coi lÃ  thÃ nh tá»±u Äáº§u tiÃªn trong phÃ¡t triá»n logistics trÃªn khÃ­a cáº¡nh nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Thiếu hụt ngoài dự kiến là 100."
+        "text": "PhÆ°Æ¡ng phÃ¡p váº­n chuyá»n"
       },
       {
         "label": "B",
-        "text": "Thiếu hụt ngoài dự kiến là 400."
+        "text": "Tá» chá»©c lao Äá»ng"
       },
       {
         "label": "C",
-        "text": "Tồn kho ngoài dự kiến là 400."
+        "text": "XÃ¡c Äá»nh khá»i lÆ°á»£ng nguyÃªn liá»u sá»­ dá»¥ng"
       },
       {
         "label": "D",
-        "text": "Tồn kho ngoài dự kiến là 100."
+        "text": "Ká»¹ thuáº­t cáº¯t gá»t ÄÃ¡ nguyÃªn khá»i"
       }
     ],
-    "correctAnswerText": "Thiếu hụt ngoài dự kiến là 100."
+    "correctAnswerText": "PhÆ°Æ¡ng phÃ¡p váº­n chuyá»n"
   },
   {
     "questionNumber": "23",
-    "questionText": "Nếu một công dân Việt Nam làm cho một công ty của Việt Nam đặt tại Mỹ, thì thu nhập của anh ta được tính vào:",
+    "questionText": "Giáº£ sá»­ cÃ³ hÃ m tá»ng chi tiÃªu trong ná»n kinh táº¿ giáº£n ÄÆ¡n nhÆ° sau: AE = 600 + 0,75Y. Náº¿u sáº£n lÆ°á»£ng thá»±c táº¿ lÃ  Y = 2.000 thÃ¬ cÃ³ hiá»n tÆ°á»£ng ngoÃ i dá»± kiáº¿n nÃ o sáº½ xáº£y ra?",
     "options": [
       {
         "label": "A",
-        "text": "GDP của Việt Nam và GDP của Mỹ."
+        "text": "Thiáº¿u há»¥t ngoÃ i dá»± kiáº¿n lÃ  100."
       },
       {
         "label": "B",
-        "text": "GNP của Việt Nam và GDP của Mỹ."
+        "text": "Thiáº¿u há»¥t ngoÃ i dá»± kiáº¿n lÃ  400."
       },
       {
         "label": "C",
-        "text": "GNP của Việt Nam và GNP của Mỹ."
+        "text": "Tá»n kho ngoÃ i dá»± kiáº¿n lÃ  400."
       },
       {
         "label": "D",
-        "text": "GDP của Việt Nam và GNP của Mỹ."
+        "text": "Tá»n kho ngoÃ i dá»± kiáº¿n lÃ  100."
       }
     ],
-    "correctAnswerText": "GNP của Việt Nam và GDP của Mỹ."
+    "correctAnswerText": "Thiáº¿u há»¥t ngoÃ i dá»± kiáº¿n lÃ  100."
   },
   {
     "questionNumber": "23",
-    "questionText": "Ở thời kỳ Ai Cập cổ đại, quá trình xây dựng kim tự tháp được coi là thành tựu đầu tiên trong phát triển logistics trên khía cạnh nào?",
+    "questionText": "Náº¿u má»t cÃ´ng dÃ¢n Viá»t Nam lÃ m cho má»t cÃ´ng ty cá»§a Viá»t Nam Äáº·t táº¡i Má»¹, thÃ¬ thu nháº­p cá»§a anh ta ÄÆ°á»£c tÃ­nh vÃ o:",
     "options": [
       {
         "label": "A",
-        "text": "Phương pháp vận chuyển"
+        "text": "GDP cá»§a Viá»t Nam vÃ  GDP cá»§a Má»¹."
       },
       {
         "label": "B",
-        "text": "Tổ chức lao động"
+        "text": "GNP cá»§a Viá»t Nam vÃ  GDP cá»§a Má»¹."
       },
       {
         "label": "C",
-        "text": "Xác định khối lượng nguyên liệu sử dụng"
+        "text": "GNP cá»§a Viá»t Nam vÃ  GNP cá»§a Má»¹."
       },
       {
         "label": "D",
-        "text": "Kỹ thuật cắt gọt đá nguyên khối"
+        "text": "GDP cá»§a Viá»t Nam vÃ  GNP cá»§a Má»¹."
       }
     ],
-    "correctAnswerText": "Phương pháp vận chuyển"
+    "correctAnswerText": "GNP cá»§a Viá»t Nam vÃ  GDP cá»§a Má»¹."
   },
   {
     "questionNumber": "23",
-    "questionText": "Trả lương cho nhân viên bằng tiền gửi ngân hàng (đã có giấy báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Tráº£ lÆ°Æ¡ng cho nhÃ¢n viÃªn báº±ng tiá»n gá»­i ngÃ¢n hÃ ng (ÄÃ£ cÃ³ giáº¥y bÃ¡o Ná»£). Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+        "text": "Giáº¥y bÃ¡o ná»£, báº£ng tÃ­nh thanh toÃ¡n tiá»n lÆ°Æ¡ng."
       },
       {
         "label": "B",
-        "text": "Giấy báo có."
+        "text": "Giáº¥y bÃ¡o cÃ³."
       },
       {
         "label": "C",
-        "text": "Phiếu xuất kho."
+        "text": "Phiáº¿u xuáº¥t kho."
       },
       {
         "label": "D",
-        "text": "Phiếu chi."
+        "text": "Phiáº¿u chi."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, báº£ng tÃ­nh thanh toÃ¡n tiá»n lÆ°Æ¡ng."
+  },
+  {
+    "questionNumber": "23",
+    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào đòi hỏi mức độ quản lý phức tạp nhất?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cấp độ doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Cấp độ sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Cấp độ quy tình"
+      },
+      {
+        "label": "D",
+        "text": "Cấp độ ngành"
+      }
+    ],
+    "correctAnswerText": "Cấp độ ngành"
   },
   {
     "questionNumber": "24",
-    "questionText": "Chứng từ kế toán nào sau đây là chứng từ bên ngoài:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n nÃ o sau ÄÃ¢y lÃ  chá»©ng tá»« bÃªn ngoÃ i:",
     "options": [
       {
         "label": "A",
-        "text": "Bảng thanh toán lương, Phiếu tạm ứng lương"
+        "text": "Báº£ng thanh toÃ¡n lÆ°Æ¡ng, Phiáº¿u táº¡m á»©ng lÆ°Æ¡ng"
       },
       {
         "label": "B",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       },
       {
         "label": "D",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
   },
   {
     "questionNumber": "24",
-    "questionText": "Cuộc cách mạng về vận chuyển của người Hy Lạp cổ đại (2.500 - 539 TCN) là dựa trên phát kiến nào?",
+    "questionText": "Cuá»c cÃ¡ch máº¡ng vá» váº­n chuyá»n cá»§a ngÆ°á»i Hy Láº¡p cá» Äáº¡i (2.500 - 539 TCN) lÃ  dá»±a trÃªn phÃ¡t kiáº¿n nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Công nghệ đóng tàu biển"
+        "text": "CÃ´ng nghá» ÄÃ³ng tÃ u biá»n"
       },
       {
         "label": "B",
-        "text": "Đầu máy hơi nước"
+        "text": "Äáº§u mÃ¡y hÆ¡i nÆ°á»c"
       },
       {
         "label": "C",
-        "text": "Động cơ đốt trong"
+        "text": "Äá»ng cÆ¡ Äá»t trong"
       },
       {
         "label": "D",
-        "text": "Hệ thống truyền động"
+        "text": "Há» thá»ng truyá»n Äá»ng"
       }
     ],
-    "correctAnswerText": "Công nghệ đóng tàu biển"
+    "correctAnswerText": "CÃ´ng nghá» ÄÃ³ng tÃ u biá»n"
   },
   {
     "questionNumber": "24",
-    "questionText": "Nhận định nào sau đây là ĐÚNG khi mô tả đường tổng chi tiêu trong nền kinh tế mở (trong mô hình AE-Y)?",
+    "questionText": "Doanh nghiệp sản xuất, doanh nghiệp phân phối bán buôn và bán lẻ thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Là đường dốc lên và có độ dốc nhỏ hơn 1."
+        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
       },
       {
         "label": "B",
-        "text": "Là đường dốc xuống và có độ dốc lớn hơn 1."
+        "text": "Dịch vụ logistics đầu ra"
       },
       {
         "label": "C",
-        "text": "Là đường dốc xuống và có độ dốc nhỏ hơn 1."
+        "text": "Doanh nghiệp logistics"
       },
       {
         "label": "D",
-        "text": "Là đường dốc lên và có độ dốc lớn hơn 1."
+        "text": "Doanh nghiệp cung ứng dịch vụ giao nhận hàng hóa"
       }
     ],
-    "correctAnswerText": "Là đường dốc lên và có độ dốc nhỏ hơn 1."
+    "correctAnswerText": "Doanh nghiệp sử dụng dịch vụ logistics"
   },
   {
     "questionNumber": "24",
-    "questionText": "Tăng trưởng sản lượng của một quốc gia được thể hiện bằng tăng trưởng của:",
+    "questionText": "Nháº­n Äá»nh nÃ o sau ÄÃ¢y lÃ  ÄÃNG khi mÃ´ táº£ ÄÆ°á»ng tá»ng chi tiÃªu trong ná»n kinh táº¿ má» (trong mÃ´ hÃ¬nh AE-Y)?",
     "options": [
       {
         "label": "A",
-        "text": "Giá trị các sản phẩm trung gian."
+        "text": "LÃ  ÄÆ°á»ng dá»c lÃªn vÃ  cÃ³ Äá» dá»c nhá» hÆ¡n 1."
       },
       {
         "label": "B",
-        "text": "GDP danh nghĩa."
+        "text": "LÃ  ÄÆ°á»ng dá»c xuá»ng vÃ  cÃ³ Äá» dá»c lá»n hÆ¡n 1."
       },
       {
         "label": "C",
-        "text": "GDP thực."
+        "text": "LÃ  ÄÆ°á»ng dá»c xuá»ng vÃ  cÃ³ Äá» dá»c nhá» hÆ¡n 1."
       },
       {
         "label": "D",
-        "text": "Chỉ số giá tiêu dùng."
+        "text": "LÃ  ÄÆ°á»ng dá»c lÃªn vÃ  cÃ³ Äá» dá»c lá»n hÆ¡n 1."
       }
     ],
-    "correctAnswerText": "GDP thực."
+    "correctAnswerText": "LÃ  ÄÆ°á»ng dá»c lÃªn vÃ  cÃ³ Äá» dá»c nhá» hÆ¡n 1."
+  },
+  {
+    "questionNumber": "24",
+    "questionText": "TÄng trÆ°á»ng sáº£n lÆ°á»£ng cá»§a má»t quá»c gia ÄÆ°á»£c thá» hiá»n báº±ng tÄng trÆ°á»ng cá»§a:",
+    "options": [
+      {
+        "label": "A",
+        "text": "GiÃ¡ trá» cÃ¡c sáº£n pháº©m trung gian."
+      },
+      {
+        "label": "B",
+        "text": "GDP danh nghÄ©a."
+      },
+      {
+        "label": "C",
+        "text": "GDP thá»±c."
+      },
+      {
+        "label": "D",
+        "text": "Chá» sá» giÃ¡ tiÃªu dÃ¹ng."
+      }
+    ],
+    "correctAnswerText": "GDP thá»±c."
   },
   {
     "questionNumber": "25",
-    "questionText": "Khi đầu tư tự định tăng sẽ làm cho đường tổng chi tiêu trong mô hình AE-Y:",
+    "questionText": "Khi Äáº§u tÆ° tá»± Äá»nh tÄng sáº½ lÃ m cho ÄÆ°á»ng tá»ng chi tiÃªu trong mÃ´ hÃ¬nh AE-Y:",
     "options": [
       {
         "label": "A",
-        "text": "Thoải hơn."
+        "text": "Thoáº£i hÆ¡n."
       },
       {
         "label": "B",
-        "text": "Dịch chuyển song song lên trên."
+        "text": "Dá»ch chuyá»n song song lÃªn trÃªn."
       },
       {
         "label": "C",
-        "text": "Dịch chuyển song song xuống dưới"
+        "text": "Dá»ch chuyá»n song song xuá»ng dÆ°á»i"
       },
       {
         "label": "D",
-        "text": "Dốc hơn."
+        "text": "Dá»c hÆ¡n."
       }
     ],
-    "correctAnswerText": "Dịch chuyển song song lên trên."
+    "correctAnswerText": "Dá»ch chuyá»n song song lÃªn trÃªn."
   },
   {
     "questionNumber": "25",
-    "questionText": "Quan điểm nào coi logistics là một phần của quản trị chuỗi cung ứng, hay quản trị chuỗi cung ứng bao trùm lên logistics và nhiều lĩnh vực khác?",
+    "questionText": "Quan Äiá»m nÃ o coi logistics lÃ  má»t pháº§n cá»§a quáº£n trá» chuá»i cung á»©ng, hay quáº£n trá» chuá»i cung á»©ng bao trÃ¹m lÃªn logistics vÃ  nhiá»u lÄ©nh vá»±c khÃ¡c?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm truyền thống"
+        "text": "Quan Äiá»m truyá»n thá»ng"
       },
       {
         "label": "B",
-        "text": "Quan điểm liên ngành"
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
       },
       {
         "label": "C",
-        "text": "Quan điểm đồng nhất"
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
       },
       {
         "label": "D",
-        "text": "Quan điểm giao thoa"
+        "text": "Quan Äiá»m giao thoa"
       }
     ],
-    "correctAnswerText": "Quan điểm liên ngành"
+    "correctAnswerText": "Quan Äiá»m liÃªn ngÃ nh"
   },
   {
     "questionNumber": "25",
-    "questionText": "Theo quy định, chứng từ điện tử:",
+    "questionText": "Tá»ng sáº£n pháº©m quá»c dÃ¢n (GNP) cá»§a Viá»t Nam Äo lÆ°á»ng tá»ng giÃ¡ trá» cá»§a hÃ ng hÃ³a vÃ  dá»ch vá»¥ cuá»i cÃ¹ng do:",
     "options": [
       {
         "label": "A",
-        "text": "Có thể có hoặc không có chữ ký tùy thuộc từng loại chứng từ."
+        "text": "NgÆ°á»i nÆ°á»c ngoÃ i táº¡o ra trÃªn lÃ£nh thá» Viá»t Nam."
       },
       {
         "label": "B",
-        "text": "Phải có chữ ký người lập"
+        "text": "NgÆ°á»i Viá»t Nam táº¡o ra á» trong nÆ°á»c vÃ  nÆ°á»c ngoÃ i."
       },
       {
         "label": "C",
-        "text": "Không cần chữ ký các bên liên quan"
+        "text": "NgÆ°á»i nÆ°á»c ngoÃ i táº¡o ra trÃªn lÃ£nh thá» Viá»t Nam."
       },
       {
         "label": "D",
-        "text": "Phải có chữ ký điện tử"
+        "text": "NgÆ°á»i Viá»t Nam vÃ  nÆ°á»c ngoÃ i táº¡o ra trÃªn lÃ£nh thá» Viá»t Nam."
       }
     ],
-    "correctAnswerText": "Phải có chữ ký điện tử"
+    "correctAnswerText": "NgÆ°á»i Viá»t Nam táº¡o ra á» trong nÆ°á»c vÃ  nÆ°á»c ngoÃ i."
   },
   {
     "questionNumber": "25",
-    "questionText": "Tổng sản phẩm quốc dân (GNP) của Việt Nam đo lường tổng giá trị của hàng hóa và dịch vụ cuối cùng do:",
+    "questionText": "Theo quan điểm hiện nay, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
     "options": [
       {
         "label": "A",
-        "text": "Người nước ngoài tạo ra trên lãnh thổ Việt Nam."
+        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
       },
       {
         "label": "B",
-        "text": "Người Việt Nam tạo ra ở trong nước và nước ngoài."
+        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
       },
       {
         "label": "C",
-        "text": "Người nước ngoài tạo ra trên lãnh thổ Việt Nam."
+        "text": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
       },
       {
         "label": "D",
-        "text": "Người Việt Nam và nước ngoài tạo ra trên lãnh thổ Việt Nam."
+        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
       }
     ],
-    "correctAnswerText": "Người Việt Nam tạo ra ở trong nước và nước ngoài."
+    "correctAnswerText": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
+  },
+  {
+    "questionNumber": "25",
+    "questionText": "Theo quy Äá»nh, chá»©ng tá»« Äiá»n tá»­:",
+    "options": [
+      {
+        "label": "A",
+        "text": "CÃ³ thá» cÃ³ hoáº·c khÃ´ng cÃ³ chá»¯ kÃ½ tÃ¹y thuá»c tá»«ng loáº¡i chá»©ng tá»«."
+      },
+      {
+        "label": "B",
+        "text": "Pháº£i cÃ³ chá»¯ kÃ½ ngÆ°á»i láº­p"
+      },
+      {
+        "label": "C",
+        "text": "KhÃ´ng cáº§n chá»¯ kÃ½ cÃ¡c bÃªn liÃªn quan"
+      },
+      {
+        "label": "D",
+        "text": "Pháº£i cÃ³ chá»¯ kÃ½ Äiá»n tá»­"
+      }
+    ],
+    "correctAnswerText": "Pháº£i cÃ³ chá»¯ kÃ½ Äiá»n tá»­"
   },
   {
     "questionNumber": "26",
-    "questionText": "Đặc trưng của logistics và chuỗi cung trên thế giới giai đoạn trước năm 1960 là gì?",
+    "questionText": "Äáº·c trÆ°ng cá»§a logistics vÃ  chuá»i cung trÃªn tháº¿ giá»i giai Äoáº¡n trÆ°á»c nÄm 1960 lÃ  gÃ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Tích hợp từng phần"
+        "text": "TÃ­ch há»£p tá»«ng pháº§n"
       },
       {
         "label": "B",
-        "text": "Tích hợp toàn chuỗi cung ứng"
+        "text": "TÃ­ch há»£p toÃ n chuá»i cung á»©ng"
       },
       {
         "label": "C",
-        "text": "Tích hợp toàn doanh nghiệp"
+        "text": "TÃ­ch há»£p toÃ n doanh nghiá»p"
       },
       {
         "label": "D",
-        "text": "Sự phân mảnh"
+        "text": "Sá»± phÃ¢n máº£nh"
       }
     ],
-    "correctAnswerText": "Sự phân mảnh"
+    "correctAnswerText": "Sá»± phÃ¢n máº£nh"
   },
   {
     "questionNumber": "26",
-    "questionText": "Nhóm người nào sau đây không thuộc lực lượng lao động(giả sử họ đều trong độ tuổi lao động và có khả năng lao động)?",
+    "questionText": "Đâu là chủ thể tạo ra nhu cầu về logistics trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Người nghỉ hưu trước tuổi."
+        "text": "Doanh nghiệp chuyển phát"
       },
       {
         "label": "B",
-        "text": "Người đang thất nghiệp."
+        "text": "Doanh nghiệp vận tải"
       },
       {
         "label": "C",
-        "text": "Người đang có việc làm."
+        "text": "Doanh nghiệp 2PL"
       },
       {
         "label": "D",
-        "text": "Sinh viên mới ra trường đang tìm việc làm."
+        "text": "Doanh nghiệp sản xuất hàng may mặc"
       }
     ],
-    "correctAnswerText": "Người nghỉ hưu trước tuổi."
+    "correctAnswerText": "Doanh nghiệp sản xuất hàng may mặc"
   },
   {
     "questionNumber": "26",
-    "questionText": "Trong nền kinh tế mở, khi xu hướng tiêu dùng cận biên (MPC) tăng thì điều gì xảy ra?",
+    "questionText": "NhÃ³m ngÆ°á»i nÃ o sau ÄÃ¢y khÃ´ng thuá»c lá»±c lÆ°á»£ng lao Äá»ng(giáº£ sá»­ há» Äá»u trong Äá» tuá»i lao Äá»ng vÃ  cÃ³ kháº£ nÄng lao Äá»ng)?",
     "options": [
       {
         "label": "A",
-        "text": "Tiêu dùng và sản lượng cân bằng tăng"
+        "text": "NgÆ°á»i nghá» hÆ°u trÆ°á»c tuá»i."
       },
       {
         "label": "B",
-        "text": "Tiêu dùng và sản lượng cân bằng giảm"
+        "text": "NgÆ°á»i Äang tháº¥t nghiá»p."
       },
       {
         "label": "C",
-        "text": "Tiêu dùng tăng, sản lượng cân bằng giảm"
+        "text": "NgÆ°á»i Äang cÃ³ viá»c lÃ m."
       },
       {
         "label": "D",
-        "text": "Tiêu dùng giảm, sản lượng cân bằng tăng"
+        "text": "Sinh viÃªn má»i ra trÆ°á»ng Äang tÃ¬m viá»c lÃ m."
       }
     ],
-    "correctAnswerText": "Tiêu dùng và sản lượng cân bằng tăng"
+    "correctAnswerText": "NgÆ°á»i nghá» hÆ°u trÆ°á»c tuá»i."
   },
   {
-    "questionNumber": "27",
-    "questionText": "Sản phẩm cuối cùng KHÔNG bao gồm nhóm hàng hóa nào?",
+    "questionNumber": "26",
+    "questionText": "Trong ná»n kinh táº¿ má», khi xu hÆ°á»ng tiÃªu dÃ¹ng cáº­n biÃªn (MPC) tÄng thiÌ ÄiÃªÌu giÌ xaÌy ra?",
     "options": [
       {
         "label": "A",
-        "text": "Xe đạp mà hộ gia đình mua."
+        "text": "TiÃªu dÃ¹ng vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng"
       },
       {
         "label": "B",
-        "text": "Sữa bán cho người tiêu dùng."
+        "text": "TiÃªu dÃ¹ng vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m"
       },
       {
         "label": "C",
-        "text": "Quần áo người tiêu dùng mua."
+        "text": "TiÃªu dÃ¹ng tÄng, sáº£n lÆ°á»£ng cÃ¢n báº±ng giáº£m"
       },
       {
         "label": "D",
-        "text": "Bột mỳ doanh nghiệp mua để sản xuất bánh."
+        "text": "TiÃªu dÃ¹ng giáº£m, sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng"
       }
     ],
-    "correctAnswerText": "Bột mỳ doanh nghiệp mua để sản xuất bánh."
+    "correctAnswerText": "TiÃªu dÃ¹ng vÃ  sáº£n lÆ°á»£ng cÃ¢n báº±ng tÄng"
   },
   {
     "questionNumber": "27",
-    "questionText": "Theo quan điểm hợp nhất, phát biểu nào sau đây là đúng?",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, cho biết yếu tố tạo nên sự khác biệt cơ bản về năng lực giữa doanh nghiệp 2PL và 3PL?",
     "options": [
       {
         "label": "A",
-        "text": "Quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+        "text": "Tích hợp và điều phối hoạt động logistics"
       },
       {
         "label": "B",
-        "text": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+        "text": "Phương tiện vận tải"
       },
       {
         "label": "C",
-        "text": "Logistics và quản trị chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên."
+        "text": "Hệ thống kho bãi"
       },
       {
         "label": "D",
-        "text": "Các phát biểu còn lại đều sai"
+        "text": "Công nghệ logistics"
       }
     ],
-    "correctAnswerText": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+    "correctAnswerText": "Tích hợp và điều phối hoạt động logistics"
   },
   {
     "questionNumber": "27",
-    "questionText": "Xét một nền kinh tế đóng, chính phủ đánh thuế tự định (thuế không phụ thuộc vào thu nhập). Nếu xu hướng nhập khẩu cận biên MPM = 0,25 thì giá trị của số nhân thuế của nền kinh tế này là:",
+    "questionText": "Sáº£n pháº©m cuá»i cÃ¹ng KHÃNG bao gá»m nhoÌm haÌng hoÌa naÌo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xe Äáº¡p mÃ  há» gia ÄÃ¬nh mua."
+      },
+      {
+        "label": "B",
+        "text": "Sá»¯a bÃ¡n cho ngÆ°á»i tiÃªu dÃ¹ng."
+      },
+      {
+        "label": "C",
+        "text": "Quáº§n Ã¡o ngÆ°á»i tiÃªu dÃ¹ng mua."
+      },
+      {
+        "label": "D",
+        "text": "Bá»t má»³ doanh nghiá»p mua Äá» sáº£n xuáº¥t bÃ¡nh."
+      }
+    ],
+    "correctAnswerText": "Bá»t má»³ doanh nghiá»p mua Äá» sáº£n xuáº¥t bÃ¡nh."
+  },
+  {
+    "questionNumber": "27",
+    "questionText": "Theo quan Äiá»m há»£p nháº¥t, phÃ¡t biá»u nÃ o sau ÄÃ¢y lÃ  ÄÃºng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quáº£n trá» chuá»i cung á»©ng lÃ  má»t loáº¡i logistics Äáº·c biá»t, lÃ  hoáº¡t Äá»ng logistics bÃªn ngoÃ i hoáº·c liÃªn tá» chá»©c."
+      },
+      {
+        "label": "B",
+        "text": "Pháº¡m vi chuá»i cung á»©ng bao trÃ¹m lÃªn hoáº¡t Äá»ng logistics cÃ¹ng vá»i cÃ¡c hoáº¡t Äá»ng quáº£n lÃ½ nguá»n cung á»©ng vÃ  phÃ¢n phá»i hÃ ng hÃ³a cho khÃ¡ch hÃ ng."
+      },
+      {
+        "label": "C",
+        "text": "Logistics vÃ  quáº£n trá» chuá»i cung á»©ng lÃ  má»t, chá» ÄÆ¡n giáº£n lÃ  sá»± Äá»i tÃªn."
+      },
+      {
+        "label": "D",
+        "text": "CÃ¡c phÃ¡t biá»u cÃ²n láº¡i Äá»u sai"
+      }
+    ],
+    "correctAnswerText": "Pháº¡m vi chuá»i cung á»©ng bao trÃ¹m lÃªn hoáº¡t Äá»ng logistics cÃ¹ng vá»i cÃ¡c hoáº¡t Äá»ng quáº£n lÃ½ nguá»n cung á»©ng vÃ  phÃ¢n phá»i hÃ ng hÃ³a cho khÃ¡ch hÃ ng."
+  },
+  {
+    "questionNumber": "27",
+    "questionText": "XÃ©t má»t ná»n kinh táº¿ ÄÃ³ng, chÃ­nh phá»§ ÄÃ¡nh thuáº¿ tá»± Äá»nh (thuáº¿ khÃ´ng phá»¥ thuá»c vÃ o thu nháº­p). Náº¿u xu hÆ°á»ng nháº­p kháº©u cáº­n biÃªn MPM = 0,25 thÃ¬ giÃ¡ trá» cá»§a sá» nhÃ¢n thuáº¿ cá»§a ná»n kinh táº¿ nÃ y lÃ :",
     "options": [
       {
         "label": "A",
@@ -2945,283 +3566,398 @@
   },
   {
     "questionNumber": "28",
-    "questionText": "Chỉ số điều chỉnh GDP được tính bằng cách lấy:",
+    "questionText": "Chá» sá» Äiá»u chá»nh GDP ÄÆ°á»£c tÃ­nh báº±ng cÃ¡ch láº¥y:",
     "options": [
       {
         "label": "A",
-        "text": "GDP thực trừ GDP danh nghĩa."
+        "text": "GDP thá»±c trá»« GDP danh nghÄ©a."
       },
       {
         "label": "B",
-        "text": "GDP danh nghĩa chia cho GDP thực."
+        "text": "GDP danh nghÄ©a chia cho GDP thá»±c."
       },
       {
         "label": "C",
-        "text": "GDP danh nghĩa trừ GDP thực."
+        "text": "GDP danh nghÄ©a trá»« GDP thá»±c."
       },
       {
         "label": "D",
-        "text": "GDP thực chia cho GDP danh nghĩa."
+        "text": "GDP thá»±c chia cho GDP danh nghÄ©a."
       }
     ],
-    "correctAnswerText": "GDP danh nghĩa chia cho GDP thực."
+    "correctAnswerText": "GDP danh nghÄ©a chia cho GDP thá»±c."
   },
   {
     "questionNumber": "28",
-    "questionText": "Chi tiêu của Chính phủ KHÔNG phụ thuộc vào yếu tố nào sau đây:",
+    "questionText": "Chi tiÃªu cá»§a ChÃ­nh phá»§ KHÃNG phá»¥ thuá»c vÃ o yáº¿u tá» nÃ o sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "Chi tiêu cho tiêu dùng của hộ gia đình"
+        "text": "Chi tiÃªu cho tiÃªu dÃ¹ng cá»§a há» gia ÄÃ¬nh"
       },
       {
         "label": "B",
-        "text": "Số thu thuế của chính phủ"
+        "text": "Sá» thu thuáº¿ cá»§a chÃ­nh phá»§"
       },
       {
         "label": "C",
-        "text": "Các mục tiêu kinh tế - xã hội của chính phủ"
+        "text": "CÃ¡c má»¥c tiÃªu kinh táº¿ - xÃ£ há»i cá»§a chÃ­nh phá»§"
       },
       {
         "label": "D",
-        "text": "Quy mô của chính phủ"
+        "text": "Quy mÃ´ cá»§a chÃ­nh phá»§"
       }
     ],
-    "correctAnswerText": "Chi tiêu cho tiêu dùng của hộ gia đình"
+    "correctAnswerText": "Chi tiÃªu cho tiÃªu dÃ¹ng cá»§a há» gia ÄÃ¬nh"
   },
   {
     "questionNumber": "28",
-    "questionText": "Phát biểu nào sau đây là đúng khi nói về quan điểm đồng nhất trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “… là hai hoặc nhiều doanh nghiệp chia sẻ trách nhiệm, trao đổi thông tin về lập kế hoạch, quản lý, thực hiện và đo lường hiệu suất chung.”",
     "options": [
       {
         "label": "A",
-        "text": "Không phân biệt giữa logistics và quản lý chuỗi cung ứng"
+        "text": "Tích hợp chuỗi cung ứng"
       },
       {
         "label": "B",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "Chia sẻ chuỗi cung ứng"
       },
       {
         "label": "C",
-        "text": "Người quản lý chuỗi cung ứng cũng quản lý các hoạt động logistics trong chuỗi cung ứng"
+        "text": "Cộng tác chuỗi cung ứng"
       },
       {
         "label": "D",
-        "text": "Quản lý chuỗi cung ứng là sự đổi tên của logistics"
+        "text": "Kết nối chuỗi cung ứng"
       }
     ],
-    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+    "correctAnswerText": "Cộng tác chuỗi cung ứng"
+  },
+  {
+    "questionNumber": "28",
+    "questionText": "PhÃ¡t biá»u nÃ o sau ÄÃ¢y lÃ  ÄÃºng khi nÃ³i vá» quan Äiá»m Äá»ng nháº¥t trong quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "KhÃ´ng phÃ¢n biá»t giá»¯a logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng"
+      },
+      {
+        "label": "B",
+        "text": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
+      },
+      {
+        "label": "C",
+        "text": "NgÆ°á»i quáº£n lÃ½ chuá»i cung á»©ng cÅ©ng quáº£n lÃ½ cÃ¡c hoáº¡t Äá»ng logistics trong chuá»i cung á»©ng"
+      },
+      {
+        "label": "D",
+        "text": "Quáº£n lÃ½ chuá»i cung á»©ng lÃ  sá»± Äá»i tÃªn cá»§a logistics"
+      }
+    ],
+    "correctAnswerText": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   },
   {
     "questionNumber": "29",
-    "questionText": "Giai đoạn 1960 - 1970, logistics và chuỗi cung ứng phát triển theo hướng nào?",
+    "questionText": "Giai Äoáº¡n 1960 - 1970, logistics vÃ  chuá»i cung á»©ng phÃ¡t triá»n theo hÆ°á»ng nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Tích hợp với nhà cung cấp"
+        "text": "TÃ­ch há»£p vá»i nhÃ  cung cáº¥p"
       },
       {
         "label": "B",
-        "text": "Tích hợp với khách hàng"
+        "text": "TÃ­ch há»£p vá»i khÃ¡ch hÃ ng"
       },
       {
         "label": "C",
-        "text": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+        "text": "TÃ­ch há»£p quáº£n lÃ½ váº­t liá»u Äáº§u vÃ o vÃ  phÃ¢n phá»i Äáº§u ra"
       },
       {
         "label": "D",
-        "text": "Tích hợp phía trước và phía sau"
+        "text": "TÃ­ch há»£p phÃ­a trÆ°á»c vÃ  phÃ­a sau"
       }
     ],
-    "correctAnswerText": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+    "correctAnswerText": "TÃ­ch há»£p quáº£n lÃ½ váº­t liá»u Äáº§u vÃ o vÃ  phÃ¢n phá»i Äáº§u ra"
   },
   {
     "questionNumber": "29",
-    "questionText": "Khi tiêu dùng tự định tăng sẽ làm cho đường tiêu dùng:",
+    "questionText": "Khi tiÃªu dÃ¹ng tá»± Äá»nh tÄng sáº½ lÃ m cho ÄÆ°Æ¡Ìng tiÃªu dÃ¹ng:",
     "options": [
       {
         "label": "A",
-        "text": "Dịch chuyển song song xuống dưới."
+        "text": "Dá»ch chuyá»n song song xuá»ng dÆ°á»i."
       },
       {
         "label": "B",
-        "text": "Dịch chuyển song song lên trên."
+        "text": "Dá»ch chuyá»n song song lÃªn trÃªn."
       },
       {
         "label": "C",
-        "text": "Dốc hơn."
+        "text": "Dá»c hÆ¡n."
       },
       {
         "label": "D",
-        "text": "Thoải hơn."
+        "text": "Thoáº£i hÆ¡n."
       }
     ],
-    "correctAnswerText": "Dịch chuyển song song lên trên."
+    "correctAnswerText": "Dá»ch chuyá»n song song lÃªn trÃªn."
+  },
+  {
+    "questionNumber": "29",
+    "questionText": "Quản lý công việc theo một chu trình đã được phân tích và quy định kỹ lưỡng là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiếp cận quản trị theo chức năng"
+      },
+      {
+        "label": "B",
+        "text": "Tiếp cận quản trị theo quá trình"
+      },
+      {
+        "label": "C",
+        "text": "Tiếp cận quản trị theo mục tiêu"
+      },
+      {
+        "label": "D",
+        "text": "Tiếp cận chiến lược"
+      }
+    ],
+    "correctAnswerText": "Tiếp cận quản trị theo quá trình"
   },
   {
     "questionNumber": "30",
-    "questionText": "Các doanh nghiệp thiết lập vị trí quản lý chuỗi cung ứng trong bộ phận logistics là theo quan điểm nào?",
+    "questionText": "CÃ¡c doanh nghiá»p thiáº¿t láº­p vá» trÃ­ quáº£n lÃ½ chuá»i cung á»©ng trong bá» pháº­n logistics lÃ  theo quan Äiá»m nÃ o?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Quan Äiá»m Äá»ng nháº¥t"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Quan Äiá»m giao thoa"
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Quan Äiá»m truyá»n thá»ng"
       },
       {
         "label": "D",
-        "text": "Quan điểm liên ngành"
+        "text": "Quan Äiá»m liÃªn ngÃ nh"
       }
     ],
-    "correctAnswerText": "Quan điểm truyền thống"
+    "correctAnswerText": "Quan Äiá»m truyá»n thá»ng"
   },
   {
     "questionNumber": "30",
-    "questionText": "Khi chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế, điều nào dưới đây chắc chắn đúng:",
+    "questionText": "Khi chÃ­nh phá»§ tÄng chi tiÃªu Äá» mua hÃ ng hÃ³a vÃ  dá»ch vá»¥ trong ná»n kinh táº¿, Äiá»u nÃ o dÆ°á»i ÄÃ¢y cháº¯c cháº¯n ÄÃºng:",
     "options": [
       {
         "label": "A",
-        "text": "Thất nghiệp của nền kinh tế tăng"
+        "text": "Tháº¥t nghiá»p cá»§a ná»n kinh táº¿ tÄng"
       },
       {
         "label": "B",
-        "text": "Tổng chi tiêu dự kiến của nền kinh tế (AE) tăng"
+        "text": "Tá»ng chi tiÃªu dá»± kiáº¿n cá»§a ná»n kinh táº¿ (AE) tÄng"
       },
       {
         "label": "C",
-        "text": "Khuyến khích đầu tư tư nhân"
+        "text": "Khuyáº¿n khÃ­ch Äáº§u tÆ° tÆ° nhÃ¢n"
       },
       {
         "label": "D",
-        "text": "Cải thiện cán cân thương mại"
+        "text": "Cáº£i thiá»n cÃ¡n cÃ¢n thÆ°Æ¡ng máº¡i"
       }
     ],
-    "correctAnswerText": "Tổng chi tiêu dự kiến của nền kinh tế (AE) tăng"
+    "correctAnswerText": "Tá»ng chi tiÃªu dá»± kiáº¿n cá»§a ná»n kinh táº¿ (AE) tÄng"
+  },
+  {
+    "questionNumber": "30",
+    "questionText": "Khía cạnh “Dễ dàng tiếp cận đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Khả năng tạo ra nhiều sản phẩm đa dạng"
+      },
+      {
+        "label": "B",
+        "text": "Khả năng doanh nghiệp dễ dàng tiếp cận với nguồn nhân lực"
+      },
+      {
+        "label": "C",
+        "text": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
+      },
+      {
+        "label": "D",
+        "text": "Khả năng doanh nghiệp dễ dàng truy cập vào các thông tin quan trọng để đáp ứng yêu cầu khách hàng"
+      }
+    ],
+    "correctAnswerText": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
   },
   {
     "questionNumber": "31",
-    "questionText": "Nếu chính phủ đồng thời tăng thuế và tăng chi tiêu thêm 500 tỷ đồng (giả sử lãi suất không đổi và thuế là khoản thu tự định) thì sản lượng cân bằng của nền kinh tế sẽ:",
+    "questionText": "Náº¿u chÃ­nh phá»§ ÄÃ´Ìng thÆ¡Ìi tÄng thuáº¿ vÃ  tÄng chi tiÃªu thÃªm 500 tá»· Äá»ng (giáº£ sá»­ lÃ£i suáº¥t khÃ´ng Äá»i vÃ  thuáº¿ lÃ  khoáº£n thu tá»± Äá»nh) thÃ¬ sáº£n lÆ°á»£ng cÃ¢n báº±ng cá»§a ná»n kinh táº¿ sáº½:",
     "options": [
       {
         "label": "A",
-        "text": "Giảm 500 tỷ đồng."
+        "text": "Giáº£m 500 tá»· Äá»ng."
       },
       {
         "label": "B",
-        "text": "Tăng 500 tỷ đồng."
+        "text": "TÄng 500 tá»· Äá»ng."
       },
       {
         "label": "C",
-        "text": "Tăng 1.000 tỷ đồng."
+        "text": "TÄng 1.000 tá»· Äá»ng."
       },
       {
         "label": "D",
-        "text": "Không đổi."
+        "text": "KhÃ´ng Äá»i."
       }
     ],
-    "correctAnswerText": "Tăng 500 tỷ đồng."
+    "correctAnswerText": "TÄng 500 tá»· Äá»ng."
   },
   {
     "questionNumber": "31",
-    "questionText": "Phát biểu nào sau đây đúng về quan điểm liên ngành trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "PhÃ¡t biá»u nÃ o sau ÄÃ¢y ÄÃºng vá» quan Äiá»m liÃªn ngÃ nh trong quáº£n trá» logistics vÃ  quáº£n lÃ½ chuá»i cung á»©ng?",
     "options": [
       {
         "label": "A",
-        "text": "Quản trị logistics là một phần của quản lý chuỗi cung ứng"
+        "text": "Quáº£n trá» logistics lÃ  má»t pháº§n cá»§a quáº£n lÃ½ chuá»i cung á»©ng"
       },
       {
         "label": "B",
-        "text": "Tất cả các chức năng kinh doanh truyền thống được đưa vào quy trình quản lý chuỗi cung ứng"
+        "text": "Táº¥t cáº£ cÃ¡c chá»©c nÄng kinh doanh truyá»n thá»ng ÄÆ°á»£c ÄÆ°a vÃ o quy trÃ¬nh quáº£n lÃ½ chuá»i cung á»©ng"
       },
       {
         "label": "C",
-        "text": "Quản lý chuỗi cung ứng bao gồm quản lý các chức năng marketing, bán hàng, R&R, dự báo, sản xuất, logistics, tài chính, dịch vụ khách hàng…"
+        "text": "Quáº£n lÃ½ chuá»i cung á»©ng bao gá»m quáº£n lÃ½ cÃ¡c chá»©c nÄng marketing, bÃ¡n hÃ ng, R&R, dá»± bÃ¡o, sáº£n xuáº¥t, logistics, tÃ i chÃ­nh, dá»ch vá»¥ khÃ¡ch hÃ ngâ¦"
       },
       {
         "label": "D",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
       }
     ],
-    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+    "correctAnswerText": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
+  },
+  {
+    "questionNumber": "31",
+    "questionText": "Quản lý toàn bộ công việc dựa trên việc xác định các mục tiêu trước mắt để xây dựng và triển khai kế hoạch thực hiện các mục tiêu chung của hoạt động kinh doanh là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiếp cận quản trị theo quá trình"
+      },
+      {
+        "label": "B",
+        "text": "Tiếp cận quản trị theo chức năng"
+      },
+      {
+        "label": "C",
+        "text": "Tiếp cận chiến lược"
+      },
+      {
+        "label": "D",
+        "text": "Tiếp cận quản trị theo mục tiêu"
+      }
+    ],
+    "correctAnswerText": "Tiếp cận quản trị theo mục tiêu"
   },
   {
     "questionNumber": "32",
-    "questionText": "Biến số phân phối trong marketing-mix khác với logistics ở điểm quan trọng nào nào sau đây?",
+    "questionText": "Biáº¿n sá» phÃ¢n phá»i trong marketing-mix khÃ¡c vá»i logistics á» Äiá»m quan trá»ng nÃ o nÃ o sau ÄÃ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "Đối tượng khách hàng"
+        "text": "Äá»i tÆ°á»£ng khÃ¡ch hÃ ng"
       },
       {
         "label": "B",
-        "text": "Chú trọng giao dịch hơn là phân phối vật chất"
+        "text": "ChÃº trá»ng giao dá»ch hÆ¡n lÃ  phÃ¢n phá»i váº­t cháº¥t"
       },
       {
         "label": "C",
-        "text": "Mục tiêu"
+        "text": "Má»¥c tiÃªu"
       },
       {
         "label": "D",
-        "text": "Không có điểm khác biệt"
+        "text": "KhÃ´ng cÃ³ Äiá»m khÃ¡c biá»t"
       }
     ],
-    "correctAnswerText": "Chú trọng giao dịch hơn là phân phối vật chất"
+    "correctAnswerText": "ChÃº trá»ng giao dá»ch hÆ¡n lÃ  phÃ¢n phá»i váº­t cháº¥t"
   },
   {
     "questionNumber": "32",
-    "questionText": "Mức sản lượng vừa đủ tiêu dùng là mức sản lượng mà tại đó:",
+    "questionText": "Má»©c sáº£n lÆ°á»£ng vá»«a Äá»§ tiÃªu dÃ¹ng lÃ  má»©c sáº£n lÆ°á»£ng mÃ  táº¡i ÄÃ³:",
     "options": [
       {
         "label": "A",
-        "text": "C = Y và S = 0"
+        "text": "C = Y vÃ  S = 0"
       },
       {
         "label": "B",
-        "text": "C = Y và S > 0"
+        "text": "C = Y vÃ  S > 0"
       },
       {
         "label": "C",
-        "text": "C > Y và S > 0"
+        "text": "C > Y vÃ  S > 0"
       },
       {
         "label": "D",
-        "text": "C < Y và S < 0"
+        "text": "C < Y vÃ  S < 0"
       }
     ],
-    "correctAnswerText": "C = Y và S = 0"
+    "correctAnswerText": "C = Y vÃ  S = 0"
   },
   {
-    "questionNumber": "33",
-    "questionText": "Đâu KHÔNG phải là nguyên nhân dẫn đến tích hợp trong phân phối hàng hoá đầu ra (outbound logistics) ở giai đoạn 1960 - 1970?",
+    "questionNumber": "32",
+    "questionText": "Nguyên tắc “Định hướng khách hàng” cho thấy tài sản có giá trị nhất trong doanh nghiệp là gì?",
     "options": [
       {
         "label": "A",
-        "text": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+        "text": "Khả năng ứng dụng công nghệ tiên tiến"
       },
       {
         "label": "B",
-        "text": "Sự thay đổi của quan điểm marketing trước tình thế cung vượt cầu"
+        "text": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
       },
       {
         "label": "C",
-        "text": "Tỷ lệ chi phí phân phối so với GDP tại một số quốc gia tăng cao."
+        "text": "Nguồn vốn đầu tư ban đầu"
       },
       {
         "label": "D",
-        "text": "Doanh nghiệp gia tăng sự chú ý đến người tiêu dùng do nhu cầu thị trường bão hoà."
+        "text": "Quy trình sản xuất hiệu quả"
       }
     ],
-    "correctAnswerText": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+    "correctAnswerText": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
   },
   {
     "questionNumber": "33",
-    "questionText": "Giả sử trong nền kinh tế mở có MPC = 0,8; t = 0,1 và MPM = 0,22. Số nhân chi tiêu của nền kinh tế này bằng là bao nhiêu?",
+    "questionText": "ÄÃ¢u KHÃNG pháº£i lÃ  nguyÃªn nhÃ¢n dáº«n Äáº¿n tÃ­ch há»£p trong phÃ¢n phá»i hÃ ng hoÃ¡ Äáº§u ra (outbound logistics) á» giai Äoáº¡n 1960 - 1970?",
+    "options": [
+      {
+        "label": "A",
+        "text": "YÃªu cáº§u nÃ¢ng cao nÄng lá»±c cung á»©ng nguyÃªn nhiÃªn liá»u vÃ  váº­t tÆ° sáº£n xuáº¥t"
+      },
+      {
+        "label": "B",
+        "text": "Sá»± thay Äá»i cá»§a quan Äiá»m marketing trÆ°á»c tÃ¬nh tháº¿ cung vÆ°á»£t cáº§u"
+      },
+      {
+        "label": "C",
+        "text": "Tá»· lá» chi phÃ­ phÃ¢n phá»i so vá»i GDP táº¡i má»t sá» quá»c gia tÄng cao."
+      },
+      {
+        "label": "D",
+        "text": "Doanh nghiá»p gia tÄng sá»± chÃº Ã½ Äáº¿n ngÆ°á»i tiÃªu dÃ¹ng do nhu cáº§u thá» trÆ°á»ng bÃ£o hoÃ ."
+      }
+    ],
+    "correctAnswerText": "YÃªu cáº§u nÃ¢ng cao nÄng lá»±c cung á»©ng nguyÃªn nhiÃªn liá»u vÃ  váº­t tÆ° sáº£n xuáº¥t"
+  },
+  {
+    "questionNumber": "33",
+    "questionText": "Giáº£ sá»­ trong ná»n kinh táº¿ má» cÃ³ MPC = 0,8; t = 0,1 vÃ  MPM = 0,22. Sá» nhÃ¢n chi tiÃªu cá»§a ná»n kinh táº¿ nÃ y báº±ng laÌ bao nhiÃªu?",
     "options": [
       {
         "label": "A",
@@ -3243,49 +3979,118 @@
     "correctAnswerText": "2"
   },
   {
-    "questionNumber": "34",
-    "questionText": "Theo quan điểm đồng nhất, phát biểu nào sau đây là đúng?",
+    "questionNumber": "33",
+    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp theo tiếp cận quản trị mục tiêu (MBO), lãnh đạo và nhân viên cần làm gì để đạt được mục tiêu?",
     "options": [
       {
         "label": "A",
-        "text": "Các phát biểu còn lại đều sai"
+        "text": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
       },
       {
         "label": "B",
-        "text": "Quan điểm đồng nhất coi logistics là một phần của quản trị chuỗi cung ứng."
+        "text": "Chỉ tuân thủ chỉ thị của lãnh đạo cấp cao"
       },
       {
         "label": "C",
-        "text": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+        "text": "Chỉ tập trung vào các mục tiêu ngắn hạn"
       },
       {
         "label": "D",
-        "text": "Quan điểm đồng nhất coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+        "text": "Chỉ quan tâm đến việc thực hiện các công việc hàng  ngày"
       }
     ],
-    "correctAnswerText": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+    "correctAnswerText": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
+  },
+  {
+    "questionNumber": "34",
+    "questionText": "Chỉ ra sự khác biệt về năng lực cung cấp dịch vụ của doanh nghiệp logistics 3PL và 2PL?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3PL sở hữu tài sản, 2PL không sở hữu tài sản"
+      },
+      {
+        "label": "B",
+        "text": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
+      },
+      {
+        "label": "C",
+        "text": "3PL cung cấp dịch vụ đơn lẻ, 2PL cung cấp dịch vụ trọn gói"
+      },
+      {
+        "label": "D",
+        "text": "3PL hoạt động chủ yếu trên thị trường nội địa, 2PL hoạt động trên thị trường quốc tế"
+      }
+    ],
+    "correctAnswerText": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
+  },
+  {
+    "questionNumber": "34",
+    "questionText": "Theo quan Äiá»m Äá»ng nháº¥t, phÃ¡t biá»u nÃ o sau ÄÃ¢y lÃ  ÄÃºng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "CÃ¡c phÃ¡t biá»u cÃ²n láº¡i Äá»u sai"
+      },
+      {
+        "label": "B",
+        "text": "Quan Äiá»m Äá»ng nháº¥t coi logistics lÃ  má»t pháº§n cá»§a quáº£n trá» chuá»i cung á»©ng."
+      },
+      {
+        "label": "C",
+        "text": "Quan Äiá»m Äá»ng nháº¥t khÃ´ng phÃ¢n biá»t giá»¯a quáº£n trá» logistics vÃ  quáº£n trá» chuá»i cung á»©ng."
+      },
+      {
+        "label": "D",
+        "text": "Quan Äiá»m Äá»ng nháº¥t coi quáº£n trá» chuá»i cung á»©ng lÃ  má»t loáº¡i logistics Äáº·c biá»t, lÃ  hoáº¡t Äá»ng logistics bÃªn ngoÃ i hoáº·c liÃªn tá» chá»©c."
+      }
+    ],
+    "correctAnswerText": "Quan Äiá»m Äá»ng nháº¥t khÃ´ng phÃ¢n biá»t giá»¯a quáº£n trá» logistics vÃ  quáº£n trá» chuá»i cung á»©ng."
   },
   {
     "questionNumber": "35",
-    "questionText": "Phát biểu nào sau đây là đúng đối với trường phái thông tin trong quản lý chuỗi cung ứng?",
+    "questionText": "Doanh nghiệp kinh doanh vận tải, kho bãi, khai thuê hải quan thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Dòng thông tin giữa các thành viên đóng vai trò quan trọng với hiệu quả tổng thể của chuỗi"
+        "text": "Doanh nghiệp logistics"
       },
       {
         "label": "B",
-        "text": "Tất cả các bên tham gia chuỗi cung ứng phải được truyền tin một cách chính xác"
+        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
       },
       {
         "label": "C",
-        "text": "Quản lý dòng chảy hàng hoá xuyên suốt chuỗi cung ứng cần dựa trên dòng vận động của thông tin"
+        "text": "Dịch vụ logistics đầu ra"
       },
       {
         "label": "D",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "Doanh nghiệp khai thác"
       }
     ],
-    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+    "correctAnswerText": "Doanh nghiệp logistics"
+  },
+  {
+    "questionNumber": "35",
+    "questionText": "PhÃ¡t biá»u nÃ o sau ÄÃ¢y lÃ  ÄÃºng Äá»i vá»i trÆ°á»ng phÃ¡i thÃ´ng tin trong quáº£n lÃ½ chuá»i cung á»©ng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "DÃ²ng thÃ´ng tin giá»¯a cÃ¡c thÃ nh viÃªn ÄÃ³ng vai trÃ² quan trá»ng vá»i hiá»u quáº£ tá»ng thá» cá»§a chuá»i"
+      },
+      {
+        "label": "B",
+        "text": "Táº¥t cáº£ cÃ¡c bÃªn tham gia chuá»i cung á»©ng pháº£i ÄÆ°á»£c truyá»n tin má»t cÃ¡ch chÃ­nh xÃ¡c"
+      },
+      {
+        "label": "C",
+        "text": "Quáº£n lÃ½ dÃ²ng cháº£y hÃ ng hoÃ¡ xuyÃªn suá»t chuá»i cung á»©ng cáº§n dá»±a trÃªn dÃ²ng váº­n Äá»ng cá»§a thÃ´ng tin"
+      },
+      {
+        "label": "D",
+        "text": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
+      }
+    ],
+    "correctAnswerText": "Táº¥t cáº£ cÃ¡c ÄÃ¡p Ã¡n cÃ²n láº¡i Äá»u ÄÃºng"
   }
 ]
