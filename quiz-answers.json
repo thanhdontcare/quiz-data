@@ -24,6 +24,29 @@
   },
   {
     "questionNumber": "1",
+    "questionText": "Số nhân chi tiêu trong nền kinh tế đóng được tính bằng công thức:",
+    "options": [
+      {
+        "label": "A",
+        "text": "m’ = 1/MPC"
+      },
+      {
+        "label": "B",
+        "text": "m’ = 1/[1 - MPC (1-t)]"
+      },
+      {
+        "label": "C",
+        "text": "m’ = 1/(MPC + t)"
+      },
+      {
+        "label": "D",
+        "text": "m’ = 1/(1-MPC).t"
+      }
+    ],
+    "correctAnswerText": "m’ = 1/[1 - MPC (1-t)]"
+  },
+  {
+    "questionNumber": "1",
     "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
     "options": [
       {
@@ -67,6 +90,29 @@
       }
     ],
     "correctAnswerText": "Thu nhập khả dụng."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Chính phủ thực hiện chính sách tài khoá mở rộng thường hướng đến mục tiêu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kiểm soát lạm phát"
+      },
+      {
+        "label": "B",
+        "text": "Thúc đẩy tăng trưởng kinh tế và giảm thất nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Gia tăng đầu tư công."
+      },
+      {
+        "label": "D",
+        "text": "Kiềm chế tăng trưởng nóng."
+      }
+    ],
+    "correctAnswerText": "Thúc đẩy tăng trưởng kinh tế và giảm thất nghiệp."
   },
   {
     "questionNumber": "2",
@@ -136,6 +182,52 @@
       }
     ],
     "correctAnswerText": "Thu nhập từ trợ cấp ốm đau."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Trong nền kinh tế mở, khi xu hướng nhập khẩu cận biên tăng thì điều gì xảy ra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhập khẩu và sản lượng cân bằng giảm."
+      },
+      {
+        "label": "B",
+        "text": "Nhập khẩu giảm, sản lượng cân bằng giảm."
+      },
+      {
+        "label": "C",
+        "text": "Nhập khẩu tăng, sản lượng cân bằng giảm."
+      },
+      {
+        "label": "D",
+        "text": "Nhập khẩu và sản lượng cân bằng tăng"
+      }
+    ],
+    "correctAnswerText": "Nhập khẩu tăng, sản lượng cân bằng giảm."
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Giả định rằng, trong một nền kinh tế giản đơn có chi tiêu cho tiêu dùng  C = 150, đầu tư I = 50 và tổng sản lượng Y = 190, khi đó mức thiếu hụt (hoặc tồn kho) ngoài dự kiến là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "20"
+      },
+      {
+        "label": "C",
+        "text": "25"
+      },
+      {
+        "label": "D",
+        "text": "10"
+      }
+    ],
+    "correctAnswerText": "10"
   },
   {
     "questionNumber": "4",
@@ -230,6 +322,29 @@
     "correctAnswerText": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
   },
   {
+    "questionNumber": "5",
+    "questionText": "Nếu xu hướng nhập khẩu cận biên MPM > 0 thì số nhân chi tiêu của nền kinh tế đóng so với số nhân chi tiêu của nền kinh tế mở:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có thể lớn hơn hoặc nhỏ hơn."
+      },
+      {
+        "label": "B",
+        "text": "Lớn hơn."
+      },
+      {
+        "label": "C",
+        "text": "Nhỏ hơn."
+      },
+      {
+        "label": "D",
+        "text": "Bằng nhau."
+      }
+    ],
+    "correctAnswerText": "Lớn hơn."
+  },
+  {
     "questionNumber": "6",
     "questionText": "Điều nào dưới đây sẽ có xu hướng làm tăng tổng cầu (AD):",
     "options": [
@@ -251,6 +366,29 @@
       }
     ],
     "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+  },
+  {
+    "questionNumber": "6",
+    "questionText": "Khi chính phủ tăng tỷ suất thuế (t) sẽ làm cho giá trị của số nhân chi tiêu trong nền kinh tế mở:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giảm"
+      },
+      {
+        "label": "B",
+        "text": "Không đổi"
+      },
+      {
+        "label": "C",
+        "text": "Âm"
+      },
+      {
+        "label": "D",
+        "text": "Tăng"
+      }
+    ],
+    "correctAnswerText": "Giảm"
   },
   {
     "questionNumber": "6",
@@ -300,6 +438,29 @@
   },
   {
     "questionNumber": "7",
+    "questionText": "Giả sử một nền kinh tế mở có số liệu sau: MPC = 0,8; t = 0,1 và MPM = 0,22. Nếu đầu tư tăng thêm 100 (tỷ đồng) thì xuất khẩu ròng (NX) sẽ thay đổi như thế nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giảm 11"
+      },
+      {
+        "label": "B",
+        "text": "Giảm 22"
+      },
+      {
+        "label": "C",
+        "text": "Giảm 88"
+      },
+      {
+        "label": "D",
+        "text": "Giảm 44"
+      }
+    ],
+    "correctAnswerText": "Giảm 44"
+  },
+  {
+    "questionNumber": "7",
     "questionText": "Nếu chính phủ đồng thời tăng thuế đánh vào hàng tiêu dùng, hàng hoá đầu tư và nguyên liệu nhập khẩu thì",
     "options": [
       {
@@ -320,6 +481,29 @@
       }
     ],
     "correctAnswerText": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+  },
+  {
+    "questionNumber": "8",
+    "questionText": "Giả sử có số liệu về xuất nhập khẩu của một nền kinh tế như sau: X = 150 và IM = 50 + 0,1Y. Khi đó, tại mức sản lượng Y bằng bao nhiêu thì cán cân thương mại (NX) sẽ cân bằng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Y0 = 920."
+      },
+      {
+        "label": "B",
+        "text": "Y0 = 980."
+      },
+      {
+        "label": "C",
+        "text": "Y0 = 1.000."
+      },
+      {
+        "label": "D",
+        "text": "Y0 = 500"
+      }
+    ],
+    "correctAnswerText": "Y0 = 1.000."
   },
   {
     "questionNumber": "8",
@@ -392,6 +576,29 @@
   },
   {
     "questionNumber": "9",
+    "questionText": "Những khoản nào sau đây được tính vào đầu tư của nền kinh tế?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đầu tư mua chứng khoán công ty"
+      },
+      {
+        "label": "B",
+        "text": "Đầu tư xây dựng văn phòng mới của công ty"
+      },
+      {
+        "label": "C",
+        "text": "Đầu tư mua lại nhà xưởng cũ"
+      },
+      {
+        "label": "D",
+        "text": "Đầu tư mua trái phiếu chính phủ"
+      }
+    ],
+    "correctAnswerText": "Đầu tư xây dựng văn phòng mới của công ty"
+  },
+  {
+    "questionNumber": "9",
     "questionText": "Theo định luật OKun, để giảm tỷ lệ thất nghiệp 1%/năm thì tốc độ tăng trưởng GDP (%/năm) là khoảng:",
     "options": [
       {
@@ -412,6 +619,29 @@
       }
     ],
     "correctAnswerText": "2,5 %"
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "Điểm khác nhau giữa số nhân thuế và số nhân chi tiêu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Số nhân thuế thì âm, số nhân chi tiêu thì dương"
+      },
+      {
+        "label": "B",
+        "text": "Số nhân chi tiêu luôn lớn hơn 1, số nhân thuế nhỏ hơn 1."
+      },
+      {
+        "label": "C",
+        "text": "Số nhân thuế luôn luôn lớn hơn số nhân chi tiêu"
+      },
+      {
+        "label": "D",
+        "text": "Số nhân thuế luôn luôn bằng số nhân chi tiêu"
+      }
+    ],
+    "correctAnswerText": "Số nhân thuế thì âm, số nhân chi tiêu thì dương"
   },
   {
     "questionNumber": "10",
@@ -484,6 +714,29 @@
   },
   {
     "questionNumber": "11",
+    "questionText": "Khi thu nhập bao nhiêu cũng tiêu dùng hết thì đường tiêu dùng sẽ trùng với:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trục tung và đường tiết kiệm trùng với đường 45 độ"
+      },
+      {
+        "label": "B",
+        "text": "Đường 45 độ và đường tiết kiệm trùng với trục hoành."
+      },
+      {
+        "label": "C",
+        "text": "Đường tiết kiệm và đường 45 độ trùng với trục tung."
+      },
+      {
+        "label": "D",
+        "text": "Đường 45 độ và đường tiết kiệm."
+      }
+    ],
+    "correctAnswerText": "Đường 45 độ và đường tiết kiệm trùng với trục hoành."
+  },
+  {
+    "questionNumber": "11",
     "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
     "options": [
       {
@@ -530,6 +783,29 @@
   },
   {
     "questionNumber": "12",
+    "questionText": "Sự thay đổi nào sau đây gây ra thâm hụt ngân sách nhà nước?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xuất khẩu của quốc gia tăng."
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp tăng đầu tư."
+      },
+      {
+        "label": "C",
+        "text": "Người dân tăng chi tiêu."
+      },
+      {
+        "label": "D",
+        "text": "Chính phủ tăng chi tiêu."
+      }
+    ],
+    "correctAnswerText": "Chính phủ tăng chi tiêu."
+  },
+  {
+    "questionNumber": "12",
     "questionText": "Trong điều kiện các yếu tố khác không đổi, khi xuất khẩu của một quốc gia tăng sẽ có thể dẫn đến:",
     "options": [
       {
@@ -550,6 +826,29 @@
       }
     ],
     "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
+  },
+  {
+    "questionNumber": "13",
+    "questionText": "Khi xu hướng tiêu dùng cận biên tăng, thì:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường tiết kiệm dịch chuyển song song xuống dưới."
+      },
+      {
+        "label": "B",
+        "text": "Đường tiêu dùng dịch chuyển song song lên trên."
+      },
+      {
+        "label": "C",
+        "text": "Đường tiêu dùng dốc hơn."
+      },
+      {
+        "label": "D",
+        "text": "Đường tiêu dùng thoải hơn."
+      }
+    ],
+    "correctAnswerText": "Đường tiêu dùng dốc hơn."
   },
   {
     "questionNumber": "13",
@@ -622,6 +921,29 @@
   },
   {
     "questionNumber": "14",
+    "questionText": "Giả sử trong nền kinh tế giản đơn có hàm tiêu dùng: C = 120 + 0,75Y. Nếu đầu tư tăng thêm 20 tỷ USD thì sản lượng cân bằng của nền kinh tế tăng thêm bao nhiêu tỷ USD?",
+    "options": [
+      {
+        "label": "A",
+        "text": "△Y = 140"
+      },
+      {
+        "label": "B",
+        "text": "△Y = 80"
+      },
+      {
+        "label": "C",
+        "text": "△Y = 120"
+      },
+      {
+        "label": "D",
+        "text": "△Y = 100"
+      }
+    ],
+    "correctAnswerText": "△Y = 80"
+  },
+  {
+    "questionNumber": "14",
     "questionText": "Giá trị gia tăng của một doanh nghiệp là:",
     "options": [
       {
@@ -642,6 +964,29 @@
       }
     ],
     "correctAnswerText": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
+  },
+  {
+    "questionNumber": "15",
+    "questionText": "Giả sử có số liệu của một nền kinh tế đóng như sau: C = 0,8YD; T = 0,1Y. Giả sử sản lượng cân bằng của nền kinh tế là Y0 = 2.500, khi đó chi tiêu cho tiêu dùng bằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "C = 1.800"
+      },
+      {
+        "label": "B",
+        "text": "C = 2.000"
+      },
+      {
+        "label": "C",
+        "text": "C = 1.400"
+      },
+      {
+        "label": "D",
+        "text": "C = 1.600"
+      }
+    ],
+    "correctAnswerText": "C = 1.800"
   },
   {
     "questionNumber": "15",
@@ -714,6 +1059,29 @@
   },
   {
     "questionNumber": "16",
+    "questionText": "Khi chính phủ tăng thuế, chi tiêu cho tiêu dùng của hộ gia đình có xu hướng thay đổi như thế nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng."
+      },
+      {
+        "label": "B",
+        "text": "Giảm."
+      },
+      {
+        "label": "C",
+        "text": "Có thể tăng hoặc giảm."
+      },
+      {
+        "label": "D",
+        "text": "Không thay đổi."
+      }
+    ],
+    "correctAnswerText": "Giảm."
+  },
+  {
+    "questionNumber": "16",
     "questionText": "Nội dung nào sau đây KHÔNG phải là mục tiêu của kinh tế vĩ mô:",
     "options": [
       {
@@ -757,6 +1125,29 @@
       }
     ],
     "correctAnswerText": "4.100 tỷ USD"
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Giả sử trong một nền kinh tế giản đơn có chi tiêu cho tiêu dùng C = 150, đầu tư I = 50 và tổng  sản lượng là Y = 210, khi đó mức tiết kiệm của nền kinh tế sẽ bằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "S = 50"
+      },
+      {
+        "label": "B",
+        "text": "S = 60"
+      },
+      {
+        "label": "C",
+        "text": "S = 10"
+      },
+      {
+        "label": "D",
+        "text": "S = 110"
+      }
+    ],
+    "correctAnswerText": "S = 60"
   },
   {
     "questionNumber": "17",
@@ -828,6 +1219,29 @@
     "correctAnswerText": "GDP = C + I + G + X – IM"
   },
   {
+    "questionNumber": "18",
+    "questionText": "Trong nền kinh tế mở, tổng chi tiêu dự kiến được xác định bằng công thức nào dưới đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "AE = C + I + G + X + IM"
+      },
+      {
+        "label": "B",
+        "text": "AE = C + I + G"
+      },
+      {
+        "label": "C",
+        "text": "AE = C + I + G + X - IM"
+      },
+      {
+        "label": "D",
+        "text": "AE = C + I"
+      }
+    ],
+    "correctAnswerText": "AE = C + I + G + X - IM"
+  },
+  {
     "questionNumber": "19",
     "questionText": "Nếu chỉ số giá tiêu dùng (CPI) năm 2020 là 120% và năm 2021 là 126%, thì tỷ lệ lạm phát (tính bằng mức tăng của CPI) năm 2021 so với năm 2020 bằng:",
     "options": [
@@ -849,6 +1263,29 @@
       }
     ],
     "correctAnswerText": "5%"
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "Số nhân chi tiêu trong nền kinh tế giản đơn được tính bằng công thức:",
+    "options": [
+      {
+        "label": "A",
+        "text": "m = 1/(MPC + MPS)"
+      },
+      {
+        "label": "B",
+        "text": "m = 1/MPC"
+      },
+      {
+        "label": "C",
+        "text": "m = 1/(1-MPC)"
+      },
+      {
+        "label": "D",
+        "text": "m = 1/(1-MPS)"
+      }
+    ],
+    "correctAnswerText": "m = 1/(1-MPC)"
   },
   {
     "questionNumber": "19",
@@ -898,6 +1335,29 @@
   },
   {
     "questionNumber": "20",
+    "questionText": "Khi chính phủ giảm tỷ suất thuế sẽ làm cho:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tổng chi tiêu và sản lượng cân bằng tăng."
+      },
+      {
+        "label": "B",
+        "text": "Tổng chi tiêu giảm, sản lượng cân bằng tăng."
+      },
+      {
+        "label": "C",
+        "text": "Tổng chi tiêu và sản lượng cân bằng giảm."
+      },
+      {
+        "label": "D",
+        "text": "Tổng chi tiêu tăng, sản lượng cân bằng giảm."
+      }
+    ],
+    "correctAnswerText": "Tổng chi tiêu và sản lượng cân bằng tăng."
+  },
+  {
+    "questionNumber": "20",
     "questionText": "Trong một nền kinh tế mở:",
     "options": [
       {
@@ -941,6 +1401,29 @@
       }
     ],
     "correctAnswerText": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Khi xu hướng tiết kiệm cận biên tăng thì:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xu hướng nhập khẩu cận biên tăng."
+      },
+      {
+        "label": "B",
+        "text": "Xu hướng tiêu dùng cận biên giảm."
+      },
+      {
+        "label": "C",
+        "text": "Xu hướng nhập khẩu cận biên giảm."
+      },
+      {
+        "label": "D",
+        "text": "Xu hướng tiêu dùng cận biên tăng."
+      }
+    ],
+    "correctAnswerText": "Xu hướng tiêu dùng cận biên giảm."
   },
   {
     "questionNumber": "21",
@@ -1012,6 +1495,52 @@
     "correctAnswerText": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
   },
   {
+    "questionNumber": "22",
+    "questionText": "Thâm hụt ngân sách nhà nước có xu hướng tăng trong thời kỳ nền kinh tế suy thoái chủ yếu do:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cán cân thương mại thặng dư."
+      },
+      {
+        "label": "B",
+        "text": "Chính phủ tăng thuế nhiều hơn tăng chi tiêu."
+      },
+      {
+        "label": "C",
+        "text": "Nguồn thu từ thuế gián thu tăng vì giá cả và sản lượng tăng."
+      },
+      {
+        "label": "D",
+        "text": "Thu ngân sách giảm trong khi nhu cầu chi ngân sách tăng."
+      }
+    ],
+    "correctAnswerText": "Thu ngân sách giảm trong khi nhu cầu chi ngân sách tăng."
+  },
+  {
+    "questionNumber": "23",
+    "questionText": "Giả sử có hàm tổng chi tiêu trong nền kinh tế giản đơn như sau: AE = 600 + 0,75Y. Nếu sản lượng thực tế là Y = 2.000 thì có hiện tượng ngoài dự kiến nào sẽ xảy ra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thiếu hụt ngoài dự kiến là 100."
+      },
+      {
+        "label": "B",
+        "text": "Thiếu hụt ngoài dự kiến là 400."
+      },
+      {
+        "label": "C",
+        "text": "Tồn kho ngoài dự kiến là 400."
+      },
+      {
+        "label": "D",
+        "text": "Tồn kho ngoài dự kiến là 100."
+      }
+    ],
+    "correctAnswerText": "Thiếu hụt ngoài dự kiến là 100."
+  },
+  {
     "questionNumber": "23",
     "questionText": "Nếu một công dân Việt Nam làm cho một công ty của Việt Nam đặt tại Mỹ, thì thu nhập của anh ta được tính vào:",
     "options": [
@@ -1036,6 +1565,29 @@
   },
   {
     "questionNumber": "24",
+    "questionText": "Nhận định nào sau đây là ĐÚNG khi mô tả đường tổng chi tiêu trong nền kinh tế mở (trong mô hình AE-Y)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là đường dốc lên và có độ dốc nhỏ hơn 1."
+      },
+      {
+        "label": "B",
+        "text": "Là đường dốc xuống và có độ dốc lớn hơn 1."
+      },
+      {
+        "label": "C",
+        "text": "Là đường dốc xuống và có độ dốc nhỏ hơn 1."
+      },
+      {
+        "label": "D",
+        "text": "Là đường dốc lên và có độ dốc lớn hơn 1."
+      }
+    ],
+    "correctAnswerText": "Là đường dốc lên và có độ dốc nhỏ hơn 1."
+  },
+  {
+    "questionNumber": "24",
     "questionText": "Tăng trưởng sản lượng của một quốc gia được thể hiện bằng tăng trưởng của:",
     "options": [
       {
@@ -1056,6 +1608,29 @@
       }
     ],
     "correctAnswerText": "GDP thực."
+  },
+  {
+    "questionNumber": "25",
+    "questionText": "Khi đầu tư tự định tăng sẽ làm cho đường tổng chi tiêu trong mô hình AE-Y:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thoải hơn."
+      },
+      {
+        "label": "B",
+        "text": "Dịch chuyển song song lên trên."
+      },
+      {
+        "label": "C",
+        "text": "Dịch chuyển song song xuống dưới"
+      },
+      {
+        "label": "D",
+        "text": "Dốc hơn."
+      }
+    ],
+    "correctAnswerText": "Dịch chuyển song song lên trên."
   },
   {
     "questionNumber": "25",
@@ -1104,6 +1679,29 @@
     "correctAnswerText": "Người nghỉ hưu trước tuổi."
   },
   {
+    "questionNumber": "26",
+    "questionText": "Trong nền kinh tế mở, khi xu hướng tiêu dùng cận biên (MPC) tăng thì điều gì xảy ra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiêu dùng và sản lượng cân bằng tăng"
+      },
+      {
+        "label": "B",
+        "text": "Tiêu dùng và sản lượng cân bằng giảm"
+      },
+      {
+        "label": "C",
+        "text": "Tiêu dùng tăng, sản lượng cân bằng giảm"
+      },
+      {
+        "label": "D",
+        "text": "Tiêu dùng giảm, sản lượng cân bằng tăng"
+      }
+    ],
+    "correctAnswerText": "Tiêu dùng và sản lượng cân bằng tăng"
+  },
+  {
     "questionNumber": "27",
     "questionText": "Sản phẩm cuối cùng KHÔNG bao gồm nhóm hàng hóa nào?",
     "options": [
@@ -1127,6 +1725,29 @@
     "correctAnswerText": "Bột mỳ doanh nghiệp mua để sản xuất bánh."
   },
   {
+    "questionNumber": "27",
+    "questionText": "Xét một nền kinh tế đóng, chính phủ đánh thuế tự định (thuế không phụ thuộc vào thu nhập). Nếu xu hướng nhập khẩu cận biên MPM = 0,25 thì giá trị của số nhân thuế của nền kinh tế này là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "- 3"
+      },
+      {
+        "label": "B",
+        "text": "- 4"
+      },
+      {
+        "label": "C",
+        "text": "- 2"
+      },
+      {
+        "label": "D",
+        "text": "- 0,75"
+      }
+    ],
+    "correctAnswerText": "- 3"
+  },
+  {
     "questionNumber": "28",
     "questionText": "Chỉ số điều chỉnh GDP được tính bằng cách lấy:",
     "options": [
@@ -1148,5 +1769,143 @@
       }
     ],
     "correctAnswerText": "GDP danh nghĩa chia cho GDP thực."
+  },
+  {
+    "questionNumber": "28",
+    "questionText": "Chi tiêu của Chính phủ KHÔNG phụ thuộc vào yếu tố nào sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chi tiêu cho tiêu dùng của hộ gia đình"
+      },
+      {
+        "label": "B",
+        "text": "Số thu thuế của chính phủ"
+      },
+      {
+        "label": "C",
+        "text": "Các mục tiêu kinh tế - xã hội của chính phủ"
+      },
+      {
+        "label": "D",
+        "text": "Quy mô của chính phủ"
+      }
+    ],
+    "correctAnswerText": "Chi tiêu cho tiêu dùng của hộ gia đình"
+  },
+  {
+    "questionNumber": "29",
+    "questionText": "Khi tiêu dùng tự định tăng sẽ làm cho đường tiêu dùng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dịch chuyển song song xuống dưới."
+      },
+      {
+        "label": "B",
+        "text": "Dịch chuyển song song lên trên."
+      },
+      {
+        "label": "C",
+        "text": "Dốc hơn."
+      },
+      {
+        "label": "D",
+        "text": "Thoải hơn."
+      }
+    ],
+    "correctAnswerText": "Dịch chuyển song song lên trên."
+  },
+  {
+    "questionNumber": "30",
+    "questionText": "Khi chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế, điều nào dưới đây chắc chắn đúng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thất nghiệp của nền kinh tế tăng"
+      },
+      {
+        "label": "B",
+        "text": "Tổng chi tiêu dự kiến của nền kinh tế (AE) tăng"
+      },
+      {
+        "label": "C",
+        "text": "Khuyến khích đầu tư tư nhân"
+      },
+      {
+        "label": "D",
+        "text": "Cải thiện cán cân thương mại"
+      }
+    ],
+    "correctAnswerText": "Tổng chi tiêu dự kiến của nền kinh tế (AE) tăng"
+  },
+  {
+    "questionNumber": "31",
+    "questionText": "Nếu chính phủ đồng thời tăng thuế và tăng chi tiêu thêm 500 tỷ đồng (giả sử lãi suất không đổi và thuế là khoản thu tự định) thì sản lượng cân bằng của nền kinh tế sẽ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giảm 500 tỷ đồng."
+      },
+      {
+        "label": "B",
+        "text": "Tăng 500 tỷ đồng."
+      },
+      {
+        "label": "C",
+        "text": "Tăng 1.000 tỷ đồng."
+      },
+      {
+        "label": "D",
+        "text": "Không đổi."
+      }
+    ],
+    "correctAnswerText": "Tăng 500 tỷ đồng."
+  },
+  {
+    "questionNumber": "32",
+    "questionText": "Mức sản lượng vừa đủ tiêu dùng là mức sản lượng mà tại đó:",
+    "options": [
+      {
+        "label": "A",
+        "text": "C = Y và S = 0"
+      },
+      {
+        "label": "B",
+        "text": "C = Y và S > 0"
+      },
+      {
+        "label": "C",
+        "text": "C > Y và S > 0"
+      },
+      {
+        "label": "D",
+        "text": "C < Y và S < 0"
+      }
+    ],
+    "correctAnswerText": "C = Y và S = 0"
+  },
+  {
+    "questionNumber": "33",
+    "questionText": "Giả sử trong nền kinh tế mở có MPC = 0,8; t = 0,1 và MPM = 0,22. Số nhân chi tiêu của nền kinh tế này bằng là bao nhiêu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "4"
+      },
+      {
+        "label": "D",
+        "text": "2,5"
+      }
+    ],
+    "correctAnswerText": "2"
   }
 ]
