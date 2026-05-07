@@ -1,6 +1,29 @@
 [
   {
     "questionNumber": "1",
+    "questionText": "Cấp độ 3 - “Triết lý logistics” theo quan điểm về quản trị logistics tại khu vực Châu Âu được dựa trên nguyên lý nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định hướng khách hàng và dịch vụ"
+      },
+      {
+        "label": "B",
+        "text": "Tiếp cận toàn diện và tổng chi phí"
+      },
+      {
+        "label": "C",
+        "text": "Định hướng dòng cung ứng hàng hoá"
+      },
+      {
+        "label": "D",
+        "text": "Cả ba đáp án còn lại đều đúng"
+      }
+    ],
+    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+  },
+  {
+    "questionNumber": "1",
     "questionText": "Điểm khác nhau giữa chỉ số giá tiêu dùng (CPI) và chỉ số điều chỉnh GDP (DGDP) là gì?",
     "options": [
       {
@@ -184,6 +207,29 @@
     "correctAnswerText": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
   },
   {
+    "questionNumber": "2",
+    "questionText": "Quan điểm nào coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm liên ngành"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm truyền thống"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm đồng nhất"
+      }
+    ],
+    "correctAnswerText": "Quan điểm truyền thống"
+  },
+  {
     "questionNumber": "3",
     "questionText": "Nhân tố nào sau đây thay đổi sẽ gây ra hiện tượng trượt dọc trên đường tổng cung ngắn hạn ASs?",
     "options": [
@@ -205,6 +251,29 @@
       }
     ],
     "correctAnswerText": "Mức giá chung."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Tại Việt Nam, dấu mốc nào đã tạo hành lang quan trọng cho sự hình thành ngành logistics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
+      },
+      {
+        "label": "B",
+        "text": "Sự kiện Việt Nam chính thức gia nhập WTO năm 2007"
+      },
+      {
+        "label": "C",
+        "text": "Sự kiện Việt Nam ký kết các Hiệp định thương mại tự do thế hệ mới."
+      },
+      {
+        "label": "D",
+        "text": "Không có sự kiện nào trong số các sự kiện đã nêu"
+      }
+    ],
+    "correctAnswerText": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
   },
   {
     "questionNumber": "3",
@@ -366,6 +435,52 @@
       }
     ],
     "correctAnswerText": "Thuế và chi tiêu của Chính phủ."
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Nguyên nhân của sự rời rạc, phân mảnh của logistics trong giai đoạn trước những năm 1960 là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thiếu hiểu biết về tầm quan trọng của chi phí đánh đổi giữa nỗ lực logistics và các chức năng khác."
+      },
+      {
+        "label": "B",
+        "text": "Không có yêu cầu lớn về hoạt động logistics"
+      },
+      {
+        "label": "C",
+        "text": "Cả ba đáp án còn lại đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Thị trường hàng hoá thuộc về người bán, cầu vượt quá cung"
+      }
+    ],
+    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+  },
+  {
+    "questionNumber": "5",
+    "questionText": "Bước sang thế kỷ XXI, yếu tố nào giúp định hình các chuỗi cung ứng toàn cầu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự phát triển của công nghệ thông tin, máy tính"
+      },
+      {
+        "label": "B",
+        "text": "Sự bùng nổ của Internet"
+      },
+      {
+        "label": "C",
+        "text": "Gia tăng các liên kết quốc tế"
+      },
+      {
+        "label": "D",
+        "text": "Cả 3 đáp án còn lại đều đúng"
+      }
+    ],
+    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
   },
   {
     "questionNumber": "5",
@@ -552,6 +667,52 @@
     "correctAnswerText": "Giá trị sản xuất mà người nước ngoài tạo ra ở Việt Nam nhiều hơn so với giá trị sản xuất mà người Việt Nam tạo ra ở nước ngoài."
   },
   {
+    "questionNumber": "6",
+    "questionText": "Quan điểm nào coi logistics và quản lý chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên của logistics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm đồng nhất"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm truyền thống"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm liên ngành"
+      }
+    ],
+    "correctAnswerText": "Quan điểm đồng nhất"
+  },
+  {
+    "questionNumber": "7",
+    "questionText": "“Với SCM, dòng liên kết thông tin giữa các thành viên khác nhau của chuỗi đóng vai trò quan trọng đối với hiệu quả tổng thể của chuỗi đó.” là phát biểu về trường phái nào trong quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trường phái liên kết"
+      },
+      {
+        "label": "B",
+        "text": "Trường phái tích hợp"
+      },
+      {
+        "label": "C",
+        "text": "Trường phái chuỗi chức năng"
+      },
+      {
+        "label": "D",
+        "text": "Trường phái thông tin"
+      }
+    ],
+    "correctAnswerText": "Trường phái thông tin"
+  },
+  {
     "questionNumber": "7",
     "questionText": "Biết rằng chỉ số giá tiêu dùng của một nề kinh tế năm 2019 là 125%. Phát biểu nào sau đây là đúng?",
     "options": [
@@ -688,6 +849,29 @@
       }
     ],
     "correctAnswerText": "Không dùng để ghi sổ kế toán."
+  },
+  {
+    "questionNumber": "8",
+    "questionText": "Quan điểm nào đặt quản lý chuỗi cung ứng ở vị trí chiến lược nhiều hơn và ít chú trọng ở tầm chiến thuật?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm đồng nhất"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm liên ngành"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm truyền thống"
+      }
+    ],
+    "correctAnswerText": "Quan điểm giao thoa"
   },
   {
     "questionNumber": "8",
@@ -828,6 +1012,29 @@
     "correctAnswerText": "2,5 %"
   },
   {
+    "questionNumber": "9",
+    "questionText": "Vào năm 1956, phát kiến nào trong lĩnh vực vận tải và logistics đã tạo ra cuộc cách mạng trong tái cấu trúc và hiện đại hoá thương mại thế giới?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Container"
+      },
+      {
+        "label": "B",
+        "text": "Pallet"
+      },
+      {
+        "label": "C",
+        "text": "Kênh đào Panama"
+      },
+      {
+        "label": "D",
+        "text": "Các siêu tàu biển"
+      }
+    ],
+    "correctAnswerText": "Container"
+  },
+  {
     "questionNumber": "10",
     "questionText": "Điểm khác nhau giữa số nhân thuế và số nhân chi tiêu là:",
     "options": [
@@ -918,6 +1125,52 @@
       }
     ],
     "correctAnswerText": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "Trường phái chuỗi chức năng nhấn mạnh vào yếu tố nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quá trình gia tăng giá trị cho sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Liên kết giữa các chức năng trong chuỗi cung ứng"
+      },
+      {
+        "label": "D",
+        "text": "Dòng vận động nguyên vật liệu và hàng hoá"
+      }
+    ],
+    "correctAnswerText": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+  },
+  {
+    "questionNumber": "11",
+    "questionText": "Công thức “Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối” là thể hiện quan điểm nào khi phân định phạm vi quản trị logistics và quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm đồng nhất"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm liên ngành"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm truyền thống"
+      }
+    ],
+    "correctAnswerText": "Quan điểm liên ngành"
   },
   {
     "questionNumber": "11",
@@ -1104,6 +1357,29 @@
     "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
   },
   {
+    "questionNumber": "12",
+    "questionText": "Việc tách logistics ra khỏi chức năng marketing và sản xuất, trở thành một chức năng độc lập là thể hiện đặc điểm gì trong quá trình phát triển logistics và chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự phân mảnh"
+      },
+      {
+        "label": "B",
+        "text": "Tích hợp toàn chuỗi cung ứng"
+      },
+      {
+        "label": "C",
+        "text": "Tích hợp từng phần"
+      },
+      {
+        "label": "D",
+        "text": "Tích hợp toàn doanh nghiệp"
+      }
+    ],
+    "correctAnswerText": "Tích hợp toàn doanh nghiệp"
+  },
+  {
     "questionNumber": "13",
     "questionText": "Chứng từ kế toán phản ánh sự vận động của Tiền gửi ngân hàng là:",
     "options": [
@@ -1196,6 +1472,29 @@
     "correctAnswerText": "Được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một thời kỳ nhất định."
   },
   {
+    "questionNumber": "13",
+    "questionText": "Trong giai đoạn từ năm 1980 - 1990, yếu tố nào sau đây tác động lớn tới sự phát triển của logistics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Toàn cầu hoá"
+      },
+      {
+        "label": "B",
+        "text": "Ứng dụng rộng rãi của máy tính cá nhân"
+      },
+      {
+        "label": "C",
+        "text": "Cả 3 đáp án còn lại đều đúng"
+      },
+      {
+        "label": "D",
+        "text": "Triết lý quản lý chất lượng toàn diện"
+      }
+    ],
+    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
+  },
+  {
     "questionNumber": "14",
     "questionText": "Đường tổng cung dài hạn là một đường thẳng đứng hàm ý rằng:",
     "options": [
@@ -1263,6 +1562,29 @@
       }
     ],
     "correctAnswerText": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
+  },
+  {
+    "questionNumber": "14",
+    "questionText": "Thuật ngữ “Logistics thông minh” hay “Logistics 4.0” được đề cập trong giai đoạn nào của quá trình phát triển logistics?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Từ năm 1970 đến 1990"
+      },
+      {
+        "label": "B",
+        "text": "Từ năm 1960 đến 1970"
+      },
+      {
+        "label": "C",
+        "text": "Từ 2010 đến nay"
+      },
+      {
+        "label": "D",
+        "text": "Từ năm 1990 đến 2010"
+      }
+    ],
+    "correctAnswerText": "Từ 2010 đến nay"
   },
   {
     "questionNumber": "14",
@@ -1380,6 +1702,29 @@
     "correctAnswerText": "Tổng giá trị gia tăng của tất cả các doanh nghiệp trong nền kinh tế."
   },
   {
+    "questionNumber": "15",
+    "questionText": "Thuật ngữ “Logistics” xuất hiện lần đầu tiên là trong lĩnh vực nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thương mại"
+      },
+      {
+        "label": "B",
+        "text": "Kinh tế"
+      },
+      {
+        "label": "C",
+        "text": "Vận tải biển"
+      },
+      {
+        "label": "D",
+        "text": "Quân sự"
+      }
+    ],
+    "correctAnswerText": "Quân sự"
+  },
+  {
     "questionNumber": "16",
     "questionText": "Khi chiếc tivi sản xuất tại Hàn Quốc và được bán trên thị trường Việt Nam tăng giá, giá trị của chiếc tivi này được tính vào chỉ tiêu nào dưới đây của Việt Nam",
     "options": [
@@ -1470,6 +1815,29 @@
       }
     ],
     "correctAnswerText": "Chứng từ gốc, Chứng từ tổng hợp"
+  },
+  {
+    "questionNumber": "16",
+    "questionText": "Trong các trường phái quản lý chuỗi cung ứng, trường phái nào nhấn mạnh vào sự liên kết giữa các chức năng khác nhau của chuỗi chung ứng để khai thác lợi thế cạnh tranh?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trường phái chuỗi chức năng"
+      },
+      {
+        "label": "B",
+        "text": "Trường phái tích hợp"
+      },
+      {
+        "label": "C",
+        "text": "Trường phái liên kết"
+      },
+      {
+        "label": "D",
+        "text": "Trường phái thông tin"
+      }
+    ],
+    "correctAnswerText": "Trường phái liên kết"
   },
   {
     "questionNumber": "17",
@@ -1564,6 +1932,29 @@
     "correctAnswerText": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
   },
   {
+    "questionNumber": "17",
+    "questionText": "Theo quan điểm liên ngành, công thức nào sau đây thể hiện phạm vi của quản trị logistics và quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối"
+      },
+      {
+        "label": "B",
+        "text": "Quản trị Logistics = Quản lý nguyên vật liệu + Phân phối hàng hoá"
+      },
+      {
+        "label": "C",
+        "text": "Cả 2 công thức đều sai"
+      },
+      {
+        "label": "D",
+        "text": "Cả 2 công thức đều đúng"
+      }
+    ],
+    "correctAnswerText": "Cả 2 công thức đều đúng"
+  },
+  {
     "questionNumber": "18",
     "questionText": "Mua công cụ dụng cụ về nhập kho, đã trả bằng chuyển khoản (đã có báo Nợ). Các chứng từ sử dụng cho nghiệp vụ trên là:",
     "options": [
@@ -1585,6 +1976,29 @@
       }
     ],
     "correctAnswerText": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+  },
+  {
+    "questionNumber": "18",
+    "questionText": "Theo cách hiểu về logistics từ quan điểm của Châu Âu, trong phạm vi doanh nghiệp logistics kinh doanh có những cấp độ nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cả ba đáp án còn lại"
+      },
+      {
+        "label": "B",
+        "text": "Triết lý logistics"
+      },
+      {
+        "label": "C",
+        "text": "Hệ thống logistics"
+      },
+      {
+        "label": "D",
+        "text": "Quản trị logistics"
+      }
+    ],
+    "correctAnswerText": "Cả ba đáp án còn lại"
   },
   {
     "questionNumber": "18",
@@ -1748,6 +2162,29 @@
     "correctAnswerText": "Nền kinh tế suy thoái và lạm phát tăng."
   },
   {
+    "questionNumber": "19",
+    "questionText": "Vì sao những nhà quản trị ủng hộ quá mức trường phái tích hợp trong quản lý chuỗi cung ứng thường mắc phải bẫy toàn năng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Vì không tích hợp được các thành viên trong chuỗi cung ứng"
+      },
+      {
+        "label": "C",
+        "text": "Vì không tích hợp được các dòng vận động hàng hoá và thông tin"
+      },
+      {
+        "label": "D",
+        "text": "Vì không tích hợp được các quá trình kinh doanh xuyên suốt chuỗi cung ứng"
+      }
+    ],
+    "correctAnswerText": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+  },
+  {
     "questionNumber": "20",
     "questionText": "Giả sử ban đầu nền kinh tế của Việt Nam đang ở trạng thái cân bằng dài hạn. Nền kinh tế sẽ chuyển sang trạng thái lạm phát đi kèm với suy thoái nếu:",
     "options": [
@@ -1792,6 +2229,29 @@
       }
     ],
     "correctAnswerText": "Tổng chi tiêu và sản lượng cân bằng tăng."
+  },
+  {
+    "questionNumber": "20",
+    "questionText": "Nhận định nào sau đây khi nói về phạm vi giữa quản trị logistics và quản lý chuỗi cung ứng KHÔNG đúng theo quan điểm liên ngành?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ngoài logistics, mô hình quản lý chuỗi cung ứng còn bao gồm cả các chức năng marketing, R&D, sản xuất, dự báo…"
+      },
+      {
+        "label": "B",
+        "text": "Logistics là một phần của quản lý chuỗi cung ứng."
+      },
+      {
+        "label": "C",
+        "text": "Quản lý chuỗi cung ứng bao trùm lên logistics"
+      },
+      {
+        "label": "D",
+        "text": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
+      }
+    ],
+    "correctAnswerText": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
   },
   {
     "questionNumber": "20",
@@ -1884,6 +2344,29 @@
       }
     ],
     "correctAnswerText": "Phiếu nhập kho, Phiếu xuất kho"
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Có 4 quan niệm cơ bản về phạm vi quản trị logistics và quản lý chuỗi cung ứng, bao gồm: quan điểm truyền thống, quan điểm đồng nhất, quan điểm liên ngành và quan điểm gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm hợp nhất"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm thống nhất"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm tích hợp"
+      }
+    ],
+    "correctAnswerText": "Quan điểm giao thoa"
   },
   {
     "questionNumber": "21",
@@ -2024,6 +2507,29 @@
     "correctAnswerText": "Giấy báo nợ."
   },
   {
+    "questionNumber": "22",
+    "questionText": "Tích hợp từng phần theo hướng quản lý nguyên vật liệu đầu vào (inbound logistics) bao gồm hoạt động nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả các đáp án còn lại đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Vận chuyển với tốc độ nhanh cho khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Cung ứng sản phẩm hoàn chỉnh ra thị trường"
+      }
+    ],
+    "correctAnswerText": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+  },
+  {
     "questionNumber": "23",
     "questionText": "Giả sử có hàm tổng chi tiêu trong nền kinh tế giản đơn như sau: AE = 600 + 0,75Y. Nếu sản lượng thực tế là Y = 2.000 thì có hiện tượng ngoài dự kiến nào sẽ xảy ra?",
     "options": [
@@ -2071,6 +2577,29 @@
   },
   {
     "questionNumber": "23",
+    "questionText": "Ở thời kỳ Ai Cập cổ đại, quá trình xây dựng kim tự tháp được coi là thành tựu đầu tiên trong phát triển logistics trên khía cạnh nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phương pháp vận chuyển"
+      },
+      {
+        "label": "B",
+        "text": "Tổ chức lao động"
+      },
+      {
+        "label": "C",
+        "text": "Xác định khối lượng nguyên liệu sử dụng"
+      },
+      {
+        "label": "D",
+        "text": "Kỹ thuật cắt gọt đá nguyên khối"
+      }
+    ],
+    "correctAnswerText": "Phương pháp vận chuyển"
+  },
+  {
+    "questionNumber": "23",
     "questionText": "Trả lương cho nhân viên bằng tiền gửi ngân hàng (đã có giấy báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
     "options": [
       {
@@ -2114,6 +2643,29 @@
       }
     ],
     "correctAnswerText": "Giấy báo nợ, Giấy báo có"
+  },
+  {
+    "questionNumber": "24",
+    "questionText": "Cuộc cách mạng về vận chuyển của người Hy Lạp cổ đại (2.500 - 539 TCN) là dựa trên phát kiến nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Công nghệ đóng tàu biển"
+      },
+      {
+        "label": "B",
+        "text": "Đầu máy hơi nước"
+      },
+      {
+        "label": "C",
+        "text": "Động cơ đốt trong"
+      },
+      {
+        "label": "D",
+        "text": "Hệ thống truyền động"
+      }
+    ],
+    "correctAnswerText": "Công nghệ đóng tàu biển"
   },
   {
     "questionNumber": "24",
@@ -2186,6 +2738,29 @@
   },
   {
     "questionNumber": "25",
+    "questionText": "Quan điểm nào coi logistics là một phần của quản trị chuỗi cung ứng, hay quản trị chuỗi cung ứng bao trùm lên logistics và nhiều lĩnh vực khác?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm truyền thống"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm liên ngành"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm đồng nhất"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm giao thoa"
+      }
+    ],
+    "correctAnswerText": "Quan điểm liên ngành"
+  },
+  {
+    "questionNumber": "25",
     "questionText": "Theo quy định, chứng từ điện tử:",
     "options": [
       {
@@ -2229,6 +2804,29 @@
       }
     ],
     "correctAnswerText": "Người Việt Nam tạo ra ở trong nước và nước ngoài."
+  },
+  {
+    "questionNumber": "26",
+    "questionText": "Đặc trưng của logistics và chuỗi cung trên thế giới giai đoạn trước năm 1960 là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tích hợp từng phần"
+      },
+      {
+        "label": "B",
+        "text": "Tích hợp toàn chuỗi cung ứng"
+      },
+      {
+        "label": "C",
+        "text": "Tích hợp toàn doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Sự phân mảnh"
+      }
+    ],
+    "correctAnswerText": "Sự phân mảnh"
   },
   {
     "questionNumber": "26",
@@ -2301,6 +2899,29 @@
   },
   {
     "questionNumber": "27",
+    "questionText": "Theo quan điểm hợp nhất, phát biểu nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+      },
+      {
+        "label": "B",
+        "text": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+      },
+      {
+        "label": "C",
+        "text": "Logistics và quản trị chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên."
+      },
+      {
+        "label": "D",
+        "text": "Các phát biểu còn lại đều sai"
+      }
+    ],
+    "correctAnswerText": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+  },
+  {
+    "questionNumber": "27",
     "questionText": "Xét một nền kinh tế đóng, chính phủ đánh thuế tự định (thuế không phụ thuộc vào thu nhập). Nếu xu hướng nhập khẩu cận biên MPM = 0,25 thì giá trị của số nhân thuế của nền kinh tế này là:",
     "options": [
       {
@@ -2369,6 +2990,52 @@
     "correctAnswerText": "Chi tiêu cho tiêu dùng của hộ gia đình"
   },
   {
+    "questionNumber": "28",
+    "questionText": "Phát biểu nào sau đây là đúng khi nói về quan điểm đồng nhất trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không phân biệt giữa logistics và quản lý chuỗi cung ứng"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả các đáp án còn lại đều đúng"
+      },
+      {
+        "label": "C",
+        "text": "Người quản lý chuỗi cung ứng cũng quản lý các hoạt động logistics trong chuỗi cung ứng"
+      },
+      {
+        "label": "D",
+        "text": "Quản lý chuỗi cung ứng là sự đổi tên của logistics"
+      }
+    ],
+    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+  },
+  {
+    "questionNumber": "29",
+    "questionText": "Giai đoạn 1960 - 1970, logistics và chuỗi cung ứng phát triển theo hướng nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tích hợp với nhà cung cấp"
+      },
+      {
+        "label": "B",
+        "text": "Tích hợp với khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+      },
+      {
+        "label": "D",
+        "text": "Tích hợp phía trước và phía sau"
+      }
+    ],
+    "correctAnswerText": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+  },
+  {
     "questionNumber": "29",
     "questionText": "Khi tiêu dùng tự định tăng sẽ làm cho đường tiêu dùng:",
     "options": [
@@ -2390,6 +3057,29 @@
       }
     ],
     "correctAnswerText": "Dịch chuyển song song lên trên."
+  },
+  {
+    "questionNumber": "30",
+    "questionText": "Các doanh nghiệp thiết lập vị trí quản lý chuỗi cung ứng trong bộ phận logistics là theo quan điểm nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm đồng nhất"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm giao thoa"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm truyền thống"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm liên ngành"
+      }
+    ],
+    "correctAnswerText": "Quan điểm truyền thống"
   },
   {
     "questionNumber": "30",
@@ -2438,6 +3128,52 @@
     "correctAnswerText": "Tăng 500 tỷ đồng."
   },
   {
+    "questionNumber": "31",
+    "questionText": "Phát biểu nào sau đây đúng về quan điểm liên ngành trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quản trị logistics là một phần của quản lý chuỗi cung ứng"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả các chức năng kinh doanh truyền thống được đưa vào quy trình quản lý chuỗi cung ứng"
+      },
+      {
+        "label": "C",
+        "text": "Quản lý chuỗi cung ứng bao gồm quản lý các chức năng marketing, bán hàng, R&R, dự báo, sản xuất, logistics, tài chính, dịch vụ khách hàng…"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả các đáp án còn lại đều đúng"
+      }
+    ],
+    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+  },
+  {
+    "questionNumber": "32",
+    "questionText": "Biến số phân phối trong marketing-mix khác với logistics ở điểm quan trọng nào nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đối tượng khách hàng"
+      },
+      {
+        "label": "B",
+        "text": "Chú trọng giao dịch hơn là phân phối vật chất"
+      },
+      {
+        "label": "C",
+        "text": "Mục tiêu"
+      },
+      {
+        "label": "D",
+        "text": "Không có điểm khác biệt"
+      }
+    ],
+    "correctAnswerText": "Chú trọng giao dịch hơn là phân phối vật chất"
+  },
+  {
     "questionNumber": "32",
     "questionText": "Mức sản lượng vừa đủ tiêu dùng là mức sản lượng mà tại đó:",
     "options": [
@@ -2462,6 +3198,29 @@
   },
   {
     "questionNumber": "33",
+    "questionText": "Đâu KHÔNG phải là nguyên nhân dẫn đến tích hợp trong phân phối hàng hoá đầu ra (outbound logistics) ở giai đoạn 1960 - 1970?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Sự thay đổi của quan điểm marketing trước tình thế cung vượt cầu"
+      },
+      {
+        "label": "C",
+        "text": "Tỷ lệ chi phí phân phối so với GDP tại một số quốc gia tăng cao."
+      },
+      {
+        "label": "D",
+        "text": "Doanh nghiệp gia tăng sự chú ý đến người tiêu dùng do nhu cầu thị trường bão hoà."
+      }
+    ],
+    "correctAnswerText": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+  },
+  {
+    "questionNumber": "33",
     "questionText": "Giả sử trong nền kinh tế mở có MPC = 0,8; t = 0,1 và MPM = 0,22. Số nhân chi tiêu của nền kinh tế này bằng là bao nhiêu?",
     "options": [
       {
@@ -2482,5 +3241,51 @@
       }
     ],
     "correctAnswerText": "2"
+  },
+  {
+    "questionNumber": "34",
+    "questionText": "Theo quan điểm đồng nhất, phát biểu nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các phát biểu còn lại đều sai"
+      },
+      {
+        "label": "B",
+        "text": "Quan điểm đồng nhất coi logistics là một phần của quản trị chuỗi cung ứng."
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm đồng nhất coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+      }
+    ],
+    "correctAnswerText": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+  },
+  {
+    "questionNumber": "35",
+    "questionText": "Phát biểu nào sau đây là đúng đối với trường phái thông tin trong quản lý chuỗi cung ứng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dòng thông tin giữa các thành viên đóng vai trò quan trọng với hiệu quả tổng thể của chuỗi"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả các bên tham gia chuỗi cung ứng phải được truyền tin một cách chính xác"
+      },
+      {
+        "label": "C",
+        "text": "Quản lý dòng chảy hàng hoá xuyên suốt chuỗi cung ứng cần dựa trên dòng vận động của thông tin"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả các đáp án còn lại đều đúng"
+      }
+    ],
+    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
   }
 ]
