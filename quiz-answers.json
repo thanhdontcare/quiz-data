@@ -1,577 +1,1083 @@
 [
   {
     "questionNumber": "1",
-    "questionText": "Theo địa điểm lập chứng từ, chứng từ kế toán có các loại:",
+    "questionText": "Theo Äá»a Äiá»m láº­p chá»©ng tá»«, chá»©ng tá»« káº¿ toÃ¡n cÃ³ cÃ¡c loáº¡i:",
     "options": [
       {
         "label": "A",
-        "text": "Chứng từ bên trong và chứng từ ban đầu."
+        "text": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« ban Äáº§u."
       },
       {
         "label": "B",
-        "text": "Chứng từ bên ngoài và chứng từ ban đầu."
+        "text": "Chá»©ng tá»« bÃªn ngoÃ i vÃ  chá»©ng tá»« ban Äáº§u."
       },
       {
         "label": "C",
-        "text": "Chứng từ bên trong và chứng từ bên ngoài."
+        "text": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« bÃªn ngoÃ i."
       },
       {
         "label": "D",
-        "text": "Chứng từ bên ngoài và chứng từ tổng hợp."
+        "text": "Chá»©ng tá»« bÃªn ngoÃ i vÃ  chá»©ng tá»« tá»ng há»£p."
       }
     ],
-    "correctAnswerText": "Chứng từ bên trong và chứng từ bên ngoài."
+    "correctAnswerText": "Chá»©ng tá»« bÃªn trong vÃ  chá»©ng tá»« bÃªn ngoÃ i."
+  },
+  {
+    "questionNumber": "1",
+    "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường tổng cầu dịch chuyển sang trái, sản lượng giảm."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, sản lượng tăng."
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+      },
+      {
+        "label": "D",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, sản lượng giảm."
+      }
+    ],
+    "correctAnswerText": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
   },
   {
     "questionNumber": "2",
-    "questionText": "Loại chứng từ KHÔNG phải là Hóa đơn bán hàng và cung cấp dịch vụ là:",
+    "questionText": "Loáº¡i chá»©ng tá»« KHÃNG pháº£i lÃ  HÃ³a ÄÆ¡n bÃ¡n hÃ ng vÃ  cung cáº¥p dá»ch vá»¥ lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Hóa đơn điện tử."
+        "text": "HÃ³a ÄÆ¡n Äiá»n tá»­."
       },
       {
         "label": "B",
-        "text": "Tem in sẵn giá thanh toán."
+        "text": "Tem in sáºµn giÃ¡ thanh toÃ¡n."
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho."
+        "text": "Phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "Vé in sẵn giá thanh toán."
+        "text": "VÃ© in sáºµn giÃ¡ thanh toÃ¡n."
       }
     ],
-    "correctAnswerText": "Phiếu nhập kho."
+    "correctAnswerText": "Phiáº¿u nháº­p kho."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Nhận định nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
+      },
+      {
+        "label": "B",
+        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ tăng."
+      },
+      {
+        "label": "C",
+        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ giảm."
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế tăng trưởng sẽ luôn đi kèm với lạm phát."
+      }
+    ],
+    "correctAnswerText": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
   },
   {
     "questionNumber": "3",
-    "questionText": "Xuất kho nguyên vật liệu để sản xuất sản phẩm. Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Nhân tố nào sau đây thay đổi sẽ gây ra hiện tượng trượt dọc trên đường tổng cung ngắn hạn ASs?",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, hóa đơn gtgt."
+        "text": "Chất lượng nguồn lực."
       },
       {
         "label": "B",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "Năng suất lao động."
       },
       {
         "label": "C",
-        "text": "Phiếu xuất kho."
+        "text": "Chi phí sản xuất."
       },
       {
         "label": "D",
-        "text": "Phiếu nhập kho."
+        "text": "Mức giá chung."
       }
     ],
-    "correctAnswerText": "Phiếu xuất kho."
+    "correctAnswerText": "Mức giá chung."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Xuáº¥t kho nguyÃªn váº­t liá»u Äá» sáº£n xuáº¥t saÌn phÃ¢Ìm. Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n gtgt."
+      },
+      {
+        "label": "B",
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+      },
+      {
+        "label": "C",
+        "text": "Phiáº¿u xuáº¥t kho."
+      },
+      {
+        "label": "D",
+        "text": "Phiáº¿u nháº­p kho."
+      }
+    ],
+    "correctAnswerText": "Phiáº¿u xuáº¥t kho."
   },
   {
     "questionNumber": "4",
-    "questionText": "Chứng từ nào sau đây KHÔNG phải là chứng từ gốc:",
+    "questionText": "Chá»©ng tá»« nÃ o sau ÄÃ¢y KHÃNG pháº£i lÃ  chá»©ng tá»« gá»c:",
     "options": [
       {
         "label": "A",
-        "text": "Phiếu thu"
+        "text": "Phiáº¿u thu"
       },
       {
         "label": "B",
-        "text": "Phiếu xuất kho"
+        "text": "Phiáº¿u xuáº¥t kho"
       },
       {
         "label": "C",
-        "text": "Hoá đơn bán hàng"
+        "text": "HoÃ¡ ÄÆ¡n bÃ¡n hÃ ng"
       },
       {
         "label": "D",
-        "text": "Bảng kê chi tiền"
+        "text": "Báº£ng kÃª chi tiá»n"
       }
     ],
-    "correctAnswerText": "Bảng kê chi tiền"
+    "correctAnswerText": "Báº£ng kÃª chi tiá»n"
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Khi thực hiện chính sách tài khoá, Chính phủ có thể dùng các công cụ nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá cả và tiền lương."
+      },
+      {
+        "label": "B",
+        "text": "Thuế quan và hạn ngạch."
+      },
+      {
+        "label": "C",
+        "text": "Thuế và chi tiêu của Chính phủ."
+      },
+      {
+        "label": "D",
+        "text": "Tỷ giá hối đoái."
+      }
+    ],
+    "correctAnswerText": "Thuế và chi tiêu của Chính phủ."
   },
   {
     "questionNumber": "5",
-    "questionText": "Yếu tố nào sau đây là yếu tố cơ bản của chứng từ kế toán:",
+    "questionText": "Mức sản lượng cân bằng trong dài hạn của nền kinh tế:",
     "options": [
       {
         "label": "A",
-        "text": "Hình thức thanh toán"
+        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
       },
       {
         "label": "B",
-        "text": "Mã số thuế của doanh nghiệp"
+        "text": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
       },
       {
         "label": "C",
-        "text": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
       },
       {
         "label": "D",
-        "text": "Thuế suất thuế GTGT"
+        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
       }
     ],
-    "correctAnswerText": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+    "correctAnswerText": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
+  },
+  {
+    "questionNumber": "5",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y lÃ  yáº¿u tá» cÆ¡ báº£n cá»§a chá»©ng tá»« káº¿ toÃ¡n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "HÃ¬nh thá»©c thanh toÃ¡n"
+      },
+      {
+        "label": "B",
+        "text": "MÃ£ sá» thuáº¿ cá»§a doanh nghiá»p"
+      },
+      {
+        "label": "C",
+        "text": "TÃªn, Äá»a chá» cá»§a ÄÆ¡n vá», cÃ¡ nhÃ¢n láº­p vÃ  nháº­n chá»©ng tá»« káº¿ toÃ¡n"
+      },
+      {
+        "label": "D",
+        "text": "Thuáº¿ suáº¥t thuáº¿ GTGT"
+      }
+    ],
+    "correctAnswerText": "TÃªn, Äá»a chá» cá»§a ÄÆ¡n vá», cÃ¡ nhÃ¢n láº­p vÃ  nháº­n chá»©ng tá»« káº¿ toÃ¡n"
   },
   {
     "questionNumber": "6",
-    "questionText": "Khi bán sản phẩm hàng hóa, giá ghi trên hóa đơn GTGT là:",
+    "questionText": "Điều nào dưới đây sẽ có xu hướng làm tăng tổng cầu (AD):",
     "options": [
       {
         "label": "A",
-        "text": "Giá thỏa thuận giữa bên mua và bên bán"
+        "text": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
       },
       {
         "label": "B",
-        "text": "Giá gốc của sản phẩm hàng hoá"
+        "text": "Nhập khẩu của quốc gia tăng."
       },
       {
         "label": "C",
-        "text": "Giá vốn"
+        "text": "Chính phủ giảm chi tiêu đầu tư công."
       },
       {
         "label": "D",
-        "text": "Giá thị trường"
+        "text": "Chính phủ tăng thuế."
       }
     ],
-    "correctAnswerText": "Giá thỏa thuận giữa bên mua và bên bán"
+    "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+  },
+  {
+    "questionNumber": "6",
+    "questionText": "Khi bÃ¡n sáº£n pháº©m hÃ ng hÃ³a, giÃ¡ ghi trÃªn hÃ³a ÄÆ¡n GTGT lÃ :",
+    "options": [
+      {
+        "label": "A",
+        "text": "GiÃ¡ thá»a thuáº­n giá»¯a bÃªn mua vÃ  bÃªn bÃ¡n"
+      },
+      {
+        "label": "B",
+        "text": "GiÃ¡ gá»c cá»§a sáº£n pháº©m hÃ ng hoÃ¡"
+      },
+      {
+        "label": "C",
+        "text": "GiÃ¡ vá»n"
+      },
+      {
+        "label": "D",
+        "text": "GiÃ¡ thá» trÆ°á»ng"
+      }
+    ],
+    "correctAnswerText": "GiÃ¡ thá»a thuáº­n giá»¯a bÃªn mua vÃ  bÃªn bÃ¡n"
   },
   {
     "questionNumber": "7",
-    "questionText": "Chứng từ kế toán phát sinh ngoài lãnh thổ Việt Nam ghi bằng tiếng nước ngoài, khi sử dụng để ghi sổ kế toán Việt Nam phải được dịch ra tiếng Việt, bản dịch ra tiếng Việt phải đính kèm với bản chính bằng tiếng nước ngoài, là một trong những:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n phÃ¡t sinh ngoÃ i lÃ£nh thá» Viá»t Nam ghi báº±ng tiáº¿ng nÆ°á»c ngoÃ i, khi sá»­ dá»¥ng Äá» ghi sá» káº¿ toÃ¡n Viá»t Nam pháº£i ÄÆ°á»£c dá»ch ra tiáº¿ng Viá»t, báº£n dá»ch ra tiáº¿ng Viá»t pháº£i ÄÃ­nh kÃ¨m vá»i báº£n chÃ­nh báº±ng tiáº¿ng nÆ°á»c ngoÃ i, lÃ  má»t trong nhá»¯ng:",
     "options": [
       {
         "label": "A",
-        "text": "Nội dung của chứng từ kế toán."
+        "text": "Ná»i dung cá»§a chá»©ng tá»« káº¿ toÃ¡n."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc lập chứng từ."
+        "text": "NguyÃªn táº¯c láº­p chá»©ng tá»«."
       },
       {
         "label": "C",
-        "text": "Yêu cầu của chứng từ kế toán."
+        "text": "YÃªu cáº§u cá»§a chá»©ng tá»« káº¿ toÃ¡n."
       },
       {
         "label": "D",
-        "text": "Yếu tố bổ sung của bản chứng từ."
+        "text": "Yáº¿u tá» bá» sung cá»§a báº£n chá»©ng tá»«."
       }
     ],
-    "correctAnswerText": "Yêu cầu của chứng từ kế toán."
+    "correctAnswerText": "YÃªu cáº§u cá»§a chá»©ng tá»« káº¿ toÃ¡n."
+  },
+  {
+    "questionNumber": "7",
+    "questionText": "Nếu chính phủ đồng thời tăng thuế đánh vào hàng tiêu dùng, hàng hoá đầu tư và nguyên liệu nhập khẩu thì",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cả đường tổng cung ngắn hạn và tổng cầu đều dịch chuyển sang phải."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, đường tổng cầu dịch chuyển sang trái"
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, đường tổng cầu dịch chuyển sang phải."
+      },
+      {
+        "label": "D",
+        "text": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+      }
+    ],
+    "correctAnswerText": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
   },
   {
     "questionNumber": "8",
-    "questionText": "Khi kiểm tra chứng từ, nếu phát hiện hành vi gian lận, vi phạm pháp luật, kế toán:",
+    "questionText": "Khi kiá»m tra chá»©ng tá»«, náº¿u phÃ¡t hiá»n hÃ nh vi gian láº­n, vi pháº¡m phÃ¡p luáº­t, káº¿ toÃ¡n:",
     "options": [
       {
         "label": "A",
-        "text": "Không cần báo cáo kế toán trưởng và lãnh đạo đơn vị."
+        "text": "KhÃ´ng cáº§n bÃ¡o cÃ¡o káº¿ toÃ¡n trÆ°á»ng vÃ  lÃ£nh Äáº¡o ÄÆ¡n vá»."
       },
       {
         "label": "B",
-        "text": "Vẫn dùng để ghi sổ kế toán."
+        "text": "Váº«n dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
       },
       {
         "label": "C",
-        "text": "Sửa chữa lại những nội dung bị sai lệch."
+        "text": "Sá»­a chá»¯a láº¡i nhá»¯ng ná»i dung bá» sai lá»ch."
       },
       {
         "label": "D",
-        "text": "Không dùng để ghi sổ kế toán."
+        "text": "KhÃ´ng dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
       }
     ],
-    "correctAnswerText": "Không dùng để ghi sổ kế toán."
+    "correctAnswerText": "KhÃ´ng dÃ¹ng Äá» ghi sá» káº¿ toÃ¡n."
+  },
+  {
+    "questionNumber": "8",
+    "questionText": "Sự thay đổi nào sau đây sẽ gây ra hiện tượng dịch chuyển sang phải của đường tổng cầu (AD)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Mức giá chung tăng"
+      },
+      {
+        "label": "C",
+        "text": "Mức giá chung giảm"
+      },
+      {
+        "label": "D",
+        "text": "Nhu cầu nhập khẩu của quốc gia tăng."
+      }
+    ],
+    "correctAnswerText": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
   },
   {
     "questionNumber": "9",
-    "questionText": "Chứng từ kế toán có tính sử liệu, có ý nghĩa quan trọng về kinh tế, an ninh, quốc phòng phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n cÃ³ tÃ­nh sá»­ liá»u, cÃ³ Ã½ nghÄ©a quan trá»ng vá» kinh táº¿, an ninh, quá»c phÃ²ng pháº£i ÄÆ°á»£c lÆ°u trá»¯ Ã­t nháº¥t theo thá»i háº¡n nÃ o sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "Lưu trữ vĩnh viễn"
+        "text": "LÆ°u trá»¯ vÄ©nh viá»n"
       },
       {
         "label": "B",
-        "text": "15 năm"
+        "text": "15 nÄm"
       },
       {
         "label": "C",
-        "text": "5 năm"
+        "text": "5 nÄm"
       },
       {
         "label": "D",
-        "text": "10 năm"
+        "text": "10 nÄm"
       }
     ],
-    "correctAnswerText": "Lưu trữ vĩnh viễn"
+    "correctAnswerText": "LÆ°u trá»¯ vÄ©nh viá»n"
+  },
+  {
+    "questionNumber": "9",
+    "questionText": "Theo định luật OKun, để giảm tỷ lệ thất nghiệp 1%/năm thì tốc độ tăng trưởng GDP (%/năm) là khoảng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2,5 %"
+      },
+      {
+        "label": "B",
+        "text": "4 %"
+      },
+      {
+        "label": "C",
+        "text": "1,5 %"
+      },
+      {
+        "label": "D",
+        "text": "3 %"
+      }
+    ],
+    "correctAnswerText": "2,5 %"
   },
   {
     "questionNumber": "10",
-    "questionText": "Đối tượng nào sau đây KHÔNG phải chịu trách nhiệm về nội dung của chứng từ:",
+    "questionText": "Äá»i tÆ°á»£ng nÃ o sau ÄÃ¢y KHÃNG pháº£i chá»u trÃ¡ch nhiá»m vá» ná»i dung cá»§a chá»©ng tá»«:",
     "options": [
       {
         "label": "A",
-        "text": "Người chuyển giao chứng từ"
+        "text": "NgÆ°á»i chuyá»n giao chá»©ng tá»«"
       },
       {
         "label": "B",
-        "text": "Những người ký tên trên chứng từ"
+        "text": "Nhá»¯ng ngÆ°á»i kÃ½ tÃªn trÃªn chá»©ng tá»«"
       },
       {
         "label": "C",
-        "text": "Người lập"
+        "text": "NgÆ°á»i láº­p"
       },
       {
         "label": "D",
-        "text": "Người duyệt chứng từ"
+        "text": "NgÆ°á»i duyá»t chá»©ng tá»«"
       }
     ],
-    "correctAnswerText": "Người chuyển giao chứng từ"
+    "correctAnswerText": "NgÆ°á»i chuyá»n giao chá»©ng tá»«"
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "Mục tiêu của kinh tế vĩ mô bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+      },
+      {
+        "label": "B",
+        "text": "Cắt giảm chi phí sản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Tối đa hóa lợi nhuận của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Tăng thị phần bán hàng."
+      }
+    ],
+    "correctAnswerText": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
   },
   {
     "questionNumber": "11",
-    "questionText": "Mua công cụ dụng cụ nhập kho, đã thanh toán bằng tiền mặt. Các chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Mua cÃ´ng cá»¥ dá»¥ng cá»¥ nháº­p kho, ÄÃ£ thanh toÃ¡n báº±ng tiá»n mÄÌ£t. CÃ¡c chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "phiếu xuất kho."
+        "text": "phiáº¿u xuáº¥t kho."
       },
       {
         "label": "B",
-        "text": "hóa đơn GTGT, phiếu nhập kho."
+        "text": "hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "C",
-        "text": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+        "text": "phiáº¿u chi, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "giấy báo nợ, hóa đơn GTGT."
+        "text": "giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT."
       }
     ],
-    "correctAnswerText": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+    "correctAnswerText": "phiáº¿u chi, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+  },
+  {
+    "questionNumber": "11",
+    "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chính sách định giá đối với sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Chính sách phát triển thị trường của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Chính sách bảo hành sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+      }
+    ],
+    "correctAnswerText": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
   },
   {
     "questionNumber": "12",
-    "questionText": "Chứng từ kế toán sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n sá»­ dá»¥ng trá»±c tiáº¿p Äá» ghi sá» káº¿ toÃ¡n vÃ  láº­p bÃ¡o cÃ¡o tÃ i chÃ­nh pháº£i ÄÆ°á»£c lÆ°u trá»¯ Ã­t nháº¥t theo thá»i háº¡n nÃ o sau ÄÃ¢y:",
     "options": [
       {
         "label": "A",
-        "text": "10 năm"
+        "text": "10 nÄm"
       },
       {
         "label": "B",
-        "text": "15 năm"
+        "text": "15 nÄm"
       },
       {
         "label": "C",
-        "text": "5 năm"
+        "text": "5 nÄm"
       },
       {
         "label": "D",
-        "text": "Lưu trữ vĩnh viễn"
+        "text": "LÆ°u trá»¯ vÄ©nh viá»n"
       }
     ],
-    "correctAnswerText": "10 năm"
+    "correctAnswerText": "10 nÄm"
+  },
+  {
+    "questionNumber": "12",
+    "questionText": "Trong điều kiện các yếu tố khác không đổi, khi xuất khẩu của một quốc gia tăng sẽ có thể dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không làm thay đổi mức giá chung"
+      },
+      {
+        "label": "B",
+        "text": "Sản lượng cân bằng của nền kinh tế giảm."
+      },
+      {
+        "label": "C",
+        "text": "Giảm giá của tất cả các hàng hóa và dịch vụ trong nền kinh tế"
+      },
+      {
+        "label": "D",
+        "text": "Sản lượng cân bằng của nền kinh tế tăng."
+      }
+    ],
+    "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
   },
   {
     "questionNumber": "13",
-    "questionText": "Chứng từ kế toán phản ánh sự vận động của Tiền gửi ngân hàng là:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n pháº£n Ã¡nh sá»± váº­n Äá»ng cá»§a Tiá»n gá»­i ngÃ¢n hÃ ng lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       },
       {
         "label": "B",
-        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+        "text": "HÃ³a ÄÆ¡n GTGT, HÃ³a ÄÆ¡n bÃ¡n hÃ ng"
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       },
       {
         "label": "D",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
+  },
+  {
+    "questionNumber": "13",
+    "questionText": "Mức sản lượng cân bằng của nền kinh tế trong ngắn hạn:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Bằng mức sản lượng tiềm năng của nền kinh tế."
+      }
+    ],
+    "correctAnswerText": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
   },
   {
     "questionNumber": "14",
-    "questionText": "Yếu tố nào sau đây dẫn tới chứng từ kế toán không đảm bảo về hình thức khi kiểm tra:",
+    "questionText": "Đường tổng cung dài hạn là một đường thẳng đứng hàm ý rằng:",
     "options": [
       {
         "label": "A",
-        "text": "Ghi thêm Thuế suất thuế GTGT"
+        "text": "Mức giá chung tăng sẽ khuyến khích đổi mới công nghệ và thúc đẩy tăng trưởng kinh tế."
       },
       {
         "label": "B",
-        "text": "Bổ sung thêm Thời hạn bảo hành sản phẩm"
+        "text": "Đường tổng cung dài hạn sẽ không bao giờ thay đổi vị trí."
       },
       {
         "label": "C",
-        "text": "Không ghi ngày tháng"
+        "text": "Mức giá chung tăng sẽ cho phép nền kinh tế đạt được mức sản lượng cao hơn."
       },
       {
         "label": "D",
-        "text": "Bổ sung thêm Mã số thuế của doanh nghiệp"
+        "text": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
       }
     ],
-    "correctAnswerText": "Không ghi ngày tháng"
+    "correctAnswerText": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+  },
+  {
+    "questionNumber": "14",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y dáº«n tá»i chá»©ng tá»« káº¿ toÃ¡n khÃ´ng Äáº£m báº£o vá» hÃ¬nh thá»©c khi kiá»m tra:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ghi thÃªm Thuáº¿ suáº¥t thuáº¿ GTGT"
+      },
+      {
+        "label": "B",
+        "text": "Bá» sung thÃªm Thá»i háº¡n báº£o hÃ nh sáº£n pháº©m"
+      },
+      {
+        "label": "C",
+        "text": "KhÃ´ng ghi ngÃ y thÃ¡ng"
+      },
+      {
+        "label": "D",
+        "text": "Bá» sung thÃªm MÃ£ sá» thuáº¿ cá»§a doanh nghiá»p"
+      }
+    ],
+    "correctAnswerText": "KhÃ´ng ghi ngÃ y thÃ¡ng"
   },
   {
     "questionNumber": "15",
-    "questionText": "Khi viết sai chứng từ bằng giấy, kế toán phải:",
+    "questionText": "Khi phân tích trên mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, sự gia tăng chi tiêu chính phủ (trong ngắn hạn) sẽ dẫn đến điều gì xảy ra?",
     "options": [
       {
         "label": "A",
-        "text": "Sửa lại số liệu ghi sai bằng mực thường"
+        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
       },
       {
         "label": "B",
-        "text": "Xé bỏ chứng từ viết sai, lập lại chứng từ mới"
+        "text": "Nền kinh tế tăng trưởng nóng nhưng không gây ra lạm phát."
       },
       {
         "label": "C",
-        "text": "Xóa số liệu đã ghi sai và ghi lại số liệu đúng bằng mực đỏ"
+        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
       },
       {
         "label": "D",
-        "text": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
+        "text": "Nền kinh tế tăng trưởng bền vững."
       }
     ],
-    "correctAnswerText": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
+    "correctAnswerText": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+  },
+  {
+    "questionNumber": "15",
+    "questionText": "Khi viáº¿t sai chá»©ng tá»« báº±ng giáº¥y, káº¿ toÃ¡n pháº£i:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sá»­a láº¡i sá» liá»u ghi sai báº±ng má»±c thÆ°á»ng"
+      },
+      {
+        "label": "B",
+        "text": "XÃ© bá» chá»©ng tá»« viáº¿t sai, láº­p láº¡i chá»©ng tá»« má»i"
+      },
+      {
+        "label": "C",
+        "text": "XÃ³a sá» liá»u ÄÃ£ ghi sai vÃ  ghi láº¡i sá» liá»u ÄÃºng báº±ng má»±c Äá»"
+      },
+      {
+        "label": "D",
+        "text": "Há»§y bá» chá»©ng tá»« báº±ng cÃ¡ch gáº¡ch chÃ©o vÃ o chá»©ng tá»« ÄÃ£ ghi sai, khÃ´ng xÃ© rá»i chá»©ng tá»« ÄÃ£ ghi sai khá»i cuá»ng."
+      }
+    ],
+    "correctAnswerText": "Há»§y bá» chá»©ng tá»« báº±ng cÃ¡ch gáº¡ch chÃ©o vÃ o chá»©ng tá»« ÄÃ£ ghi sai, khÃ´ng xÃ© rá»i chá»©ng tá»« ÄÃ£ ghi sai khá»i cuá»ng."
   },
   {
     "questionNumber": "16",
-    "questionText": "Theo mức độ phản ánh của chứng từ, chứng từ kế toán gồm:",
+    "questionText": "Nội dung nào sau đây KHÔNG phải là mục tiêu của kinh tế vĩ mô:",
     "options": [
       {
         "label": "A",
-        "text": "Chứng từ bên trong, Chứng từ bên ngoài"
+        "text": "Thúc đẩy tăng trưởng kinh tế."
       },
       {
         "label": "B",
-        "text": "Chứng từ gốc, Chứng từ tổng hợp"
+        "text": "Ổn định giá cả."
       },
       {
         "label": "C",
-        "text": "Chứng từ thông thường (chứng từ bằng giấy), chứng từ điện tử"
+        "text": "Tối đa hoá lợi nhuận của các doanh nghiệp."
       },
       {
         "label": "D",
-        "text": "Chứng từ điện tử và chứng từ tự lập"
+        "text": "Giảm thất nghiệp."
       }
     ],
-    "correctAnswerText": "Chứng từ gốc, Chứng từ tổng hợp"
+    "correctAnswerText": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+  },
+  {
+    "questionNumber": "16",
+    "questionText": "Theo má»©c Äá» pháº£n Ã¡nh cá»§a chá»©ng tá»«, chá»©ng tá»« káº¿ toÃ¡n gá»m:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chá»©ng tá»« bÃªn trong, Chá»©ng tá»« bÃªn ngoÃ i"
+      },
+      {
+        "label": "B",
+        "text": "Chá»©ng tá»« gá»c, Chá»©ng tá»« tá»ng há»£p"
+      },
+      {
+        "label": "C",
+        "text": "Chá»©ng tá»« thÃ´ng thÆ°á»ng (chá»©ng tá»« báº±ng giáº¥y), chá»©ng tá»« Äiá»n tá»­"
+      },
+      {
+        "label": "D",
+        "text": "Chá»©ng tá»« Äiá»n tá»­ vÃ  chá»©ng tá»« tá»± láº­p"
+      }
+    ],
+    "correctAnswerText": "Chá»©ng tá»« gá»c, Chá»©ng tá»« tá»ng há»£p"
   },
   {
     "questionNumber": "17",
-    "questionText": "Chứng từ kế toán:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n:",
     "options": [
       {
         "label": "A",
-        "text": "Có thể được lập lại nếu bị mất hoặc thất lạc."
+        "text": "CÃ³ thá» ÄÆ°á»£c láº­p láº¡i náº¿u bá» máº¥t hoáº·c tháº¥t láº¡c."
       },
       {
         "label": "B",
-        "text": "Được lập khi có yêu cầu của các bên có liên quan trong nghiệp vụ kinh tế phát sinh."
+        "text": "ÄÆ°á»£c láº­p khi cÃ³ yÃªu cáº§u cá»§a cÃ¡c bÃªn cÃ³ liÃªn quan trong nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
       },
       {
         "label": "C",
-        "text": "Được lập khi cần thiết."
+        "text": "ÄÆ°á»£c láº­p khi cáº§n thiáº¿t."
       },
       {
         "label": "D",
-        "text": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+        "text": "Chá» ÄÆ°á»£c láº­p má»t láº§n cho má»i nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
       }
     ],
-    "correctAnswerText": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+    "correctAnswerText": "Chá» ÄÆ°á»£c láº­p má»t láº§n cho má»i nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh."
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Sự thay đổi của yếu tố nào sau đây làm thay đổi mức sản lượng tiềm năng của nền kinh tế trong dài hạn?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
+      },
+      {
+        "label": "B",
+        "text": "Mức giá chung của nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Chi tiêu mua hàng của chính phủ tăng."
+      },
+      {
+        "label": "D",
+        "text": "Nhu cầu tiêu dùng tăng."
+      }
+    ],
+    "correctAnswerText": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
   },
   {
     "questionNumber": "18",
-    "questionText": "Mua công cụ dụng cụ về nhập kho, đã trả bằng chuyển khoản (đã có báo Nợ). Các chứng từ sử dụng cho nghiệp vụ trên là:",
+    "questionText": "Mua cÃ´ng cuÌ£ dá»¥ng cá»¥ vá» nháº­p kho, ÄÃ£ tráº£ báº±ng chuyá»n khoáº£n (ÄÃ£ cÃ³ bÃ¡o Ná»£). CÃ¡c chá»©ng tá»« sá»­ dá»¥ng cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho."
+        "text": "Phiáº¿u nháº­p kho."
       },
       {
         "label": "D",
-        "text": "Phiếu chi, hóa đơn GTGT."
+        "text": "Phiáº¿u chi, hÃ³a ÄÆ¡n GTGT."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+  },
+  {
+    "questionNumber": "18",
+    "questionText": "Trong điều kiện các yếu tố khác không đổi, cải tiến công nghệ trong sản xuất sẽ dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường tổng cầu dịch chuyển sang trái."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung dịch chuyển sang trái."
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cung dịch chuyển sang phải."
+      },
+      {
+        "label": "D",
+        "text": "Đường tổng cầu dịch chuyển sang phải."
+      }
+    ],
+    "correctAnswerText": "Đường tổng cung dịch chuyển sang phải."
   },
   {
     "questionNumber": "19",
-    "questionText": "Kiểm tra chứng từ kế toán KHÔNG bao gồm:",
+    "questionText": "Kiá»m tra chá»©ng tá»« káº¿ toÃ¡n KHÃNG bao gÃ´Ìm:",
     "options": [
       {
         "label": "A",
-        "text": "Kiểm tra việc tính toán trên chứng từ."
+        "text": "Kiá»m tra viá»c tÃ­nh toÃ¡n trÃªn chá»©ng tá»«."
       },
       {
         "label": "B",
-        "text": "Kiểm tra tính hợp pháp, hợp lệ của nghiệp vụ kinh tế ghi trên chứng từ."
+        "text": "Kiá»m tra tÃ­nh há»£p phÃ¡p, há»£p lá» cá»§a nghiá»p vá»¥ kinh táº¿ ghi trÃªn chá»©ng tá»«."
       },
       {
         "label": "C",
-        "text": "Kiểm tra tính rõ ràng, trung thực, đầy đủ của các chỉ tiêu các yếu tố ghi chép trên chứng từ."
+        "text": "Kiá»m tra tÃ­nh rÃµ rÃ ng, trung thá»±c, Äáº§y Äá»§ cá»§a cÃ¡c chá» tiÃªu cÃ¡c yáº¿u tá» ghi chÃ©p trÃªn chá»©ng tá»«."
       },
       {
         "label": "D",
-        "text": "Kiểm tra bút toán định khoản trên chứng từ."
+        "text": "Kiá»m tra bÃºt toÃ¡n Äá»nh khoáº£n trÃªn chá»©ng tá»«."
       }
     ],
-    "correctAnswerText": "Kiểm tra bút toán định khoản trên chứng từ."
+    "correctAnswerText": "Kiá»m tra bÃºt toÃ¡n Äá»nh khoáº£n trÃªn chá»©ng tá»«."
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "Trong mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, giá cả các yếu tố đầu vào tăng sẽ dẫn đến điều gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nền kinh tế suy thoái nhưng không gây ra lạm phát."
+      },
+      {
+        "label": "B",
+        "text": "Nền kinh tế suy thoái và lạm phát tăng."
+      },
+      {
+        "label": "C",
+        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng."
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
+      }
+    ],
+    "correctAnswerText": "Nền kinh tế suy thoái và lạm phát tăng."
   },
   {
     "questionNumber": "20",
-    "questionText": "Yếu tố nào sau đây là yếu tố bổ sung của chứng từ kế toán:",
+    "questionText": "Giả sử ban đầu nền kinh tế của Việt Nam đang ở trạng thái cân bằng dài hạn. Nền kinh tế sẽ chuyển sang trạng thái lạm phát đi kèm với suy thoái nếu:",
     "options": [
       {
         "label": "A",
-        "text": "Nội dung tóm tắt của nghiệp vụ kinh tế phát sinh"
+        "text": "Người dân thắt chặt chi tiêu do những lo ngại về suy thoái kinh tế toàn cầu."
       },
       {
         "label": "B",
-        "text": "Ngày tháng năm lập chứng từ"
+        "text": "Môi trường đầu tư được cải thiện và các doanh nghiệp tăng cầu đầu tư."
       },
       {
         "label": "C",
-        "text": "Chữ ký của người lập chứng từ"
+        "text": "Giá dầu thế giới tăng"
       },
       {
         "label": "D",
-        "text": "Thời gian bảo hành sản phẩm"
+        "text": "Chính phủ tăng chi tiêu cho đầu tư công."
       }
     ],
-    "correctAnswerText": "Thời gian bảo hành sản phẩm"
+    "correctAnswerText": "Giá dầu thế giới tăng"
+  },
+  {
+    "questionNumber": "20",
+    "questionText": "Yáº¿u tá» nÃ o sau ÄÃ¢y lÃ  yáº¿u tá» bá» sung cá»§a chá»©ng tá»« káº¿ toÃ¡n:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ná»i dung tÃ³m táº¯t cá»§a nghiá»p vá»¥ kinh táº¿ phÃ¡t sinh"
+      },
+      {
+        "label": "B",
+        "text": "NgÃ y thÃ¡ng nÄm láº­p chá»©ng tá»«"
+      },
+      {
+        "label": "C",
+        "text": "Chá»¯ kÃ½ cá»§a ngÆ°á»i láº­p chá»©ng tá»«"
+      },
+      {
+        "label": "D",
+        "text": "Thá»i gian báº£o hÃ nh sáº£n pháº©m"
+      }
+    ],
+    "correctAnswerText": "Thá»i gian báº£o hÃ nh sáº£n pháº©m"
   },
   {
     "questionNumber": "21",
-    "questionText": "Chứng từ kế toán phản ánh sự vận động của Hàng tồn kho là:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n pháº£n Ã¡nh sá»± váº­n Äá»ng cá»§a HÃ ng tá»n kho lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       },
       {
         "label": "C",
-        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+        "text": "HÃ³a ÄÆ¡n GTGT, HÃ³a ÄÆ¡n bÃ¡n hÃ ng"
       },
       {
         "label": "D",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       }
     ],
-    "correctAnswerText": "Phiếu nhập kho, Phiếu xuất kho"
+    "correctAnswerText": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Trong mô hình AD-AS, sự dịch chuyển sang phải của đường AD sẽ dẫn đến sự thay đổi nào (giả sử tổng cung không đổi)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản lượng tăng và mức giá chung giảm."
+      },
+      {
+        "label": "B",
+        "text": "Sản lượng giảm và mức giá chung giảm."
+      },
+      {
+        "label": "C",
+        "text": "Sản lượng giảm và mức giá chung tăng."
+      },
+      {
+        "label": "D",
+        "text": "Sản lượng tăng và mức giá chung tăng."
+      }
+    ],
+    "correctAnswerText": "Sản lượng tăng và mức giá chung tăng."
   },
   {
     "questionNumber": "22",
-    "questionText": "Thanh toán tiền hàng cho người bán bằng TGNH (đã có báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Đường tổng cung ngắn hạn có độ dốc dương hàm ý:",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, hóa đơn GTGT."
+        "text": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
       },
       {
         "label": "B",
-        "text": "Giấy báo nợ."
+        "text": "Cải tiến công nghệ sẽ làm tăng tổng cầu về hàng hoá và dịch vụ"
       },
       {
         "label": "C",
-        "text": "Phiếu chi, hóa đơn GTGT."
+        "text": "Người tiêu dùng thích mua các sản phẩm cao cấp"
       },
       {
         "label": "D",
-        "text": "Hóa đơn GTGT, phiếu nhập kho."
+        "text": "Mức giá chung tăng sẽ dẫn đến sự dịch chuyển sang phải của đường tổng cung."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ."
+    "correctAnswerText": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+  },
+  {
+    "questionNumber": "22",
+    "questionText": "Thanh toÃ¡n tiá»n hÃ ng cho ngÆ°á»i bÃ¡n báº±ng TGNH (ÄÃ£ cÃ³ bÃ¡o Ná»£). Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giáº¥y bÃ¡o ná»£, hÃ³a ÄÆ¡n GTGT."
+      },
+      {
+        "label": "B",
+        "text": "Giáº¥y bÃ¡o ná»£."
+      },
+      {
+        "label": "C",
+        "text": "Phiáº¿u chi, hÃ³a ÄÆ¡n GTGT."
+      },
+      {
+        "label": "D",
+        "text": "HÃ³a ÄÆ¡n GTGT, phiáº¿u nháº­p kho."
+      }
+    ],
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£."
   },
   {
     "questionNumber": "23",
-    "questionText": "Trả lương cho nhân viên bằng tiền gửi ngân hàng (đã có giấy báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "questionText": "Tráº£ lÆ°Æ¡ng cho nhÃ¢n viÃªn báº±ng tiá»n gá»­i ngÃ¢n hÃ ng (ÄÃ£ cÃ³ giáº¥y bÃ¡o Ná»£). Chá»©ng tá»« cáº§n láº­p cho nghiá»p vá»¥ trÃªn lÃ :",
     "options": [
       {
         "label": "A",
-        "text": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+        "text": "Giáº¥y bÃ¡o ná»£, báº£ng tÃ­nh thanh toÃ¡n tiá»n lÆ°Æ¡ng."
       },
       {
         "label": "B",
-        "text": "Giấy báo có."
+        "text": "Giáº¥y bÃ¡o cÃ³."
       },
       {
         "label": "C",
-        "text": "Phiếu xuất kho."
+        "text": "Phiáº¿u xuáº¥t kho."
       },
       {
         "label": "D",
-        "text": "Phiếu chi."
+        "text": "Phiáº¿u chi."
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, báº£ng tÃ­nh thanh toÃ¡n tiá»n lÆ°Æ¡ng."
   },
   {
     "questionNumber": "24",
-    "questionText": "Chứng từ kế toán nào sau đây là chứng từ bên ngoài:",
+    "questionText": "Chá»©ng tá»« káº¿ toÃ¡n nÃ o sau ÄÃ¢y lÃ  chá»©ng tá»« bÃªn ngoÃ i:",
     "options": [
       {
         "label": "A",
-        "text": "Bảng thanh toán lương, Phiếu tạm ứng lương"
+        "text": "Báº£ng thanh toÃ¡n lÆ°Æ¡ng, Phiáº¿u táº¡m á»©ng lÆ°Æ¡ng"
       },
       {
         "label": "B",
-        "text": "Phiếu thu, Phiếu chi"
+        "text": "Phiáº¿u thu, Phiáº¿u chi"
       },
       {
         "label": "C",
-        "text": "Phiếu nhập kho, Phiếu xuất kho"
+        "text": "Phiáº¿u nháº­p kho, Phiáº¿u xuáº¥t kho"
       },
       {
         "label": "D",
-        "text": "Giấy báo nợ, Giấy báo có"
+        "text": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
       }
     ],
-    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
+    "correctAnswerText": "Giáº¥y bÃ¡o ná»£, Giáº¥y bÃ¡o cÃ³"
   },
   {
     "questionNumber": "25",
-    "questionText": "Theo quy định, chứng từ điện tử:",
+    "questionText": "Theo quy Äá»nh, chá»©ng tá»« Äiá»n tá»­:",
     "options": [
       {
         "label": "A",
-        "text": "Có thể có hoặc không có chữ ký tùy thuộc từng loại chứng từ."
+        "text": "CÃ³ thá» cÃ³ hoáº·c khÃ´ng cÃ³ chá»¯ kÃ½ tÃ¹y thuá»c tá»«ng loáº¡i chá»©ng tá»«."
       },
       {
         "label": "B",
-        "text": "Phải có chữ ký người lập"
+        "text": "Pháº£i cÃ³ chá»¯ kÃ½ ngÆ°á»i láº­p"
       },
       {
         "label": "C",
-        "text": "Không cần chữ ký các bên liên quan"
+        "text": "KhÃ´ng cáº§n chá»¯ kÃ½ cÃ¡c bÃªn liÃªn quan"
       },
       {
         "label": "D",
-        "text": "Phải có chữ ký điện tử"
+        "text": "Pháº£i cÃ³ chá»¯ kÃ½ Äiá»n tá»­"
       }
     ],
-    "correctAnswerText": "Phải có chữ ký điện tử"
+    "correctAnswerText": "Pháº£i cÃ³ chá»¯ kÃ½ Äiá»n tá»­"
   }
 ]
