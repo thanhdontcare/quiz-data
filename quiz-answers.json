@@ -553,76 +553,76 @@
   },
   {
     "questionNumber": "25",
-    "questionText": "Cho biáº¿t vai trÃ² cá»§a ChÃ­nh phá»§ Äá»i vá»i ngÃ nh logistics thÆ°Æ¡ng máº¡i?",
+    "questionText": "Cho biÃ¡ÂºÂ¿t vai trÃÂ² cÃ¡Â»Â§a ChÃÂ­nh phÃ¡Â»Â§ ÃÂÃ¡Â»Âi vÃ¡Â»Âi ngÃÂ nh logistics thÃÂ°ÃÂ¡ng mÃ¡ÂºÂ¡i?",
     "options": [
       {
         "label": "A",
-        "text": "ThÃºc Äáº©y sá»± cáº¡nh tranh giá»¯a cÃ¡c cÃ´ng ty logistics"
+        "text": "ThÃÂºc ÃÂÃ¡ÂºÂ©y sÃ¡Â»Â± cÃ¡ÂºÂ¡nh tranh giÃ¡Â»Â¯a cÃÂ¡c cÃÂ´ng ty logistics"
       },
       {
         "label": "B",
-        "text": "Äáº§u tÆ° vÃ  xÃ¢y dá»±ng cÆ¡ sá» háº¡ táº§ng logistics quá»c gia"
+        "text": "ÃÂÃ¡ÂºÂ§u tÃÂ° vÃÂ  xÃÂ¢y dÃ¡Â»Â±ng cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics quÃ¡Â»Âc gia"
       },
       {
         "label": "C",
-        "text": "á»n Äá»nh thá» trÆ°á»ng xuáº¥t kháº©u"
+        "text": "Ã¡Â»Ân ÃÂÃ¡Â»Ânh thÃ¡Â»Â trÃÂ°Ã¡Â»Âng xuÃ¡ÂºÂ¥t khÃ¡ÂºÂ©u"
       },
       {
         "label": "D",
-        "text": "Cung cáº¥p cÃ¡c dá»ch vá»¥ logistics giÃ¡ ráº» cho doanh nghiá»p"
+        "text": "Cung cÃ¡ÂºÂ¥p cÃÂ¡c dÃ¡Â»Âch vÃ¡Â»Â¥ logistics giÃÂ¡ rÃ¡ÂºÂ» cho doanh nghiÃ¡Â»Âp"
       }
     ],
-    "correctAnswerText": "Äáº§u tÆ° vÃ  xÃ¢y dá»±ng cÆ¡ sá» háº¡ táº§ng logistics quá»c gia"
+    "correctAnswerText": "ÃÂÃ¡ÂºÂ§u tÃÂ° vÃÂ  xÃÂ¢y dÃ¡Â»Â±ng cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics quÃ¡Â»Âc gia"
   },
   {
     "questionNumber": "26",
-    "questionText": "06 nhÃ³m yáº¿u tá» cÆ¡ báº£n cá»§a há» thá»ng logistics quá»c gia bao gá»m: Khung thá» cháº¿ phÃ¡p luáº­t logistics, cÆ¡ sá» háº¡ táº§ng logistics, doanh nghiá»p logistics, doanh nghiá»p sá»­ dá»¥ng dá»ch vá»¥ logistics, dá»ch vá»¥ logistics Äáº§u ra vÃ  yáº¿u tá» nÃ o sau ÄÃ¢y?",
+    "questionText": "06 nhÃÂ³m yÃ¡ÂºÂ¿u tÃ¡Â»Â cÃÂ¡ bÃ¡ÂºÂ£n cÃ¡Â»Â§a hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia bao gÃ¡Â»Âm: Khung thÃ¡Â»Â chÃ¡ÂºÂ¿ phÃÂ¡p luÃ¡ÂºÂ­t logistics, cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics, doanh nghiÃ¡Â»Âp logistics, doanh nghiÃ¡Â»Âp sÃ¡Â»Â­ dÃ¡Â»Â¥ng dÃ¡Â»Âch vÃ¡Â»Â¥ logistics, dÃ¡Â»Âch vÃ¡Â»Â¥ logistics ÃÂÃ¡ÂºÂ§u ra vÃÂ  yÃ¡ÂºÂ¿u tÃ¡Â»Â nÃÂ o sau ÃÂÃÂ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "CÃ´ng nghá» logistics"
+        "text": "CÃÂ´ng nghÃ¡Â»Â logistics"
       },
       {
         "label": "B",
-        "text": "PhÆ°Æ¡ng tiá»n váº­n táº£i"
+        "text": "PhÃÂ°ÃÂ¡ng tiÃ¡Â»Ân vÃ¡ÂºÂ­n tÃ¡ÂºÂ£i"
       },
       {
         "label": "C",
-        "text": "CÆ¡ sá» ÄÃ o táº¡o logistics"
+        "text": "CÃÂ¡ sÃ¡Â»Â ÃÂÃÂ o tÃ¡ÂºÂ¡o logistics"
       },
       {
         "label": "D",
-        "text": "Nguá»n nhÃ¢n lá»±c logistics"
+        "text": "NguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c logistics"
       }
     ],
-    "correctAnswerText": "Nguá»n nhÃ¢n lá»±c logistics"
+    "correctAnswerText": "NguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c logistics"
   },
   {
     "questionNumber": "27",
-    "questionText": "Khi quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p theo tiáº¿p cáº­n quáº£n trá» má»¥c tiÃªu (MBO), lÃ£nh Äáº¡o vÃ  nhÃ¢n viÃªn cáº§n lÃ m gÃ¬ Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu?",
+    "questionText": "Khi quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp theo tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â mÃ¡Â»Â¥c tiÃÂªu (MBO), lÃÂ£nh ÃÂÃ¡ÂºÂ¡o vÃÂ  nhÃÂ¢n viÃÂªn cÃ¡ÂºÂ§n lÃÂ m gÃÂ¬ ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu?",
     "options": [
       {
         "label": "A",
-        "text": "Chá» tuÃ¢n thá»§ chá» thá» cá»§a lÃ£nh Äáº¡o cáº¥p cao"
+        "text": "ChÃ¡Â»Â tuÃÂ¢n thÃ¡Â»Â§ chÃ¡Â»Â thÃ¡Â»Â cÃ¡Â»Â§a lÃÂ£nh ÃÂÃ¡ÂºÂ¡o cÃ¡ÂºÂ¥p cao"
       },
       {
         "label": "B",
-        "text": "Há»£p tÃ¡c xÃ¡c Äá»nh trÃ¡ch nhiá»m vÃ  phÃ¢n cÃ´ng quyá»n háº¡n Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu"
+        "text": "HÃ¡Â»Â£p tÃÂ¡c xÃÂ¡c ÃÂÃ¡Â»Ânh trÃÂ¡ch nhiÃ¡Â»Âm vÃÂ  phÃÂ¢n cÃÂ´ng quyÃ¡Â»Ân hÃ¡ÂºÂ¡n ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu"
       },
       {
         "label": "C",
-        "text": "Chá» táº­p trung vÃ o cÃ¡c má»¥c tiÃªu ngáº¯n háº¡n"
+        "text": "ChÃ¡Â»Â tÃ¡ÂºÂ­p trung vÃÂ o cÃÂ¡c mÃ¡Â»Â¥c tiÃÂªu ngÃ¡ÂºÂ¯n hÃ¡ÂºÂ¡n"
       },
       {
         "label": "D",
-        "text": "Chá» quan tÃ¢m Äáº¿n viá»c thá»±c hiá»n cÃ¡c cÃ´ng viá»c hÃ ngÂ  ngÃ y"
+        "text": "ChÃ¡Â»Â quan tÃÂ¢m ÃÂÃ¡ÂºÂ¿n viÃ¡Â»Âc thÃ¡Â»Â±c hiÃ¡Â»Ân cÃÂ¡c cÃÂ´ng viÃ¡Â»Âc hÃÂ ngÃÂ  ngÃÂ y"
       }
     ],
-    "correctAnswerText": "Há»£p tÃ¡c xÃ¡c Äá»nh trÃ¡ch nhiá»m vÃ  phÃ¢n cÃ´ng quyá»n háº¡n Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu"
+    "correctAnswerText": "HÃ¡Â»Â£p tÃÂ¡c xÃÂ¡c ÃÂÃ¡Â»Ânh trÃÂ¡ch nhiÃ¡Â»Âm vÃÂ  phÃÂ¢n cÃÂ´ng quyÃ¡Â»Ân hÃ¡ÂºÂ¡n ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu"
   },
   {
     "questionNumber": "28",
-    "questionText": "Chá» ra cÃ¡c cÃ¡ch tiáº¿p cáº­n cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p sáº£n xuáº¥t - kinh doanh hÃ ng hÃ³a: (1) Tiáº¿p cáº­n quáº£n trá» theo má»¥c tiÃªu; (2) Tiáº¿p cáº­n quáº£n trá» theo nhÃ³m khÃ¡ch hÃ ng; (3) Tiáº¿p cáº­n quáº£n trá» theo quÃ¡ trÃ¬nh; (4) Tiáº¿p cáº­n quáº£n trá» theo chá»©c nÄng",
+    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c cÃÂ¡ch tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t - kinh doanh hÃÂ ng hÃÂ³a: (1) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo mÃ¡Â»Â¥c tiÃÂªu; (2) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo nhÃÂ³m khÃÂ¡ch hÃÂ ng; (3) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo quÃÂ¡ trÃÂ¬nh; (4) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo chÃ¡Â»Â©c nÃÂng",
     "options": [
       {
         "label": "A",
@@ -645,53 +645,53 @@
   },
   {
     "questionNumber": "29",
-    "questionText": "Quan Äiá»m vá» há» thá»ng logistics quá»c gia cá»§a cÃ¡c ná»n kinh táº¿ cháº­m phÃ¡t triá»n thÆ°á»ng cÃ³ Äáº·c Äiá»m nÃ o sau ÄÃ¢y?",
+    "questionText": "Quan ÃÂiÃ¡Â»Âm vÃ¡Â»Â hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia cÃ¡Â»Â§a cÃÂ¡c nÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ chÃ¡ÂºÂ­m phÃÂ¡t triÃ¡Â»Ân thÃÂ°Ã¡Â»Âng cÃÂ³ ÃÂÃ¡ÂºÂ·c ÃÂiÃ¡Â»Âm nÃÂ o sau ÃÂÃÂ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "CÃ¡c cÃ´ng ty logistics hoáº¡t Äá»ng Äá»c láº­p mÃ  khÃ´ng cáº§n sá»± há» trá»£ cá»§a ChÃ­nh phá»§"
+        "text": "CÃÂ¡c cÃÂ´ng ty logistics hoÃ¡ÂºÂ¡t ÃÂÃ¡Â»Âng ÃÂÃ¡Â»Âc lÃ¡ÂºÂ­p mÃÂ  khÃÂ´ng cÃ¡ÂºÂ§n sÃ¡Â»Â± hÃ¡Â»Â trÃ¡Â»Â£ cÃ¡Â»Â§a ChÃÂ­nh phÃ¡Â»Â§"
       },
       {
         "label": "B",
-        "text": "Há» thá»ng logistics cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c rÃµ rÃ ng"
+        "text": "HÃ¡Â»Â thÃ¡Â»Âng logistics cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c rÃÂµ rÃÂ ng"
       },
       {
         "label": "C",
-        "text": "Chá» chÃº trá»ng vÃ o cÃ¡c dá»ch vá»¥ logistics trong nÆ°á»c"
+        "text": "ChÃ¡Â»Â chÃÂº trÃ¡Â»Âng vÃÂ o cÃÂ¡c dÃ¡Â»Âch vÃ¡Â»Â¥ logistics trong nÃÂ°Ã¡Â»Âc"
       },
       {
         "label": "D",
-        "text": "Há» thá»ng logistics chÆ°a cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c vÃ  chÆ°a ÄÆ°á»£c coi trá»ng trong há» thá»ng phÃ¡t triá»n kinh táº¿ quá»c gia"
+        "text": "HÃ¡Â»Â thÃ¡Â»Âng logistics chÃÂ°a cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c vÃÂ  chÃÂ°a ÃÂÃÂ°Ã¡Â»Â£c coi trÃ¡Â»Âng trong hÃ¡Â»Â thÃ¡Â»Âng phÃÂ¡t triÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ quÃ¡Â»Âc gia"
       }
     ],
-    "correctAnswerText": "Há» thá»ng logistics chÆ°a cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c vÃ  chÆ°a ÄÆ°á»£c coi trá»ng trong há» thá»ng phÃ¡t triá»n kinh táº¿ quá»c gia"
+    "correctAnswerText": "HÃ¡Â»Â thÃ¡Â»Âng logistics chÃÂ°a cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c vÃÂ  chÃÂ°a ÃÂÃÂ°Ã¡Â»Â£c coi trÃ¡Â»Âng trong hÃ¡Â»Â thÃ¡Â»Âng phÃÂ¡t triÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ quÃ¡Â»Âc gia"
   },
   {
     "questionNumber": "30",
-    "questionText": "ÄÃ¢u lÃ  chá»§ thá» táº¡o ra nhu cáº§u vá» logistics trong há» thá»ng logistics quá»c gia?",
+    "questionText": "ÃÂÃÂ¢u lÃÂ  chÃ¡Â»Â§ thÃ¡Â»Â tÃ¡ÂºÂ¡o ra nhu cÃ¡ÂºÂ§u vÃ¡Â»Â logistics trong hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiá»p sáº£n xuáº¥t hÃ ng may máº·c"
+        "text": "Doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hÃÂ ng may mÃ¡ÂºÂ·c"
       },
       {
         "label": "B",
-        "text": "Doanh nghiá»p chuyá»n phÃ¡t"
+        "text": "Doanh nghiÃ¡Â»Âp chuyÃ¡Â»Ân phÃÂ¡t"
       },
       {
         "label": "C",
-        "text": "Doanh nghiá»p 2PL"
+        "text": "Doanh nghiÃ¡Â»Âp 2PL"
       },
       {
         "label": "D",
-        "text": "Doanh nghiá»p váº­n táº£i"
+        "text": "Doanh nghiÃ¡Â»Âp vÃ¡ÂºÂ­n tÃ¡ÂºÂ£i"
       }
     ],
-    "correctAnswerText": "Doanh nghiá»p sáº£n xuáº¥t hÃ ng may máº·c"
+    "correctAnswerText": "Doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hÃÂ ng may mÃ¡ÂºÂ·c"
   },
   {
     "questionNumber": "31",
-    "questionText": "Chá» ra cÃ¡c nguyÃªn táº¯c cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p hiá»n nay: (1) Äá»nh hÆ°á»ng khÃ¡ch hÃ ng; (2) Äá»nh hÆ°á»ng nguá»n hÃ ng; (3) Äá»nh hÆ°á»ng giÃ¡ trá»; (4) Tá»i Æ°u hÃ³a",
+    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c nguyÃÂªn tÃ¡ÂºÂ¯c cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp hiÃ¡Â»Ân nay: (1) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ng; (2) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng nguÃ¡Â»Ân hÃÂ ng; (3) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng giÃÂ¡ trÃ¡Â»Â; (4) TÃ¡Â»Âi ÃÂ°u hÃÂ³a",
     "options": [
       {
         "label": "A",
@@ -714,53 +714,53 @@
   },
   {
     "questionNumber": "32",
-    "questionText": "KhÃ­a cáº¡nh âDá» dÃ ng tiáº¿p cáº­n Äá»i vá»i khÃ¡ch hÃ ngâ trong Äá»nh hÆ°á»ng khÃ¡ch hÃ ng Äá» cáº­p Äáº¿n Äiá»u gÃ¬?",
+    "questionText": "KhÃÂ­a cÃ¡ÂºÂ¡nh Ã¢ÂÂDÃ¡Â»Â dÃÂ ng tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n ÃÂÃ¡Â»Âi vÃ¡Â»Âi khÃÂ¡ch hÃÂ ngÃ¢ÂÂ trong ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ng ÃÂÃ¡Â»Â cÃ¡ÂºÂ­p ÃÂÃ¡ÂºÂ¿n ÃÂiÃ¡Â»Âu gÃÂ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Kháº£ nÄng doanh nghiá»p dá» dÃ ng tiáº¿p cáº­n vá»i nguá»n nhÃ¢n lá»±c"
+        "text": "KhÃ¡ÂºÂ£ nÃÂng doanh nghiÃ¡Â»Âp dÃ¡Â»Â dÃÂ ng tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n vÃ¡Â»Âi nguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c"
       },
       {
         "label": "B",
-        "text": "Kháº£ nÄng doanh nghiá»p dá» dÃ ng truy cáº­p vÃ o cÃ¡c thÃ´ng tin quan trá»ng Äá» ÄÃ¡p á»©ng yÃªu cáº§u khÃ¡ch hÃ ng"
+        "text": "KhÃ¡ÂºÂ£ nÃÂng doanh nghiÃ¡Â»Âp dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p vÃÂ o cÃÂ¡c thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â ÃÂÃÂ¡p Ã¡Â»Â©ng yÃÂªu cÃ¡ÂºÂ§u khÃÂ¡ch hÃÂ ng"
       },
       {
         "label": "C",
-        "text": "Kháº£ nÄng khÃ¡ch hÃ ng dá» dÃ ng truy cáº­p thÃ´ng tin quan trá»ng Äá» mua sáº¯m vÃ  thuáº­n lá»£i trong tiáº¿p nháº­n hÃ ng hoÃ¡, dá»ch vá»¥ ÄÃ£ mua"
+        "text": "KhÃ¡ÂºÂ£ nÃÂng khÃÂ¡ch hÃÂ ng dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â mua sÃ¡ÂºÂ¯m vÃÂ  thuÃ¡ÂºÂ­n lÃ¡Â»Â£i trong tiÃ¡ÂºÂ¿p nhÃ¡ÂºÂ­n hÃÂ ng hoÃÂ¡, dÃ¡Â»Âch vÃ¡Â»Â¥ ÃÂÃÂ£ mua"
       },
       {
         "label": "D",
-        "text": "Kháº£ nÄng táº¡o ra nhiá»u sáº£n pháº©m Äa dáº¡ng"
+        "text": "KhÃ¡ÂºÂ£ nÃÂng tÃ¡ÂºÂ¡o ra nhiÃ¡Â»Âu sÃ¡ÂºÂ£n phÃ¡ÂºÂ©m ÃÂa dÃ¡ÂºÂ¡ng"
       }
     ],
-    "correctAnswerText": "Kháº£ nÄng khÃ¡ch hÃ ng dá» dÃ ng truy cáº­p thÃ´ng tin quan trá»ng Äá» mua sáº¯m vÃ  thuáº­n lá»£i trong tiáº¿p nháº­n hÃ ng hoÃ¡, dá»ch vá»¥ ÄÃ£ mua"
+    "correctAnswerText": "KhÃ¡ÂºÂ£ nÃÂng khÃÂ¡ch hÃÂ ng dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â mua sÃ¡ÂºÂ¯m vÃÂ  thuÃ¡ÂºÂ­n lÃ¡Â»Â£i trong tiÃ¡ÂºÂ¿p nhÃ¡ÂºÂ­n hÃÂ ng hoÃÂ¡, dÃ¡Â»Âch vÃ¡Â»Â¥ ÃÂÃÂ£ mua"
   },
   {
     "questionNumber": "33",
-    "questionText": "NguyÃªn táº¯c âÄá»nh hÆ°á»ng khÃ¡ch hÃ ngâ cho tháº¥y tÃ i sáº£n cÃ³ giÃ¡ trá» nháº¥t trong doanh nghiá»p lÃ  gÃ¬?",
+    "questionText": "NguyÃÂªn tÃ¡ÂºÂ¯c Ã¢ÂÂÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ngÃ¢ÂÂ cho thÃ¡ÂºÂ¥y tÃÂ i sÃ¡ÂºÂ£n cÃÂ³ giÃÂ¡ trÃ¡Â»Â nhÃ¡ÂºÂ¥t trong doanh nghiÃ¡Â»Âp lÃÂ  gÃÂ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Nguá»n vá»n Äáº§u tÆ° ban Äáº§u"
+        "text": "NguÃ¡Â»Ân vÃ¡Â»Ân ÃÂÃ¡ÂºÂ§u tÃÂ° ban ÃÂÃ¡ÂºÂ§u"
       },
       {
         "label": "B",
-        "text": "Quy trÃ¬nh sáº£n xuáº¥t hiá»u quáº£"
+        "text": "Quy trÃÂ¬nh sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hiÃ¡Â»Âu quÃ¡ÂºÂ£"
       },
       {
         "label": "C",
-        "text": "Sá»©c máº¡nh tá»« ná»n táº£ng khÃ¡ch hÃ ng vÃ  cÃ¡c má»i quan há» khÃ¡ch hÃ ng"
+        "text": "SÃ¡Â»Â©c mÃ¡ÂºÂ¡nh tÃ¡Â»Â« nÃ¡Â»Ân tÃ¡ÂºÂ£ng khÃÂ¡ch hÃÂ ng vÃÂ  cÃÂ¡c mÃ¡Â»Âi quan hÃ¡Â»Â khÃÂ¡ch hÃÂ ng"
       },
       {
         "label": "D",
-        "text": "Kháº£ nÄng á»©ng dá»¥ng cÃ´ng nghá» tiÃªn tiáº¿n"
+        "text": "KhÃ¡ÂºÂ£ nÃÂng Ã¡Â»Â©ng dÃ¡Â»Â¥ng cÃÂ´ng nghÃ¡Â»Â tiÃÂªn tiÃ¡ÂºÂ¿n"
       }
     ],
-    "correctAnswerText": "Sá»©c máº¡nh tá»« ná»n táº£ng khÃ¡ch hÃ ng vÃ  cÃ¡c má»i quan há» khÃ¡ch hÃ ng"
+    "correctAnswerText": "SÃ¡Â»Â©c mÃ¡ÂºÂ¡nh tÃ¡Â»Â« nÃ¡Â»Ân tÃ¡ÂºÂ£ng khÃÂ¡ch hÃÂ ng vÃÂ  cÃÂ¡c mÃ¡Â»Âi quan hÃ¡Â»Â khÃÂ¡ch hÃÂ ng"
   },
   {
     "questionNumber": "34",
-    "questionText": "Chá» ra cÃ¡c nguyÃªn táº¯c cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p hiá»n nay: (1) TÃ­ch há»£p vÃ  cá»ng tÃ¡c; (2) TÄng trÆ°á»ng á»n Äá»nh; (3) ThÃ­ch nghi cÃ´ng nghá»; (4) Tá»i Æ°u hÃ³a",
+    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c nguyÃÂªn tÃ¡ÂºÂ¯c cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp hiÃ¡Â»Ân nay: (1) TÃÂ­ch hÃ¡Â»Â£p vÃÂ  cÃ¡Â»Âng tÃÂ¡c; (2) TÃÂng trÃÂ°Ã¡Â»Âng Ã¡Â»Ân ÃÂÃ¡Â»Ânh; (3) ThÃÂ­ch nghi cÃÂ´ng nghÃ¡Â»Â; (4) TÃ¡Â»Âi ÃÂ°u hÃÂ³a",
     "options": [
       {
         "label": "A",
