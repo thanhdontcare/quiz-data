@@ -1,628 +1,628 @@
 [
   {
     "questionNumber": "1",
-    "questionText": "Theo quan điểm truyền thống, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
+    "questionText": "Trong năm N, doanh nghiệp không có sự biến động về quy mô. Vào quý I, doanh nghiệp quản lý hàng tồn kho theo phương pháp nhập trước xuất trước. Sang quý II, doanh nghiệp quản lý hàng tồn kho theo phương pháp bình quân gia quyền. Vậy nguyên tắc kế toán bị vi phạm là:",
     "options": [
       {
         "label": "A",
-        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
+        "text": "Nguyên tắc trọng yếu"
       },
       {
         "label": "B",
-        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
+        "text": "Nguyên tắc nhất quán"
       },
       {
         "label": "C",
-        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
+        "text": "Nguyên tắc phù hợp"
       },
       {
         "label": "D",
-        "text": "Hạ tầng giao thông; Hạ tầng thương mại"
+        "text": "Nguyên tắc giá gốc"
       }
     ],
-    "correctAnswerText": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
+    "correctAnswerText": "Nguyên tắc nhất quán"
   },
   {
     "questionNumber": "2",
-    "questionText": "Định hướng khách hàng trong quản trị logistics và chuỗi cung ứng được hiểu như thế nào?",
+    "questionText": "“Các chính sách và phương pháp kế toán doanh nghiệp đã chọn phải được áp dụng thống nhất ít nhất trong một kỳ kế toán năm. Trường hợp có thay đổi chính sách và phương pháp kế toán đã chọn thì phải giải trình lý do và ảnh hưởng của sự thay đổi đó trong phần thuyết minh báo cáo tài chính” là nói đến nguyên tắc kế toán nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
+        "text": "Nguyên tắc trọng yếu."
       },
       {
         "label": "B",
-        "text": "Giảm giá sản phẩm để thu hút khách hàng"
+        "text": "Nguyên tắc nhất quán."
       },
       {
         "label": "C",
-        "text": "Lợi nhuận mà doanh nghiệp thu được từ khách hàng"
+        "text": "Nguyên tắc cơ sở dồn tích."
       },
       {
         "label": "D",
-        "text": "Khả năng dự đoán trước nhu cầu khách hàng"
+        "text": "Nguyên tắc phù hợp."
       }
     ],
-    "correctAnswerText": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
+    "correctAnswerText": "Nguyên tắc nhất quán."
   },
   {
     "questionNumber": "3",
-    "questionText": "Mức độ sẵn sàng đáp ứng kỳ vọng thay đổi của khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
+    "questionText": "Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có NG là 60 triệu.Ngày 31/12/N, giá trị của TSCĐ này trên thị trường là 45 triệu. NG của TSCĐ được trình bày trên báo cáo tài chính là 60 triệu.Công ty đã tuân thủ theo nguyên tắc kế toán nào?",
     "options": [
       {
         "label": "A",
-        "text": "Dễ tiếp cận đối với khách hàng"
+        "text": "Nguyên tắc thận trọng"
       },
       {
         "label": "B",
-        "text": "Gần gũi đối với khách hàng"
+        "text": "Nguyên tắc cơ sở dồn tích"
       },
       {
         "label": "C",
-        "text": "Thuận tiện đối với khách hàng"
+        "text": "Nguyên tắc phù hợp"
       },
       {
         "label": "D",
-        "text": "Linh hoạt đối với khách hàng"
+        "text": "Nguyên tắc giá gốc"
       }
     ],
-    "correctAnswerText": "Linh hoạt đối với khách hàng"
+    "correctAnswerText": "Nguyên tắc giá gốc"
   },
   {
     "questionNumber": "4",
-    "questionText": "Chỉ ra sự khác biệt về năng lực cung cấp dịch vụ của doanh nghiệp logistics 3PL và 2PL?",
+    "questionText": "Ngày 5/3/N công ty A mua một TSCĐ với giá mua 600 triệu, chi phí vận chuyển, lắp đặt của tài sản này 20 triệu.Ngày 31/12/N giá trị thị trường của TSCĐ này là 590 triệuVới giả định công ty A vẫn hoạt động liên tục, giá trị ghi sổ của TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
     "options": [
       {
         "label": "A",
-        "text": "3PL hoạt động chủ yếu trên thị trường nội địa, 2PL hoạt động trên thị trường quốc tế"
+        "text": "600 triệu, tuân thủ theo nguyên tắc giá gốc."
       },
       {
         "label": "B",
-        "text": "3PL sở hữu tài sản, 2PL không sở hữu tài sản"
+        "text": "590 triệu, tuân thủ theo nguyên tắc thận trọng."
       },
       {
         "label": "C",
-        "text": "3PL cung cấp dịch vụ đơn lẻ, 2PL cung cấp dịch vụ trọn gói"
+        "text": "620 triệu, tuân thủ theo nguyên tắc phù hợp."
       },
       {
         "label": "D",
-        "text": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
+        "text": "620 triệu, tuân thủ theo nguyên tắc giá gốc."
       }
     ],
-    "correctAnswerText": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
+    "correctAnswerText": "620 triệu, tuân thủ theo nguyên tắc giá gốc."
   },
   {
     "questionNumber": "5",
-    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây cung cấp các dịch vụ logistics đơn lẻ?",
+    "questionText": "Đơn vị kế toán là:",
     "options": [
       {
         "label": "A",
-        "text": "2PL"
+        "text": "Đơn vị mà ở đó có sự tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
       },
       {
         "label": "B",
-        "text": "1PL"
+        "text": "Đơn vị mà ở đó có sự kiểm soát các tài sản và tiến hành quá trình ghi chép, tổng hợp và báo cáo."
       },
       {
         "label": "C",
-        "text": "4PL"
+        "text": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
       },
       {
         "label": "D",
-        "text": "3PL"
+        "text": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh."
       }
     ],
-    "correctAnswerText": "2PL"
+    "correctAnswerText": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
   },
   {
     "questionNumber": "6",
-    "questionText": "Quản trị mục tiêu (MBO) trong logistics và chuỗi cung ứng của doanh nghiệp là một phong cách quản lý dân chủ, phong cách quản lý này có đặc điểm gì?",
+    "questionText": "Kỳ kế toán là:",
     "options": [
       {
         "label": "A",
-        "text": "Cấp dưới không tham gia vào quá trình thiết lập mục tiêu"
+        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị khoá sổ kế toán."
       },
       {
         "label": "B",
-        "text": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
+        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị phát hành báo cáo tài chính."
       },
       {
         "label": "C",
-        "text": "Mọi quyết định đều do lãnh đạo cấp cao đưa ra mà không có sự tham gia của cấp dưới"
+        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán, khoá sổ kế toán để lập báo cáo tài chính."
       },
       {
         "label": "D",
-        "text": "Lãnh đạo luôn quyết định tất cả các mục tiêu và phương pháp"
+        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán."
       }
     ],
-    "correctAnswerText": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
+    "correctAnswerText": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán, khoá sổ kế toán để lập báo cáo tài chính."
   },
   {
     "questionNumber": "7",
-    "questionText": "Các mục tiêu của tiếp cận quản trị mục tiêu (MBO) trong  logistics và chuỗi cung ứng của doanh nghiệp được chia làm 3 loại, bao gồm những loại mục tiêu nào sau đây?",
+    "questionText": "Ngày 1/3/N công ty A xuất kho bán trực tiếp một lô hàng cho công ty B với giá bán 100 triệu vào, công ty B đã thông báo nhận được hàng. Biết rằng công ty B đã đặt trước tiền hàng là 30 triệu vào ngày 15/2/N. Công ty B thanh toán số tiền còn lại bằng chuyển khoản vào ngày 20/3/N.Kế toán ghi nhận doanh thu vào thời điểm?",
     "options": [
       {
         "label": "A",
-        "text": "Mục tiêu dài hạn, mục tiêu công việc hàng  ngày, mục tiêu mở rộng thị trường"
+        "text": "Vào ngày 15/2 là 30 triệu, ngày 1/3 ghi tăng doanh thu 70 triệu."
       },
       {
         "label": "B",
-        "text": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
+        "text": "Vào ngày 1/3 là 100 triệu."
       },
       {
         "label": "C",
-        "text": "Mục tiêu giải quyết vấn đề, mục tiêu công việc hàng ngày, mục tiêu giảm chi phí"
+        "text": "Vào ngày 15/2 là 30 triệu, ngày 20/3 ghi tăng doanh thu 70 triệu."
       },
       {
         "label": "D",
-        "text": "Mục tiêu sáng tạo, mục tiêu giảm chi phí, mục tiêu mở rộng thị trường"
+        "text": "Vào ngày 15/2 là 100 triệu."
       }
     ],
-    "correctAnswerText": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
+    "correctAnswerText": "Vào ngày 1/3 là 100 triệu."
   },
   {
     "questionNumber": "8",
-    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “… là hai hoặc nhiều doanh nghiệp chia sẻ trách nhiệm, trao đổi thông tin về lập kế hoạch, quản lý, thực hiện và đo lường hiệu suất chung.”",
+    "questionText": "Doanh nghiệp mua một TSCĐ hữu hình với giá là 3 tỉ đồng. Giá bán TSCĐ ước tính sẽ thu được là 5 tỉ đồng, trừ các chi phí liên quan, số tiền thuần thu được là 4,5 tỉ đồng. Kế toán sẽ phản ánh TSCĐ này trên Báo cáo tài chính với giá trị:",
     "options": [
       {
         "label": "A",
-        "text": "Chia sẻ chuỗi cung ứng"
+        "text": "5 tỉ đồng"
       },
       {
         "label": "B",
-        "text": "Cộng tác chuỗi cung ứng"
+        "text": "4 tỉ đồng"
       },
       {
         "label": "C",
-        "text": "Kết nối chuỗi cung ứng"
+        "text": "3 tỉ đồng"
       },
       {
         "label": "D",
-        "text": "Tích hợp chuỗi cung ứng"
+        "text": "4,5 tỉ đồng"
       }
     ],
-    "correctAnswerText": "Cộng tác chuỗi cung ứng"
+    "correctAnswerText": "3 tỉ đồng"
   },
   {
     "questionNumber": "9",
-    "questionText": "Mức độ sẵn sàng liên lạc, giao tiếp và thấu hiểu nhu cầu khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
+    "questionText": "Ngày 5/3/N công ty A mua một lô hàng với giá mua 400 triệu, chi phí vận chuyển trong tháng là 40 triệu, trong đó phân bổ cho lô hàng mua ngày 5/3/N là 20 triệu.Trị giá lô hàng hóa công ty ghi nhận tại ngày 5/3/N là?",
     "options": [
       {
         "label": "A",
-        "text": "Gần gũi đối với khách hàng"
+        "text": "420 triệu."
       },
       {
         "label": "B",
-        "text": "Dễ tiếp cận đối với khách hàng"
+        "text": "380 triệu."
       },
       {
         "label": "C",
-        "text": "Tùy chỉnh đối với khách hàng"
+        "text": "400 triệu."
       },
       {
         "label": "D",
-        "text": "Linh hoạt đối với khách hàng"
+        "text": "440 triệu."
       }
     ],
-    "correctAnswerText": "Gần gũi đối với khách hàng"
+    "correctAnswerText": "420 triệu."
   },
   {
     "questionNumber": "10",
-    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “Hệ thống logistics quốc gia được hiểu là một mạng lưới các tổ chức, con người, hoạt động, thông tin và nguồn lực liên quan đến việc … các dịch vụ logistics thương mại cho các ngành kinh tế của một quốc gia”?",
+    "questionText": "Báo cáo tài chính cung cấp thông tin kế toán cho các đối tượng:",
     "options": [
       {
         "label": "A",
-        "text": "quản lý và giám sát"
+        "text": "Các nhà quản trị các cấp trong doanh nghiệp"
       },
       {
         "label": "B",
-        "text": "tổ chức và cung cấp"
+        "text": "Bên trong doanh nghiệp"
       },
       {
         "label": "C",
-        "text": "phân chia"
+        "text": "Bên trong doanh nghiệp và bên ngoài doanh nghiệp"
       },
       {
         "label": "D",
-        "text": "phân phối"
+        "text": "Bên ngoài doanh nghiệp"
       }
     ],
-    "correctAnswerText": "tổ chức và cung cấp"
+    "correctAnswerText": "Bên trong doanh nghiệp và bên ngoài doanh nghiệp"
   },
   {
     "questionNumber": "11",
-    "questionText": "Khía cạnh “Linh hoạt đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
+    "questionText": "Theo nguyên tắc kế toán “Nhất quán”, trường hợp thay đổi các quy định và phương pháp kế toán đã chọn thì đơn vị kế toán sẽ áp dụng vào thời điểm:",
     "options": [
       {
         "label": "A",
-        "text": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
+        "text": "Bất kì thời điểm nào khi đơn vị kế toán thay đổi các quy định và phương pháp kế toán."
       },
       {
         "label": "B",
-        "text": "Khả năng tăng trưởng doanh thu nhanh chóng"
+        "text": "Đầu niên độ kế toán kế tiếp."
       },
       {
         "label": "C",
-        "text": "Khả năng cung cấp sản phẩm với giá rẻ"
+        "text": "Đầu tháng kế tiếp."
       },
       {
         "label": "D",
-        "text": "Khả năng dự báo nhu cầu khách hàng"
+        "text": "Đầu quý kế tiếp."
       }
     ],
-    "correctAnswerText": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
+    "correctAnswerText": "Đầu niên độ kế toán kế tiếp."
   },
   {
     "questionNumber": "12",
-    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp tiếp cận quản trị quá trình (MBP), trưởng mỗi bộ phận không chỉ chịu trách nhiệm về công việc của bộ phận mình mà còn về công việc của bộ phận nào trong doanh nghiệp?",
+    "questionText": "Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên đã góp được 8 tỷ.Công ty ghi nhận số vốn góp trên sổ kế toán là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
     "options": [
       {
         "label": "A",
-        "text": "Bộ phận nhân sự"
+        "text": "10 tỷ, tuân thủ theo nguyên tắc giá gốc."
       },
       {
         "label": "B",
-        "text": "Bộ phận marketing"
+        "text": "8 tỷ, tuân thủ theo nguyên tắc thận trọng."
       },
       {
         "label": "C",
-        "text": "Bộ phận sản xuất"
+        "text": "10 tỷ, tuân thủ theo nguyên tắc thận trọng."
       },
       {
         "label": "D",
-        "text": "Bộ phận phía sau mình trong quy trình"
+        "text": "8 tỷ, tuân thủ theo nguyên tắc giá gốc."
       }
     ],
-    "correctAnswerText": "Bộ phận phía sau mình trong quy trình"
+    "correctAnswerText": "8 tỷ, tuân thủ theo nguyên tắc thận trọng."
   },
   {
     "questionNumber": "13",
-    "questionText": "Khía cạnh “Gần gũi với khách hàng” trong định hướng khách hàng đòi hỏi doanh nghiệp phải làm gì?",
+    "questionText": "Nếu tháng 1/N, doanh nghiệp chuyển khoản 180 triệu đồng tiền thuê văn phòng 6 tháng đầu năm và ghi nhận toàn bộ số tiền này vào chi phí tháng 1/N thì nguyên tắc kế toán bị vi phạm là:",
     "options": [
       {
         "label": "A",
-        "text": "Cải thiện chiến lược phân phối sản phẩm"
+        "text": "Nguyên tắc hoạt động liên tục"
       },
       {
         "label": "B",
-        "text": "Giảm giá sản phẩm để thu hút khách hàng"
+        "text": "Nguyên tắc phù hợp"
       },
       {
         "label": "C",
-        "text": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
+        "text": "Nguyên tắc nhất quán"
       },
       {
         "label": "D",
-        "text": "Tăng cường quảng cáo sản phẩm"
+        "text": "Nguyên tắc giá gốc"
       }
     ],
-    "correctAnswerText": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
+    "correctAnswerText": "Nguyên tắc phù hợp"
   },
   {
     "questionNumber": "14",
-    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây có khả năng cung cấp các dịch vụ logistics tích hợp/trọn gói?",
+    "questionText": "“Các giao dịch và sự kiện được ghi nhận vào thời điểm phát sinh, không căn cứ vào thời điểm thực thu, thực chi tiền” là nói đến nguyên tắc kế toán nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "1PL"
+        "text": "Nguyên tắc phù hợp."
       },
       {
         "label": "B",
-        "text": "2PL"
+        "text": "Nguyên tắc trọng yếu."
       },
       {
         "label": "C",
-        "text": "3PL"
+        "text": "Nguyên tắc cơ sở dồn tích."
       },
       {
         "label": "D",
-        "text": "4PL"
+        "text": "Nguyên tắc nhất quán."
       }
     ],
-    "correctAnswerText": "3PL"
+    "correctAnswerText": "Nguyên tắc cơ sở dồn tích."
   },
   {
     "questionNumber": "15",
-    "questionText": "Doanh nghiệp kinh doanh vận tải, kho bãi, khai thuê hải quan thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
+    "questionText": "Ngày 1/4/N công ty A mua một lô hàng hóa giá mua 500 triệu, đã thanh toán 200 triệu bằng chuyển khoản, phần còn lại công ty nhận nợ và thanh toán vào ngày 2/5/N.Ngày 31/12/N giá trị thị trường của lô hàng hóa này là 520 triệu.Công ty A trình bày giá trị của lô hàng hóa vào ngày 31/12/N là?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp khai thác"
+        "text": "200 triệu."
       },
       {
         "label": "B",
-        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
+        "text": "300 triệu."
       },
       {
         "label": "C",
-        "text": "Doanh nghiệp logistics"
+        "text": "500 triệu."
       },
       {
         "label": "D",
-        "text": "Dịch vụ logistics đầu ra"
+        "text": "520 triệu."
       }
     ],
-    "correctAnswerText": "Doanh nghiệp logistics"
+    "correctAnswerText": "500 triệu."
   },
   {
     "questionNumber": "16",
-    "questionText": "Dựa trên năng lực cung cấp dịch vụ, cho biết yếu tố tạo nên sự khác biệt cơ bản về năng lực giữa doanh nghiệp 2PL và 3PL?",
+    "questionText": "Kế toán công là loại kế toán:",
     "options": [
       {
         "label": "A",
-        "text": "Công nghệ logistics"
+        "text": "Được tiến hành ở những đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận."
       },
       {
         "label": "B",
-        "text": "Hệ thống kho bãi"
+        "text": "Thông tin kế toán chỉ được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể."
       },
       {
         "label": "C",
-        "text": "Phương tiện vận tải"
+        "text": "Được tiến hành ở những đơn vị, tổ chức kinh tế hoạt động sản xuất kinh doanh với mục tiêu lợi nhuận."
       },
       {
         "label": "D",
-        "text": "Tích hợp và điều phối hoạt động logistics"
+        "text": "Thông tin kế toán chỉ được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
       }
     ],
-    "correctAnswerText": "Tích hợp và điều phối hoạt động logistics"
+    "correctAnswerText": "Được tiến hành ở những đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận."
   },
   {
     "questionNumber": "17",
-    "questionText": "Theo quan điểm hiện nay, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
+    "questionText": "Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có NG là 60 triệu vào;Ngày 31/12/N, giá của TSCĐ này trên thị trường là 45 triệu.Với giả định công ty A vẫn hoạt động liên tục, giá trị của TSCĐ này trên sổ kế toán TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
     "options": [
       {
         "label": "A",
-        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
+        "text": "60 triệu, tuân thủ theo nguyên tắc giá gốc."
       },
       {
         "label": "B",
-        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
+        "text": "60 triệu, tuân thủ theo nguyên tắc cơ sở dồn tích."
       },
       {
         "label": "C",
-        "text": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
+        "text": "45 triệu, tuân thủ theo nguyên tắc giá gốc."
       },
       {
         "label": "D",
-        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
+        "text": "45 triệu, tuân thủ theo nguyên tắc phù hợp."
       }
     ],
-    "correctAnswerText": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
+    "correctAnswerText": "60 triệu, tuân thủ theo nguyên tắc giá gốc."
   },
   {
     "questionNumber": "18",
-    "questionText": "Năng lực cung cấp dịch vụ của doanh nghiệp logistics 2PL có đặc điểm nào sau đây?",
+    "questionText": "Các đối tượng bên ngoài doanh nghiệp nắm bắt thông tin về tình hình kinh tế tài chính của doanh nghiệp thông qua:",
     "options": [
       {
         "label": "A",
-        "text": "Cung cấp dịch vụ quản lý chuỗi cung ứng toàn cầu"
+        "text": "Hệ thống sổ kế toán"
       },
       {
         "label": "B",
-        "text": "Cung cấp dịch vụ logistics trọn gói"
+        "text": "Hệ thống báo cáo kế toán"
       },
       {
         "label": "C",
-        "text": "Cung cấp đồng thời dịch vụ vận chuyển và kho bãi"
+        "text": "Hệ thống tài khoản kế toán"
       },
       {
         "label": "D",
-        "text": "Cung cấp dịch vụ logistics đơn lẻ"
+        "text": "Hệ thống chứng từ kế toán"
       }
     ],
-    "correctAnswerText": "Cung cấp dịch vụ logistics đơn lẻ"
+    "correctAnswerText": "Hệ thống báo cáo kế toán"
   },
   {
     "questionNumber": "19",
-    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào đòi hỏi mức độ quản lý phức tạp nhất?",
+    "questionText": "Kế toán ghi kép là loại kế toán:",
     "options": [
       {
         "label": "A",
-        "text": "Cấp độ ngành"
+        "text": "Thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
       },
       {
         "label": "B",
-        "text": "Cấp độ sản phẩm"
+        "text": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
       },
       {
         "label": "C",
-        "text": "Cấp độ doanh nghiệp"
+        "text": "Ghi chép thu nhận thông tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt."
       },
       {
         "label": "D",
-        "text": "Cấp độ quy tình"
+        "text": "Ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
       }
     ],
-    "correctAnswerText": "Cấp độ ngành"
+    "correctAnswerText": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
   },
   {
     "questionNumber": "20",
-    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào tạo ra giá trị cao nhất?",
+    "questionText": "Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên chỉ mới góp được 8 tỷ.Công ty ghi nhận số vốn góp trên sổ kế toán là 8 tỉ.Công ty đã tuân thủ theo nguyên tắc kế toán nào?",
     "options": [
       {
         "label": "A",
-        "text": "Cấp độ quy tình"
+        "text": "Tuân thủ theo nguyên tắc dồn tích."
       },
       {
         "label": "B",
-        "text": "Cấp độ ngành"
+        "text": "Tuân thủ theo nguyên tắc thận trọng."
       },
       {
         "label": "C",
-        "text": "Cấp độ doanh nghiệp"
+        "text": "Tuân thủ theo nguyên tắc giá gốc."
       },
       {
         "label": "D",
-        "text": "Cấp độ sản phẩm"
+        "text": "Tuân thủ theo nguyên tắc phù hợp."
       }
     ],
-    "correctAnswerText": "Cấp độ ngành"
+    "correctAnswerText": "Tuân thủ theo nguyên tắc thận trọng."
   },
   {
     "questionNumber": "21",
-    "questionText": "Cho phép doanh nghiệp xác định rõ mục tiêu, phương hướng phát triển logistics và chuỗi cung ứng, đồng thời khai thác và sử dụng tối đa nguồn lực logistics, lợi thế, cơ hội để giành ưu thế trong dài hạn là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
+    "questionText": "Hàng hóa tồn kho của doanh nghiệp đang có xu hướng mất giá trên thị trường và có nguy cơ khiến cho doanh nghiệp phải chịu thiệt hại trong tương lai. Doanh nghiệp phải lập dự phòng giảm giá hàng tồn kho. Việc lập dự phòng này tuân thủ theo nguyên tắc kế toán nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Tiếp cận quản trị theo mục tiêu"
+        "text": "Nguyên tắc trọng yếu."
       },
       {
         "label": "B",
-        "text": "Tiếp cận quản trị theo chức năng"
+        "text": "Nguyên tắc thận trọng."
       },
       {
         "label": "C",
-        "text": "Tiếp cận quản trị theo quá trình"
+        "text": "Nguyên tắc nhất quán."
       },
       {
         "label": "D",
-        "text": "Tiếp cận chiến lược"
+        "text": "Nguyên tắc phù hợp."
       }
     ],
-    "correctAnswerText": "Tiếp cận chiến lược"
+    "correctAnswerText": "Nguyên tắc thận trọng."
   },
   {
     "questionNumber": "22",
-    "questionText": "Quản lý công việc theo một chu trình đã được phân tích và quy định kỹ lưỡng là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
+    "questionText": "Thước đo chủ yếu kế toán tài chính sử dụng là:",
     "options": [
       {
         "label": "A",
-        "text": "Tiếp cận chiến lược"
+        "text": "Thước đo thời gian lao động."
       },
       {
         "label": "B",
-        "text": "Tiếp cận quản trị theo quá trình"
+        "text": "Thước đo hiện vật."
       },
       {
         "label": "C",
-        "text": "Tiếp cận quản trị theo mục tiêu"
+        "text": "Thước đo giá trị."
       },
       {
         "label": "D",
-        "text": "Tiếp cận quản trị theo chức năng"
+        "text": "Thước đo giá trị và thời gian lao động."
       }
     ],
-    "correctAnswerText": "Tiếp cận quản trị theo quá trình"
+    "correctAnswerText": "Thước đo giá trị."
   },
   {
     "questionNumber": "23",
-    "questionText": "Doanh nghiệp sản xuất, doanh nghiệp phân phối bán buôn và bán lẻ thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
+    "questionText": "Kế toán chi tiết là loại kế toán:",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
+        "text": "Thông tin kế toán được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
       },
       {
         "label": "B",
-        "text": "Dịch vụ logistics đầu ra"
+        "text": "Thông tin được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
       },
       {
         "label": "C",
-        "text": "Doanh nghiệp logistics"
+        "text": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
       },
       {
         "label": "D",
-        "text": "Doanh nghiệp cung ứng dịch vụ giao nhận hàng hóa"
+        "text": "Ghi chép thu nhận thông tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt."
       }
     ],
-    "correctAnswerText": "Doanh nghiệp sử dụng dịch vụ logistics"
+    "correctAnswerText": "Thông tin được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
   },
   {
     "questionNumber": "24",
-    "questionText": "Quản lý toàn bộ công việc dựa trên việc xác định các mục tiêu trước mắt để xây dựng và triển khai kế hoạch thực hiện các mục tiêu chung của hoạt động kinh doanh là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
+    "questionText": "Doanh nghiệp bị kiện đòi bồi thường 5 tỉ đồng. Toà án đã có quyết định số tiền phải bồi thường nhưng kế toán chưa ghi nhận. Điều này đã vi phạm nguyên tắc kế toán:",
     "options": [
       {
         "label": "A",
-        "text": "Tiếp cận chiến lược"
+        "text": "Nguyên tắc phù hợp"
       },
       {
         "label": "B",
-        "text": "Tiếp cận quản trị theo quá trình"
+        "text": "Nguyên tắc trọng yếu"
       },
       {
         "label": "C",
-        "text": "Tiếp cận quản trị theo chức năng"
+        "text": "Nguyên tắc thận trọng"
       },
       {
         "label": "D",
-        "text": "Tiếp cận quản trị theo mục tiêu"
+        "text": "Nguyên tắc giá gốc"
       }
     ],
-    "correctAnswerText": "Tiếp cận quản trị theo mục tiêu"
+    "correctAnswerText": "Nguyên tắc thận trọng"
   },
   {
     "questionNumber": "25",
-    "questionText": "Cho biết vai trò của Chính phủ đối với ngành logistics thương mại?",
+    "questionText": "Cho biáº¿t vai trÃ² cá»§a ChÃ­nh phá»§ Äá»i vá»i ngÃ nh logistics thÆ°Æ¡ng máº¡i?",
     "options": [
       {
         "label": "A",
-        "text": "Thúc đẩy sự cạnh tranh giữa các công ty logistics"
+        "text": "ThÃºc Äáº©y sá»± cáº¡nh tranh giá»¯a cÃ¡c cÃ´ng ty logistics"
       },
       {
         "label": "B",
-        "text": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
+        "text": "Äáº§u tÆ° vÃ  xÃ¢y dá»±ng cÆ¡ sá» háº¡ táº§ng logistics quá»c gia"
       },
       {
         "label": "C",
-        "text": "Ổn định thị trường xuất khẩu"
+        "text": "á»n Äá»nh thá» trÆ°á»ng xuáº¥t kháº©u"
       },
       {
         "label": "D",
-        "text": "Cung cấp các dịch vụ logistics giá rẻ cho doanh nghiệp"
+        "text": "Cung cáº¥p cÃ¡c dá»ch vá»¥ logistics giÃ¡ ráº» cho doanh nghiá»p"
       }
     ],
-    "correctAnswerText": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
+    "correctAnswerText": "Äáº§u tÆ° vÃ  xÃ¢y dá»±ng cÆ¡ sá» háº¡ táº§ng logistics quá»c gia"
   },
   {
     "questionNumber": "26",
-    "questionText": "06 nhóm yếu tố cơ bản của hệ thống logistics quốc gia bao gồm: Khung thể chế pháp luật logistics, cơ sở hạ tầng logistics, doanh nghiệp logistics, doanh nghiệp sử dụng dịch vụ logistics, dịch vụ logistics đầu ra và yếu tố nào sau đây?",
+    "questionText": "06 nhÃ³m yáº¿u tá» cÆ¡ báº£n cá»§a há» thá»ng logistics quá»c gia bao gá»m: Khung thá» cháº¿ phÃ¡p luáº­t logistics, cÆ¡ sá» háº¡ táº§ng logistics, doanh nghiá»p logistics, doanh nghiá»p sá»­ dá»¥ng dá»ch vá»¥ logistics, dá»ch vá»¥ logistics Äáº§u ra vÃ  yáº¿u tá» nÃ o sau ÄÃ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "Công nghệ logistics"
+        "text": "CÃ´ng nghá» logistics"
       },
       {
         "label": "B",
-        "text": "Phương tiện vận tải"
+        "text": "PhÆ°Æ¡ng tiá»n váº­n táº£i"
       },
       {
         "label": "C",
-        "text": "Cơ sở đào tạo logistics"
+        "text": "CÆ¡ sá» ÄÃ o táº¡o logistics"
       },
       {
         "label": "D",
-        "text": "Nguồn nhân lực logistics"
+        "text": "Nguá»n nhÃ¢n lá»±c logistics"
       }
     ],
-    "correctAnswerText": "Nguồn nhân lực logistics"
+    "correctAnswerText": "Nguá»n nhÃ¢n lá»±c logistics"
   },
   {
     "questionNumber": "27",
-    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp theo tiếp cận quản trị mục tiêu (MBO), lãnh đạo và nhân viên cần làm gì để đạt được mục tiêu?",
+    "questionText": "Khi quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p theo tiáº¿p cáº­n quáº£n trá» má»¥c tiÃªu (MBO), lÃ£nh Äáº¡o vÃ  nhÃ¢n viÃªn cáº§n lÃ m gÃ¬ Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu?",
     "options": [
       {
         "label": "A",
-        "text": "Chỉ tuân thủ chỉ thị của lãnh đạo cấp cao"
+        "text": "Chá» tuÃ¢n thá»§ chá» thá» cá»§a lÃ£nh Äáº¡o cáº¥p cao"
       },
       {
         "label": "B",
-        "text": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
+        "text": "Há»£p tÃ¡c xÃ¡c Äá»nh trÃ¡ch nhiá»m vÃ  phÃ¢n cÃ´ng quyá»n háº¡n Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu"
       },
       {
         "label": "C",
-        "text": "Chỉ tập trung vào các mục tiêu ngắn hạn"
+        "text": "Chá» táº­p trung vÃ o cÃ¡c má»¥c tiÃªu ngáº¯n háº¡n"
       },
       {
         "label": "D",
-        "text": "Chỉ quan tâm đến việc thực hiện các công việc hàng  ngày"
+        "text": "Chá» quan tÃ¢m Äáº¿n viá»c thá»±c hiá»n cÃ¡c cÃ´ng viá»c hÃ ngÂ  ngÃ y"
       }
     ],
-    "correctAnswerText": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
+    "correctAnswerText": "Há»£p tÃ¡c xÃ¡c Äá»nh trÃ¡ch nhiá»m vÃ  phÃ¢n cÃ´ng quyá»n háº¡n Äá» Äáº¡t ÄÆ°á»£c má»¥c tiÃªu"
   },
   {
     "questionNumber": "28",
-    "questionText": "Chỉ ra các cách tiếp cận cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp sản xuất - kinh doanh hàng hóa: (1) Tiếp cận quản trị theo mục tiêu; (2) Tiếp cận quản trị theo nhóm khách hàng; (3) Tiếp cận quản trị theo quá trình; (4) Tiếp cận quản trị theo chức năng",
+    "questionText": "Chá» ra cÃ¡c cÃ¡ch tiáº¿p cáº­n cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p sáº£n xuáº¥t - kinh doanh hÃ ng hÃ³a: (1) Tiáº¿p cáº­n quáº£n trá» theo má»¥c tiÃªu; (2) Tiáº¿p cáº­n quáº£n trá» theo nhÃ³m khÃ¡ch hÃ ng; (3) Tiáº¿p cáº­n quáº£n trá» theo quÃ¡ trÃ¬nh; (4) Tiáº¿p cáº­n quáº£n trá» theo chá»©c nÄng",
     "options": [
       {
         "label": "A",
@@ -645,53 +645,53 @@
   },
   {
     "questionNumber": "29",
-    "questionText": "Quan điểm về hệ thống logistics quốc gia của các nền kinh tế chậm phát triển thường có đặc điểm nào sau đây?",
+    "questionText": "Quan Äiá»m vá» há» thá»ng logistics quá»c gia cá»§a cÃ¡c ná»n kinh táº¿ cháº­m phÃ¡t triá»n thÆ°á»ng cÃ³ Äáº·c Äiá»m nÃ o sau ÄÃ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "Các công ty logistics hoạt động độc lập mà không cần sự hỗ trợ của Chính phủ"
+        "text": "CÃ¡c cÃ´ng ty logistics hoáº¡t Äá»ng Äá»c láº­p mÃ  khÃ´ng cáº§n sá»± há» trá»£ cá»§a ChÃ­nh phá»§"
       },
       {
         "label": "B",
-        "text": "Hệ thống logistics có tầm nhìn chiến lược rõ ràng"
+        "text": "Há» thá»ng logistics cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c rÃµ rÃ ng"
       },
       {
         "label": "C",
-        "text": "Chỉ chú trọng vào các dịch vụ logistics trong nước"
+        "text": "Chá» chÃº trá»ng vÃ o cÃ¡c dá»ch vá»¥ logistics trong nÆ°á»c"
       },
       {
         "label": "D",
-        "text": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
+        "text": "Há» thá»ng logistics chÆ°a cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c vÃ  chÆ°a ÄÆ°á»£c coi trá»ng trong há» thá»ng phÃ¡t triá»n kinh táº¿ quá»c gia"
       }
     ],
-    "correctAnswerText": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
+    "correctAnswerText": "Há» thá»ng logistics chÆ°a cÃ³ táº§m nhÃ¬n chiáº¿n lÆ°á»£c vÃ  chÆ°a ÄÆ°á»£c coi trá»ng trong há» thá»ng phÃ¡t triá»n kinh táº¿ quá»c gia"
   },
   {
     "questionNumber": "30",
-    "questionText": "Đâu là chủ thể tạo ra nhu cầu về logistics trong hệ thống logistics quốc gia?",
+    "questionText": "ÄÃ¢u lÃ  chá»§ thá» táº¡o ra nhu cáº§u vá» logistics trong há» thá»ng logistics quá»c gia?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp sản xuất hàng may mặc"
+        "text": "Doanh nghiá»p sáº£n xuáº¥t hÃ ng may máº·c"
       },
       {
         "label": "B",
-        "text": "Doanh nghiệp chuyển phát"
+        "text": "Doanh nghiá»p chuyá»n phÃ¡t"
       },
       {
         "label": "C",
-        "text": "Doanh nghiệp 2PL"
+        "text": "Doanh nghiá»p 2PL"
       },
       {
         "label": "D",
-        "text": "Doanh nghiệp vận tải"
+        "text": "Doanh nghiá»p váº­n táº£i"
       }
     ],
-    "correctAnswerText": "Doanh nghiệp sản xuất hàng may mặc"
+    "correctAnswerText": "Doanh nghiá»p sáº£n xuáº¥t hÃ ng may máº·c"
   },
   {
     "questionNumber": "31",
-    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Định hướng khách hàng; (2) Định hướng nguồn hàng; (3) Định hướng giá trị; (4) Tối ưu hóa",
+    "questionText": "Chá» ra cÃ¡c nguyÃªn táº¯c cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p hiá»n nay: (1) Äá»nh hÆ°á»ng khÃ¡ch hÃ ng; (2) Äá»nh hÆ°á»ng nguá»n hÃ ng; (3) Äá»nh hÆ°á»ng giÃ¡ trá»; (4) Tá»i Æ°u hÃ³a",
     "options": [
       {
         "label": "A",
@@ -714,53 +714,53 @@
   },
   {
     "questionNumber": "32",
-    "questionText": "Khía cạnh “Dễ dàng tiếp cận đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
+    "questionText": "KhÃ­a cáº¡nh âDá» dÃ ng tiáº¿p cáº­n Äá»i vá»i khÃ¡ch hÃ ngâ trong Äá»nh hÆ°á»ng khÃ¡ch hÃ ng Äá» cáº­p Äáº¿n Äiá»u gÃ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Khả năng doanh nghiệp dễ dàng tiếp cận với nguồn nhân lực"
+        "text": "Kháº£ nÄng doanh nghiá»p dá» dÃ ng tiáº¿p cáº­n vá»i nguá»n nhÃ¢n lá»±c"
       },
       {
         "label": "B",
-        "text": "Khả năng doanh nghiệp dễ dàng truy cập vào các thông tin quan trọng để đáp ứng yêu cầu khách hàng"
+        "text": "Kháº£ nÄng doanh nghiá»p dá» dÃ ng truy cáº­p vÃ o cÃ¡c thÃ´ng tin quan trá»ng Äá» ÄÃ¡p á»©ng yÃªu cáº§u khÃ¡ch hÃ ng"
       },
       {
         "label": "C",
-        "text": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
+        "text": "Kháº£ nÄng khÃ¡ch hÃ ng dá» dÃ ng truy cáº­p thÃ´ng tin quan trá»ng Äá» mua sáº¯m vÃ  thuáº­n lá»£i trong tiáº¿p nháº­n hÃ ng hoÃ¡, dá»ch vá»¥ ÄÃ£ mua"
       },
       {
         "label": "D",
-        "text": "Khả năng tạo ra nhiều sản phẩm đa dạng"
+        "text": "Kháº£ nÄng táº¡o ra nhiá»u sáº£n pháº©m Äa dáº¡ng"
       }
     ],
-    "correctAnswerText": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
+    "correctAnswerText": "Kháº£ nÄng khÃ¡ch hÃ ng dá» dÃ ng truy cáº­p thÃ´ng tin quan trá»ng Äá» mua sáº¯m vÃ  thuáº­n lá»£i trong tiáº¿p nháº­n hÃ ng hoÃ¡, dá»ch vá»¥ ÄÃ£ mua"
   },
   {
     "questionNumber": "33",
-    "questionText": "Nguyên tắc “Định hướng khách hàng” cho thấy tài sản có giá trị nhất trong doanh nghiệp là gì?",
+    "questionText": "NguyÃªn táº¯c âÄá»nh hÆ°á»ng khÃ¡ch hÃ ngâ cho tháº¥y tÃ i sáº£n cÃ³ giÃ¡ trá» nháº¥t trong doanh nghiá»p lÃ  gÃ¬?",
     "options": [
       {
         "label": "A",
-        "text": "Nguồn vốn đầu tư ban đầu"
+        "text": "Nguá»n vá»n Äáº§u tÆ° ban Äáº§u"
       },
       {
         "label": "B",
-        "text": "Quy trình sản xuất hiệu quả"
+        "text": "Quy trÃ¬nh sáº£n xuáº¥t hiá»u quáº£"
       },
       {
         "label": "C",
-        "text": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
+        "text": "Sá»©c máº¡nh tá»« ná»n táº£ng khÃ¡ch hÃ ng vÃ  cÃ¡c má»i quan há» khÃ¡ch hÃ ng"
       },
       {
         "label": "D",
-        "text": "Khả năng ứng dụng công nghệ tiên tiến"
+        "text": "Kháº£ nÄng á»©ng dá»¥ng cÃ´ng nghá» tiÃªn tiáº¿n"
       }
     ],
-    "correctAnswerText": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
+    "correctAnswerText": "Sá»©c máº¡nh tá»« ná»n táº£ng khÃ¡ch hÃ ng vÃ  cÃ¡c má»i quan há» khÃ¡ch hÃ ng"
   },
   {
     "questionNumber": "34",
-    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Tích hợp và cộng tác; (2) Tăng trưởng ổn định; (3) Thích nghi công nghệ; (4) Tối ưu hóa",
+    "questionText": "Chá» ra cÃ¡c nguyÃªn táº¯c cÆ¡ báº£n trong quáº£n trá» logistics vÃ  chuá»i cung á»©ng táº¡i doanh nghiá»p hiá»n nay: (1) TÃ­ch há»£p vÃ  cá»ng tÃ¡c; (2) TÄng trÆ°á»ng á»n Äá»nh; (3) ThÃ­ch nghi cÃ´ng nghá»; (4) Tá»i Æ°u hÃ³a",
     "options": [
       {
         "label": "A",
