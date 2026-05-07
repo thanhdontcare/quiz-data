@@ -1,628 +1,628 @@
 [
   {
     "questionNumber": "1",
-    "questionText": "Trong năm N, doanh nghiệp không có sự biến động về quy mô. Vào quý I, doanh nghiệp quản lý hàng tồn kho theo phương pháp nhập trước xuất trước. Sang quý II, doanh nghiệp quản lý hàng tồn kho theo phương pháp bình quân gia quyền. Vậy nguyên tắc kế toán bị vi phạm là:",
+    "questionText": "Các đối tượng kế toán: “Tài sản cố định”, “Bất động sản đầu tư”, “Đầu tư tài chính dài hạn” được phân loại là:",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc trọng yếu"
+        "text": "Vốn chủ sở hữu trong doanh nghiệp."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc nhất quán"
+        "text": "Tài sản ngắn hạn trong doanh nghiệp."
       },
       {
         "label": "C",
-        "text": "Nguyên tắc phù hợp"
+        "text": "Nợ phải trả trong doanh nghiệp."
       },
       {
         "label": "D",
-        "text": "Nguyên tắc giá gốc"
+        "text": "Tài sản dài hạn trong doanh nghiệp."
       }
     ],
-    "correctAnswerText": "Nguyên tắc nhất quán"
+    "correctAnswerText": "Tài sản dài hạn trong doanh nghiệp."
   },
   {
     "questionNumber": "2",
-    "questionText": "“Các chính sách và phương pháp kế toán doanh nghiệp đã chọn phải được áp dụng thống nhất ít nhất trong một kỳ kế toán năm. Trường hợp có thay đổi chính sách và phương pháp kế toán đã chọn thì phải giải trình lý do và ảnh hưởng của sự thay đổi đó trong phần thuyết minh báo cáo tài chính” là nói đến nguyên tắc kế toán nào sau đây?",
+    "questionText": "Trong năm N, nếu tổng tài sản của doanh nghiệp tăng lên 500 triệu đồng, tổng nợ phải trả tăng lên 300 triệu đồng thì tổng vốn chủ sở hữu:",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc trọng yếu."
+        "text": "Tăng lên 200 triệu đồng"
       },
       {
         "label": "B",
-        "text": "Nguyên tắc nhất quán."
+        "text": "Tăng lên 800 triệu đồng"
       },
       {
         "label": "C",
-        "text": "Nguyên tắc cơ sở dồn tích."
+        "text": "Giảm đi 800 triệu đồng"
       },
       {
         "label": "D",
-        "text": "Nguyên tắc phù hợp."
+        "text": "Giảm đi 200 triệu đồng"
       }
     ],
-    "correctAnswerText": "Nguyên tắc nhất quán."
+    "correctAnswerText": "Tăng lên 200 triệu đồng"
   },
   {
     "questionNumber": "3",
-    "questionText": "Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có NG là 60 triệu.Ngày 31/12/N, giá trị của TSCĐ này trên thị trường là 45 triệu. NG của TSCĐ được trình bày trên báo cáo tài chính là 60 triệu.Công ty đã tuân thủ theo nguyên tắc kế toán nào?",
+    "questionText": "Tại Doanh nghiệp Hoàng Hà có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 80   Tiền gửi ngân hàng 120   Phải thu ngắn hạn của khách hàng 300   Hàng hoá tồn kho 500   Tài sản cố định hữu hình 2.600   Bất động sản đầu tư 3.200   Vay dài hạn 1.200   Phải trả người bán 600   Phải trả người lao động 50   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 200   Quỹ đầu tư phát triển 950  Yêu cầu: Xác định giá trị Tài sản của Doanh nghiệp Hoàng Hà",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc thận trọng"
+        "text": "6.800"
       },
       {
         "label": "B",
-        "text": "Nguyên tắc cơ sở dồn tích"
+        "text": "1.000"
       },
       {
         "label": "C",
-        "text": "Nguyên tắc phù hợp"
+        "text": "4.800"
       },
       {
         "label": "D",
-        "text": "Nguyên tắc giá gốc"
+        "text": "5.800"
       }
     ],
-    "correctAnswerText": "Nguyên tắc giá gốc"
+    "correctAnswerText": "6.800"
   },
   {
     "questionNumber": "4",
-    "questionText": "Ngày 5/3/N công ty A mua một TSCĐ với giá mua 600 triệu, chi phí vận chuyển, lắp đặt của tài sản này 20 triệu.Ngày 31/12/N giá trị thị trường của TSCĐ này là 590 triệuVới giả định công ty A vẫn hoạt động liên tục, giá trị ghi sổ của TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
+    "questionText": "Nợ phải trả của đơn vị được xác định bằng:",
     "options": [
       {
         "label": "A",
-        "text": "600 triệu, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Tài sản – Vay dài hạn."
       },
       {
         "label": "B",
-        "text": "590 triệu, tuân thủ theo nguyên tắc thận trọng."
+        "text": "Nguồn vốn - Tài sản ngắn hạn."
       },
       {
         "label": "C",
-        "text": "620 triệu, tuân thủ theo nguyên tắc phù hợp."
+        "text": "Tài sản – Vay ngắn hạn."
       },
       {
         "label": "D",
-        "text": "620 triệu, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Tài sản - Vốn chủ sở hữu."
       }
     ],
-    "correctAnswerText": "620 triệu, tuân thủ theo nguyên tắc giá gốc."
+    "correctAnswerText": "Tài sản - Vốn chủ sở hữu."
   },
   {
     "questionNumber": "5",
-    "questionText": "Đơn vị kế toán là:",
+    "questionText": "Các đối tượng kế toán: “Vốn dầu tư của chủ sở hữu”, “Lợi nhuận sau thuế chưa phân phối”, “Quỹ đầu tư phát triển” được phân loại là:",
     "options": [
       {
         "label": "A",
-        "text": "Đơn vị mà ở đó có sự tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
+        "text": "Vốn chủ sở hữu trong doanh nghiệp."
       },
       {
         "label": "B",
-        "text": "Đơn vị mà ở đó có sự kiểm soát các tài sản và tiến hành quá trình ghi chép, tổng hợp và báo cáo."
+        "text": "Tài sản ngắn hạn trong doanh nghiệp."
       },
       {
         "label": "C",
-        "text": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
+        "text": "Tài sản dài hạn trong doanh nghiệp."
       },
       {
         "label": "D",
-        "text": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh."
+        "text": "Nợ phải trả trong doanh nghiệp."
       }
     ],
-    "correctAnswerText": "Đơn vị mà ở đó có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo."
+    "correctAnswerText": "Vốn chủ sở hữu trong doanh nghiệp."
   },
   {
     "questionNumber": "6",
-    "questionText": "Kỳ kế toán là:",
+    "questionText": "Tại Doanh nghiệp Hoàng Hà có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 80   Tiền gửi ngân hàng 120   Phải thu ngắn hạn của khách hàng 300   Hàng hoá tồn kho 500   Tài sản cố định hữu hình 2.600   Bất động sản đầu tư 3.200   Vay dài hạn 1.200   Phải trả người bán 600   Phải trả người lao động 50   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 200   Quỹ đầu tư phát triển 950  Yêu cầu: Xác định tổng Tài sản ngắn hạn của Doanh nghiệp Hoàng Hà",
     "options": [
       {
         "label": "A",
-        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị khoá sổ kế toán."
+        "text": "1.000"
       },
       {
         "label": "B",
-        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị phát hành báo cáo tài chính."
+        "text": "4.800"
       },
       {
         "label": "C",
-        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán, khoá sổ kế toán để lập báo cáo tài chính."
+        "text": "5.800"
       },
       {
         "label": "D",
-        "text": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán."
+        "text": "6.800"
       }
     ],
-    "correctAnswerText": "Khoảng thời gian xác định từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán, khoá sổ kế toán để lập báo cáo tài chính."
+    "correctAnswerText": "1.000"
   },
   {
     "questionNumber": "7",
-    "questionText": "Ngày 1/3/N công ty A xuất kho bán trực tiếp một lô hàng cho công ty B với giá bán 100 triệu vào, công ty B đã thông báo nhận được hàng. Biết rằng công ty B đã đặt trước tiền hàng là 30 triệu vào ngày 15/2/N. Công ty B thanh toán số tiền còn lại bằng chuyển khoản vào ngày 20/3/N.Kế toán ghi nhận doanh thu vào thời điểm?",
+    "questionText": "Tại Doanh nghiệp X có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 130   Tiền gửi ngân hàng 240   Chứng khoán kinh doanh 300   Phải trả người lao động 110   Hàng hoá tồn kho 750   Tài sản cố định hữu hình 2.500   Bất động sản đầu tư 3.000   Vay và nợ thuê tài chính 850   Phải trả cho người bán 400   Phải thu của khách hàng 250   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 350   Quỹ đầu tư phát triển 950   Nguồn vốn đầu tư XDCB 710  Yêu cầu: Xác định tổng Tài sản ngắn hạn của Doanh nghiệp X",
     "options": [
       {
         "label": "A",
-        "text": "Vào ngày 15/2 là 30 triệu, ngày 1/3 ghi tăng doanh thu 70 triệu."
+        "text": "5.500"
       },
       {
         "label": "B",
-        "text": "Vào ngày 1/3 là 100 triệu."
+        "text": "1.670"
       },
       {
         "label": "C",
-        "text": "Vào ngày 15/2 là 30 triệu, ngày 20/3 ghi tăng doanh thu 70 triệu."
+        "text": "4.170"
       },
       {
         "label": "D",
-        "text": "Vào ngày 15/2 là 100 triệu."
+        "text": "920"
       }
     ],
-    "correctAnswerText": "Vào ngày 1/3 là 100 triệu."
+    "correctAnswerText": "1.670"
   },
   {
     "questionNumber": "8",
-    "questionText": "Doanh nghiệp mua một TSCĐ hữu hình với giá là 3 tỉ đồng. Giá bán TSCĐ ước tính sẽ thu được là 5 tỉ đồng, trừ các chi phí liên quan, số tiền thuần thu được là 4,5 tỉ đồng. Kế toán sẽ phản ánh TSCĐ này trên Báo cáo tài chính với giá trị:",
+    "questionText": "Trong năm N, nếu tổng tài sản của doanh nghiệp tăng lên 600 triệu đồng, tổng nợ phải trả giảm lên 200 triệu đồng thì tổng vốn chủ sở hữu:",
     "options": [
       {
         "label": "A",
-        "text": "5 tỉ đồng"
+        "text": "Giảm đi 800 triệu đồng"
       },
       {
         "label": "B",
-        "text": "4 tỉ đồng"
+        "text": "Tăng lên 800 triệu đồng"
       },
       {
         "label": "C",
-        "text": "3 tỉ đồng"
+        "text": "Giảm đi 400 triệu đồng"
       },
       {
         "label": "D",
-        "text": "4,5 tỉ đồng"
+        "text": "Tăng lên 400 triệu đồng"
       }
     ],
-    "correctAnswerText": "3 tỉ đồng"
+    "correctAnswerText": "Tăng lên 800 triệu đồng"
   },
   {
     "questionNumber": "9",
-    "questionText": "Ngày 5/3/N công ty A mua một lô hàng với giá mua 400 triệu, chi phí vận chuyển trong tháng là 40 triệu, trong đó phân bổ cho lô hàng mua ngày 5/3/N là 20 triệu.Trị giá lô hàng hóa công ty ghi nhận tại ngày 5/3/N là?",
+    "questionText": "Ngày 31/12/N, công ty mua và nhập kho 2 lô hàng A và B:-  Lô hàng A trả tiền ngay ½, số còn lại ký nhận nợ và thanh toán sau 10 ngày.-  Lô hàng B nhận nợ và trả tiền sau 1 tháng.Giá trị lô hàng A và B sẽ được ghi nhận vào thời gian nào?",
     "options": [
       {
         "label": "A",
-        "text": "420 triệu."
+        "text": "Giá trị lô hàng A ghi nhận vào ngày 31/12/N, giá trị lô hàng B ghi nhận vào ngày 31/1/N+1."
       },
       {
         "label": "B",
-        "text": "380 triệu."
+        "text": "Giá trị lô hàng A và B đều được ghi nhận vào ngày 31/12/N."
       },
       {
         "label": "C",
-        "text": "400 triệu."
+        "text": "Giá trị lô hàng A ghi nhận vào ngày 31/12/N, giá trị lô hàng B ghi nhận khi thanh toán tiền hàng."
       },
       {
         "label": "D",
-        "text": "440 triệu."
+        "text": "Giá trị lô hàng A ghi nhận vào ngày 10/1/N+1, giá trị lô hàng B ghi nhận vào ngày 31/1/N+1."
       }
     ],
-    "correctAnswerText": "420 triệu."
+    "correctAnswerText": "Giá trị lô hàng A và B đều được ghi nhận vào ngày 31/12/N."
   },
   {
     "questionNumber": "10",
-    "questionText": "Báo cáo tài chính cung cấp thông tin kế toán cho các đối tượng:",
+    "questionText": "Tài sản dài hạn trong doanh nghiệp gồm:",
     "options": [
       {
         "label": "A",
-        "text": "Các nhà quản trị các cấp trong doanh nghiệp"
+        "text": "“Tài sản cố định hữu hình”, “Tài sản cố định vô hình”, “Bất động sản đầu tư”, “Đầu tư vào công ty Con”, “Đầu tư vào công ty Liên doanh, liên kết”, “Đầu tư dài hạn khác”, “Phải thu ngắn hạn của khách hàng”."
       },
       {
         "label": "B",
-        "text": "Bên trong doanh nghiệp"
+        "text": "“Tài sản cố định hữu hình”, “Tài sản cố định vô hình”, “Bất động sản đầu tư”, “Đầu tư vào công ty Con”, “Đầu tư vào công ty Liên doanh, liên kết”, “Đầu tư tài chính dài hạn khác”, “Phải trả người lao động”."
       },
       {
         "label": "C",
-        "text": "Bên trong doanh nghiệp và bên ngoài doanh nghiệp"
+        "text": "“Tài sản cố định hữu hình”, “Tài sản cố định vô hình”, “Bất động sản đầu tư”, “Đầu tư vào công ty Con”, “Đầu tư vào công ty Liên doanh, liên kết”, “Đầu tư tài chính dài hạn khác”."
       },
       {
         "label": "D",
-        "text": "Bên ngoài doanh nghiệp"
+        "text": "“Tiền mặt”, “Tiền gửi ngân hàng”, “Phải thu ngắn hạn của khách hàng”, “Hàng hoá tồn kho”, “Nguyên vật liệu tồn kho”, “Đầu tư tài chính ngắn hạn”, “Tạm ứng.”"
       }
     ],
-    "correctAnswerText": "Bên trong doanh nghiệp và bên ngoài doanh nghiệp"
+    "correctAnswerText": "“Tài sản cố định hữu hình”, “Tài sản cố định vô hình”, “Bất động sản đầu tư”, “Đầu tư vào công ty Con”, “Đầu tư vào công ty Liên doanh, liên kết”, “Đầu tư tài chính dài hạn khác”."
   },
   {
     "questionNumber": "11",
-    "questionText": "Theo nguyên tắc kế toán “Nhất quán”, trường hợp thay đổi các quy định và phương pháp kế toán đã chọn thì đơn vị kế toán sẽ áp dụng vào thời điểm:",
+    "questionText": "Tại một thời điểm bất kỳ, tài sản của đơn vị bằng:",
     "options": [
       {
         "label": "A",
-        "text": "Bất kì thời điểm nào khi đơn vị kế toán thay đổi các quy định và phương pháp kế toán."
+        "text": "Nợ phải trả."
       },
       {
         "label": "B",
-        "text": "Đầu niên độ kế toán kế tiếp."
+        "text": "Tổng nguồn vốn - Tổng Nợ phải trả."
       },
       {
         "label": "C",
-        "text": "Đầu tháng kế tiếp."
+        "text": "Nguồn vốn."
       },
       {
         "label": "D",
-        "text": "Đầu quý kế tiếp."
+        "text": "Vốn chủ sở hữu- Nợ phải trả."
       }
     ],
-    "correctAnswerText": "Đầu niên độ kế toán kế tiếp."
+    "correctAnswerText": "Nguồn vốn."
   },
   {
     "questionNumber": "12",
-    "questionText": "Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên đã góp được 8 tỷ.Công ty ghi nhận số vốn góp trên sổ kế toán là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
+    "questionText": "Trong năm N, nếu tổng nguồn vốn của doanh nghiệp giảm đi 350 triệu đồng, tổng tài sản ngắn hạn giảm đi 100 triệu đồng thì tổng tài sản dài hạn:",
     "options": [
       {
         "label": "A",
-        "text": "10 tỷ, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Tăng lên 450 triệu đồng"
       },
       {
         "label": "B",
-        "text": "8 tỷ, tuân thủ theo nguyên tắc thận trọng."
+        "text": "Giảm đi 250 triệu đồng"
       },
       {
         "label": "C",
-        "text": "10 tỷ, tuân thủ theo nguyên tắc thận trọng."
+        "text": "Giảm đi 450 triệu đồng"
       },
       {
         "label": "D",
-        "text": "8 tỷ, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Tăng lên 250 triệu đồng"
       }
     ],
-    "correctAnswerText": "8 tỷ, tuân thủ theo nguyên tắc thận trọng."
+    "correctAnswerText": "Giảm đi 250 triệu đồng"
   },
   {
     "questionNumber": "13",
-    "questionText": "Nếu tháng 1/N, doanh nghiệp chuyển khoản 180 triệu đồng tiền thuê văn phòng 6 tháng đầu năm và ghi nhận toàn bộ số tiền này vào chi phí tháng 1/N thì nguyên tắc kế toán bị vi phạm là:",
+    "questionText": "Tại Doanh nghiệp Y có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 110   Tiền gửi ngân hàng 260   Chứng khoán kinh doanh 300   Đầu tư vào công ty con 950   Phải thu của khách hàng 250   Hàng hoá tồn kho 750   Tài sản cố định hữu hình 2.150   Bất động sản đầu tư 2.400   Vay và nợ thuê tài chính 850   Phải trả cho người bán 400   Phải trả người lao động 90   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 370   Quỹ đầu tư phát triển 950   Nguồn vốn đầu tư XDCB 710  Yêu cầu: Xác định tổng Tài sản dài hạn của Doanh nghiệp Y",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc hoạt động liên tục"
+        "text": "6.250"
       },
       {
         "label": "B",
-        "text": "Nguyên tắc phù hợp"
+        "text": "4.550"
       },
       {
         "label": "C",
-        "text": "Nguyên tắc nhất quán"
+        "text": "5.400"
       },
       {
         "label": "D",
-        "text": "Nguyên tắc giá gốc"
+        "text": "5.500"
       }
     ],
-    "correctAnswerText": "Nguyên tắc phù hợp"
+    "correctAnswerText": "5.500"
   },
   {
     "questionNumber": "14",
-    "questionText": "“Các giao dịch và sự kiện được ghi nhận vào thời điểm phát sinh, không căn cứ vào thời điểm thực thu, thực chi tiền” là nói đến nguyên tắc kế toán nào sau đây?",
+    "questionText": "Tài sản ngắn hạn trong doanh nghiệp gồm:",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc phù hợp."
+        "text": "“Vốn đầu tư của chủ sở hữu”, “Lợi nhuận sau thuế chưa phân phối”, “Quỹ đầu tư phát triển”, “Tiền mặt”, “Tiền gửi ngận hàng”, “Phải thu ngắn hạn của khách hàng”, “Hàng tồn kho”, “Tài sản cố định”."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc trọng yếu."
+        "text": "“Vay dài hạn”, “Phải trả người bán”, “Phải trả người lao động”, “Vốn đầu tư của chủ sở hữu”, “Lợi nhuận sau thuế chưa phân phối”, “Quỹ đầu tư phát triển”."
       },
       {
         "label": "C",
-        "text": "Nguyên tắc cơ sở dồn tích."
+        "text": "“Tiền mặt”, “Tiền gửi ngận hàng”, “Phải thu ngắn hạn của khách hàng”, “Hàng hoá tồn kho”, “Nguyên vật liệu tồn kho”, “Đầu tư tài chính ngắn hạn”, “Tạm ứng”."
       },
       {
         "label": "D",
-        "text": "Nguyên tắc nhất quán."
+        "text": "“Tài sản cố định”, “Bất động sản đầu tư”, “Đầu tư dài hạn”, “Vay dài hạn”, “Phải trả người bán”, “Phải trả người lao động”."
       }
     ],
-    "correctAnswerText": "Nguyên tắc cơ sở dồn tích."
+    "correctAnswerText": "“Tiền mặt”, “Tiền gửi ngận hàng”, “Phải thu ngắn hạn của khách hàng”, “Hàng hoá tồn kho”, “Nguyên vật liệu tồn kho”, “Đầu tư tài chính ngắn hạn”, “Tạm ứng”."
   },
   {
     "questionNumber": "15",
-    "questionText": "Ngày 1/4/N công ty A mua một lô hàng hóa giá mua 500 triệu, đã thanh toán 200 triệu bằng chuyển khoản, phần còn lại công ty nhận nợ và thanh toán vào ngày 2/5/N.Ngày 31/12/N giá trị thị trường của lô hàng hóa này là 520 triệu.Công ty A trình bày giá trị của lô hàng hóa vào ngày 31/12/N là?",
+    "questionText": "NgÃ y 1/4/N cÃ´ng ty A mua má»t lÃ´ hÃ ng hÃ³a giÃ¡ mua 500 triá»u, ÄÃ£ thanh toÃ¡n 200 triá»u báº±ng chuyá»n khoáº£n, pháº§n cÃ²n láº¡i cÃ´ng ty nháº­n ná»£ vÃ  thanh toÃ¡n vÃ o ngÃ y 2/5/N.NgÃ y 31/12/N giÃ¡ trá» thá» trÆ°á»ng cá»§a lÃ´ hÃ ng hÃ³a nÃ y lÃ  520 triá»u.CÃ´ng ty A triÌnh baÌy giÃ¡ trá» cá»§a lÃ´ hÃ ng hÃ³a vÃ o ngÃ y 31/12/N lÃ ?",
     "options": [
       {
         "label": "A",
-        "text": "200 triệu."
+        "text": "200 triá»u."
       },
       {
         "label": "B",
-        "text": "300 triệu."
+        "text": "300 triá»u."
       },
       {
         "label": "C",
-        "text": "500 triệu."
+        "text": "500 triá»u."
       },
       {
         "label": "D",
-        "text": "520 triệu."
+        "text": "520 triá»u."
       }
     ],
-    "correctAnswerText": "500 triệu."
+    "correctAnswerText": "500 triá»u."
   },
   {
     "questionNumber": "16",
-    "questionText": "Kế toán công là loại kế toán:",
+    "questionText": "Tại một thời điểm bất kỳ, nguồn vốn của đơn vị bằng:",
     "options": [
       {
         "label": "A",
-        "text": "Được tiến hành ở những đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận."
+        "text": "Tài sản dài hạn + Nợ phải trả."
       },
       {
         "label": "B",
-        "text": "Thông tin kế toán chỉ được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể."
+        "text": "Tài sản ngắn hạn + Tài sản dài hạn."
       },
       {
         "label": "C",
-        "text": "Được tiến hành ở những đơn vị, tổ chức kinh tế hoạt động sản xuất kinh doanh với mục tiêu lợi nhuận."
+        "text": "Vốn chủ sở hữu + Tài sản dài hạn."
       },
       {
         "label": "D",
-        "text": "Thông tin kế toán chỉ được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
+        "text": "Nợ phải trả + Tài sản ngắn hạn."
       }
     ],
-    "correctAnswerText": "Được tiến hành ở những đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận."
+    "correctAnswerText": "Tài sản ngắn hạn + Tài sản dài hạn."
   },
   {
     "questionNumber": "17",
-    "questionText": "Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có NG là 60 triệu vào;Ngày 31/12/N, giá của TSCĐ này trên thị trường là 45 triệu.Với giả định công ty A vẫn hoạt động liên tục, giá trị của TSCĐ này trên sổ kế toán TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?",
+    "questionText": "Đối tượng nào sau đây là tài sản ngắn hạn của đơn vị?",
     "options": [
       {
         "label": "A",
-        "text": "60 triệu, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Vay dài hạn."
       },
       {
         "label": "B",
-        "text": "60 triệu, tuân thủ theo nguyên tắc cơ sở dồn tích."
+        "text": "Tài sản cố định hữu hình."
       },
       {
         "label": "C",
-        "text": "45 triệu, tuân thủ theo nguyên tắc giá gốc."
+        "text": "Hàng mua đang đi đường."
       },
       {
         "label": "D",
-        "text": "45 triệu, tuân thủ theo nguyên tắc phù hợp."
+        "text": "Hàng hóa nhận giữ hộ."
       }
     ],
-    "correctAnswerText": "60 triệu, tuân thủ theo nguyên tắc giá gốc."
+    "correctAnswerText": "Hàng mua đang đi đường."
   },
   {
     "questionNumber": "18",
-    "questionText": "Các đối tượng bên ngoài doanh nghiệp nắm bắt thông tin về tình hình kinh tế tài chính của doanh nghiệp thông qua:",
+    "questionText": "Tại Doanh nghiệp Hoàng Hà có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 80   Tiền gửi ngân hàng 120   Phải thu ngắn hạn của khách hàng 300   Hàng hoá tồn kho 500   Tài sản cố định hữu hình 2.600   Bất động sản đầu tư 3.200   Vay dài hạn 1.200   Phải trả người bán 600   Phải trả người lao động 50   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 200   Quỹ đầu tư phát triển 950  Yêu cầu: Xác định tổng Nợ phải trả của Doanh nghiệp Hoàng Hà",
     "options": [
       {
         "label": "A",
-        "text": "Hệ thống sổ kế toán"
+        "text": "1.000"
       },
       {
         "label": "B",
-        "text": "Hệ thống báo cáo kế toán"
+        "text": "1.850"
       },
       {
         "label": "C",
-        "text": "Hệ thống tài khoản kế toán"
+        "text": "5.800"
       },
       {
         "label": "D",
-        "text": "Hệ thống chứng từ kế toán"
+        "text": "4.950"
       }
     ],
-    "correctAnswerText": "Hệ thống báo cáo kế toán"
+    "correctAnswerText": "1.850"
   },
   {
     "questionNumber": "19",
-    "questionText": "Kế toán ghi kép là loại kế toán:",
+    "questionText": "Các đối tượng kế toán: “Tiền mặt”, “Tiền gửi ngân hàng”, “Phải thu ngắn hạn của khách hàng”, “Hàng tồn kho”  được phân loại là:",
     "options": [
       {
         "label": "A",
-        "text": "Thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
+        "text": "Tài sản ngắn hạn trong doanh nghiệp."
       },
       {
         "label": "B",
-        "text": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
+        "text": "Tài sản dài hạn trong doanh nghiệp."
       },
       {
         "label": "C",
-        "text": "Ghi chép thu nhận thông tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt."
+        "text": "Nợ phải trả trong doanh nghiệp."
       },
       {
         "label": "D",
-        "text": "Ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
+        "text": "Vốn chủ sở hữu trong doanh nghiệp."
       }
     ],
-    "correctAnswerText": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
+    "correctAnswerText": "Tài sản ngắn hạn trong doanh nghiệp."
   },
   {
     "questionNumber": "20",
-    "questionText": "Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên chỉ mới góp được 8 tỷ.Công ty ghi nhận số vốn góp trên sổ kế toán là 8 tỉ.Công ty đã tuân thủ theo nguyên tắc kế toán nào?",
+    "questionText": "Tài sản dài hạn trong doanh nghiệp là:",
     "options": [
       {
         "label": "A",
-        "text": "Tuân thủ theo nguyên tắc dồn tích."
+        "text": "Những tài sản của đơn vị, thường có giá trị lớn, có thời gian luân chuyển, thu hồi, sử dụng trên 1 năm, hoặc trên 1 chu kỳ kinh doanh."
       },
       {
         "label": "B",
-        "text": "Tuân thủ theo nguyên tắc thận trọng."
+        "text": "Những tài sản của đơn vị, thường có giá trị lớn, có thời gian luân chuyển, thu hồi, sử dụng trên 1 năm, hoặc dưới 1 chu kỳ kinh doanh."
       },
       {
         "label": "C",
-        "text": "Tuân thủ theo nguyên tắc giá gốc."
+        "text": "Những tài sản của đơn vị, thường có giá trị lớn, có thời gian luân chuyển, thu hồi, sử dụng dưới 1 năm, hoặc trên 1 chu kỳ kinh doanh."
       },
       {
         "label": "D",
-        "text": "Tuân thủ theo nguyên tắc phù hợp."
+        "text": "Những tài sản của đơn vị, thường có giá trị lớn, có thời gian luân chuyển, thu hồi, sử dụng dưới 1 năm, hoặc dưới 1 chu kỳ kinh doanh."
       }
     ],
-    "correctAnswerText": "Tuân thủ theo nguyên tắc thận trọng."
+    "correctAnswerText": "Những tài sản của đơn vị, thường có giá trị lớn, có thời gian luân chuyển, thu hồi, sử dụng trên 1 năm, hoặc trên 1 chu kỳ kinh doanh."
   },
   {
     "questionNumber": "21",
-    "questionText": "Hàng hóa tồn kho của doanh nghiệp đang có xu hướng mất giá trên thị trường và có nguy cơ khiến cho doanh nghiệp phải chịu thiệt hại trong tương lai. Doanh nghiệp phải lập dự phòng giảm giá hàng tồn kho. Việc lập dự phòng này tuân thủ theo nguyên tắc kế toán nào sau đây?",
+    "questionText": "Các đối tượng kế toán: “Vay dài hạn”, “Phải trả người bán ngắn hạn”, “Phải trả người lao động” được phân loại là:",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc trọng yếu."
+        "text": "Tài sản ngắn hạn trong doanh nghiệp."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc thận trọng."
+        "text": "Vốn chủ sở hữu trong doanh nghiệp."
       },
       {
         "label": "C",
-        "text": "Nguyên tắc nhất quán."
+        "text": "Nợ phải trả trong doanh nghiệp."
       },
       {
         "label": "D",
-        "text": "Nguyên tắc phù hợp."
+        "text": "Tài sản dài hạn trong doanh nghiệp."
       }
     ],
-    "correctAnswerText": "Nguyên tắc thận trọng."
+    "correctAnswerText": "Nợ phải trả trong doanh nghiệp."
   },
   {
     "questionNumber": "22",
-    "questionText": "Thước đo chủ yếu kế toán tài chính sử dụng là:",
+    "questionText": "Đối tượng nào sau đây được ghi nhận là quan hệ kinh tế pháp lý ngoài tài sản của đơn vị?",
     "options": [
       {
         "label": "A",
-        "text": "Thước đo thời gian lao động."
+        "text": "Hàng hóa trong kho."
       },
       {
         "label": "B",
-        "text": "Thước đo hiện vật."
+        "text": "Hàng hóa nhận giữ hộ."
       },
       {
         "label": "C",
-        "text": "Thước đo giá trị."
+        "text": "Hàng mua đang đi đường."
       },
       {
         "label": "D",
-        "text": "Thước đo giá trị và thời gian lao động."
+        "text": "Hàng gửi bán."
       }
     ],
-    "correctAnswerText": "Thước đo giá trị."
+    "correctAnswerText": "Hàng hóa nhận giữ hộ."
   },
   {
     "questionNumber": "23",
-    "questionText": "Kế toán chi tiết là loại kế toán:",
+    "questionText": "Tại Doanh nghiệp Hoàng Hà có tài liệu về các đối tượng kế toán như sau: Đơn vị tính: triệu đồng  Nội dung Số tiền   Tiền mặt 80   Tiền gửi ngân hàng 120   Phải thu ngắn hạn của khách hàng 300   Hàng hoá tồn kho 500   Tài sản cố định hữu hình 2.600   Bất động sản đầu tư 3.200   Vay dài hạn 1.200   Phải trả người bán 600   Phải trả người lao động 50   Vốn đầu tư của chủ sở hữu 3.800   Lợi nhuận sau thuế chưa phân phối 200   Quỹ đầu tư phát triển 950  Yêu cầu: Xác định tổng Tài sản dài hạn của Doanh nghiệp Hoàng Hà",
     "options": [
       {
         "label": "A",
-        "text": "Thông tin kế toán được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị."
+        "text": "5.800"
       },
       {
         "label": "B",
-        "text": "Thông tin được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
+        "text": "1.000"
       },
       {
         "label": "C",
-        "text": "Ghi chép, thu nhận các thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán."
+        "text": "6.800"
       },
       {
         "label": "D",
-        "text": "Ghi chép thu nhận thông tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt."
+        "text": "4.800"
       }
     ],
-    "correctAnswerText": "Thông tin được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể về 1 chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện."
+    "correctAnswerText": "5.800"
   },
   {
     "questionNumber": "24",
-    "questionText": "Doanh nghiệp bị kiện đòi bồi thường 5 tỉ đồng. Toà án đã có quyết định số tiền phải bồi thường nhưng kế toán chưa ghi nhận. Điều này đã vi phạm nguyên tắc kế toán:",
+    "questionText": "Phương pháp nào sau đây không phải là phương pháp kế toán?",
     "options": [
       {
         "label": "A",
-        "text": "Nguyên tắc phù hợp"
+        "text": "Phương pháp so sánh."
       },
       {
         "label": "B",
-        "text": "Nguyên tắc trọng yếu"
+        "text": "Phương pháp tổng hợp và cân đối kế toán."
       },
       {
         "label": "C",
-        "text": "Nguyên tắc thận trọng"
+        "text": "Phương pháp chứng từ kế toán."
       },
       {
         "label": "D",
-        "text": "Nguyên tắc giá gốc"
+        "text": "Phương pháp tài khoản kế toán."
       }
     ],
-    "correctAnswerText": "Nguyên tắc thận trọng"
+    "correctAnswerText": "Phương pháp so sánh."
   },
   {
     "questionNumber": "25",
-    "questionText": "Cho biÃ¡ÂºÂ¿t vai trÃÂ² cÃ¡Â»Â§a ChÃÂ­nh phÃ¡Â»Â§ ÃÂÃ¡Â»Âi vÃ¡Â»Âi ngÃÂ nh logistics thÃÂ°ÃÂ¡ng mÃ¡ÂºÂ¡i?",
+    "questionText": "Cho biÃÂ¡ÃÂºÃÂ¿t vai trÃÂÃÂ² cÃÂ¡ÃÂ»ÃÂ§a ChÃÂÃÂ­nh phÃÂ¡ÃÂ»ÃÂ§ ÃÂÃÂÃÂ¡ÃÂ»ÃÂi vÃÂ¡ÃÂ»ÃÂi ngÃÂÃÂ nh logistics thÃÂÃÂ°ÃÂÃÂ¡ng mÃÂ¡ÃÂºÃÂ¡i?",
     "options": [
       {
         "label": "A",
-        "text": "ThÃÂºc ÃÂÃ¡ÂºÂ©y sÃ¡Â»Â± cÃ¡ÂºÂ¡nh tranh giÃ¡Â»Â¯a cÃÂ¡c cÃÂ´ng ty logistics"
+        "text": "ThÃÂÃÂºc ÃÂÃÂÃÂ¡ÃÂºÃÂ©y sÃÂ¡ÃÂ»ÃÂ± cÃÂ¡ÃÂºÃÂ¡nh tranh giÃÂ¡ÃÂ»ÃÂ¯a cÃÂÃÂ¡c cÃÂÃÂ´ng ty logistics"
       },
       {
         "label": "B",
-        "text": "ÃÂÃ¡ÂºÂ§u tÃÂ° vÃÂ  xÃÂ¢y dÃ¡Â»Â±ng cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics quÃ¡Â»Âc gia"
+        "text": "ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tÃÂÃÂ° vÃÂÃÂ  xÃÂÃÂ¢y dÃÂ¡ÃÂ»ÃÂ±ng cÃÂÃÂ¡ sÃÂ¡ÃÂ»ÃÂ hÃÂ¡ÃÂºÃÂ¡ tÃÂ¡ÃÂºÃÂ§ng logistics quÃÂ¡ÃÂ»ÃÂc gia"
       },
       {
         "label": "C",
-        "text": "Ã¡Â»Ân ÃÂÃ¡Â»Ânh thÃ¡Â»Â trÃÂ°Ã¡Â»Âng xuÃ¡ÂºÂ¥t khÃ¡ÂºÂ©u"
+        "text": "ÃÂ¡ÃÂ»ÃÂn ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh thÃÂ¡ÃÂ»ÃÂ trÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng xuÃÂ¡ÃÂºÃÂ¥t khÃÂ¡ÃÂºÃÂ©u"
       },
       {
         "label": "D",
-        "text": "Cung cÃ¡ÂºÂ¥p cÃÂ¡c dÃ¡Â»Âch vÃ¡Â»Â¥ logistics giÃÂ¡ rÃ¡ÂºÂ» cho doanh nghiÃ¡Â»Âp"
+        "text": "Cung cÃÂ¡ÃÂºÃÂ¥p cÃÂÃÂ¡c dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ logistics giÃÂÃÂ¡ rÃÂ¡ÃÂºÃÂ» cho doanh nghiÃÂ¡ÃÂ»ÃÂp"
       }
     ],
-    "correctAnswerText": "ÃÂÃ¡ÂºÂ§u tÃÂ° vÃÂ  xÃÂ¢y dÃ¡Â»Â±ng cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics quÃ¡Â»Âc gia"
+    "correctAnswerText": "ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tÃÂÃÂ° vÃÂÃÂ  xÃÂÃÂ¢y dÃÂ¡ÃÂ»ÃÂ±ng cÃÂÃÂ¡ sÃÂ¡ÃÂ»ÃÂ hÃÂ¡ÃÂºÃÂ¡ tÃÂ¡ÃÂºÃÂ§ng logistics quÃÂ¡ÃÂ»ÃÂc gia"
   },
   {
     "questionNumber": "26",
-    "questionText": "06 nhÃÂ³m yÃ¡ÂºÂ¿u tÃ¡Â»Â cÃÂ¡ bÃ¡ÂºÂ£n cÃ¡Â»Â§a hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia bao gÃ¡Â»Âm: Khung thÃ¡Â»Â chÃ¡ÂºÂ¿ phÃÂ¡p luÃ¡ÂºÂ­t logistics, cÃÂ¡ sÃ¡Â»Â hÃ¡ÂºÂ¡ tÃ¡ÂºÂ§ng logistics, doanh nghiÃ¡Â»Âp logistics, doanh nghiÃ¡Â»Âp sÃ¡Â»Â­ dÃ¡Â»Â¥ng dÃ¡Â»Âch vÃ¡Â»Â¥ logistics, dÃ¡Â»Âch vÃ¡Â»Â¥ logistics ÃÂÃ¡ÂºÂ§u ra vÃÂ  yÃ¡ÂºÂ¿u tÃ¡Â»Â nÃÂ o sau ÃÂÃÂ¢y?",
+    "questionText": "06 nhÃÂÃÂ³m yÃÂ¡ÃÂºÃÂ¿u tÃÂ¡ÃÂ»ÃÂ cÃÂÃÂ¡ bÃÂ¡ÃÂºÃÂ£n cÃÂ¡ÃÂ»ÃÂ§a hÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics quÃÂ¡ÃÂ»ÃÂc gia bao gÃÂ¡ÃÂ»ÃÂm: Khung thÃÂ¡ÃÂ»ÃÂ chÃÂ¡ÃÂºÃÂ¿ phÃÂÃÂ¡p luÃÂ¡ÃÂºÃÂ­t logistics, cÃÂÃÂ¡ sÃÂ¡ÃÂ»ÃÂ hÃÂ¡ÃÂºÃÂ¡ tÃÂ¡ÃÂºÃÂ§ng logistics, doanh nghiÃÂ¡ÃÂ»ÃÂp logistics, doanh nghiÃÂ¡ÃÂ»ÃÂp sÃÂ¡ÃÂ»ÃÂ­ dÃÂ¡ÃÂ»ÃÂ¥ng dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ logistics, dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ logistics ÃÂÃÂÃÂ¡ÃÂºÃÂ§u ra vÃÂÃÂ  yÃÂ¡ÃÂºÃÂ¿u tÃÂ¡ÃÂ»ÃÂ nÃÂÃÂ o sau ÃÂÃÂÃÂÃÂ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "CÃÂ´ng nghÃ¡Â»Â logistics"
+        "text": "CÃÂÃÂ´ng nghÃÂ¡ÃÂ»ÃÂ logistics"
       },
       {
         "label": "B",
-        "text": "PhÃÂ°ÃÂ¡ng tiÃ¡Â»Ân vÃ¡ÂºÂ­n tÃ¡ÂºÂ£i"
+        "text": "PhÃÂÃÂ°ÃÂÃÂ¡ng tiÃÂ¡ÃÂ»ÃÂn vÃÂ¡ÃÂºÃÂ­n tÃÂ¡ÃÂºÃÂ£i"
       },
       {
         "label": "C",
-        "text": "CÃÂ¡ sÃ¡Â»Â ÃÂÃÂ o tÃ¡ÂºÂ¡o logistics"
+        "text": "CÃÂÃÂ¡ sÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂÃÂ o tÃÂ¡ÃÂºÃÂ¡o logistics"
       },
       {
         "label": "D",
-        "text": "NguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c logistics"
+        "text": "NguÃÂ¡ÃÂ»ÃÂn nhÃÂÃÂ¢n lÃÂ¡ÃÂ»ÃÂ±c logistics"
       }
     ],
-    "correctAnswerText": "NguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c logistics"
+    "correctAnswerText": "NguÃÂ¡ÃÂ»ÃÂn nhÃÂÃÂ¢n lÃÂ¡ÃÂ»ÃÂ±c logistics"
   },
   {
     "questionNumber": "27",
-    "questionText": "Khi quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp theo tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â mÃ¡Â»Â¥c tiÃÂªu (MBO), lÃÂ£nh ÃÂÃ¡ÂºÂ¡o vÃÂ  nhÃÂ¢n viÃÂªn cÃ¡ÂºÂ§n lÃÂ m gÃÂ¬ ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu?",
+    "questionText": "Khi quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ logistics vÃÂÃÂ  chuÃÂ¡ÃÂ»ÃÂi cung ÃÂ¡ÃÂ»ÃÂ©ng tÃÂ¡ÃÂºÃÂ¡i doanh nghiÃÂ¡ÃÂ»ÃÂp theo tiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu (MBO), lÃÂÃÂ£nh ÃÂÃÂÃÂ¡ÃÂºÃÂ¡o vÃÂÃÂ  nhÃÂÃÂ¢n viÃÂÃÂªn cÃÂ¡ÃÂºÃÂ§n lÃÂÃÂ m gÃÂÃÂ¬ ÃÂÃÂÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂºÃÂ¡t ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu?",
     "options": [
       {
         "label": "A",
-        "text": "ChÃ¡Â»Â tuÃÂ¢n thÃ¡Â»Â§ chÃ¡Â»Â thÃ¡Â»Â cÃ¡Â»Â§a lÃÂ£nh ÃÂÃ¡ÂºÂ¡o cÃ¡ÂºÂ¥p cao"
+        "text": "ChÃÂ¡ÃÂ»ÃÂ tuÃÂÃÂ¢n thÃÂ¡ÃÂ»ÃÂ§ chÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂ cÃÂ¡ÃÂ»ÃÂ§a lÃÂÃÂ£nh ÃÂÃÂÃÂ¡ÃÂºÃÂ¡o cÃÂ¡ÃÂºÃÂ¥p cao"
       },
       {
         "label": "B",
-        "text": "HÃ¡Â»Â£p tÃÂ¡c xÃÂ¡c ÃÂÃ¡Â»Ânh trÃÂ¡ch nhiÃ¡Â»Âm vÃÂ  phÃÂ¢n cÃÂ´ng quyÃ¡Â»Ân hÃ¡ÂºÂ¡n ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu"
+        "text": "HÃÂ¡ÃÂ»ÃÂ£p tÃÂÃÂ¡c xÃÂÃÂ¡c ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh trÃÂÃÂ¡ch nhiÃÂ¡ÃÂ»ÃÂm vÃÂÃÂ  phÃÂÃÂ¢n cÃÂÃÂ´ng quyÃÂ¡ÃÂ»ÃÂn hÃÂ¡ÃÂºÃÂ¡n ÃÂÃÂÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂºÃÂ¡t ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu"
       },
       {
         "label": "C",
-        "text": "ChÃ¡Â»Â tÃ¡ÂºÂ­p trung vÃÂ o cÃÂ¡c mÃ¡Â»Â¥c tiÃÂªu ngÃ¡ÂºÂ¯n hÃ¡ÂºÂ¡n"
+        "text": "ChÃÂ¡ÃÂ»ÃÂ tÃÂ¡ÃÂºÃÂ­p trung vÃÂÃÂ o cÃÂÃÂ¡c mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu ngÃÂ¡ÃÂºÃÂ¯n hÃÂ¡ÃÂºÃÂ¡n"
       },
       {
         "label": "D",
-        "text": "ChÃ¡Â»Â quan tÃÂ¢m ÃÂÃ¡ÂºÂ¿n viÃ¡Â»Âc thÃ¡Â»Â±c hiÃ¡Â»Ân cÃÂ¡c cÃÂ´ng viÃ¡Â»Âc hÃÂ ngÃÂ  ngÃÂ y"
+        "text": "ChÃÂ¡ÃÂ»ÃÂ quan tÃÂÃÂ¢m ÃÂÃÂÃÂ¡ÃÂºÃÂ¿n viÃÂ¡ÃÂ»ÃÂc thÃÂ¡ÃÂ»ÃÂ±c hiÃÂ¡ÃÂ»ÃÂn cÃÂÃÂ¡c cÃÂÃÂ´ng viÃÂ¡ÃÂ»ÃÂc hÃÂÃÂ ngÃÂÃÂ  ngÃÂÃÂ y"
       }
     ],
-    "correctAnswerText": "HÃ¡Â»Â£p tÃÂ¡c xÃÂ¡c ÃÂÃ¡Â»Ânh trÃÂ¡ch nhiÃ¡Â»Âm vÃÂ  phÃÂ¢n cÃÂ´ng quyÃ¡Â»Ân hÃ¡ÂºÂ¡n ÃÂÃ¡Â»Â ÃÂÃ¡ÂºÂ¡t ÃÂÃÂ°Ã¡Â»Â£c mÃ¡Â»Â¥c tiÃÂªu"
+    "correctAnswerText": "HÃÂ¡ÃÂ»ÃÂ£p tÃÂÃÂ¡c xÃÂÃÂ¡c ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh trÃÂÃÂ¡ch nhiÃÂ¡ÃÂ»ÃÂm vÃÂÃÂ  phÃÂÃÂ¢n cÃÂÃÂ´ng quyÃÂ¡ÃÂ»ÃÂn hÃÂ¡ÃÂºÃÂ¡n ÃÂÃÂÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂ¡ÃÂºÃÂ¡t ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu"
   },
   {
     "questionNumber": "28",
-    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c cÃÂ¡ch tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t - kinh doanh hÃÂ ng hÃÂ³a: (1) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo mÃ¡Â»Â¥c tiÃÂªu; (2) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo nhÃÂ³m khÃÂ¡ch hÃÂ ng; (3) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo quÃÂ¡ trÃÂ¬nh; (4) TiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n quÃ¡ÂºÂ£n trÃ¡Â»Â theo chÃ¡Â»Â©c nÃÂng",
+    "questionText": "ChÃÂ¡ÃÂ»ÃÂ ra cÃÂÃÂ¡c cÃÂÃÂ¡ch tiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n cÃÂÃÂ¡ bÃÂ¡ÃÂºÃÂ£n trong quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ logistics vÃÂÃÂ  chuÃÂ¡ÃÂ»ÃÂi cung ÃÂ¡ÃÂ»ÃÂ©ng tÃÂ¡ÃÂºÃÂ¡i doanh nghiÃÂ¡ÃÂ»ÃÂp sÃÂ¡ÃÂºÃÂ£n xuÃÂ¡ÃÂºÃÂ¥t - kinh doanh hÃÂÃÂ ng hÃÂÃÂ³a: (1) TiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ theo mÃÂ¡ÃÂ»ÃÂ¥c tiÃÂÃÂªu; (2) TiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ theo nhÃÂÃÂ³m khÃÂÃÂ¡ch hÃÂÃÂ ng; (3) TiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ theo quÃÂÃÂ¡ trÃÂÃÂ¬nh; (4) TiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ theo chÃÂ¡ÃÂ»ÃÂ©c nÃÂÃÂng",
     "options": [
       {
         "label": "A",
@@ -645,53 +645,53 @@
   },
   {
     "questionNumber": "29",
-    "questionText": "Quan ÃÂiÃ¡Â»Âm vÃ¡Â»Â hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia cÃ¡Â»Â§a cÃÂ¡c nÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ chÃ¡ÂºÂ­m phÃÂ¡t triÃ¡Â»Ân thÃÂ°Ã¡Â»Âng cÃÂ³ ÃÂÃ¡ÂºÂ·c ÃÂiÃ¡Â»Âm nÃÂ o sau ÃÂÃÂ¢y?",
+    "questionText": "Quan ÃÂÃÂiÃÂ¡ÃÂ»ÃÂm vÃÂ¡ÃÂ»ÃÂ hÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics quÃÂ¡ÃÂ»ÃÂc gia cÃÂ¡ÃÂ»ÃÂ§a cÃÂÃÂ¡c nÃÂ¡ÃÂ»ÃÂn kinh tÃÂ¡ÃÂºÃÂ¿ chÃÂ¡ÃÂºÃÂ­m phÃÂÃÂ¡t triÃÂ¡ÃÂ»ÃÂn thÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng cÃÂÃÂ³ ÃÂÃÂÃÂ¡ÃÂºÃÂ·c ÃÂÃÂiÃÂ¡ÃÂ»ÃÂm nÃÂÃÂ o sau ÃÂÃÂÃÂÃÂ¢y?",
     "options": [
       {
         "label": "A",
-        "text": "CÃÂ¡c cÃÂ´ng ty logistics hoÃ¡ÂºÂ¡t ÃÂÃ¡Â»Âng ÃÂÃ¡Â»Âc lÃ¡ÂºÂ­p mÃÂ  khÃÂ´ng cÃ¡ÂºÂ§n sÃ¡Â»Â± hÃ¡Â»Â trÃ¡Â»Â£ cÃ¡Â»Â§a ChÃÂ­nh phÃ¡Â»Â§"
+        "text": "CÃÂÃÂ¡c cÃÂÃÂ´ng ty logistics hoÃÂ¡ÃÂºÃÂ¡t ÃÂÃÂÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂc lÃÂ¡ÃÂºÃÂ­p mÃÂÃÂ  khÃÂÃÂ´ng cÃÂ¡ÃÂºÃÂ§n sÃÂ¡ÃÂ»ÃÂ± hÃÂ¡ÃÂ»ÃÂ trÃÂ¡ÃÂ»ÃÂ£ cÃÂ¡ÃÂ»ÃÂ§a ChÃÂÃÂ­nh phÃÂ¡ÃÂ»ÃÂ§"
       },
       {
         "label": "B",
-        "text": "HÃ¡Â»Â thÃ¡Â»Âng logistics cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c rÃÂµ rÃÂ ng"
+        "text": "HÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics cÃÂÃÂ³ tÃÂ¡ÃÂºÃÂ§m nhÃÂÃÂ¬n chiÃÂ¡ÃÂºÃÂ¿n lÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c rÃÂÃÂµ rÃÂÃÂ ng"
       },
       {
         "label": "C",
-        "text": "ChÃ¡Â»Â chÃÂº trÃ¡Â»Âng vÃÂ o cÃÂ¡c dÃ¡Â»Âch vÃ¡Â»Â¥ logistics trong nÃÂ°Ã¡Â»Âc"
+        "text": "ChÃÂ¡ÃÂ»ÃÂ chÃÂÃÂº trÃÂ¡ÃÂ»ÃÂng vÃÂÃÂ o cÃÂÃÂ¡c dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ logistics trong nÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂc"
       },
       {
         "label": "D",
-        "text": "HÃ¡Â»Â thÃ¡Â»Âng logistics chÃÂ°a cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c vÃÂ  chÃÂ°a ÃÂÃÂ°Ã¡Â»Â£c coi trÃ¡Â»Âng trong hÃ¡Â»Â thÃ¡Â»Âng phÃÂ¡t triÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ quÃ¡Â»Âc gia"
+        "text": "HÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics chÃÂÃÂ°a cÃÂÃÂ³ tÃÂ¡ÃÂºÃÂ§m nhÃÂÃÂ¬n chiÃÂ¡ÃÂºÃÂ¿n lÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c vÃÂÃÂ  chÃÂÃÂ°a ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c coi trÃÂ¡ÃÂ»ÃÂng trong hÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng phÃÂÃÂ¡t triÃÂ¡ÃÂ»ÃÂn kinh tÃÂ¡ÃÂºÃÂ¿ quÃÂ¡ÃÂ»ÃÂc gia"
       }
     ],
-    "correctAnswerText": "HÃ¡Â»Â thÃ¡Â»Âng logistics chÃÂ°a cÃÂ³ tÃ¡ÂºÂ§m nhÃÂ¬n chiÃ¡ÂºÂ¿n lÃÂ°Ã¡Â»Â£c vÃÂ  chÃÂ°a ÃÂÃÂ°Ã¡Â»Â£c coi trÃ¡Â»Âng trong hÃ¡Â»Â thÃ¡Â»Âng phÃÂ¡t triÃ¡Â»Ân kinh tÃ¡ÂºÂ¿ quÃ¡Â»Âc gia"
+    "correctAnswerText": "HÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics chÃÂÃÂ°a cÃÂÃÂ³ tÃÂ¡ÃÂºÃÂ§m nhÃÂÃÂ¬n chiÃÂ¡ÃÂºÃÂ¿n lÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c vÃÂÃÂ  chÃÂÃÂ°a ÃÂÃÂÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂ£c coi trÃÂ¡ÃÂ»ÃÂng trong hÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng phÃÂÃÂ¡t triÃÂ¡ÃÂ»ÃÂn kinh tÃÂ¡ÃÂºÃÂ¿ quÃÂ¡ÃÂ»ÃÂc gia"
   },
   {
     "questionNumber": "30",
-    "questionText": "ÃÂÃÂ¢u lÃÂ  chÃ¡Â»Â§ thÃ¡Â»Â tÃ¡ÂºÂ¡o ra nhu cÃ¡ÂºÂ§u vÃ¡Â»Â logistics trong hÃ¡Â»Â thÃ¡Â»Âng logistics quÃ¡Â»Âc gia?",
+    "questionText": "ÃÂÃÂÃÂÃÂ¢u lÃÂÃÂ  chÃÂ¡ÃÂ»ÃÂ§ thÃÂ¡ÃÂ»ÃÂ tÃÂ¡ÃÂºÃÂ¡o ra nhu cÃÂ¡ÃÂºÃÂ§u vÃÂ¡ÃÂ»ÃÂ logistics trong hÃÂ¡ÃÂ»ÃÂ thÃÂ¡ÃÂ»ÃÂng logistics quÃÂ¡ÃÂ»ÃÂc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hÃÂ ng may mÃ¡ÂºÂ·c"
+        "text": "Doanh nghiÃÂ¡ÃÂ»ÃÂp sÃÂ¡ÃÂºÃÂ£n xuÃÂ¡ÃÂºÃÂ¥t hÃÂÃÂ ng may mÃÂ¡ÃÂºÃÂ·c"
       },
       {
         "label": "B",
-        "text": "Doanh nghiÃ¡Â»Âp chuyÃ¡Â»Ân phÃÂ¡t"
+        "text": "Doanh nghiÃÂ¡ÃÂ»ÃÂp chuyÃÂ¡ÃÂ»ÃÂn phÃÂÃÂ¡t"
       },
       {
         "label": "C",
-        "text": "Doanh nghiÃ¡Â»Âp 2PL"
+        "text": "Doanh nghiÃÂ¡ÃÂ»ÃÂp 2PL"
       },
       {
         "label": "D",
-        "text": "Doanh nghiÃ¡Â»Âp vÃ¡ÂºÂ­n tÃ¡ÂºÂ£i"
+        "text": "Doanh nghiÃÂ¡ÃÂ»ÃÂp vÃÂ¡ÃÂºÃÂ­n tÃÂ¡ÃÂºÃÂ£i"
       }
     ],
-    "correctAnswerText": "Doanh nghiÃ¡Â»Âp sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hÃÂ ng may mÃ¡ÂºÂ·c"
+    "correctAnswerText": "Doanh nghiÃÂ¡ÃÂ»ÃÂp sÃÂ¡ÃÂºÃÂ£n xuÃÂ¡ÃÂºÃÂ¥t hÃÂÃÂ ng may mÃÂ¡ÃÂºÃÂ·c"
   },
   {
     "questionNumber": "31",
-    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c nguyÃÂªn tÃ¡ÂºÂ¯c cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp hiÃ¡Â»Ân nay: (1) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ng; (2) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng nguÃ¡Â»Ân hÃÂ ng; (3) ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng giÃÂ¡ trÃ¡Â»Â; (4) TÃ¡Â»Âi ÃÂ°u hÃÂ³a",
+    "questionText": "ChÃÂ¡ÃÂ»ÃÂ ra cÃÂÃÂ¡c nguyÃÂÃÂªn tÃÂ¡ÃÂºÃÂ¯c cÃÂÃÂ¡ bÃÂ¡ÃÂºÃÂ£n trong quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ logistics vÃÂÃÂ  chuÃÂ¡ÃÂ»ÃÂi cung ÃÂ¡ÃÂ»ÃÂ©ng tÃÂ¡ÃÂºÃÂ¡i doanh nghiÃÂ¡ÃÂ»ÃÂp hiÃÂ¡ÃÂ»ÃÂn nay: (1) ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng khÃÂÃÂ¡ch hÃÂÃÂ ng; (2) ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng nguÃÂ¡ÃÂ»ÃÂn hÃÂÃÂ ng; (3) ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng giÃÂÃÂ¡ trÃÂ¡ÃÂ»ÃÂ; (4) TÃÂ¡ÃÂ»ÃÂi ÃÂÃÂ°u hÃÂÃÂ³a",
     "options": [
       {
         "label": "A",
@@ -714,53 +714,53 @@
   },
   {
     "questionNumber": "32",
-    "questionText": "KhÃÂ­a cÃ¡ÂºÂ¡nh Ã¢ÂÂDÃ¡Â»Â dÃÂ ng tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n ÃÂÃ¡Â»Âi vÃ¡Â»Âi khÃÂ¡ch hÃÂ ngÃ¢ÂÂ trong ÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ng ÃÂÃ¡Â»Â cÃ¡ÂºÂ­p ÃÂÃ¡ÂºÂ¿n ÃÂiÃ¡Â»Âu gÃÂ¬?",
+    "questionText": "KhÃÂÃÂ­a cÃÂ¡ÃÂºÃÂ¡nh ÃÂ¢ÃÂÃÂDÃÂ¡ÃÂ»ÃÂ dÃÂÃÂ ng tiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n ÃÂÃÂÃÂ¡ÃÂ»ÃÂi vÃÂ¡ÃÂ»ÃÂi khÃÂÃÂ¡ch hÃÂÃÂ ngÃÂ¢ÃÂÃÂ trong ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng khÃÂÃÂ¡ch hÃÂÃÂ ng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ cÃÂ¡ÃÂºÃÂ­p ÃÂÃÂÃÂ¡ÃÂºÃÂ¿n ÃÂÃÂiÃÂ¡ÃÂ»ÃÂu gÃÂÃÂ¬?",
     "options": [
       {
         "label": "A",
-        "text": "KhÃ¡ÂºÂ£ nÃÂng doanh nghiÃ¡Â»Âp dÃ¡Â»Â dÃÂ ng tiÃ¡ÂºÂ¿p cÃ¡ÂºÂ­n vÃ¡Â»Âi nguÃ¡Â»Ân nhÃÂ¢n lÃ¡Â»Â±c"
+        "text": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng doanh nghiÃÂ¡ÃÂ»ÃÂp dÃÂ¡ÃÂ»ÃÂ dÃÂÃÂ ng tiÃÂ¡ÃÂºÃÂ¿p cÃÂ¡ÃÂºÃÂ­n vÃÂ¡ÃÂ»ÃÂi nguÃÂ¡ÃÂ»ÃÂn nhÃÂÃÂ¢n lÃÂ¡ÃÂ»ÃÂ±c"
       },
       {
         "label": "B",
-        "text": "KhÃ¡ÂºÂ£ nÃÂng doanh nghiÃ¡Â»Âp dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p vÃÂ o cÃÂ¡c thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â ÃÂÃÂ¡p Ã¡Â»Â©ng yÃÂªu cÃ¡ÂºÂ§u khÃÂ¡ch hÃÂ ng"
+        "text": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng doanh nghiÃÂ¡ÃÂ»ÃÂp dÃÂ¡ÃÂ»ÃÂ dÃÂÃÂ ng truy cÃÂ¡ÃÂºÃÂ­p vÃÂÃÂ o cÃÂÃÂ¡c thÃÂÃÂ´ng tin quan trÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ ÃÂÃÂÃÂÃÂ¡p ÃÂ¡ÃÂ»ÃÂ©ng yÃÂÃÂªu cÃÂ¡ÃÂºÃÂ§u khÃÂÃÂ¡ch hÃÂÃÂ ng"
       },
       {
         "label": "C",
-        "text": "KhÃ¡ÂºÂ£ nÃÂng khÃÂ¡ch hÃÂ ng dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â mua sÃ¡ÂºÂ¯m vÃÂ  thuÃ¡ÂºÂ­n lÃ¡Â»Â£i trong tiÃ¡ÂºÂ¿p nhÃ¡ÂºÂ­n hÃÂ ng hoÃÂ¡, dÃ¡Â»Âch vÃ¡Â»Â¥ ÃÂÃÂ£ mua"
+        "text": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng khÃÂÃÂ¡ch hÃÂÃÂ ng dÃÂ¡ÃÂ»ÃÂ dÃÂÃÂ ng truy cÃÂ¡ÃÂºÃÂ­p thÃÂÃÂ´ng tin quan trÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ mua sÃÂ¡ÃÂºÃÂ¯m vÃÂÃÂ  thuÃÂ¡ÃÂºÃÂ­n lÃÂ¡ÃÂ»ÃÂ£i trong tiÃÂ¡ÃÂºÃÂ¿p nhÃÂ¡ÃÂºÃÂ­n hÃÂÃÂ ng hoÃÂÃÂ¡, dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ ÃÂÃÂÃÂÃÂ£ mua"
       },
       {
         "label": "D",
-        "text": "KhÃ¡ÂºÂ£ nÃÂng tÃ¡ÂºÂ¡o ra nhiÃ¡Â»Âu sÃ¡ÂºÂ£n phÃ¡ÂºÂ©m ÃÂa dÃ¡ÂºÂ¡ng"
+        "text": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng tÃÂ¡ÃÂºÃÂ¡o ra nhiÃÂ¡ÃÂ»ÃÂu sÃÂ¡ÃÂºÃÂ£n phÃÂ¡ÃÂºÃÂ©m ÃÂÃÂa dÃÂ¡ÃÂºÃÂ¡ng"
       }
     ],
-    "correctAnswerText": "KhÃ¡ÂºÂ£ nÃÂng khÃÂ¡ch hÃÂ ng dÃ¡Â»Â dÃÂ ng truy cÃ¡ÂºÂ­p thÃÂ´ng tin quan trÃ¡Â»Âng ÃÂÃ¡Â»Â mua sÃ¡ÂºÂ¯m vÃÂ  thuÃ¡ÂºÂ­n lÃ¡Â»Â£i trong tiÃ¡ÂºÂ¿p nhÃ¡ÂºÂ­n hÃÂ ng hoÃÂ¡, dÃ¡Â»Âch vÃ¡Â»Â¥ ÃÂÃÂ£ mua"
+    "correctAnswerText": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng khÃÂÃÂ¡ch hÃÂÃÂ ng dÃÂ¡ÃÂ»ÃÂ dÃÂÃÂ ng truy cÃÂ¡ÃÂºÃÂ­p thÃÂÃÂ´ng tin quan trÃÂ¡ÃÂ»ÃÂng ÃÂÃÂÃÂ¡ÃÂ»ÃÂ mua sÃÂ¡ÃÂºÃÂ¯m vÃÂÃÂ  thuÃÂ¡ÃÂºÃÂ­n lÃÂ¡ÃÂ»ÃÂ£i trong tiÃÂ¡ÃÂºÃÂ¿p nhÃÂ¡ÃÂºÃÂ­n hÃÂÃÂ ng hoÃÂÃÂ¡, dÃÂ¡ÃÂ»ÃÂch vÃÂ¡ÃÂ»ÃÂ¥ ÃÂÃÂÃÂÃÂ£ mua"
   },
   {
     "questionNumber": "33",
-    "questionText": "NguyÃÂªn tÃ¡ÂºÂ¯c Ã¢ÂÂÃÂÃ¡Â»Ânh hÃÂ°Ã¡Â»Âng khÃÂ¡ch hÃÂ ngÃ¢ÂÂ cho thÃ¡ÂºÂ¥y tÃÂ i sÃ¡ÂºÂ£n cÃÂ³ giÃÂ¡ trÃ¡Â»Â nhÃ¡ÂºÂ¥t trong doanh nghiÃ¡Â»Âp lÃÂ  gÃÂ¬?",
+    "questionText": "NguyÃÂÃÂªn tÃÂ¡ÃÂºÃÂ¯c ÃÂ¢ÃÂÃÂÃÂÃÂÃÂ¡ÃÂ»ÃÂnh hÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng khÃÂÃÂ¡ch hÃÂÃÂ ngÃÂ¢ÃÂÃÂ cho thÃÂ¡ÃÂºÃÂ¥y tÃÂÃÂ i sÃÂ¡ÃÂºÃÂ£n cÃÂÃÂ³ giÃÂÃÂ¡ trÃÂ¡ÃÂ»ÃÂ nhÃÂ¡ÃÂºÃÂ¥t trong doanh nghiÃÂ¡ÃÂ»ÃÂp lÃÂÃÂ  gÃÂÃÂ¬?",
     "options": [
       {
         "label": "A",
-        "text": "NguÃ¡Â»Ân vÃ¡Â»Ân ÃÂÃ¡ÂºÂ§u tÃÂ° ban ÃÂÃ¡ÂºÂ§u"
+        "text": "NguÃÂ¡ÃÂ»ÃÂn vÃÂ¡ÃÂ»ÃÂn ÃÂÃÂÃÂ¡ÃÂºÃÂ§u tÃÂÃÂ° ban ÃÂÃÂÃÂ¡ÃÂºÃÂ§u"
       },
       {
         "label": "B",
-        "text": "Quy trÃÂ¬nh sÃ¡ÂºÂ£n xuÃ¡ÂºÂ¥t hiÃ¡Â»Âu quÃ¡ÂºÂ£"
+        "text": "Quy trÃÂÃÂ¬nh sÃÂ¡ÃÂºÃÂ£n xuÃÂ¡ÃÂºÃÂ¥t hiÃÂ¡ÃÂ»ÃÂu quÃÂ¡ÃÂºÃÂ£"
       },
       {
         "label": "C",
-        "text": "SÃ¡Â»Â©c mÃ¡ÂºÂ¡nh tÃ¡Â»Â« nÃ¡Â»Ân tÃ¡ÂºÂ£ng khÃÂ¡ch hÃÂ ng vÃÂ  cÃÂ¡c mÃ¡Â»Âi quan hÃ¡Â»Â khÃÂ¡ch hÃÂ ng"
+        "text": "SÃÂ¡ÃÂ»ÃÂ©c mÃÂ¡ÃÂºÃÂ¡nh tÃÂ¡ÃÂ»ÃÂ« nÃÂ¡ÃÂ»ÃÂn tÃÂ¡ÃÂºÃÂ£ng khÃÂÃÂ¡ch hÃÂÃÂ ng vÃÂÃÂ  cÃÂÃÂ¡c mÃÂ¡ÃÂ»ÃÂi quan hÃÂ¡ÃÂ»ÃÂ khÃÂÃÂ¡ch hÃÂÃÂ ng"
       },
       {
         "label": "D",
-        "text": "KhÃ¡ÂºÂ£ nÃÂng Ã¡Â»Â©ng dÃ¡Â»Â¥ng cÃÂ´ng nghÃ¡Â»Â tiÃÂªn tiÃ¡ÂºÂ¿n"
+        "text": "KhÃÂ¡ÃÂºÃÂ£ nÃÂÃÂng ÃÂ¡ÃÂ»ÃÂ©ng dÃÂ¡ÃÂ»ÃÂ¥ng cÃÂÃÂ´ng nghÃÂ¡ÃÂ»ÃÂ tiÃÂÃÂªn tiÃÂ¡ÃÂºÃÂ¿n"
       }
     ],
-    "correctAnswerText": "SÃ¡Â»Â©c mÃ¡ÂºÂ¡nh tÃ¡Â»Â« nÃ¡Â»Ân tÃ¡ÂºÂ£ng khÃÂ¡ch hÃÂ ng vÃÂ  cÃÂ¡c mÃ¡Â»Âi quan hÃ¡Â»Â khÃÂ¡ch hÃÂ ng"
+    "correctAnswerText": "SÃÂ¡ÃÂ»ÃÂ©c mÃÂ¡ÃÂºÃÂ¡nh tÃÂ¡ÃÂ»ÃÂ« nÃÂ¡ÃÂ»ÃÂn tÃÂ¡ÃÂºÃÂ£ng khÃÂÃÂ¡ch hÃÂÃÂ ng vÃÂÃÂ  cÃÂÃÂ¡c mÃÂ¡ÃÂ»ÃÂi quan hÃÂ¡ÃÂ»ÃÂ khÃÂÃÂ¡ch hÃÂÃÂ ng"
   },
   {
     "questionNumber": "34",
-    "questionText": "ChÃ¡Â»Â ra cÃÂ¡c nguyÃÂªn tÃ¡ÂºÂ¯c cÃÂ¡ bÃ¡ÂºÂ£n trong quÃ¡ÂºÂ£n trÃ¡Â»Â logistics vÃÂ  chuÃ¡Â»Âi cung Ã¡Â»Â©ng tÃ¡ÂºÂ¡i doanh nghiÃ¡Â»Âp hiÃ¡Â»Ân nay: (1) TÃÂ­ch hÃ¡Â»Â£p vÃÂ  cÃ¡Â»Âng tÃÂ¡c; (2) TÃÂng trÃÂ°Ã¡Â»Âng Ã¡Â»Ân ÃÂÃ¡Â»Ânh; (3) ThÃÂ­ch nghi cÃÂ´ng nghÃ¡Â»Â; (4) TÃ¡Â»Âi ÃÂ°u hÃÂ³a",
+    "questionText": "ChÃÂ¡ÃÂ»ÃÂ ra cÃÂÃÂ¡c nguyÃÂÃÂªn tÃÂ¡ÃÂºÃÂ¯c cÃÂÃÂ¡ bÃÂ¡ÃÂºÃÂ£n trong quÃÂ¡ÃÂºÃÂ£n trÃÂ¡ÃÂ»ÃÂ logistics vÃÂÃÂ  chuÃÂ¡ÃÂ»ÃÂi cung ÃÂ¡ÃÂ»ÃÂ©ng tÃÂ¡ÃÂºÃÂ¡i doanh nghiÃÂ¡ÃÂ»ÃÂp hiÃÂ¡ÃÂ»ÃÂn nay: (1) TÃÂÃÂ­ch hÃÂ¡ÃÂ»ÃÂ£p vÃÂÃÂ  cÃÂ¡ÃÂ»ÃÂng tÃÂÃÂ¡c; (2) TÃÂÃÂng trÃÂÃÂ°ÃÂ¡ÃÂ»ÃÂng ÃÂ¡ÃÂ»ÃÂn ÃÂÃÂÃÂ¡ÃÂ»ÃÂnh; (3) ThÃÂÃÂ­ch nghi cÃÂÃÂ´ng nghÃÂ¡ÃÂ»ÃÂ; (4) TÃÂ¡ÃÂ»ÃÂi ÃÂÃÂ°u hÃÂÃÂ³a",
     "options": [
       {
         "label": "A",
