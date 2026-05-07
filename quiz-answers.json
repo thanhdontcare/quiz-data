@@ -1,784 +1,784 @@
 [
   {
     "questionNumber": "1",
-    "questionText": "Cấp độ 3 - “Triết lý logistics” theo quan điểm về quản trị logistics tại khu vực Châu Âu được dựa trên nguyên lý nào sau đây?",
+    "questionText": "Theo quan điểm truyền thống, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
     "options": [
       {
         "label": "A",
-        "text": "Định hướng khách hàng và dịch vụ"
+        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
       },
       {
         "label": "B",
-        "text": "Tiếp cận toàn diện và tổng chi phí"
+        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
       },
       {
         "label": "C",
-        "text": "Định hướng dòng cung ứng hàng hoá"
+        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
       },
       {
         "label": "D",
-        "text": "Cả ba đáp án còn lại đều đúng"
+        "text": "Hạ tầng giao thông; Hạ tầng thương mại"
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+    "correctAnswerText": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
   },
   {
     "questionNumber": "2",
-    "questionText": "Quan điểm nào coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức.",
+    "questionText": "Định hướng khách hàng trong quản trị logistics và chuỗi cung ứng được hiểu như thế nào?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm giao thoa"
+        "text": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
       },
       {
         "label": "B",
-        "text": "Quan điểm liên ngành"
+        "text": "Giảm giá sản phẩm để thu hút khách hàng"
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Lợi nhuận mà doanh nghiệp thu được từ khách hàng"
       },
       {
         "label": "D",
-        "text": "Quan điểm đồng nhất"
+        "text": "Khả năng dự đoán trước nhu cầu khách hàng"
       }
     ],
-    "correctAnswerText": "Quan điểm truyền thống"
+    "correctAnswerText": "Chuỗi cung ứng tập trung vào khách hàng và đáp ứng nhu cầu của họ"
   },
   {
     "questionNumber": "3",
-    "questionText": "Tại Việt Nam, dấu mốc nào đã tạo hành lang quan trọng cho sự hình thành ngành logistics?",
+    "questionText": "Mức độ sẵn sàng đáp ứng kỳ vọng thay đổi của khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
     "options": [
       {
         "label": "A",
-        "text": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
+        "text": "Dễ tiếp cận đối với khách hàng"
       },
       {
         "label": "B",
-        "text": "Sự kiện Việt Nam chính thức gia nhập WTO năm 2007"
+        "text": "Gần gũi đối với khách hàng"
       },
       {
         "label": "C",
-        "text": "Sự kiện Việt Nam ký kết các Hiệp định thương mại tự do thế hệ mới."
+        "text": "Thuận tiện đối với khách hàng"
       },
       {
         "label": "D",
-        "text": "Không có sự kiện nào trong số các sự kiện đã nêu"
+        "text": "Linh hoạt đối với khách hàng"
       }
     ],
-    "correctAnswerText": "Sự kiện Luật Thương mại 2005 ban hành các quy định về dịch vụ logistics và kinh doanh dịch vụ logistics"
+    "correctAnswerText": "Linh hoạt đối với khách hàng"
   },
   {
     "questionNumber": "4",
-    "questionText": "Nguyên nhân của sự rời rạc, phân mảnh của logistics trong giai đoạn trước những năm 1960 là gì?",
+    "questionText": "Chỉ ra sự khác biệt về năng lực cung cấp dịch vụ của doanh nghiệp logistics 3PL và 2PL?",
     "options": [
       {
         "label": "A",
-        "text": "Thiếu hiểu biết về tầm quan trọng của chi phí đánh đổi giữa nỗ lực logistics và các chức năng khác."
+        "text": "3PL hoạt động chủ yếu trên thị trường nội địa, 2PL hoạt động trên thị trường quốc tế"
       },
       {
         "label": "B",
-        "text": "Không có yêu cầu lớn về hoạt động logistics"
+        "text": "3PL sở hữu tài sản, 2PL không sở hữu tài sản"
       },
       {
         "label": "C",
-        "text": "Cả ba đáp án còn lại đều đúng"
+        "text": "3PL cung cấp dịch vụ đơn lẻ, 2PL cung cấp dịch vụ trọn gói"
       },
       {
         "label": "D",
-        "text": "Thị trường hàng hoá thuộc về người bán, cầu vượt quá cung"
+        "text": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại đều đúng"
+    "correctAnswerText": "3PL cung cấp dịch vụ tích hợp, 2PL cung cấp dịch vụ đơn lẻ"
   },
   {
     "questionNumber": "5",
-    "questionText": "Bước sang thế kỷ XXI, yếu tố nào giúp định hình các chuỗi cung ứng toàn cầu?",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây cung cấp các dịch vụ logistics đơn lẻ?",
     "options": [
       {
         "label": "A",
-        "text": "Sự phát triển của công nghệ thông tin, máy tính"
+        "text": "2PL"
       },
       {
         "label": "B",
-        "text": "Sự bùng nổ của Internet"
+        "text": "1PL"
       },
       {
         "label": "C",
-        "text": "Gia tăng các liên kết quốc tế"
+        "text": "4PL"
       },
       {
         "label": "D",
-        "text": "Cả 3 đáp án còn lại đều đúng"
+        "text": "3PL"
       }
     ],
-    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
+    "correctAnswerText": "2PL"
   },
   {
     "questionNumber": "6",
-    "questionText": "Quan điểm nào coi logistics và quản lý chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên của logistics?",
+    "questionText": "Quản trị mục tiêu (MBO) trong logistics và chuỗi cung ứng của doanh nghiệp là một phong cách quản lý dân chủ, phong cách quản lý này có đặc điểm gì?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm giao thoa"
+        "text": "Cấp dưới không tham gia vào quá trình thiết lập mục tiêu"
       },
       {
         "label": "B",
-        "text": "Quan điểm đồng nhất"
+        "text": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Mọi quyết định đều do lãnh đạo cấp cao đưa ra mà không có sự tham gia của cấp dưới"
       },
       {
         "label": "D",
-        "text": "Quan điểm liên ngành"
+        "text": "Lãnh đạo luôn quyết định tất cả các mục tiêu và phương pháp"
       }
     ],
-    "correctAnswerText": "Quan điểm đồng nhất"
+    "correctAnswerText": "Cấp dưới có quyền tự do lựa chọn phương pháp thực hiện để đạt được mục tiêu"
   },
   {
     "questionNumber": "7",
-    "questionText": "“Với SCM, dòng liên kết thông tin giữa các thành viên khác nhau của chuỗi đóng vai trò quan trọng đối với hiệu quả tổng thể của chuỗi đó.” là phát biểu về trường phái nào trong quản lý chuỗi cung ứng?",
+    "questionText": "Các mục tiêu của tiếp cận quản trị mục tiêu (MBO) trong  logistics và chuỗi cung ứng của doanh nghiệp được chia làm 3 loại, bao gồm những loại mục tiêu nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Trường phái liên kết"
+        "text": "Mục tiêu dài hạn, mục tiêu công việc hàng  ngày, mục tiêu mở rộng thị trường"
       },
       {
         "label": "B",
-        "text": "Trường phái tích hợp"
+        "text": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
       },
       {
         "label": "C",
-        "text": "Trường phái chuỗi chức năng"
+        "text": "Mục tiêu giải quyết vấn đề, mục tiêu công việc hàng ngày, mục tiêu giảm chi phí"
       },
       {
         "label": "D",
-        "text": "Trường phái thông tin"
+        "text": "Mục tiêu sáng tạo, mục tiêu giảm chi phí, mục tiêu mở rộng thị trường"
       }
     ],
-    "correctAnswerText": "Trường phái thông tin"
+    "correctAnswerText": "Mục tiêu đổi mới, mục tiêu giải quyết vấn đề, mục tiêu cho công việc hàng ngày"
   },
   {
     "questionNumber": "8",
-    "questionText": "Quan điểm nào đặt quản lý chuỗi cung ứng ở vị trí chiến lược nhiều hơn và ít chú trọng ở tầm chiến thuật?",
+    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “… là hai hoặc nhiều doanh nghiệp chia sẻ trách nhiệm, trao đổi thông tin về lập kế hoạch, quản lý, thực hiện và đo lường hiệu suất chung.”",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Chia sẻ chuỗi cung ứng"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Cộng tác chuỗi cung ứng"
       },
       {
         "label": "C",
-        "text": "Quan điểm liên ngành"
+        "text": "Kết nối chuỗi cung ứng"
       },
       {
         "label": "D",
-        "text": "Quan điểm truyền thống"
+        "text": "Tích hợp chuỗi cung ứng"
       }
     ],
-    "correctAnswerText": "Quan điểm giao thoa"
+    "correctAnswerText": "Cộng tác chuỗi cung ứng"
   },
   {
     "questionNumber": "9",
-    "questionText": "Vào năm 1956, phát kiến nào trong lĩnh vực vận tải và logistics đã tạo ra cuộc cách mạng trong tái cấu trúc và hiện đại hoá thương mại thế giới?",
+    "questionText": "Mức độ sẵn sàng liên lạc, giao tiếp và thấu hiểu nhu cầu khách hàng thể hiện khía cạnh nào của nguyên tắc định hướng khách hàng?",
     "options": [
       {
         "label": "A",
-        "text": "Container"
+        "text": "Gần gũi đối với khách hàng"
       },
       {
         "label": "B",
-        "text": "Pallet"
+        "text": "Dễ tiếp cận đối với khách hàng"
       },
       {
         "label": "C",
-        "text": "Kênh đào Panama"
+        "text": "Tùy chỉnh đối với khách hàng"
       },
       {
         "label": "D",
-        "text": "Các siêu tàu biển"
+        "text": "Linh hoạt đối với khách hàng"
       }
     ],
-    "correctAnswerText": "Container"
+    "correctAnswerText": "Gần gũi đối với khách hàng"
   },
   {
     "questionNumber": "10",
-    "questionText": "Trường phái chuỗi chức năng nhấn mạnh vào yếu tố nào sau đây?",
+    "questionText": "Chọn đáp án phù hợp điền vào chỗ trống: “Hệ thống logistics quốc gia được hiểu là một mạng lưới các tổ chức, con người, hoạt động, thông tin và nguồn lực liên quan đến việc … các dịch vụ logistics thương mại cho các ngành kinh tế của một quốc gia”?",
     "options": [
       {
         "label": "A",
-        "text": "Quá trình gia tăng giá trị cho sản phẩm"
+        "text": "quản lý và giám sát"
       },
       {
         "label": "B",
-        "text": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+        "text": "tổ chức và cung cấp"
       },
       {
         "label": "C",
-        "text": "Liên kết giữa các chức năng trong chuỗi cung ứng"
+        "text": "phân chia"
       },
       {
         "label": "D",
-        "text": "Dòng vận động nguyên vật liệu và hàng hoá"
+        "text": "phân phối"
       }
     ],
-    "correctAnswerText": "Dòng vận động nguyên vật liệu, hàng hoá và quá trình gia tăng giá trị cho sản phẩm"
+    "correctAnswerText": "tổ chức và cung cấp"
   },
   {
     "questionNumber": "11",
-    "questionText": "Công thức “Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối” là thể hiện quan điểm nào khi phân định phạm vi quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Khía cạnh “Linh hoạt đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Khả năng tăng trưởng doanh thu nhanh chóng"
       },
       {
         "label": "C",
-        "text": "Quan điểm liên ngành"
+        "text": "Khả năng cung cấp sản phẩm với giá rẻ"
       },
       {
         "label": "D",
-        "text": "Quan điểm truyền thống"
+        "text": "Khả năng dự báo nhu cầu khách hàng"
       }
     ],
-    "correctAnswerText": "Quan điểm liên ngành"
+    "correctAnswerText": "Khả năng nhận diện và sẵn sàng đáp ứng với những kỳ vọng thay đổi của khách hàng"
   },
   {
     "questionNumber": "12",
-    "questionText": "Việc tách logistics ra khỏi chức năng marketing và sản xuất, trở thành một chức năng độc lập là thể hiện đặc điểm gì trong quá trình phát triển logistics và chuỗi cung ứng?",
+    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp tiếp cận quản trị quá trình (MBP), trưởng mỗi bộ phận không chỉ chịu trách nhiệm về công việc của bộ phận mình mà còn về công việc của bộ phận nào trong doanh nghiệp?",
     "options": [
       {
         "label": "A",
-        "text": "Sự phân mảnh"
+        "text": "Bộ phận nhân sự"
       },
       {
         "label": "B",
-        "text": "Tích hợp toàn chuỗi cung ứng"
+        "text": "Bộ phận marketing"
       },
       {
         "label": "C",
-        "text": "Tích hợp từng phần"
+        "text": "Bộ phận sản xuất"
       },
       {
         "label": "D",
-        "text": "Tích hợp toàn doanh nghiệp"
+        "text": "Bộ phận phía sau mình trong quy trình"
       }
     ],
-    "correctAnswerText": "Tích hợp toàn doanh nghiệp"
+    "correctAnswerText": "Bộ phận phía sau mình trong quy trình"
   },
   {
     "questionNumber": "13",
-    "questionText": "Trong giai đoạn từ năm 1980 - 1990, yếu tố nào sau đây tác động lớn tới sự phát triển của logistics?",
+    "questionText": "Khía cạnh “Gần gũi với khách hàng” trong định hướng khách hàng đòi hỏi doanh nghiệp phải làm gì?",
     "options": [
       {
         "label": "A",
-        "text": "Toàn cầu hoá"
+        "text": "Cải thiện chiến lược phân phối sản phẩm"
       },
       {
         "label": "B",
-        "text": "Ứng dụng rộng rãi của máy tính cá nhân"
+        "text": "Giảm giá sản phẩm để thu hút khách hàng"
       },
       {
         "label": "C",
-        "text": "Cả 3 đáp án còn lại đều đúng"
+        "text": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
       },
       {
         "label": "D",
-        "text": "Triết lý quản lý chất lượng toàn diện"
+        "text": "Tăng cường quảng cáo sản phẩm"
       }
     ],
-    "correctAnswerText": "Cả 3 đáp án còn lại đều đúng"
+    "correctAnswerText": "Duy trì giao tiếp hiệu quả với khách hàng và thấu hiểu nhu cầu của khách hàng"
   },
   {
     "questionNumber": "14",
-    "questionText": "Thuật ngữ “Logistics thông minh” hay “Logistics 4.0” được đề cập trong giai đoạn nào của quá trình phát triển logistics?",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, doanh nghiệp logistics nào sau đây có khả năng cung cấp các dịch vụ logistics tích hợp/trọn gói?",
     "options": [
       {
         "label": "A",
-        "text": "Từ năm 1970 đến 1990"
+        "text": "1PL"
       },
       {
         "label": "B",
-        "text": "Từ năm 1960 đến 1970"
+        "text": "2PL"
       },
       {
         "label": "C",
-        "text": "Từ 2010 đến nay"
+        "text": "3PL"
       },
       {
         "label": "D",
-        "text": "Từ năm 1990 đến 2010"
+        "text": "4PL"
       }
     ],
-    "correctAnswerText": "Từ 2010 đến nay"
+    "correctAnswerText": "3PL"
   },
   {
     "questionNumber": "15",
-    "questionText": "Thuật ngữ “Logistics” xuất hiện lần đầu tiên là trong lĩnh vực nào?",
+    "questionText": "Doanh nghiệp kinh doanh vận tải, kho bãi, khai thuê hải quan thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Thương mại"
+        "text": "Doanh nghiệp khai thác"
       },
       {
         "label": "B",
-        "text": "Kinh tế"
+        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
       },
       {
         "label": "C",
-        "text": "Vận tải biển"
+        "text": "Doanh nghiệp logistics"
       },
       {
         "label": "D",
-        "text": "Quân sự"
+        "text": "Dịch vụ logistics đầu ra"
       }
     ],
-    "correctAnswerText": "Quân sự"
+    "correctAnswerText": "Doanh nghiệp logistics"
   },
   {
     "questionNumber": "16",
-    "questionText": "Trong các trường phái quản lý chuỗi cung ứng, trường phái nào nhấn mạnh vào sự liên kết giữa các chức năng khác nhau của chuỗi chung ứng để khai thác lợi thế cạnh tranh?",
+    "questionText": "Dựa trên năng lực cung cấp dịch vụ, cho biết yếu tố tạo nên sự khác biệt cơ bản về năng lực giữa doanh nghiệp 2PL và 3PL?",
     "options": [
       {
         "label": "A",
-        "text": "Trường phái chuỗi chức năng"
+        "text": "Công nghệ logistics"
       },
       {
         "label": "B",
-        "text": "Trường phái tích hợp"
+        "text": "Hệ thống kho bãi"
       },
       {
         "label": "C",
-        "text": "Trường phái liên kết"
+        "text": "Phương tiện vận tải"
       },
       {
         "label": "D",
-        "text": "Trường phái thông tin"
+        "text": "Tích hợp và điều phối hoạt động logistics"
       }
     ],
-    "correctAnswerText": "Trường phái liên kết"
+    "correctAnswerText": "Tích hợp và điều phối hoạt động logistics"
   },
   {
     "questionNumber": "17",
-    "questionText": "Theo quan điểm liên ngành, công thức nào sau đây thể hiện phạm vi của quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Theo quan điểm hiện nay, cơ sở hạ tầng logistics quốc gia bao gồm những yếu tố nào?",
     "options": [
       {
         "label": "A",
-        "text": "Quản lý chuỗi cung ứng = Quản lý cung ứng + Logistics + Quản lý phân phối"
+        "text": "Hạ tầng giao thông; Trung tâm thương mại và kho bãi"
       },
       {
         "label": "B",
-        "text": "Quản trị Logistics = Quản lý nguyên vật liệu + Phân phối hàng hoá"
+        "text": "Hạ tầng giao thông; Điều kiện và phương tiện vận tải; Hạ tầng CNTT"
       },
       {
         "label": "C",
-        "text": "Cả 2 công thức đều sai"
+        "text": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
       },
       {
         "label": "D",
-        "text": "Cả 2 công thức đều đúng"
+        "text": "Hạ tầng giao thông; Hạ tầng CNTT"
       }
     ],
-    "correctAnswerText": "Cả 2 công thức đều đúng"
+    "correctAnswerText": "Hạ tầng giao thông; Hạ tầng thương mại; Hạ tầng CNTT"
   },
   {
     "questionNumber": "18",
-    "questionText": "Theo cách hiểu về logistics từ quan điểm của Châu Âu, trong phạm vi doanh nghiệp logistics kinh doanh có những cấp độ nào?",
+    "questionText": "Năng lực cung cấp dịch vụ của doanh nghiệp logistics 2PL có đặc điểm nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Cả ba đáp án còn lại"
+        "text": "Cung cấp dịch vụ quản lý chuỗi cung ứng toàn cầu"
       },
       {
         "label": "B",
-        "text": "Triết lý logistics"
+        "text": "Cung cấp dịch vụ logistics trọn gói"
       },
       {
         "label": "C",
-        "text": "Hệ thống logistics"
+        "text": "Cung cấp đồng thời dịch vụ vận chuyển và kho bãi"
       },
       {
         "label": "D",
-        "text": "Quản trị logistics"
+        "text": "Cung cấp dịch vụ logistics đơn lẻ"
       }
     ],
-    "correctAnswerText": "Cả ba đáp án còn lại"
+    "correctAnswerText": "Cung cấp dịch vụ logistics đơn lẻ"
   },
   {
     "questionNumber": "19",
-    "questionText": "Vì sao những nhà quản trị ủng hộ quá mức trường phái tích hợp trong quản lý chuỗi cung ứng thường mắc phải bẫy toàn năng?",
+    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào đòi hỏi mức độ quản lý phức tạp nhất?",
     "options": [
       {
         "label": "A",
-        "text": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+        "text": "Cấp độ ngành"
       },
       {
         "label": "B",
-        "text": "Vì không tích hợp được các thành viên trong chuỗi cung ứng"
+        "text": "Cấp độ sản phẩm"
       },
       {
         "label": "C",
-        "text": "Vì không tích hợp được các dòng vận động hàng hoá và thông tin"
+        "text": "Cấp độ doanh nghiệp"
       },
       {
         "label": "D",
-        "text": "Vì không tích hợp được các quá trình kinh doanh xuyên suốt chuỗi cung ứng"
+        "text": "Cấp độ quy tình"
       }
     ],
-    "correctAnswerText": "Vì coi quản lý chuỗi cung ứng là quản trị mọi quá trình kinh doanh của doanh nghiệp"
+    "correctAnswerText": "Cấp độ ngành"
   },
   {
     "questionNumber": "20",
-    "questionText": "Nhận định nào sau đây khi nói về phạm vi giữa quản trị logistics và quản lý chuỗi cung ứng KHÔNG đúng theo quan điểm liên ngành?",
+    "questionText": "Trong các phạm vi tác động của logistics và chuỗi cung ứng sau đây, phạm vi nào tạo ra giá trị cao nhất?",
     "options": [
       {
         "label": "A",
-        "text": "Ngoài logistics, mô hình quản lý chuỗi cung ứng còn bao gồm cả các chức năng marketing, R&D, sản xuất, dự báo…"
+        "text": "Cấp độ quy tình"
       },
       {
         "label": "B",
-        "text": "Logistics là một phần của quản lý chuỗi cung ứng."
+        "text": "Cấp độ ngành"
       },
       {
         "label": "C",
-        "text": "Quản lý chuỗi cung ứng bao trùm lên logistics"
+        "text": "Cấp độ doanh nghiệp"
       },
       {
         "label": "D",
-        "text": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
+        "text": "Cấp độ sản phẩm"
       }
     ],
-    "correctAnswerText": "Quản lý chuỗi cung ứng là logistics liên tổ chức"
+    "correctAnswerText": "Cấp độ ngành"
   },
   {
     "questionNumber": "21",
-    "questionText": "Có 4 quan niệm cơ bản về phạm vi quản trị logistics và quản lý chuỗi cung ứng, bao gồm: quan điểm truyền thống, quan điểm đồng nhất, quan điểm liên ngành và quan điểm gì?",
+    "questionText": "Cho phép doanh nghiệp xác định rõ mục tiêu, phương hướng phát triển logistics và chuỗi cung ứng, đồng thời khai thác và sử dụng tối đa nguồn lực logistics, lợi thế, cơ hội để giành ưu thế trong dài hạn là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm hợp nhất"
+        "text": "Tiếp cận quản trị theo mục tiêu"
       },
       {
         "label": "B",
-        "text": "Quan điểm thống nhất"
+        "text": "Tiếp cận quản trị theo chức năng"
       },
       {
         "label": "C",
-        "text": "Quan điểm giao thoa"
+        "text": "Tiếp cận quản trị theo quá trình"
       },
       {
         "label": "D",
-        "text": "Quan điểm tích hợp"
+        "text": "Tiếp cận chiến lược"
       }
     ],
-    "correctAnswerText": "Quan điểm giao thoa"
+    "correctAnswerText": "Tiếp cận chiến lược"
   },
   {
     "questionNumber": "22",
-    "questionText": "Tích hợp từng phần theo hướng quản lý nguyên vật liệu đầu vào (inbound logistics) bao gồm hoạt động nào sau đây?",
+    "questionText": "Quản lý công việc theo một chu trình đã được phân tích và quy định kỹ lưỡng là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
     "options": [
       {
         "label": "A",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "Tiếp cận chiến lược"
       },
       {
         "label": "B",
-        "text": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+        "text": "Tiếp cận quản trị theo quá trình"
       },
       {
         "label": "C",
-        "text": "Vận chuyển với tốc độ nhanh cho khách hàng"
+        "text": "Tiếp cận quản trị theo mục tiêu"
       },
       {
         "label": "D",
-        "text": "Cung ứng sản phẩm hoàn chỉnh ra thị trường"
+        "text": "Tiếp cận quản trị theo chức năng"
       }
     ],
-    "correctAnswerText": "Cung ứng, mua và quản lý nguyên nhiên liệu và vật tư sản xuất."
+    "correctAnswerText": "Tiếp cận quản trị theo quá trình"
   },
   {
     "questionNumber": "23",
-    "questionText": "Ở thời kỳ Ai Cập cổ đại, quá trình xây dựng kim tự tháp được coi là thành tựu đầu tiên trong phát triển logistics trên khía cạnh nào?",
+    "questionText": "Doanh nghiệp sản xuất, doanh nghiệp phân phối bán buôn và bán lẻ thuộc nhóm thành phần nào trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Phương pháp vận chuyển"
+        "text": "Doanh nghiệp sử dụng dịch vụ logistics"
       },
       {
         "label": "B",
-        "text": "Tổ chức lao động"
+        "text": "Dịch vụ logistics đầu ra"
       },
       {
         "label": "C",
-        "text": "Xác định khối lượng nguyên liệu sử dụng"
+        "text": "Doanh nghiệp logistics"
       },
       {
         "label": "D",
-        "text": "Kỹ thuật cắt gọt đá nguyên khối"
+        "text": "Doanh nghiệp cung ứng dịch vụ giao nhận hàng hóa"
       }
     ],
-    "correctAnswerText": "Phương pháp vận chuyển"
+    "correctAnswerText": "Doanh nghiệp sử dụng dịch vụ logistics"
   },
   {
     "questionNumber": "24",
-    "questionText": "Cuộc cách mạng về vận chuyển của người Hy Lạp cổ đại (2.500 - 539 TCN) là dựa trên phát kiến nào?",
+    "questionText": "Quản lý toàn bộ công việc dựa trên việc xác định các mục tiêu trước mắt để xây dựng và triển khai kế hoạch thực hiện các mục tiêu chung của hoạt động kinh doanh là đặc trưng của cách tiếp cận nào trong quản trị logistics và chuỗi cung ứng?",
     "options": [
       {
         "label": "A",
-        "text": "Công nghệ đóng tàu biển"
+        "text": "Tiếp cận chiến lược"
       },
       {
         "label": "B",
-        "text": "Đầu máy hơi nước"
+        "text": "Tiếp cận quản trị theo quá trình"
       },
       {
         "label": "C",
-        "text": "Động cơ đốt trong"
+        "text": "Tiếp cận quản trị theo chức năng"
       },
       {
         "label": "D",
-        "text": "Hệ thống truyền động"
+        "text": "Tiếp cận quản trị theo mục tiêu"
       }
     ],
-    "correctAnswerText": "Công nghệ đóng tàu biển"
+    "correctAnswerText": "Tiếp cận quản trị theo mục tiêu"
   },
   {
     "questionNumber": "25",
-    "questionText": "Quan điểm nào coi logistics là một phần của quản trị chuỗi cung ứng, hay quản trị chuỗi cung ứng bao trùm lên logistics và nhiều lĩnh vực khác?",
+    "questionText": "Cho biết vai trò của Chính phủ đối với ngành logistics thương mại?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm truyền thống"
+        "text": "Thúc đẩy sự cạnh tranh giữa các công ty logistics"
       },
       {
         "label": "B",
-        "text": "Quan điểm liên ngành"
+        "text": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
       },
       {
         "label": "C",
-        "text": "Quan điểm đồng nhất"
+        "text": "Ổn định thị trường xuất khẩu"
       },
       {
         "label": "D",
-        "text": "Quan điểm giao thoa"
+        "text": "Cung cấp các dịch vụ logistics giá rẻ cho doanh nghiệp"
       }
     ],
-    "correctAnswerText": "Quan điểm liên ngành"
+    "correctAnswerText": "Đầu tư và xây dựng cơ sở hạ tầng logistics quốc gia"
   },
   {
     "questionNumber": "26",
-    "questionText": "Đặc trưng của logistics và chuỗi cung trên thế giới giai đoạn trước năm 1960 là gì?",
+    "questionText": "06 nhóm yếu tố cơ bản của hệ thống logistics quốc gia bao gồm: Khung thể chế pháp luật logistics, cơ sở hạ tầng logistics, doanh nghiệp logistics, doanh nghiệp sử dụng dịch vụ logistics, dịch vụ logistics đầu ra và yếu tố nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Tích hợp từng phần"
+        "text": "Công nghệ logistics"
       },
       {
         "label": "B",
-        "text": "Tích hợp toàn chuỗi cung ứng"
+        "text": "Phương tiện vận tải"
       },
       {
         "label": "C",
-        "text": "Tích hợp toàn doanh nghiệp"
+        "text": "Cơ sở đào tạo logistics"
       },
       {
         "label": "D",
-        "text": "Sự phân mảnh"
+        "text": "Nguồn nhân lực logistics"
       }
     ],
-    "correctAnswerText": "Sự phân mảnh"
+    "correctAnswerText": "Nguồn nhân lực logistics"
   },
   {
     "questionNumber": "27",
-    "questionText": "Theo quan điểm hợp nhất, phát biểu nào sau đây là đúng?",
+    "questionText": "Khi quản trị logistics và chuỗi cung ứng tại doanh nghiệp theo tiếp cận quản trị mục tiêu (MBO), lãnh đạo và nhân viên cần làm gì để đạt được mục tiêu?",
     "options": [
       {
         "label": "A",
-        "text": "Quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+        "text": "Chỉ tuân thủ chỉ thị của lãnh đạo cấp cao"
       },
       {
         "label": "B",
-        "text": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+        "text": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
       },
       {
         "label": "C",
-        "text": "Logistics và quản trị chuỗi cung ứng là một, chỉ đơn giản là sự đổi tên."
+        "text": "Chỉ tập trung vào các mục tiêu ngắn hạn"
       },
       {
         "label": "D",
-        "text": "Các phát biểu còn lại đều sai"
+        "text": "Chỉ quan tâm đến việc thực hiện các công việc hàng  ngày"
       }
     ],
-    "correctAnswerText": "Phạm vi chuỗi cung ứng bao trùm lên hoạt động logistics cùng với các hoạt động quản lý nguồn cung ứng và phân phối hàng hóa cho khách hàng."
+    "correctAnswerText": "Hợp tác xác định trách nhiệm và phân công quyền hạn để đạt được mục tiêu"
   },
   {
     "questionNumber": "28",
-    "questionText": "Phát biểu nào sau đây là đúng khi nói về quan điểm đồng nhất trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Chỉ ra các cách tiếp cận cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp sản xuất - kinh doanh hàng hóa: (1) Tiếp cận quản trị theo mục tiêu; (2) Tiếp cận quản trị theo nhóm khách hàng; (3) Tiếp cận quản trị theo quá trình; (4) Tiếp cận quản trị theo chức năng",
     "options": [
       {
         "label": "A",
-        "text": "Không phân biệt giữa logistics và quản lý chuỗi cung ứng"
+        "text": "1, 3, 4"
       },
       {
         "label": "B",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "2, 3, 4"
       },
       {
         "label": "C",
-        "text": "Người quản lý chuỗi cung ứng cũng quản lý các hoạt động logistics trong chuỗi cung ứng"
+        "text": "1, 2, 4"
       },
       {
         "label": "D",
-        "text": "Quản lý chuỗi cung ứng là sự đổi tên của logistics"
+        "text": "1, 2, 3"
       }
     ],
-    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+    "correctAnswerText": "1, 3, 4"
   },
   {
     "questionNumber": "29",
-    "questionText": "Giai đoạn 1960 - 1970, logistics và chuỗi cung ứng phát triển theo hướng nào?",
+    "questionText": "Quan điểm về hệ thống logistics quốc gia của các nền kinh tế chậm phát triển thường có đặc điểm nào sau đây?",
     "options": [
       {
         "label": "A",
-        "text": "Tích hợp với nhà cung cấp"
+        "text": "Các công ty logistics hoạt động độc lập mà không cần sự hỗ trợ của Chính phủ"
       },
       {
         "label": "B",
-        "text": "Tích hợp với khách hàng"
+        "text": "Hệ thống logistics có tầm nhìn chiến lược rõ ràng"
       },
       {
         "label": "C",
-        "text": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+        "text": "Chỉ chú trọng vào các dịch vụ logistics trong nước"
       },
       {
         "label": "D",
-        "text": "Tích hợp phía trước và phía sau"
+        "text": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
       }
     ],
-    "correctAnswerText": "Tích hợp quản lý vật liệu đầu vào và phân phối đầu ra"
+    "correctAnswerText": "Hệ thống logistics chưa có tầm nhìn chiến lược và chưa được coi trọng trong hệ thống phát triển kinh tế quốc gia"
   },
   {
     "questionNumber": "30",
-    "questionText": "Các doanh nghiệp thiết lập vị trí quản lý chuỗi cung ứng trong bộ phận logistics là theo quan điểm nào?",
+    "questionText": "Đâu là chủ thể tạo ra nhu cầu về logistics trong hệ thống logistics quốc gia?",
     "options": [
       {
         "label": "A",
-        "text": "Quan điểm đồng nhất"
+        "text": "Doanh nghiệp sản xuất hàng may mặc"
       },
       {
         "label": "B",
-        "text": "Quan điểm giao thoa"
+        "text": "Doanh nghiệp chuyển phát"
       },
       {
         "label": "C",
-        "text": "Quan điểm truyền thống"
+        "text": "Doanh nghiệp 2PL"
       },
       {
         "label": "D",
-        "text": "Quan điểm liên ngành"
+        "text": "Doanh nghiệp vận tải"
       }
     ],
-    "correctAnswerText": "Quan điểm truyền thống"
+    "correctAnswerText": "Doanh nghiệp sản xuất hàng may mặc"
   },
   {
     "questionNumber": "31",
-    "questionText": "Phát biểu nào sau đây đúng về quan điểm liên ngành trong quản trị logistics và quản lý chuỗi cung ứng?",
+    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Định hướng khách hàng; (2) Định hướng nguồn hàng; (3) Định hướng giá trị; (4) Tối ưu hóa",
     "options": [
       {
         "label": "A",
-        "text": "Quản trị logistics là một phần của quản lý chuỗi cung ứng"
+        "text": "1, 3, 4"
       },
       {
         "label": "B",
-        "text": "Tất cả các chức năng kinh doanh truyền thống được đưa vào quy trình quản lý chuỗi cung ứng"
+        "text": "1, 2, 4"
       },
       {
         "label": "C",
-        "text": "Quản lý chuỗi cung ứng bao gồm quản lý các chức năng marketing, bán hàng, R&R, dự báo, sản xuất, logistics, tài chính, dịch vụ khách hàng…"
+        "text": "2, 3, 4"
       },
       {
         "label": "D",
-        "text": "Tất cả các đáp án còn lại đều đúng"
+        "text": "1, 2, 3"
       }
     ],
-    "correctAnswerText": "Tất cả các đáp án còn lại đều đúng"
+    "correctAnswerText": "1, 3, 4"
   },
   {
     "questionNumber": "32",
-    "questionText": "Biến số phân phối trong marketing-mix khác với logistics ở điểm quan trọng nào nào sau đây?",
+    "questionText": "Khía cạnh “Dễ dàng tiếp cận đối với khách hàng” trong định hướng khách hàng đề cập đến điều gì?",
     "options": [
       {
         "label": "A",
-        "text": "Đối tượng khách hàng"
+        "text": "Khả năng doanh nghiệp dễ dàng tiếp cận với nguồn nhân lực"
       },
       {
         "label": "B",
-        "text": "Chú trọng giao dịch hơn là phân phối vật chất"
+        "text": "Khả năng doanh nghiệp dễ dàng truy cập vào các thông tin quan trọng để đáp ứng yêu cầu khách hàng"
       },
       {
         "label": "C",
-        "text": "Mục tiêu"
+        "text": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
       },
       {
         "label": "D",
-        "text": "Không có điểm khác biệt"
+        "text": "Khả năng tạo ra nhiều sản phẩm đa dạng"
       }
     ],
-    "correctAnswerText": "Chú trọng giao dịch hơn là phân phối vật chất"
+    "correctAnswerText": "Khả năng khách hàng dễ dàng truy cập thông tin quan trọng để mua sắm và thuận lợi trong tiếp nhận hàng hoá, dịch vụ đã mua"
   },
   {
     "questionNumber": "33",
-    "questionText": "Đâu KHÔNG phải là nguyên nhân dẫn đến tích hợp trong phân phối hàng hoá đầu ra (outbound logistics) ở giai đoạn 1960 - 1970?",
+    "questionText": "Nguyên tắc “Định hướng khách hàng” cho thấy tài sản có giá trị nhất trong doanh nghiệp là gì?",
     "options": [
       {
         "label": "A",
-        "text": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+        "text": "Nguồn vốn đầu tư ban đầu"
       },
       {
         "label": "B",
-        "text": "Sự thay đổi của quan điểm marketing trước tình thế cung vượt cầu"
+        "text": "Quy trình sản xuất hiệu quả"
       },
       {
         "label": "C",
-        "text": "Tỷ lệ chi phí phân phối so với GDP tại một số quốc gia tăng cao."
+        "text": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
       },
       {
         "label": "D",
-        "text": "Doanh nghiệp gia tăng sự chú ý đến người tiêu dùng do nhu cầu thị trường bão hoà."
+        "text": "Khả năng ứng dụng công nghệ tiên tiến"
       }
     ],
-    "correctAnswerText": "Yêu cầu nâng cao năng lực cung ứng nguyên nhiên liệu và vật tư sản xuất"
+    "correctAnswerText": "Sức mạnh từ nền tảng khách hàng và các mối quan hệ khách hàng"
   },
   {
     "questionNumber": "34",
-    "questionText": "Theo quan điểm đồng nhất, phát biểu nào sau đây là đúng?",
+    "questionText": "Chỉ ra các nguyên tắc cơ bản trong quản trị logistics và chuỗi cung ứng tại doanh nghiệp hiện nay: (1) Tích hợp và cộng tác; (2) Tăng trưởng ổn định; (3) Thích nghi công nghệ; (4) Tối ưu hóa",
     "options": [
       {
         "label": "A",
-        "text": "Các phát biểu còn lại đều sai"
+        "text": "1, 2, 3"
       },
       {
         "label": "B",
-        "text": "Quan điểm đồng nhất coi logistics là một phần của quản trị chuỗi cung ứng."
+        "text": "1, 2, 4"
       },
       {
         "label": "C",
-        "text": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+        "text": "1, 3, 4"
       },
       {
         "label": "D",
-        "text": "Quan điểm đồng nhất coi quản trị chuỗi cung ứng là một loại logistics đặc biệt, là hoạt động logistics bên ngoài hoặc liên tổ chức."
+        "text": "2, 3, 4"
       }
     ],
-    "correctAnswerText": "Quan điểm đồng nhất không phân biệt giữa quản trị logistics và quản trị chuỗi cung ứng."
+    "correctAnswerText": "1, 3, 4"
   }
 ]
