@@ -1,0 +1,508 @@
+[
+  {
+    "questionNumber": "1",
+    "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường tổng cầu dịch chuyển sang trái, sản lượng giảm."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, sản lượng tăng."
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+      },
+      {
+        "label": "D",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, sản lượng giảm."
+      }
+    ],
+    "correctAnswerText": "Đường tổng cầu dịch chuyển sang phải, sản lượng tăng."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Nhận định nào sau đây là đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
+      },
+      {
+        "label": "B",
+        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ tăng."
+      },
+      {
+        "label": "C",
+        "text": "Trong nền kinh tế khi lạm phát tăng thì thất nghiệp chắc chắn sẽ giảm."
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế tăng trưởng sẽ luôn đi kèm với lạm phát."
+      }
+    ],
+    "correctAnswerText": "Giả sử công nghệ sản xuất không đổi, khi nền kinh tế tăng trưởng thì thất nghiệp sẽ giảm."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Nhân tố nào sau đây thay đổi sẽ gây ra hiện tượng trượt dọc trên đường tổng cung ngắn hạn ASs?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chất lượng nguồn lực."
+      },
+      {
+        "label": "B",
+        "text": "Năng suất lao động."
+      },
+      {
+        "label": "C",
+        "text": "Chi phí sản xuất."
+      },
+      {
+        "label": "D",
+        "text": "Mức giá chung."
+      }
+    ],
+    "correctAnswerText": "Mức giá chung."
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Khi thực hiện chính sách tài khoá, Chính phủ có thể dùng các công cụ nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá cả và tiền lương."
+      },
+      {
+        "label": "B",
+        "text": "Thuế quan và hạn ngạch."
+      },
+      {
+        "label": "C",
+        "text": "Thuế và chi tiêu của Chính phủ."
+      },
+      {
+        "label": "D",
+        "text": "Tỷ giá hối đoái."
+      }
+    ],
+    "correctAnswerText": "Thuế và chi tiêu của Chính phủ."
+  },
+  {
+    "questionNumber": "5",
+    "questionText": "Mức sản lượng cân bằng trong dài hạn của nền kinh tế:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
+      }
+    ],
+    "correctAnswerText": "Luôn bằng mức sản lượng tiềm năng của nền kinh tế."
+  },
+  {
+    "questionNumber": "6",
+    "questionText": "Điều nào dưới đây sẽ có xu hướng làm tăng tổng cầu (AD):",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+      },
+      {
+        "label": "B",
+        "text": "Nhập khẩu của quốc gia tăng."
+      },
+      {
+        "label": "C",
+        "text": "Chính phủ giảm chi tiêu đầu tư công."
+      },
+      {
+        "label": "D",
+        "text": "Chính phủ tăng thuế."
+      }
+    ],
+    "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+  },
+  {
+    "questionNumber": "7",
+    "questionText": "Nếu chính phủ đồng thời tăng thuế đánh vào hàng tiêu dùng, hàng hoá đầu tư và nguyên liệu nhập khẩu thì",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cả đường tổng cung ngắn hạn và tổng cầu đều dịch chuyển sang phải."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang phải, đường tổng cầu dịch chuyển sang trái"
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cung ngắn hạn dịch chuyển sang trái, đường tổng cầu dịch chuyển sang phải."
+      },
+      {
+        "label": "D",
+        "text": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+      }
+    ],
+    "correctAnswerText": "Cả đường tổng cầu và đường tổng cung ngắn hạn dịch chuyển sang trái"
+  },
+  {
+    "questionNumber": "8",
+    "questionText": "Sự thay đổi nào sau đây sẽ gây ra hiện tượng dịch chuyển sang phải của đường tổng cầu (AD)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Mức giá chung tăng"
+      },
+      {
+        "label": "C",
+        "text": "Mức giá chung giảm"
+      },
+      {
+        "label": "D",
+        "text": "Nhu cầu nhập khẩu của quốc gia tăng."
+      }
+    ],
+    "correctAnswerText": "Chính phủ tăng chi tiêu để mua hàng hóa và dịch vụ trong nền kinh tế."
+  },
+  {
+    "questionNumber": "9",
+    "questionText": "Theo định luật OKun, để giảm tỷ lệ thất nghiệp 1%/năm thì tốc độ tăng trưởng GDP (%/năm) là khoảng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "2,5 %"
+      },
+      {
+        "label": "B",
+        "text": "4 %"
+      },
+      {
+        "label": "C",
+        "text": "1,5 %"
+      },
+      {
+        "label": "D",
+        "text": "3 %"
+      }
+    ],
+    "correctAnswerText": "2,5 %"
+  },
+  {
+    "questionNumber": "10",
+    "questionText": "Mục tiêu của kinh tế vĩ mô bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+      },
+      {
+        "label": "B",
+        "text": "Cắt giảm chi phí sản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Tối đa hóa lợi nhuận của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Tăng thị phần bán hàng."
+      }
+    ],
+    "correctAnswerText": "Tăng trưởng kinh tế, giảm tỷ lệ thất nghiệp và ổn định giá cả."
+  },
+  {
+    "questionNumber": "11",
+    "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chính sách định giá đối với sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Chính sách phát triển thị trường của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Chính sách bảo hành sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+      }
+    ],
+    "correctAnswerText": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+  },
+  {
+    "questionNumber": "12",
+    "questionText": "Trong điều kiện các yếu tố khác không đổi, khi xuất khẩu của một quốc gia tăng sẽ có thể dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không làm thay đổi mức giá chung"
+      },
+      {
+        "label": "B",
+        "text": "Sản lượng cân bằng của nền kinh tế giảm."
+      },
+      {
+        "label": "C",
+        "text": "Giảm giá của tất cả các hàng hóa và dịch vụ trong nền kinh tế"
+      },
+      {
+        "label": "D",
+        "text": "Sản lượng cân bằng của nền kinh tế tăng."
+      }
+    ],
+    "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
+  },
+  {
+    "questionNumber": "13",
+    "questionText": "Mức sản lượng cân bằng của nền kinh tế trong ngắn hạn:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Luôn lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Luôn nhỏ hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Bằng mức sản lượng tiềm năng của nền kinh tế."
+      }
+    ],
+    "correctAnswerText": "Có thể nhỏ hơn hoặc lớn hơn mức sản lượng tiềm năng của nền kinh tế."
+  },
+  {
+    "questionNumber": "14",
+    "questionText": "Đường tổng cung dài hạn là một đường thẳng đứng hàm ý rằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mức giá chung tăng sẽ khuyến khích đổi mới công nghệ và thúc đẩy tăng trưởng kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung dài hạn sẽ không bao giờ thay đổi vị trí."
+      },
+      {
+        "label": "C",
+        "text": "Mức giá chung tăng sẽ cho phép nền kinh tế đạt được mức sản lượng cao hơn."
+      },
+      {
+        "label": "D",
+        "text": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+      }
+    ],
+    "correctAnswerText": "Sự thay đổi của mức giá chung sẽ không ảnh hưởng đến mức sản lượng trong dài hạn."
+  },
+  {
+    "questionNumber": "15",
+    "questionText": "Khi phân tích trên mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, sự gia tăng chi tiêu chính phủ (trong ngắn hạn) sẽ dẫn đến điều gì xảy ra?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
+      },
+      {
+        "label": "B",
+        "text": "Nền kinh tế tăng trưởng nóng nhưng không gây ra lạm phát."
+      },
+      {
+        "label": "C",
+        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế tăng trưởng bền vững."
+      }
+    ],
+    "correctAnswerText": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+  },
+  {
+    "questionNumber": "16",
+    "questionText": "Nội dung nào sau đây KHÔNG phải là mục tiêu của kinh tế vĩ mô:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thúc đẩy tăng trưởng kinh tế."
+      },
+      {
+        "label": "B",
+        "text": "Ổn định giá cả."
+      },
+      {
+        "label": "C",
+        "text": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Giảm thất nghiệp."
+      }
+    ],
+    "correctAnswerText": "Tối đa hoá lợi nhuận của các doanh nghiệp."
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Sự thay đổi của yếu tố nào sau đây làm thay đổi mức sản lượng tiềm năng của nền kinh tế trong dài hạn?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
+      },
+      {
+        "label": "B",
+        "text": "Mức giá chung của nền kinh tế."
+      },
+      {
+        "label": "C",
+        "text": "Chi tiêu mua hàng của chính phủ tăng."
+      },
+      {
+        "label": "D",
+        "text": "Nhu cầu tiêu dùng tăng."
+      }
+    ],
+    "correctAnswerText": "Công nghệ sản xuất, lượng lao động, vốn của nền kinh tế và tài nguyên thiên nhiên."
+  },
+  {
+    "questionNumber": "18",
+    "questionText": "Trong điều kiện các yếu tố khác không đổi, cải tiến công nghệ trong sản xuất sẽ dẫn đến:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường tổng cầu dịch chuyển sang trái."
+      },
+      {
+        "label": "B",
+        "text": "Đường tổng cung dịch chuyển sang trái."
+      },
+      {
+        "label": "C",
+        "text": "Đường tổng cung dịch chuyển sang phải."
+      },
+      {
+        "label": "D",
+        "text": "Đường tổng cầu dịch chuyển sang phải."
+      }
+    ],
+    "correctAnswerText": "Đường tổng cung dịch chuyển sang phải."
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "Trong mô hình AD-AS, khi nền kinh tế đang cân bằng tại mức sản lượng tiềm năng, giá cả các yếu tố đầu vào tăng sẽ dẫn đến điều gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nền kinh tế suy thoái nhưng không gây ra lạm phát."
+      },
+      {
+        "label": "B",
+        "text": "Nền kinh tế suy thoái và lạm phát tăng."
+      },
+      {
+        "label": "C",
+        "text": "Nền kinh tế tăng trưởng nóng và lạm phát tăng."
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế không tăng trưởng vì sản lượng đã đạt mức tiềm năng."
+      }
+    ],
+    "correctAnswerText": "Nền kinh tế suy thoái và lạm phát tăng."
+  },
+  {
+    "questionNumber": "20",
+    "questionText": "Giả sử ban đầu nền kinh tế của Việt Nam đang ở trạng thái cân bằng dài hạn. Nền kinh tế sẽ chuyển sang trạng thái lạm phát đi kèm với suy thoái nếu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người dân thắt chặt chi tiêu do những lo ngại về suy thoái kinh tế toàn cầu."
+      },
+      {
+        "label": "B",
+        "text": "Môi trường đầu tư được cải thiện và các doanh nghiệp tăng cầu đầu tư."
+      },
+      {
+        "label": "C",
+        "text": "Giá dầu thế giới tăng"
+      },
+      {
+        "label": "D",
+        "text": "Chính phủ tăng chi tiêu cho đầu tư công."
+      }
+    ],
+    "correctAnswerText": "Giá dầu thế giới tăng"
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Trong mô hình AD-AS, sự dịch chuyển sang phải của đường AD sẽ dẫn đến sự thay đổi nào (giả sử tổng cung không đổi)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản lượng tăng và mức giá chung giảm."
+      },
+      {
+        "label": "B",
+        "text": "Sản lượng giảm và mức giá chung giảm."
+      },
+      {
+        "label": "C",
+        "text": "Sản lượng giảm và mức giá chung tăng."
+      },
+      {
+        "label": "D",
+        "text": "Sản lượng tăng và mức giá chung tăng."
+      }
+    ],
+    "correctAnswerText": "Sản lượng tăng và mức giá chung tăng."
+  },
+  {
+    "questionNumber": "22",
+    "questionText": "Đường tổng cung ngắn hạn có độ dốc dương hàm ý:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+      },
+      {
+        "label": "B",
+        "text": "Cải tiến công nghệ sẽ làm tăng tổng cầu về hàng hoá và dịch vụ"
+      },
+      {
+        "label": "C",
+        "text": "Người tiêu dùng thích mua các sản phẩm cao cấp"
+      },
+      {
+        "label": "D",
+        "text": "Mức giá chung tăng sẽ dẫn đến sự dịch chuyển sang phải của đường tổng cung."
+      }
+    ],
+    "correctAnswerText": "Mức giá chung tăng sẽ khuyến khích các doanh nghiệp sản xuất và cung ứng nhiều sản phẩm hơn"
+  }
+]
