@@ -47,6 +47,29 @@
   },
   {
     "questionNumber": "1",
+    "questionText": "Theo địa điểm lập chứng từ, chứng từ kế toán có các loại:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chứng từ bên trong và chứng từ ban đầu."
+      },
+      {
+        "label": "B",
+        "text": "Chứng từ bên ngoài và chứng từ ban đầu."
+      },
+      {
+        "label": "C",
+        "text": "Chứng từ bên trong và chứng từ bên ngoài."
+      },
+      {
+        "label": "D",
+        "text": "Chứng từ bên ngoài và chứng từ tổng hợp."
+      }
+    ],
+    "correctAnswerText": "Chứng từ bên trong và chứng từ bên ngoài."
+  },
+  {
+    "questionNumber": "1",
     "questionText": "Trong mô hình AD-AS, khi chi tiêu của chính phủ để mua hàng hoá, dịch vụ của nền kinh tế tăng sẽ dẫn đến:",
     "options": [
       {
@@ -113,6 +136,29 @@
       }
     ],
     "correctAnswerText": "Thúc đẩy tăng trưởng kinh tế và giảm thất nghiệp."
+  },
+  {
+    "questionNumber": "2",
+    "questionText": "Loại chứng từ KHÔNG phải là Hóa đơn bán hàng và cung cấp dịch vụ là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hóa đơn điện tử."
+      },
+      {
+        "label": "B",
+        "text": "Tem in sẵn giá thanh toán."
+      },
+      {
+        "label": "C",
+        "text": "Phiếu nhập kho."
+      },
+      {
+        "label": "D",
+        "text": "Vé in sẵn giá thanh toán."
+      }
+    ],
+    "correctAnswerText": "Phiếu nhập kho."
   },
   {
     "questionNumber": "2",
@@ -205,6 +251,52 @@
       }
     ],
     "correctAnswerText": "Nhập khẩu tăng, sản lượng cân bằng giảm."
+  },
+  {
+    "questionNumber": "3",
+    "questionText": "Xuất kho nguyên vật liệu để sản xuất sản phẩm. Chứng từ cần lập cho nghiệp vụ trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giấy báo nợ, hóa đơn gtgt."
+      },
+      {
+        "label": "B",
+        "text": "Hóa đơn GTGT, phiếu nhập kho."
+      },
+      {
+        "label": "C",
+        "text": "Phiếu xuất kho."
+      },
+      {
+        "label": "D",
+        "text": "Phiếu nhập kho."
+      }
+    ],
+    "correctAnswerText": "Phiếu xuất kho."
+  },
+  {
+    "questionNumber": "4",
+    "questionText": "Chứng từ nào sau đây KHÔNG phải là chứng từ gốc:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phiếu thu"
+      },
+      {
+        "label": "B",
+        "text": "Phiếu xuất kho"
+      },
+      {
+        "label": "C",
+        "text": "Hoá đơn bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Bảng kê chi tiền"
+      }
+    ],
+    "correctAnswerText": "Bảng kê chi tiền"
   },
   {
     "questionNumber": "4",
@@ -345,6 +437,29 @@
     "correctAnswerText": "Lớn hơn."
   },
   {
+    "questionNumber": "5",
+    "questionText": "Yếu tố nào sau đây là yếu tố cơ bản của chứng từ kế toán:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hình thức thanh toán"
+      },
+      {
+        "label": "B",
+        "text": "Mã số thuế của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+      },
+      {
+        "label": "D",
+        "text": "Thuế suất thuế GTGT"
+      }
+    ],
+    "correctAnswerText": "Tên, địa chỉ của đơn vị, cá nhân lập và nhận chứng từ kế toán"
+  },
+  {
     "questionNumber": "6",
     "questionText": "Điều nào dưới đây sẽ có xu hướng làm tăng tổng cầu (AD):",
     "options": [
@@ -366,6 +481,29 @@
       }
     ],
     "correctAnswerText": "Hộ gia đình tăng chi tiêu cho tiêu dùng."
+  },
+  {
+    "questionNumber": "6",
+    "questionText": "Khi bán sản phẩm hàng hóa, giá ghi trên hóa đơn GTGT là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá thỏa thuận giữa bên mua và bên bán"
+      },
+      {
+        "label": "B",
+        "text": "Giá gốc của sản phẩm hàng hoá"
+      },
+      {
+        "label": "C",
+        "text": "Giá vốn"
+      },
+      {
+        "label": "D",
+        "text": "Giá thị trường"
+      }
+    ],
+    "correctAnswerText": "Giá thỏa thuận giữa bên mua và bên bán"
   },
   {
     "questionNumber": "6",
@@ -438,6 +576,29 @@
   },
   {
     "questionNumber": "7",
+    "questionText": "Chứng từ kế toán phát sinh ngoài lãnh thổ Việt Nam ghi bằng tiếng nước ngoài, khi sử dụng để ghi sổ kế toán Việt Nam phải được dịch ra tiếng Việt, bản dịch ra tiếng Việt phải đính kèm với bản chính bằng tiếng nước ngoài, là một trong những:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nội dung của chứng từ kế toán."
+      },
+      {
+        "label": "B",
+        "text": "Nguyên tắc lập chứng từ."
+      },
+      {
+        "label": "C",
+        "text": "Yêu cầu của chứng từ kế toán."
+      },
+      {
+        "label": "D",
+        "text": "Yếu tố bổ sung của bản chứng từ."
+      }
+    ],
+    "correctAnswerText": "Yêu cầu của chứng từ kế toán."
+  },
+  {
+    "questionNumber": "7",
     "questionText": "Giả sử một nền kinh tế mở có số liệu sau: MPC = 0,8; t = 0,1 và MPM = 0,22. Nếu đầu tư tăng thêm 100 (tỷ đồng) thì xuất khẩu ròng (NX) sẽ thay đổi như thế nào?",
     "options": [
       {
@@ -507,6 +668,29 @@
   },
   {
     "questionNumber": "8",
+    "questionText": "Khi kiểm tra chứng từ, nếu phát hiện hành vi gian lận, vi phạm pháp luật, kế toán:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không cần báo cáo kế toán trưởng và lãnh đạo đơn vị."
+      },
+      {
+        "label": "B",
+        "text": "Vẫn dùng để ghi sổ kế toán."
+      },
+      {
+        "label": "C",
+        "text": "Sửa chữa lại những nội dung bị sai lệch."
+      },
+      {
+        "label": "D",
+        "text": "Không dùng để ghi sổ kế toán."
+      }
+    ],
+    "correctAnswerText": "Không dùng để ghi sổ kế toán."
+  },
+  {
+    "questionNumber": "8",
     "questionText": "Sự thay đổi nào sau đây sẽ gây ra hiện tượng dịch chuyển sang phải của đường tổng cầu (AD)?",
     "options": [
       {
@@ -550,6 +734,29 @@
       }
     ],
     "correctAnswerText": "GNP = GDP + NIA"
+  },
+  {
+    "questionNumber": "9",
+    "questionText": "Chứng từ kế toán có tính sử liệu, có ý nghĩa quan trọng về kinh tế, an ninh, quốc phòng phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lưu trữ vĩnh viễn"
+      },
+      {
+        "label": "B",
+        "text": "15 năm"
+      },
+      {
+        "label": "C",
+        "text": "5 năm"
+      },
+      {
+        "label": "D",
+        "text": "10 năm"
+      }
+    ],
+    "correctAnswerText": "Lưu trữ vĩnh viễn"
   },
   {
     "questionNumber": "9",
@@ -645,6 +852,29 @@
   },
   {
     "questionNumber": "10",
+    "questionText": "Đối tượng nào sau đây KHÔNG phải chịu trách nhiệm về nội dung của chứng từ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người chuyển giao chứng từ"
+      },
+      {
+        "label": "B",
+        "text": "Những người ký tên trên chứng từ"
+      },
+      {
+        "label": "C",
+        "text": "Người lập"
+      },
+      {
+        "label": "D",
+        "text": "Người duyệt chứng từ"
+      }
+    ],
+    "correctAnswerText": "Người chuyển giao chứng từ"
+  },
+  {
+    "questionNumber": "10",
     "questionText": "Giá trị nào nhỏ nhất trong những giá trị được đo lường sau đây:",
     "options": [
       {
@@ -737,6 +967,29 @@
   },
   {
     "questionNumber": "11",
+    "questionText": "Mua công cụ dụng cụ nhập kho, đã thanh toán bằng tiền mặt. Các chứng từ cần lập cho nghiệp vụ trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "phiếu xuất kho."
+      },
+      {
+        "label": "B",
+        "text": "hóa đơn GTGT, phiếu nhập kho."
+      },
+      {
+        "label": "C",
+        "text": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+      },
+      {
+        "label": "D",
+        "text": "giấy báo nợ, hóa đơn GTGT."
+      }
+    ],
+    "correctAnswerText": "phiếu chi, hóa đơn GTGT, phiếu nhập kho."
+  },
+  {
+    "questionNumber": "11",
     "questionText": "Những chính sách nào dưới đây thuộc chính sách kinh tế vĩ mô?",
     "options": [
       {
@@ -757,6 +1010,29 @@
       }
     ],
     "correctAnswerText": "Chính sách tài khóa, chính sách tiền tệ, chính sách kinh tế đối ngoại."
+  },
+  {
+    "questionNumber": "12",
+    "questionText": "Chứng từ kế toán sử dụng trực tiếp để ghi sổ kế toán và lập báo cáo tài chính phải được lưu trữ ít nhất theo thời hạn nào sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 năm"
+      },
+      {
+        "label": "B",
+        "text": "15 năm"
+      },
+      {
+        "label": "C",
+        "text": "5 năm"
+      },
+      {
+        "label": "D",
+        "text": "Lưu trữ vĩnh viễn"
+      }
+    ],
+    "correctAnswerText": "10 năm"
   },
   {
     "questionNumber": "12",
@@ -826,6 +1102,29 @@
       }
     ],
     "correctAnswerText": "Sản lượng cân bằng của nền kinh tế tăng."
+  },
+  {
+    "questionNumber": "13",
+    "questionText": "Chứng từ kế toán phản ánh sự vận động của Tiền gửi ngân hàng là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giấy báo nợ, Giấy báo có"
+      },
+      {
+        "label": "B",
+        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+      },
+      {
+        "label": "C",
+        "text": "Phiếu nhập kho, Phiếu xuất kho"
+      },
+      {
+        "label": "D",
+        "text": "Phiếu thu, Phiếu chi"
+      }
+    ],
+    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
   },
   {
     "questionNumber": "13",
@@ -966,6 +1265,29 @@
     "correctAnswerText": "Phần còn lại của giá trị sản lượng sau khi trừ đi chi phí về các sản phẩm trung gian để sản xuất ra mức sản lượng đó."
   },
   {
+    "questionNumber": "14",
+    "questionText": "Yếu tố nào sau đây dẫn tới chứng từ kế toán không đảm bảo về hình thức khi kiểm tra:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ghi thêm Thuế suất thuế GTGT"
+      },
+      {
+        "label": "B",
+        "text": "Bổ sung thêm Thời hạn bảo hành sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Không ghi ngày tháng"
+      },
+      {
+        "label": "D",
+        "text": "Bổ sung thêm Mã số thuế của doanh nghiệp"
+      }
+    ],
+    "correctAnswerText": "Không ghi ngày tháng"
+  },
+  {
     "questionNumber": "15",
     "questionText": "Giả sử có số liệu của một nền kinh tế đóng như sau: C = 0,8YD; T = 0,1Y. Giả sử sản lượng cân bằng của nền kinh tế là Y0 = 2.500, khi đó chi tiêu cho tiêu dùng bằng:",
     "options": [
@@ -1010,6 +1332,29 @@
       }
     ],
     "correctAnswerText": "Nền kinh tế tăng trưởng nóng và lạm phát tăng"
+  },
+  {
+    "questionNumber": "15",
+    "questionText": "Khi viết sai chứng từ bằng giấy, kế toán phải:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sửa lại số liệu ghi sai bằng mực thường"
+      },
+      {
+        "label": "B",
+        "text": "Xé bỏ chứng từ viết sai, lập lại chứng từ mới"
+      },
+      {
+        "label": "C",
+        "text": "Xóa số liệu đã ghi sai và ghi lại số liệu đúng bằng mực đỏ"
+      },
+      {
+        "label": "D",
+        "text": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
+      }
+    ],
+    "correctAnswerText": "Hủy bỏ chứng từ bằng cách gạch chéo vào chứng từ đã ghi sai, không xé rời chứng từ đã ghi sai khỏi cuống."
   },
   {
     "questionNumber": "15",
@@ -1104,6 +1449,52 @@
     "correctAnswerText": "Tối đa hoá lợi nhuận của các doanh nghiệp."
   },
   {
+    "questionNumber": "16",
+    "questionText": "Theo mức độ phản ánh của chứng từ, chứng từ kế toán gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chứng từ bên trong, Chứng từ bên ngoài"
+      },
+      {
+        "label": "B",
+        "text": "Chứng từ gốc, Chứng từ tổng hợp"
+      },
+      {
+        "label": "C",
+        "text": "Chứng từ thông thường (chứng từ bằng giấy), chứng từ điện tử"
+      },
+      {
+        "label": "D",
+        "text": "Chứng từ điện tử và chứng từ tự lập"
+      }
+    ],
+    "correctAnswerText": "Chứng từ gốc, Chứng từ tổng hợp"
+  },
+  {
+    "questionNumber": "17",
+    "questionText": "Chứng từ kế toán:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có thể được lập lại nếu bị mất hoặc thất lạc."
+      },
+      {
+        "label": "B",
+        "text": "Được lập khi có yêu cầu của các bên có liên quan trong nghiệp vụ kinh tế phát sinh."
+      },
+      {
+        "label": "C",
+        "text": "Được lập khi cần thiết."
+      },
+      {
+        "label": "D",
+        "text": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+      }
+    ],
+    "correctAnswerText": "Chỉ được lập một lần cho mỗi nghiệp vụ kinh tế phát sinh."
+  },
+  {
     "questionNumber": "17",
     "questionText": "Giả sử có số liệu của một nền kinh tế như sau: GNP là 5000, tổng đầu tư là 1.000, đầu tư ròng là 500, thuế gián thu là 400. Mức thu nhập quốc dân (Y) của nền kinh tế này là bao nhiêu? (Đơn vị: tỷ USD)",
     "options": [
@@ -1174,6 +1565,29 @@
   },
   {
     "questionNumber": "18",
+    "questionText": "Mua công cụ dụng cụ về nhập kho, đã trả bằng chuyển khoản (đã có báo Nợ). Các chứng từ sử dụng cho nghiệp vụ trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hóa đơn GTGT, phiếu nhập kho."
+      },
+      {
+        "label": "B",
+        "text": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+      },
+      {
+        "label": "C",
+        "text": "Phiếu nhập kho."
+      },
+      {
+        "label": "D",
+        "text": "Phiếu chi, hóa đơn GTGT."
+      }
+    ],
+    "correctAnswerText": "Giấy báo nợ, hóa đơn GTGT, phiếu nhập kho."
+  },
+  {
+    "questionNumber": "18",
     "questionText": "Trong điều kiện các yếu tố khác không đổi, cải tiến công nghệ trong sản xuất sẽ dẫn đến:",
     "options": [
       {
@@ -1240,6 +1654,29 @@
       }
     ],
     "correctAnswerText": "AE = C + I + G + X - IM"
+  },
+  {
+    "questionNumber": "19",
+    "questionText": "Kiểm tra chứng từ kế toán KHÔNG bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kiểm tra việc tính toán trên chứng từ."
+      },
+      {
+        "label": "B",
+        "text": "Kiểm tra tính hợp pháp, hợp lệ của nghiệp vụ kinh tế ghi trên chứng từ."
+      },
+      {
+        "label": "C",
+        "text": "Kiểm tra tính rõ ràng, trung thực, đầy đủ của các chỉ tiêu các yếu tố ghi chép trên chứng từ."
+      },
+      {
+        "label": "D",
+        "text": "Kiểm tra bút toán định khoản trên chứng từ."
+      }
+    ],
+    "correctAnswerText": "Kiểm tra bút toán định khoản trên chứng từ."
   },
   {
     "questionNumber": "19",
@@ -1380,6 +1817,29 @@
     "correctAnswerText": "GDP có thể lớn hơn, nhỏ hơn hoặc bằng GNP."
   },
   {
+    "questionNumber": "20",
+    "questionText": "Yếu tố nào sau đây là yếu tố bổ sung của chứng từ kế toán:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nội dung tóm tắt của nghiệp vụ kinh tế phát sinh"
+      },
+      {
+        "label": "B",
+        "text": "Ngày tháng năm lập chứng từ"
+      },
+      {
+        "label": "C",
+        "text": "Chữ ký của người lập chứng từ"
+      },
+      {
+        "label": "D",
+        "text": "Thời gian bảo hành sản phẩm"
+      }
+    ],
+    "correctAnswerText": "Thời gian bảo hành sản phẩm"
+  },
+  {
     "questionNumber": "21",
     "questionText": "Chỉ số giá tiêu dùng là một chỉ tiêu phản ánh:",
     "options": [
@@ -1401,6 +1861,29 @@
       }
     ],
     "correctAnswerText": "Giá cả của một rổ (giỏ) hàng hóa tiêu dùng ở kỳ hiện hành so với kỳ gốc."
+  },
+  {
+    "questionNumber": "21",
+    "questionText": "Chứng từ kế toán phản ánh sự vận động của Hàng tồn kho là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phiếu thu, Phiếu chi"
+      },
+      {
+        "label": "B",
+        "text": "Giấy báo nợ, Giấy báo có"
+      },
+      {
+        "label": "C",
+        "text": "Hóa đơn GTGT, Hóa đơn bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Phiếu nhập kho, Phiếu xuất kho"
+      }
+    ],
+    "correctAnswerText": "Phiếu nhập kho, Phiếu xuất kho"
   },
   {
     "questionNumber": "21",
@@ -1518,6 +2001,29 @@
     "correctAnswerText": "Thu ngân sách giảm trong khi nhu cầu chi ngân sách tăng."
   },
   {
+    "questionNumber": "22",
+    "questionText": "Thanh toán tiền hàng cho người bán bằng TGNH (đã có báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giấy báo nợ, hóa đơn GTGT."
+      },
+      {
+        "label": "B",
+        "text": "Giấy báo nợ."
+      },
+      {
+        "label": "C",
+        "text": "Phiếu chi, hóa đơn GTGT."
+      },
+      {
+        "label": "D",
+        "text": "Hóa đơn GTGT, phiếu nhập kho."
+      }
+    ],
+    "correctAnswerText": "Giấy báo nợ."
+  },
+  {
     "questionNumber": "23",
     "questionText": "Giả sử có hàm tổng chi tiêu trong nền kinh tế giản đơn như sau: AE = 600 + 0,75Y. Nếu sản lượng thực tế là Y = 2.000 thì có hiện tượng ngoài dự kiến nào sẽ xảy ra?",
     "options": [
@@ -1562,6 +2068,52 @@
       }
     ],
     "correctAnswerText": "GNP của Việt Nam và GDP của Mỹ."
+  },
+  {
+    "questionNumber": "23",
+    "questionText": "Trả lương cho nhân viên bằng tiền gửi ngân hàng (đã có giấy báo Nợ). Chứng từ cần lập cho nghiệp vụ trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+      },
+      {
+        "label": "B",
+        "text": "Giấy báo có."
+      },
+      {
+        "label": "C",
+        "text": "Phiếu xuất kho."
+      },
+      {
+        "label": "D",
+        "text": "Phiếu chi."
+      }
+    ],
+    "correctAnswerText": "Giấy báo nợ, bảng tính thanh toán tiền lương."
+  },
+  {
+    "questionNumber": "24",
+    "questionText": "Chứng từ kế toán nào sau đây là chứng từ bên ngoài:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bảng thanh toán lương, Phiếu tạm ứng lương"
+      },
+      {
+        "label": "B",
+        "text": "Phiếu thu, Phiếu chi"
+      },
+      {
+        "label": "C",
+        "text": "Phiếu nhập kho, Phiếu xuất kho"
+      },
+      {
+        "label": "D",
+        "text": "Giấy báo nợ, Giấy báo có"
+      }
+    ],
+    "correctAnswerText": "Giấy báo nợ, Giấy báo có"
   },
   {
     "questionNumber": "24",
@@ -1631,6 +2183,29 @@
       }
     ],
     "correctAnswerText": "Dịch chuyển song song lên trên."
+  },
+  {
+    "questionNumber": "25",
+    "questionText": "Theo quy định, chứng từ điện tử:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có thể có hoặc không có chữ ký tùy thuộc từng loại chứng từ."
+      },
+      {
+        "label": "B",
+        "text": "Phải có chữ ký người lập"
+      },
+      {
+        "label": "C",
+        "text": "Không cần chữ ký các bên liên quan"
+      },
+      {
+        "label": "D",
+        "text": "Phải có chữ ký điện tử"
+      }
+    ],
+    "correctAnswerText": "Phải có chữ ký điện tử"
   },
   {
     "questionNumber": "25",
